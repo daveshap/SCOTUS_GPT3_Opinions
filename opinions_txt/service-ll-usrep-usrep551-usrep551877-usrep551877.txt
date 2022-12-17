@@ -1,0 +1,2236 @@
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+OCTOBER TERM, 2006  877 
+Syllabus 
+LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC., dba KAY’S KLOSET . . . KAY’S S  HOES  
+certiorari to the united states court of appeals for 
+the fifth circuit 
+No. 06–480.  Argued March 26, 2007—Decided June 28, 2007 
+Given its policy of refusing to sell to retailers that discount its goods below 
+suggested prices, petitioner (Leegin) stopped selling to respondent’s 
+(PSKS) store.  PSKS ﬁled suit, alleging, inter alia, that Leegin vio­
+lated the antitrust laws by entering into vertical agreements with its 
+retailers to set minimum resale prices.  The District Court excluded 
+expert testimony about Leegin’s pricing policy’s procompetitive effects 
+on the ground that Dr. Miles Medical Co. v. John D. Park & Sons Co., 
+220 U. S. 373, makes it per se illegal under § 1 of the Sherman Act for a 
+manufacturer and its distributor to agree on the minimum price the 
+distributor can charge for the manufacturer’s goods.  At trial, PSKS 
+alleged that Leegin and its retailers had agreed to ﬁx prices, but Leegin 
+argued that its pricing policy was lawful under § 1.  The jury found for 
+PSKS.  On appeal, the Fifth Circuit declined to apply the rule of reason 
+to Leegin’s vertical price-ﬁxing agreements and afﬁrmed, ﬁnding that 
+Dr. Miles’ per se rule rendered irrelevant any procompetitive justiﬁca­
+tions for Leegin’s policy. 
+Held: Dr. Miles is overruled, and vertical price restraints are to be judged 
+by the rule of reason.  Pp. 885–908. 
+(a) The accepted standard for testing whether a practice restrains 
+trade in violation of § 1 is the rule of reason, which requires the fact­
+ﬁnder to weigh “all of the circumstances,” Continental T. V., Inc. v. GTE 
+Sylvania Inc., 433 U. S. 36, 49, including “speciﬁc information about the 
+relevant business” and “the restraint’s history, nature, and effect,” State 
+Oil Co. v. Khan, 522 U. S. 3, 10.  The rule distinguishes between re­
+straints with anticompetitive effect that are harmful to the consumer 
+and those with procompetitive effect that are in the consumer’s best 
+interest.  However, when a restraint is deemed “unlawful per se,” ibid., 
+the need to study an individual restraint’s reasonableness in light of 
+real market forces is eliminated, Business Electronics Corp. v. Sharp 
+Electronics Corp., 485 U. S. 717, 723.  Resort to per se rules is conﬁned 
+to restraints “that would always or almost always tend to restrict com­
+petition and decrease output.”  Ibid.  Thus, a per se rule is appropriate 
+only after courts have had considerable experience with the type of 
+restraint at issue, see Broadcast Music, Inc. v. Columbia Broadcasting 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+878  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Syllabus 
+System, Inc., 441 U. S. 1, 9, and only if they can predict with conﬁdence 
+that the restraint would be invalidated in all or almost all instances 
+under the rule of reason, see Arizona v. Maricopa County Medical Soc., 
+457 U. S. 332, 344.  Pp. 885–887. 
+(b) Because the reasons upon which Dr. Miles relied do not justify a 
+per se rule, it is necessary to examine, in the ﬁrst instance, the economic 
+effects of vertical agreements to ﬁx minimum resale prices and to deter­
+mine whether the per se rule is nonetheless appropriate.  Were this 
+Court considering the issue as an original matter, the rule of reason, 
+not a per se rule of unlawfulness, would be the appropriate standard to 
+judge vertical price restraints.  Pp. 887–899. 
+(1) Economics literature is replete with procompetitive justiﬁca­
+tions for a manufacturer’s use of resale price maintenance, and the few 
+recent studies on the subject also cast doubt on the conclusion that the 
+practice meets the criteria for a per se rule.  The justiﬁcations for verti­
+cal price restraints are similar to those for other vertical restraints. 
+Minimum resale price maintenance can stimulate interbrand competi­
+tion among manufacturers selling different brands of the same type of 
+product by reducing intrabrand competition among retailers selling the 
+same brand.  This is important because the antitrust laws’ “primary 
+purpose . . . is to protect interbrand competition,” Khan, supra, at 15. 
+A single manufacturer’s use of vertical price restraints tends to elimi­
+nate intrabrand price competition; this in turn encourages retailers to 
+invest in services or promotional efforts that aid the manufacturer’s 
+position as against rival manufacturers.  Resale price maintenance may 
+also  give  consumers  more  options  to  choose  among  low-price,  low­
+service brands; high-price, high-service brands; and brands falling in 
+between.  Absent vertical price restraints, retail services that enhance 
+interbrand competition might be underprovided because discounting re­
+tailers can free ride on retailers who furnish services and then capture 
+some of the demand those services generate.  Retail price maintenance 
+can also increase interbrand competition by facilitating market entry 
+for new ﬁrms and brands and by encouraging retailer services that 
+would not be provided even absent free riding.  Pp. 889–892. 
+(2) Setting minimum resale prices may also have anticompetitive 
+effects; and unlawful price ﬁxing, designed solely to obtain monopoly 
+proﬁts, is an ever-present temptation.  Resale price maintenance may, 
+for example, facilitate a manufacturer cartel or be used to organize retail 
+cartels.  It can also be abused by a powerful manufacturer or retailer. 
+Thus, the potential anticompetitive consequences of vertical price re­
+straints must not be ignored or underestimated.  Pp. 892–894. 
+(3) Notwithstanding the risks of unlawful conduct, it cannot be 
+stated with any degree of conﬁdence that retail price maintenance “al­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  879 
+Syllabus 
+ways or almost always tend[s] to restrict competition and decrease out­
+put,” Business Electronics, supra, at 723.  Vertical retail price agree­
+ments have either procompetitive or anticompetitive effects, depending 
+on the circumstances in which they were formed; and the limited empiri­
+cal evidence available does not suggest efﬁcient uses of the agreements 
+are infrequent or hypothetical.  A per se rule should not be adopted for 
+administrative convenience alone.  Such rules can be counterproduc­
+tive, increasing the antitrust system’s total cost by prohibiting procom­
+petitive conduct the antitrust laws should encourage.  And a per se rule 
+cannot be justiﬁed by the possibility of higher prices absent a further 
+showing of anticompetitive conduct.  The antitrust laws primarily are 
+designed to protect interbrand competition from which lower prices can 
+later result.  Respondent’s argument overlooks that, in general, the in­
+terests of manufacturers and consumers are aligned with respect to re­
+tailer proﬁt margins.  Resale price maintenance has economic dangers. 
+If the rule of reason were to apply, courts would have to be diligent in 
+eliminating their anticompetitive uses from the market.  Factors rele­
+vant to the inquiry are the number of manufacturers using the practice, 
+the restraint’s source, and a manufacturer’s market power.  The rule 
+of reason is designed and used to ascertain whether transactions are 
+anticompetitive or procompetitive.  This standard principle applies to 
+vertical price restraints.  As courts gain experience with these re­
+straints by applying the rule of reason over the course of decisions, 
+they can establish the litigation structure to ensure the rule operates to 
+eliminate anticompetitive restraints from the market and to provide 
+more guidance to businesses.  Pp. 894–899. 
+(c) Stare decisis does not compel continued adherence to the per se 
+rule here.  Because the Sherman Act is treated as a common-law stat­
+ute, its prohibition on “restraint[s] of trade” evolves to meet the dynam­
+ics of present economic conditions.  The rule of reason’s case-by-case 
+adjudication implements this common-law approach.  Here, respected 
+economics authorities suggest that the per se rule is inappropriate. 
+And both the Department of Justice and the Federal Trade Commission 
+recommend replacing the per se rule with the rule of reason.  In addi­
+tion, this Court has “overruled [its] precedents when subsequent cases 
+have undermined their doctrinal underpinnings.”  Dickerson v. United 
+States, 530 U. S. 428, 443.  It is not surprising that the Court has dis­
+tanced itself from Dr. Miles’ rationales, for the case was decided not 
+long after the Sherman Act was enacted, when the Court had little expe­
+rience with antitrust analysis.  Only eight years after Dr. Miles, the 
+Court reined in the decision, holding that a manufacturer can suggest 
+resale prices and refuse to deal with distributors who do not follow 
+them, United States v. Colgate & Co., 250 U. S. 300, 307–308; and more 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+880  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Syllabus 
+recently the Court has tempered, limited, or overruled once strict verti­
+cal restraint prohibitions, see, e. g., GTE Sylvania, 433 U. S., at 57–59. 
+The Dr. Miles rule is also inconsistent with a principled framework, for 
+it makes little economic sense when analyzed with the Court’s other 
+vertical restraint cases.  Deciding that procompetitive effects of resale 
+price maintenance are insufﬁcient to overrule Dr. Miles would call into 
+question cases such as Colgate and GTE Sylvania.  Respondent’s argu­
+ments for reafﬁrming Dr. Miles based on stare decisis do not require a 
+different result.  Pp. 899–907. 
+171 Fed. Appx. 464, reversed and remanded. 
+Kennedy, J., delivered the opinion of the Court, in which Roberts, 
+C. J., and Scalia, Thomas, and Alito, JJ., joined.  Breyer, J., ﬁled a 
+dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined, 
+post, p. 908. 
+Theodore B. Olson argued the cause for petitioner.  With 
+him on the briefs were Michael L. Denger, Joshua Lipton, 
+Amir C. Tayrani, Tyler A. Baker, Jeffrey S. Levinger, and 
+Gary Freedman. 
+Deputy Solicitor General Hungar argued the cause for 
+the United States as amicus curiae urging reversal.  With 
+him on the brief were Solicitor General Clement, Assistant 
+Attorney General Barnett, Deputy Assistant Attorney Gen­
+eral Masoudi, Lisa S. Blatt, Catherine G. O’Sullivan, and 
+David Seidman. 
+Robert W. Coykendall argued the cause for respondent. 
+With him on the brief were Ken M. Peterson, Tim J. Moore, 
+Nelson J. Roach, D. Neil Smith, and Stephen R. McAllister. 
+Barbara D. Underwood, Solicitor General of New York, 
+argued the cause for the State of New York et al. as amici 
+curiae urging afﬁrmance.  With her on the brief were An­
+drew M. Cuomo, Attorney General of New York, Benjamin 
+N.  Gutman,  Acting  Deputy  Solicitor  General,  Daniel  J. 
+Chepaitis, Assistant Solicitor General, and Jay L. Himes and 
+Robert L. Hubbard, Assistant Attorneys General, and the 
+Attorneys  General  for  their  respective  States  as  follows: 
+Talis J. Colberg of Alaska, Dustin McDaniel of Arkansas, 
+Richard Blumenthal of Connecticut, Joseph R. Biden III of 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  881 
+Opinion of the Court 
+Delaware,  Bill  McCollum  of  Florida,  Mark  J.  Bennett  of 
+Hawaii, Lawrence G. Wasden of Idaho, Lisa Madigan of Illi­
+nois, Thomas Miller of Iowa, Paul Morrison of Kansas, Greg 
+Stumbo of Kentucky, Charles C. Foti, Jr., of Louisiana, G. 
+Steven  Rowe  of  Maine,  Douglas  F.  Gansler  of  Maryland, 
+Martha Coakley of Massachusetts, Mike Cox of Michigan, 
+Lori Swanson of Minnesota, Jim Hood of Mississippi, Jere­
+miah W. (Jay) Nixon of Missouri, Mike McGrath of Mon­
+tana, Catherine Cortez Masto of Nevada, Kelly A. Ayotte of 
+New Hampshire, Stuart Rabner of New Jersey, Gary King 
+of New Mexico, Roy Cooper of North Carolina, Marc Dann 
+of Ohio, W. A. Drew Edmondson of Oklahoma, Hardy Myers 
+of Oregon, Thomas W. Corbett, Jr., of Pennsylvania, Henry 
+McMaster of South Carolina, Larry Long of South Dakota, 
+Mark L. Shurtleff of Utah, William H. Sorrell of Vermont, 
+Robert M. McKenna of Washington, Darrell V. McGraw, Jr., 
+of West Virginia, and Patrick J. Crank of Wyoming.* 
+Justice Kennedy delivered the opinion of the Court.
+ 
+In Dr. Miles Medical Co. v. John D. Park & Sons Co., 220
+ 
+U. S. 373 (1911), the Court established the rule that it is per 
+se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, for a 
+manufacturer to agree with its distributor to set the mini­
+mum price the distributor can charge for the manufactur­
+er’s goods.  The question presented by the instant case is 
+*Briefs of amici curiae urging reversal were ﬁled for the American 
+Petroleum Institute by Robert A. Long, Harry M. Ng, and Douglas W. 
+Morris; for CTIA—The Wireless Association by Roy T. Englert, Jr., Don­
+ald J. Russell, and Michael Field Altshul; for Economists by Joseph Ang­
+land and Stephen V. Bomse; and for PING, Inc., by Thomas C. Walsh, 
+Lawrence G. Scarborough, Aaron S. Bayer, and Robert M. Langer. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the American 
+Antitrust Institute by Albert Foer; for the Anderson Economic Group, 
+LLC, by Theodore R. Bolema; for the Burlington Coat Factory Warehouse 
+Corp. by Jonathan W. Cuneo, Matthew Wiener, and Robert J. Cynkar; and 
+for the Consumer Federation of America by Peter A. Barile III. 
+Eugene Crew ﬁled a brief for William S. Comanor et al. as amici curiae. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+882  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+whether the Court should overrule the per se rule and allow 
+resale price maintenance agreements to be judged by the 
+rule of reason, the usual standard applied to determine if 
+there is a violation of § 1.  The Court has abandoned the rule 
+of per se illegality for other vertical restraints a manufac­
+turer imposes on its distributors.  Respected economic ana­
+lysts, furthermore, conclude that vertical price restraints can 
+have procompetitive effects.  We now hold that Dr. Miles 
+should be overruled and that vertical price restraints are to 
+be judged by the rule of reason. 
+I 
+Petitioner, Leegin Creative Leather Products, Inc. (Lee­
+gin), designs, manufactures, and distributes leather goods 
+and accessories.  In 1991, Leegin began to sell belts under 
+the brand name “Brighton.”  The Brighton brand has now 
+expanded into a variety of women’s fashion accessories.  It 
+is sold across the United States in over 5,000 retail establish­
+ments, for the most part independent, small boutiques and 
+specialty stores.  Leegin’s president, Jerry Kohl, also has an 
+interest in about 70 stores that sell Brighton products.  Lee­
+gin asserts that, at least for its products, small retailers treat 
+customers  better,  provide  customers  more  services,  and 
+make their shopping experience more satisfactory than do 
+larger,  often  impersonal  retailers.  Kohl  explained:  “[W]e 
+want the consumers to get a different experience than they 
+get in Sam’s Club or in Wal-Mart.  And you can’t get that 
+kind of experience or support or customer service from a 
+store like Wal-Mart.”  5 Record 127. 
+Respondent, PSKS, Inc. (PSKS), operates Kay’s Kloset, a 
+women’s apparel store in Lewisville, Texas.  Kay’s Kloset 
+buys from about 75 different manufacturers and at one time 
+sold the Brighton brand.  It ﬁrst started purchasing Brigh­
+ton goods from Leegin in 1995.  Once it began selling the 
+brand, the store promoted Brighton.  For example, it ran 
+Brighton advertisements and had Brighton days in the store. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  883 
+Opinion of the Court 
+Kay’s Kloset became the destination retailer in the area to 
+buy Brighton products.  Brighton was the store’s most im­
+portant brand and once accounted for 40 to 50 percent of 
+its proﬁts. 
+In 1997, Leegin instituted the “Brighton Retail Pricing 
+and Promotion Policy.”  4 id., at 939.  Following the policy, 
+Leegin refused to sell to retailers that discounted Brighton 
+goods below suggested prices.  The policy contained an ex­
+ception for products not selling well that the retailer did not 
+plan on reordering.  In the letter to retailers establishing 
+the policy, Leegin stated: 
+“In this age of mega stores like Macy’s, Bloomingdales, 
+May Co. and others, consumers are perplexed by prom­
+ises of product quality and support of product which we 
+believe is lacking in these large stores.  Consumers are 
+further confused by the ever popular sale, sale, sale, etc. 
+“We, at Leegin, choose to break away from the pack 
+by selling [at] specialty stores; specialty stores that can 
+offer  the  customer  great quality  merchandise,  superb 
+service, and support the Brighton product 365 days a 
+year on a consistent basis. 
+“We realize that half the equation is Leegin producing 
+great Brighton product and the other half is you, our 
+retailer, creating great looking stores selling our prod­
+ucts in a quality manner.”  Ibid. 
+Leegin adopted the policy to give its retailers sufﬁcient mar­
+gins to provide customers the service central to its distribu­
+tion strategy.  It also expressed concern that discounting 
+harmed Brighton’s brand image and reputation. 
+A year after instituting the pricing policy Leegin intro­
+duced a marketing strategy known as the “Heart Store Pro­
+gram.”  See id., at 962–972.  It offered retailers incentives 
+to become Heart Stores, and, in exchange, retailers pledged, 
+among  other  things,  to  sell  at  Leegin’s  suggested  prices. 
+Kay’s Kloset became a Heart Store soon after Leegin created 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+884  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+the program.  After a Leegin employee visited the store 
+and found it unattractive, the parties appear to have agreed 
+that Kay’s Kloset would not be a Heart Store beyond 1998. 
+Despite losing this status, Kay’s Kloset continued to increase 
+its Brighton sales. 
+In December 2002, Leegin discovered Kay’s Kloset had 
+been  marking  down  Brighton’s  entire  line  by  20  percent. 
+Kay’s Kloset contended it placed Brighton products on sale 
+to compete with nearby retailers who also were undercutting 
+Leegin’s suggested prices.  Leegin, nonetheless, requested 
+that Kay’s Kloset cease discounting.  Its request refused, 
+Leegin stopped selling to the store.  The loss of the Brigh­
+ton brand had a considerable negative impact on the store’s 
+revenue from sales. 
+PSKS sued Leegin in the United States District Court for 
+the  Eastern  District  of  Texas.  It  alleged,  among  other 
+claims, that Leegin had violated the antitrust laws by “enter­
+[ing]  into  agreements  with  retailers  to  charge  only  those 
+prices ﬁxed by Leegin.”  Id., at 1236.  Leegin planned to 
+introduce expert testimony describing the procompetitive ef­
+fects of its pricing policy.  The District Court excluded the 
+testimony,  relying  on  the  per  se  rule  established  by  Dr. 
+Miles.  At trial PSKS argued that the Heart Store program, 
+among other things, demonstrated Leegin and its retailers 
+had agreed to ﬁx prices.  Leegin responded that it had es­
+tablished a unilateral pricing policy lawful under § 1, which 
+applies only to concerted action.  See United States v. Col­
+gate & Co., 250 U. S. 300, 307 (1919).  The jury agreed with 
+PSKS and awarded it $1.2 million.  Pursuant to 15 U. S. C. 
+§ 15(a), the District Court trebled the damages and reim­
+bursed PSKS for its attorney’s fees and costs.  It entered 
+judgment against Leegin in the amount of $3,975,000.80. 
+The Court of Appeals for the Fifth Circuit afﬁrmed.  171 
+Fed. Appx. 464 (2006) (per curiam).  On appeal Leegin did 
+not  dispute  that  it  had  entered  into  vertical  price-ﬁxing 
+agreements with its retailers.  Rather, it contended that the 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  885 
+Opinion of the Court 
+rule  of  reason  should  have  applied  to  those  agreements. 
+The Court of Appeals rejected this argument.  Id., at 466– 
+467.  It was correct to explain that it remained bound by 
+Dr. Miles “[b]ecause [the Supreme] Court has consistently 
+applied the  per se  rule to [vertical  minimum price-ﬁxing] 
+agreements.”  171 Fed. Appx., at 466.  On this premise the 
+Court of Appeals held that the District Court did not abuse 
+its  discretion  in  excluding  the  testimony  of  Leegin’s  eco­
+nomic expert, for the per se rule rendered irrelevant any 
+procompetitive justiﬁcations for Leegin’s pricing policy.  Id., 
+at 467.  We granted certiorari to determine whether verti­
+cal minimum resale price maintenance agreements should 
+continue to be treated as per se unlawful.  549 U. S. 1092 
+(2006). 
+II 
+Section 1 of the Sherman Act prohibits “[e]very contract, 
+combination in the form of trust or otherwise, or conspiracy, 
+in restraint of trade or commerce among the several States.” 
+Ch. 647, 26 Stat. 209, as amended, 15 U. S. C. § 1.  While § 1 
+could  be  interpreted  to  proscribe  all  contracts,  see,  e. g., 
+Board of Trade of Chicago v. United States, 246 U. S. 231, 
+238 (1918), the Court has never “taken a literal approach to 
+[its] language,” Texaco Inc. v. Dagher, 547 U. S. 1, 5 (2006). 
+Rather, the Court has repeated time and again that § 1 “out­
+law[s] only unreasonable restraints.”  State Oil Co. v. Khan, 
+522 U. S. 3, 10 (1997). 
+The rule of reason is the accepted standard for testing 
+whether a practice restrains trade in violation of § 1.  See 
+Texaco, supra, at 5.  “Under this rule, the factﬁnder weighs 
+all of the circumstances of a case in deciding whether a re­
+strictive practice should be prohibited as imposing an unrea­
+sonable restraint on competition.”  Continental T. V., Inc. 
+v. GTE Sylvania Inc., 433 U. S. 36, 49 (1977).  Appropriate 
+factors  to  take  into  account  include  “speciﬁc  information 
+about the relevant business” and “the restraint’s history, na­
+ture, and effect.”  Khan, supra, at 10.  Whether the busi­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+886  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+nesses involved have market power is a further, signiﬁcant 
+consideration.  See, e. g., Copperweld Corp. v. Independence 
+Tube Corp., 467 U. S. 752, 768 (1984) (equating the rule of 
+reason with “an inquiry into market power and market struc­
+ture designed to assess [a restraint’s] actual effect”); see also 
+Illinois Tool Works Inc. v. Independent Ink, Inc., 547 U. S. 
+28, 45–46 (2006).  In its design and function the rule distin­
+guishes between restraints with anticompetitive effect that 
+are harmful to the consumer and restraints stimulating com­
+petition that are in the consumer’s best interest. 
+The rule of reason does not govern all restraints.  Some 
+types “are deemed unlawful per se.”  Khan, supra, at 10. 
+The per se rule, treating categories of restraints as necessar­
+ily illegal, eliminates the need to study the reasonableness 
+of an individual restraint in light of the real market forces 
+at work, Business Electronics Corp. v.  Sharp Electronics 
+Corp.,  485 U. S. 717, 723 (1988); and, it must be acknowl­
+edged, the per se rule can give clear guidance for certain 
+conduct.  Restraints that are per se unlawful include hori­
+zontal agreements among competitors to ﬁx prices, see Tex­
+aco, supra, at 5, or to divide markets, see Palmer v. BRG of 
+Ga., Inc., 498 U. S. 46, 49–50 (1990) (per curiam). 
+Resort to per se rules is conﬁned to restraints, like those 
+mentioned, “that would always or almost always tend to re­
+strict  competition  and  decrease  output.”  Business  Elec­
+tronics, supra, at 723 (internal quotation marks omitted). 
+To justify a per se prohibition a restraint must have “mani­
+festly anticompetitive” effects, GTE Sylvania, supra, at 50, 
+and “ lack . . . any  redeeming virtue,” Northwest Wholesale 
+Stationers, Inc. v.  Paciﬁc Stationery & Printing Co., 472 
+U. S. 284, 289 (1985) (internal quotation marks omitted). 
+As a consequence, the per se rule is appropriate only after 
+courts have had considerable experience with the type of 
+restraint at issue, see Broadcast Music, Inc. v.  Columbia 
+Broadcasting System, Inc., 441 U. S. 1, 9 (1979), and only if 
+courts can predict with conﬁdence that it would be invali­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  887 
+Opinion of the Court 
+dated in all or almost all instances under the rule of reason, 
+see Arizona v. Maricopa County Medical Soc., 457 U. S. 332, 
+344 (1982).  It should come as no surprise, then, that “we 
+have expressed reluctance to adopt per se rules with regard 
+to restraints imposed in the context of business relationships 
+where the economic impact of certain practices is not imme­
+diately  obvious.”  Khan,  supra,  at  10  (internal  quotation 
+marks omitted); see also White Motor Co. v. United States, 
+372 U. S. 253, 263 (1963) (refusing to adopt a per se rule for 
+a vertical nonprice restraint because of the uncertainty con­
+cerning whether this type of restraint satisﬁed the demand­
+ing standards necessary to apply a per se rule).  And, as we 
+have stated, a “departure from the rule-of-reason standard 
+must  be  based  upon  demonstrable  economic  effect  rather 
+than . . . u  pon formalistic line drawing.”  GTE Sylvania, 
+supra, at 58–59. 
+III 
+The Court has interpreted Dr. Miles Medical Co. v. John 
+D. Park & Sons Co., 220 U. S. 373, as establishing a per se 
+rule against a vertical agreement between a manufacturer 
+and its distributor to set minimum resale prices.  See, e. g., 
+Monsanto Co. v. Spray-Rite Service Corp., 465 U. S. 752, 761 
+(1984).  In Dr. Miles the plaintiff, a manufacturer of medi­
+cines, sold its products only to distributors who agreed to 
+resell them at set prices.  The Court found the manufactur­
+er’s control of resale prices to be unlawful.  It relied on the 
+common-law rule that “a general restraint upon alienation is 
+ordinarily invalid.”  220 U. S., at 404–405.  The Court then 
+explained that the agreements would advantage the distribu­
+tors, not the manufacturer, and were analogous to a combina­
+tion among competing distributors, which the law treated as 
+void.  Id., at 407–408. 
+The reasoning of the Court’s more recent jurisprudence 
+has rejected the rationales on which Dr. Miles was based. 
+By  relying on  the  common-law rule  against restraints  on 
+alienation, id., at 404–405, the Court justiﬁed its decision 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+888  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+based on “formalistic” legal doctrine rather than “demon­
+strable economic effect,” GTE Sylvania, 433 U. S., at 58–59. 
+The Court in Dr. Miles relied on a treatise published in 1628, 
+but failed to discuss in detail the business reasons that would 
+motivate a manufacturer situated in 1911 to make use of ver­
+tical price  restraints.  Yet the  Sherman Act’s use  of “re­
+straint of trade” “invokes the common law itself, . . . not  
+merely the static content that the common law had assigned 
+to the term in 1890.”  Business Electronics, supra, at 732. 
+The  general  restraint  on  alienation,  especially  in  the  age 
+when then-Justice Hughes used the term, tended to evoke 
+policy  concerns  extraneous  to  the  question  that  controls 
+here.  Usually associated with land, not chattels, the rule 
+arose  from  restrictions  removing  real  property  from  the 
+stream of commerce for generations.  The Court should be 
+cautious about putting dispositive weight on doctrines from 
+antiquity  but  of  slight  relevance.  We  reafﬁrm  that  “the 
+state of the common law 400 or even 100 years ago is irrele­
+vant to the issue before us: the effect of the antitrust laws 
+upon vertical distributional restraints in the American econ­
+omy today.”  GTE Sylvania, supra, at 53, n. 21 (internal 
+quotation marks omitted). 
+Dr.  Miles,  furthermore,  treated  vertical  agreements  a 
+manufacturer makes with its distributors as analogous to a 
+horizontal combination among competing distributors.  See 
+220 U. S., at 407–408.  In later cases, however, the Court 
+rejected the approach of reliance on rules governing horizon­
+tal restraints when deﬁning rules applicable to vertical ones. 
+See, e. g., Business Electronics, supra, at 734 (disclaiming 
+the “notion of equivalence between the scope of horizontal 
+per se illegality and that of vertical per se illegality”); Mari­
+copa County, supra, at 348, n. 18 (noting that “horizontal 
+restraints  are  generally  less  defensible  than  vertical  re­
+straints”).  Our recent cases formulate antitrust principles 
+in accordance with the appreciated differences in economic 
+effect between vertical and horizontal agreements, differ­
+ences the Dr. Miles Court failed to consider. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  889 
+Opinion of the Court 
+The reasons upon which Dr. Miles relied do not justify a 
+per se rule.  As a consequence, it is necessary to examine, 
+in the ﬁrst instance, the economic effects of vertical agree­
+ments  to  ﬁx  minimum  resale  prices,  and  to  determine 
+whether  the  per  se  rule  is  nonetheless  appropriate.  See 
+Business Electronics, 485 U. S., at 726. 
+A 
+Though each side of the debate can ﬁnd sources to support 
+its position, it sufﬁces to say here that economics literature 
+is replete with procompetitive justiﬁcations for a manufac­
+turer’s use of resale price maintenance.  See, e. g., Brief for 
+Economists as Amici Curiae 16 (“In the theoretical litera­
+ture, it is essentially undisputed that minimum [resale price 
+maintenance] can have procompetitive effects and that under 
+a variety of market conditions it is unlikely to have anticom­
+petitive effects”); Brief for United States as Amicus Curiae 
+9 (“[T]here is a widespread consensus that permitting a man­
+ufacturer to control the price at which its goods are sold may 
+promote interbrand competition and consumer welfare in a 
+variety of ways”); ABA Section of Antitrust Law, Antitrust 
+Law and Economics of Product Distribution 76 (2006) (“[T]he 
+bulk of the economic literature on [resale price maintenance] 
+suggests that [it] is more likely to be used to enhance efﬁ­
+ciency than for anticompetitive purposes”); see also H. Ho­
+venkamp, The Antitrust Enterprise: Principle and Execution 
+184–191 (2005) (hereinafter Hovenkamp); R. Bork, The Anti­
+trust  Paradox  288–291  (1978)  (hereinafter  Bork).  Even 
+those more skeptical of resale price maintenance acknowl­
+edge it can have procompetitive effects.  See, e. g., Brief for 
+William S. Comanor et al. as Amici Curiae 3 (“[G]iven [the] 
+diversity of effects [of resale price maintenance], one could 
+reasonably take the position that a rule of reason rather than 
+a  per  se  approach  is  warranted”);  F.  Scherer  &  D.  Ross, 
+Industrial Market Structure and Economic Performance 558 
+(3d ed. 1990) (hereinafter Scherer & Ross) (“The overall bal­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+890  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+ance between beneﬁts and costs [of resale price maintenance] 
+is probably close”). 
+The few recent studies documenting the competitive ef­
+fects  of  resale  price  maintenance  also  cast  doubt  on  the 
+conclusion that the practice meets the criteria for a per se 
+rule.  See Bureau of Economics Staff Report to the FTC, 
+T. Overstreet, Resale Price Maintenance: Economic Theories 
+and Empirical Evidence 170 (1983) (hereinafter Overstreet) 
+(noting that “[e]fﬁcient uses of [resale price maintenance] are 
+evidently  not  unusual  or  rare”);  see  also  Ippolito,  Resale 
+Price Maintenance: Empirical Evidence From Litigation, 34 
+J. Law & Econ. 263, 292–293 (1991) (hereinafter Ippolito). 
+The justiﬁcations for vertical price restraints are similar 
+to those for other vertical restraints.  See GTE Sylvania, 
+433 U. S., at 54–57.  Minimum resale price maintenance can 
+stimulate  interbrand  competition—the  competition  among 
+manufacturers selling different brands of the same type of 
+product—by reducing intrabrand competition—the competi­
+tion among retailers selling the same brand.  See id., at 51– 
+52.  The promotion of interbrand competition is important 
+because “the primary purpose of the antitrust laws is to pro­
+tect [this type of] competition.”  Khan, 522 U.S., at 15.  A 
+single manufacturer’s use of vertical price restraints tends 
+to eliminate intrabrand price competition; this in turn en­
+courages retailers to invest in tangible or intangible services 
+or promotional efforts that aid the manufacturer’s position 
+as against rival manufacturers.  Resale price maintenance 
+also has the potential to give consumers more options so that 
+they can choose among low-price, low-service brands; high­
+price, high-service brands; and brands that fall in between. 
+Absent vertical price restraints, the retail services that 
+enhance  interbrand  competition  might  be  underprovided. 
+This is because discounting retailers can free ride on retail­
+ers who furnish services and then capture some of the in­
+creased demand those services generate.  GTE Sylvania, 
+supra, at 55.  Consumers might learn, for example, about 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  891 
+Opinion of the Court 
+the beneﬁts of a manufacturer’s product from a retailer that 
+invests in ﬁne showrooms, offers product demonstrations, or 
+hires and trains knowledgeable employees.  R. Posner, Anti­
+trust Law 172–173 (2d ed. 2001) (hereinafter Posner).  Or 
+consumers might decide to buy the product because they see 
+it in a retail establishment that has a reputation for selling 
+high-quality  merchandise.  Marvel  &  McCafferty,  Resale 
+Price  Maintenance  and  Quality  Certiﬁcation,  15  Rand  J. 
+Econ. 346, 347–349 (1984) (hereinafter Marvel & McCafferty). 
+If the consumer can then buy the product from a retailer 
+that  discounts  because  it  has  not  spent  capital  provid­
+ing services or developing a quality reputation, the high­
+service retailer will lose sales to the discounter, forcing it to 
+cut back its services to a level lower than consumers would 
+otherwise prefer.  Minimum resale price maintenance alle­
+viates the problem because it prevents the discounter from 
+undercutting  the  service  provider.  With  price  competi­
+tion decreased, the manufacturer’s retailers compete among 
+themselves over services. 
+Resale price maintenance, in addition, can increase inter­
+brand competition by facilitating market entry for new ﬁrms 
+and brands.  “[N]ew manufacturers and manufacturers en­
+tering new markets can use the restrictions in order to in­
+duce competent and aggressive retailers to make the kind of 
+investment of capital and labor that is often required in the 
+distribution of products unknown to the consumer.”  GTE 
+Sylvania, supra, at 55; see Marvel & McCafferty 349 (noting 
+that reliance on a retailer’s reputation “will decline as the 
+manufacturer’s brand becomes better known, so that [resale 
+price maintenance] may be particularly important as a com­
+petitive device for new entrants”).  New products and new 
+brands are essential to a dynamic economy, and if markets 
+can be penetrated by using resale price maintenance there 
+is a procompetitive effect. 
+Resale  price  maintenance  can  also  increase  interbrand 
+competition by encouraging retailer services that would not 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+892  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+be provided even absent free riding.  It may be difﬁcult and 
+inefﬁcient for a manufacturer to make and enforce a contract 
+with a retailer specifying the different services the retailer 
+must perform.  Offering the retailer a guaranteed margin 
+and threatening termination if it does not live up to expecta­
+tions may be the most efﬁcient way to expand the manufac­
+turer’s market share by inducing the retailer’s performance 
+and allowing it to use its own initiative and experience in 
+providing valuable services.  See Mathewson & Winter, The 
+Law and Economics of Resale Price Maintenance, 13 Rev. 
+Indus. Org. 57, 74–75 (1998) (hereinafter Mathewson & Win­
+ter); Klein & Murphy, Vertical Restraints as Contract En­
+forcement Mechanisms, 31 J. Law & Econ. 265, 295 (1988); 
+see also Deneckere, Marvel, & Peck, Demand Uncertainty, 
+Inventories, and Resale Price Maintenance, 111 Q. J. Econ. 
+885, 911 (1996) (noting that resale price maintenance may be 
+beneﬁcial to motivate retailers to stock adequate inventories 
+of a manufacturer’s goods in the face of uncertain consumer 
+demand). 
+B 
+While vertical agreements setting minimum resale prices 
+can have procompetitive justiﬁcations, they may have anti­
+competitive effects in other cases; and unlawful price ﬁxing, 
+designed solely to obtain monopoly proﬁts, is an ever-present 
+temptation.  Resale price maintenance may, for example, fa­
+cilitate  a  manufacturer  cartel.  See  Business  Electronics, 
+485 U. S., at 725.  An unlawful cartel will seek to discover 
+if  some  manufacturers  are  undercutting  the  cartel’s  ﬁxed 
+prices.  Resale price maintenance could assist the cartel in 
+identifying price-cutting manufacturers who beneﬁt from the 
+lower prices they offer.  Resale price maintenance, further­
+more, could discourage a manufacturer from cutting prices 
+to retailers with the concomitant beneﬁt of cheaper prices 
+to consumers.  See ibid.; see also Posner 172; Overstreet 
+19–23. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  893 
+Opinion of the Court 
+Vertical price restraints also “might be used to organize 
+cartels at the retailer level.”  Business Electronics, supra, 
+at 725–726.  A group of retailers might collude to ﬁx prices 
+to consumers and then compel a manufacturer to aid the un­
+lawful arrangement with resale price maintenance.  In that 
+instance the manufacturer does not establish the practice to 
+stimulate services or to promote its brand but to give inefﬁ­
+cient retailers higher proﬁts.  Retailers with better distri­
+bution  systems  and  lower  cost  structures  would  be  pre­
+vented from charging lower prices by the agreement.  See 
+Posner 172; Overstreet 13–19.  Historical examples suggest 
+this possibility is a legitimate concern.  See, e. g., Marvel & 
+McCafferty,  The  Welfare  Effects  of  Resale  Price  Mainte­
+nance, 28 J. Law & Econ. 363, 373 (1985) (hereinafter Marvel) 
+(providing an example of the power of the National Associa­
+tion of Retail Druggists to compel manufacturers to use re­
+sale price maintenance); Hovenkamp 186 (suggesting that the 
+retail druggists in Dr. Miles formed a cartel and used manu­
+facturers to enforce it). 
+A  horizontal  cartel  among  competing  manufacturers  or 
+competing retailers that decreases output or reduces compe­
+tition in order to increase price is, and ought to be, per se 
+unlawful.  See Texaco, 547 U. S., at 5; GTE Sylvania, 433 
+U. S., at 58, n. 28.  To the extent a vertical agreement set­
+ting  minimum  resale  prices  is  entered  upon  to  facilitate 
+either type of cartel, it, too, would need to be held unlawful 
+under the rule of reason.  This type of agreement may also 
+be useful evidence for a plaintiff attempting to prove the 
+existence of a horizontal cartel. 
+Resale price maintenance, furthermore, can be abused by 
+a powerful manufacturer or retailer.  A dominant retailer, 
+for example, might request resale price maintenance to fore­
+stall innovation in distribution that decreases costs.  A man­
+ufacturer might consider it has little choice but to accommo­
+date the retailer’s demands for vertical price restraints if 
+the manufacturer believes it needs access to the retailer’s 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+894  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+distribution network.  See Overstreet 31; 8 P. Areeda & H. 
+Hovenkamp,  Antitrust  Law  47  (2d  ed.  2004)  (hereinafter 
+Areeda & Hovenkamp); cf. Toys “R” Us, Inc. v.  FTC, 221 
+F. 3d 928, 937–938 (CA7 2000).  A manufacturer with market 
+power, by comparison, might use resale price maintenance to 
+give retailers an incentive not to sell the products of smaller 
+rivals  or  new  entrants.  See,  e. g.,  Marvel  366–368.  As 
+should be evident, the potential anticompetitive conse­
+quences of vertical price restraints must not be ignored or 
+underestimated. 
+C 
+Notwithstanding the risks of unlawful conduct, it cannot 
+be stated with any degree of conﬁdence that resale price 
+maintenance  “always  or  almost  always  tend[s]  to  restrict 
+competition  and  decrease  output.”  Business  Electronics, 
+supra, at 723 (internal quotation marks omitted).  Vertical 
+agreements  establishing  minimum  resale  prices  can  have 
+either procompetitive or anticompetitive effects, depending 
+upon the circumstances in which they are formed.  And al­
+though the empirical evidence on the topic is limited, it does 
+not suggest efﬁcient uses of the agreements are infrequent 
+or hypothetical.  See Overstreet 170; see also id., at 80 (not­
+ing that for the majority of enforcement actions brought by 
+the Federal Trade Commission between 1965 and 1982, “the 
+use of [resale price maintenance] was not likely motivated by 
+collusive dealers who had successfully coerced their suppli­
+ers”); Ippolito 292 (reaching a similar conclusion).  As the 
+rule  would  proscribe  a  signiﬁcant  amount  of  procompeti­
+tive conduct, these agreements appear ill suited for per se 
+condemnation. 
+Respondent contends, nonetheless, that vertical price re­
+straints should be per se unlawful because of the administra­
+tive convenience of per se rules.  See, e. g., GTE Sylvania, 
+supra, at 50, n. 16 (noting “per se rules tend to provide guid­
+ance to the business community and to minimize the burdens 
+on litigants and the judicial system”).  That argument sug­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  895 
+Opinion of the Court 
+gests per se illegality is the rule rather than the exception. 
+This misinterprets our antitrust law.  Per se rules may de­
+crease administrative costs, but that is only part of the equa­
+tion.  Those rules can be counterproductive.  They can in­
+crease the total cost of the antitrust system by prohibiting 
+procompetitive conduct the antitrust laws should encourage. 
+See  Easterbrook,  Vertical  Arrangements  and  the  Rule  of 
+Reason, 53 Antitrust L. J. 135, 158 (1984) (hereinafter East­
+erbrook).  They also may increase litigation costs by pro­
+moting  frivolous  suits  against  legitimate  practices.  The 
+Court has thus explained that administrative “advantages 
+are not sufﬁcient in themselves to justify the creation of per 
+se rules,” GTE Sylvania, 433 U. S., at 50, n. 16, and has rele­
+gated their use to restraints that are “manifestly anticompet­
+itive,” id., at 49–50.  Were the Court now to conclude that 
+vertical price restraints should be per se illegal based on 
+administrative costs, we would undermine, if not overrule, 
+the traditional “demanding standards” for adopting per se 
+rules.  Id., at 50.  Any possible reduction in administrative 
+costs cannot alone justify the Dr. Miles rule. 
+Respondent also argues the per se rule is justiﬁed because 
+a vertical price restraint can lead to higher prices for the 
+manufacturer’s goods.  See also Overstreet 160 (noting that 
+“price  surveys  indicate  that  [resale  price  maintenance]  in 
+most  cases  increased  the  prices  of  products  sold”).  Re­
+spondent is mistaken in relying on pricing effects absent a 
+further showing of anticompetitive conduct.  Cf. id., at 106 
+(explaining that price surveys “do not necessarily tell us any­
+thing conclusive about the welfare effects of [resale price 
+maintenance]  because  the  results  are  generally  consistent 
+with  both  procompetitive  and  anticompetitive  theories”). 
+For, as has been indicated already, the antitrust laws are 
+designed primarily to protect interbrand competition, from 
+which lower prices can later result.  See Khan, 522 U. S., 
+at 15.  The Court, moreover, has evaluated other vertical 
+restraints under the rule of reason even though prices can be 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+896  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+increased in the course of promoting procompetitive effects. 
+See, e. g., Business Electronics, 485 U. S., at 728.  And re­
+sale price maintenance may reduce prices if manufacturers 
+have resorted to costlier alternatives of controlling resale 
+prices that are not per se unlawful.  See infra, at 902–904; 
+see also Marvel 371. 
+Respondent’s  argument,  furthermore,  overlooks  that,  in 
+general, the interests of manufacturers and consumers are 
+aligned with respect to retailer proﬁt margins.  The differ­
+ence between the price a manufacturer charges retailers and 
+the price retailers charge consumers represents part of the 
+manufacturer’s  cost  of  distribution,  which,  like  any  other 
+cost,  the  manufacturer  usually  desires  to  minimize.  See 
+GTE Sylvania, 433 U. S., at 56, n. 24; see also id., at 56 
+(“Economists . . . have argued that manufacturers have an 
+economic interest in maintaining as much intrabrand compe­
+tition as is consistent with the efﬁcient distribution of their 
+products”).  A manufacturer has no incentive to overcom­
+pensate retailers with unjustiﬁed margins.  The retailers, 
+not the manufacturer, gain from higher retail prices.  The 
+manufacturer often loses; interbrand competition reduces its 
+competitiveness and market share because consumers will 
+“substitute a different brand of the same product.”  Id., at 
+52, n. 19; see Business Electronics, supra, at 725.  As a gen­
+eral matter, therefore, a single manufacturer will desire to 
+set minimum resale prices only if the “increase in demand 
+resulting from enhanced service . . . will  more than offset 
+a  negative  impact  on  demand  of  a  higher  retail  price.” 
+Mathewson & Winter 67. 
+The implications of respondent’s position are far reaching. 
+Many  decisions  a  manufacturer  makes  and  carries  out 
+through concerted action can lead to higher prices.  A man­
+ufacturer might, for example, contract with different suppli­
+ers to obtain better inputs that improve product quality.  Or 
+it might hire an advertising agency to promote awareness of 
+its goods.  Yet no one would think these actions violate the 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  897 
+Opinion of the Court 
+Sherman Act because they lead to higher prices.  The anti­
+trust laws do not require manufacturers to produce generic 
+goods that consumers do not know about or want.  The man­
+ufacturer strives to improve its product quality or to pro­
+mote its brand because it believes this conduct will lead to 
+increased demand despite higher prices.  The same can hold 
+true for resale price maintenance. 
+Resale price maintenance, it is true, does have economic 
+dangers.  If  the  rule  of  reason  were  to  apply  to  vertical 
+price restraints, courts would have to be diligent in eliminat­
+ing their anticompetitive uses from the market.  This is a 
+realistic objective, and certain factors are relevant to the 
+inquiry.  For  example,  the  number  of  manufacturers  that 
+make use of the practice in a given industry can provide 
+important  instruction.  When  only  a  few  manufacturers 
+lacking market power adopt the practice, there is little likeli­
+hood it is facilitating a manufacturer cartel, for a cartel then 
+can be undercut by rival manufacturers.  See Overstreet 22; 
+Bork 294.  Likewise, a retailer cartel is unlikely when only 
+a single manufacturer in a competitive market uses resale 
+price  maintenance.  Interbrand  competition  would  divert 
+consumers  to  lower  priced  substitutes  and  eliminate  any 
+gains to retailers from their price-ﬁxing agreement over a 
+single  brand.  See  Posner  172;  Bork  292.  Resale  price 
+maintenance should be subject to more careful scrutiny, by 
+contrast, if many competing manufacturers adopt the prac­
+tice.  Cf. Scherer & Ross 558 (noting that “except when [re­
+sale price maintenance] spreads to cover the bulk of an in­
+dustry’s output, depriving consumers of a meaningful choice 
+between  high-service  and  low-price  outlets,  most  [resale 
+price maintenance arrangements] are probably innocu­
+ous”); Easterbrook 162 (suggesting that “every one of the 
+potentially-anticompetitive outcomes of vertical arrange­
+ments depends on the uniformity of the practice”). 
+The source of the restraint may also be an important con­
+sideration.  If there is evidence retailers were the impetus 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+898  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+for a vertical price restraint, there is a greater likelihood 
+that the restraint facilitates a retailer cartel or supports a 
+dominant, inefﬁcient retailer.  See Brief for William S. Com­
+anor et al. as Amici Curiae 7–8.  If, by contrast, a manufac­
+turer adopted the policy independent of retailer pressure, 
+the restraint is less likely to promote anticompetitive con­
+duct.  Cf. Posner 177 (“It makes all the difference whether 
+minimum retail prices are imposed by the manufacturer in 
+order to evoke point-of-sale services or by the dealers in 
+order to obtain monopoly proﬁts”).  A manufacturer also has 
+an incentive to protest inefﬁcient retailer-induced price re­
+straints because they can harm its competitive position. 
+As a ﬁnal matter, that a dominant manufacturer or retailer 
+can abuse resale price maintenance for anticompetitive pur­
+poses may not be a serious concern unless the relevant entity 
+has market power.  If a retailer lacks market power, manu­
+facturers likely can sell their goods through rival retailers. 
+See also Business Electronics, supra, at 727, n. 2 (noting 
+“[r]etail market power is rare, because of the usual presence 
+of  interbrand  competition  and  other  dealers”).  And  if  a 
+manufacturer lacks market power, there is less likelihood it 
+can use the practice to keep competitors away from distribu­
+tion outlets. 
+The rule of reason is designed and used to eliminate anti­
+competitive transactions from  the market.  This standard 
+principle applies to vertical price restraints.  A party alleg­
+ing injury from a vertical agreement setting minimum resale 
+prices will have, as a general matter, the information and 
+resources available to show the existence of the agreement 
+and its scope of operation.  As courts gain experience con­
+sidering the effects of these restraints by applying the rule 
+of reason over the course of decisions, they can establish the 
+litigation structure to ensure the rule operates to eliminate 
+anticompetitive restraints from the market and to provide 
+more guidance to businesses.  Courts can, for example, de­
+vise rules over time for offering proof, or even presumptions 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  899 
+Opinion of the Court 
+where justiﬁed, to make the rule of reason a fair and efﬁcient 
+way to prohibit anticompetitive restraints and to promote 
+procompetitive ones. 
+For all of the foregoing reasons, we think that were the 
+Court considering the issue as an original matter, the rule 
+of reason, not a per se rule of unlawfulness, would be the 
+appropriate standard to judge vertical price restraints. 
+IV 
+We do not write on a clean slate, for the decision in Dr. 
+Miles is almost a century old.  So there is an argument for 
+its retention on the basis of stare decisis alone.  Even if Dr. 
+Miles established an erroneous rule, “[s]tare decisis reﬂects 
+a policy judgment that in most matters it is more important 
+that the applicable rule of law be settled than that it be set­
+tled right.”  Khan, 522 U. S., at 20 (internal quotation marks 
+omitted).  And concerns about maintaining settled law are 
+strong when the question is one of statutory interpretation. 
+See, e. g., Hohn v. United States, 524 U. S. 236, 251 (1998). 
+Stare decisis is not as signiﬁcant in this case, however, 
+because the issue before us is the scope of the Sherman Act. 
+Khan, supra, at 20 (“[T]he general presumption that legisla­
+tive changes should be left to Congress has less force with 
+respect  to  the  Sherman  Act”).  From  the  beginning  the 
+Court has treated the Sherman Act as a common-law statute. 
+See  National  Soc.  of  Professional  Engineers  v.  United 
+States, 435 U. S. 679, 688 (1978); see also Northwest Airlines, 
+Inc. v. Transport Workers, 451 U. S. 77, 98, n. 42 (1981) (“In 
+antitrust, the federal courts . . . act more as common-law 
+courts than  in other  areas governed  by federal  statute”). 
+Just as the common law adapts to modern understanding and 
+greater experience, so too does the Sherman Act’s prohibi­
+tion on “restraint[s] of trade” evolve to meet the dynamics of 
+present economic conditions.  The case-by-case adjudication 
+contemplated by the rule of reason has implemented this 
+common-law approach.  See National Soc. of Professional 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+900  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+Engineers, supra, at 688.  Likewise, the boundaries of the 
+doctrine of per se illegality should not be immovable.  For 
+“[i]t would make no sense to create out of the single term 
+‘restraint  of  trade’  a  chronologically  schizoid  statute,  in 
+which a ‘rule of reason’ evolves with new circumstances and 
+new wisdom, but a line of per se illegality remains forever 
+ﬁxed where it was.”  Business Electronics, 485 U. S., at 732. 
+A 
+Stare decisis, we conclude, does not compel our continued 
+adherence to the per se rule against vertical price restraints. 
+As discussed earlier, respected authorities in the economics 
+literature suggest the per se rule is inappropriate, and there 
+is now widespread agreement that resale price maintenance 
+can have procompetitive effects.  See, e. g., Brief for Econo­
+mists as Amici Curiae 16.  It is also signiﬁcant that both 
+the Department of Justice and the Federal Trade Commis­
+sion—the antitrust enforcement agencies with the ability to 
+assess the long-term impacts of resale price maintenance— 
+have recommended that this Court replace the per se rule 
+with the traditional rule of reason.  See Brief for United 
+States as Amicus Curiae 6.  In the antitrust context the 
+fact that a decision has been “called into serious question” 
+justiﬁes our reevaluation of it.  Khan, supra, at 21. 
+Other  considerations  reinforce  the  conclusion  that  Dr. 
+Miles should be overturned.  Of most relevance, “we have 
+overruled our precedents when subsequent cases have un­
+dermined  their  doctrinal  underpinnings.”  Dickerson  v. 
+United States, 530 U. S. 428, 443 (2000).  The Court’s treat­
+ment of vertical restraints has progressed away from Dr. 
+Miles’ strict approach.  We have distanced ourselves from 
+the  opinion’s  rationales.  See  supra,  at  887–889;  see  also 
+Khan, supra, at 21 (overruling a case when “the views un­
+derlying [it had been] eroded by this Court’s precedent”); 
+Rodriguez de Quijas v.  Shearson/American Express, Inc., 
+490 U. S. 477, 480–481 (1989) (same).  This is unsurprising, 
+for the case was decided not long after enactment of the 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  901 
+Opinion of the Court 
+Sherman Act when the Court had little experience with anti­
+trust analysis.  Only eight years after Dr. Miles, moreover, 
+the Court reined in the decision by holding that a manufac­
+turer can announce suggested resale prices and refuse to 
+deal with distributors who do not follow them.  Colgate, 250 
+U. S., at 307–308. 
+In more recent cases the Court, following a common-law 
+approach, has continued to temper, limit, or overrule once 
+strict prohibitions on vertical restraints.  In 1977, the Court 
+overturned the per se rule for vertical nonprice restraints, 
+adopting the rule of reason in its stead.  GTE Sylvania, 
+433  U. S.,  at  57–59  (overruling  United  States  v.  Arnold, 
+Schwinn & Co., 388 U. S. 365 (1967)); see also 433 U. S., at 
+58, n. 29 (noting “that the advantages of vertical restrictions 
+should not be limited to the categories of new entrants and 
+failing ﬁrms”).  While the Court in a footnote in GTE Syl­
+vania suggested that differences between vertical price and 
+nonprice restraints could support different legal treatment, 
+see id., at 51, n. 18, the central part of the opinion relied 
+on authorities and arguments that ﬁnd unequal treatment 
+“difﬁcult to justify,” id., at 69–70 (White, J., concurring in 
+judgment). 
+Continuing in this direction, in two cases in the 1980’s the 
+Court deﬁned legal rules to limit the reach of Dr. Miles and 
+to accommodate the doctrines enunciated in GTE Sylvania 
+and  Colgate.  See  Business  Electronics,  supra,  at  726– 
+728;  Monsanto, 465  U. S.,  at  763–764.  In  Monsanto,  the 
+Court required that antitrust plaintiffs alleging a § 1 price­
+ﬁxing conspiracy must present evidence tending to exclude 
+the possibility a manufacturer and its distributors acted in an 
+independent manner.  Id., at 764.  Unlike Justice Brennan’s 
+concurrence,  which  rejected  arguments  that  Dr.  Miles 
+should be overruled, see 465 U. S., at 769, the Court “de­
+cline[d] to reach the question” whether vertical agreements 
+ﬁxing resale prices always should be unlawful because nei­
+ther party suggested otherwise, id., at 761–762, n. 7.  In 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+902  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+Business Electronics the Court further narrowed the scope 
+of Dr. Miles.  It held that the per se rule applied only to 
+speciﬁc agreements over price levels and not to an agree­
+ment between a manufacturer and a distributor to terminate 
+a price-cutting distributor.  485 U. S., at 726–727, 735–736. 
+Most recently, in 1997, after examining the issue of vertical 
+maximum  price-ﬁxing  agreements  in  light  of  commentary 
+and real experience, the Court overruled a 29-year-old prece­
+dent treating those agreements as per se illegal.  Khan, 522 
+U. S., at 22 (overruling Albrecht v. Herald Co., 390 U. S. 145 
+(1968)).  It held instead that they should be evaluated under 
+the traditional rule of reason.  522 U. S., at 22.  Our contin­
+ued limiting of the reach of the decision in Dr. Miles and 
+our recent treatment of other vertical restraints justify the 
+conclusion that Dr. Miles should not be retained. 
+The Dr. Miles rule is also inconsistent with a principled 
+framework, for it makes little economic sense when analyzed 
+with our other cases on vertical restraints.  If we were to 
+decide the procompetitive effects of resale price maintenance 
+were insufﬁcient to overrule Dr. Miles, then cases such as 
+Colgate and GTE Sylvania themselves would be called into 
+question.  These later decisions, while they may result in 
+less intrabrand competition, can be justiﬁed because they 
+permit manufacturers to secure the procompetitive beneﬁts 
+associated with vertical price restraints through other meth­
+ods.  The other methods, however, could be less efﬁcient for 
+a particular manufacturer to establish and sustain.  The end 
+result  hinders  competition  and  consumer  welfare  because 
+manufacturers are forced to engage in second-best alterna­
+tives and because consumers are required to shoulder the 
+increased expense of the inferior practices. 
+The manufacturer has a number of legitimate options to 
+achieve beneﬁts similar to those provided by vertical price 
+restraints.  A manufacturer can exercise its Colgate right to 
+refuse to deal with retailers that do not follow its suggested 
+prices.  See 250 U. S., at 307.  The economic effects of uni­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  903 
+Opinion of the Court 
+lateral and concerted price setting are in general the same. 
+See, e. g., Monsanto, 465 U. S., at 762–764.  The problem for 
+the manufacturer is that a jury might conclude its unilateral 
+policy was really a vertical agreement, subjecting it to treble 
+damages  and  potential  criminal  liability.  Ibid.;  Business 
+Electronics, supra, at 728.  Even with the stringent stand­
+ards in Monsanto and Business Electronics, this danger can 
+lead, and has led, rational manufacturers to take wasteful 
+measures.  See, e. g., Brief for PING, Inc., as Amicus Cu­
+riae 9–18.  A manufacturer might refuse to discuss its pric­
+ing  policy  with  its  distributors  except  through  counsel 
+knowledgeable  of  the  subtle  intricacies  of  the  law.  Or  it 
+might terminate longstanding distributors for minor viola­
+tions without seeking an explanation.  See ibid.  The in­
+creased costs these burdensome measures generate ﬂow to 
+consumers in the form of higher prices. 
+Furthermore, depending on the type of product it sells, a 
+manufacturer might be able to achieve the procompetitive 
+beneﬁts of resale price maintenance by integrating down­
+stream and selling its products directly to consumers.  Dr. 
+Miles tilts the relative costs of vertical integration and verti­
+cal agreement by making the former more attractive based 
+on the per se rule, not on real market conditions.  See Busi­
+ness Electronics, supra, at 725; see generally Coase, The Na­
+ture of the Firm, 4 Economica, New Series 386 (1937).  This 
+distortion might lead to inefﬁcient integration that would not 
+otherwise take place, so that consumers must again suffer 
+the  consequences  of  the  suboptimal  distribution  strategy. 
+And integration, unlike vertical price restraints, eliminates 
+all intrabrand competition.  See, e. g., GTE Sylvania, supra, 
+at 57, n. 26. 
+There is yet another consideration.  A manufacturer can 
+impose territorial restrictions on distributors and allow only 
+one distributor to sell its goods in a given region.  Our cases 
+have recognized, and the economics literature conﬁrms, that 
+these vertical nonprice restraints have impacts similar to 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+904  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+those  of  vertical  price  restraints;  both  reduce  intrabrand 
+competition and can stimulate retailer services.  See, e. g., 
+Business Electronics, supra, at 728; Monsanto, supra, at 
+762–763; see also Brief for Economists as Amici Curiae 17– 
+18.  Cf. Scherer & Ross 560 (noting that vertical nonprice 
+restraints “can engender inefﬁciencies at least as serious as 
+those imposed upon the consumer by resale price mainte­
+nance”); Steiner, How Manufacturers Deal with the Price-
+Cutting Retailer: When Are Vertical Restraints Efﬁcient? 
+65 Antitrust L. J. 407, 446–447 (1997) (indicating that “anti­
+trust  law  should  recognize  that  the  consumer  interest  is 
+often better served by [resale price maintenance]—contrary 
+to its per se illegality and the rule-of-reason status of verti­
+cal nonprice restraints”).  The same legal standard (per se 
+unlawfulness) applies to horizontal market division and hori­
+zontal price ﬁxing because both have similar economic effect. 
+There  is  likewise  little  economic  justiﬁcation  for  the  cur­
+rent  differential  treatment  of  vertical  price  and  nonprice 
+restraints.  Furthermore, vertical nonprice restraints may 
+prove less efﬁcient for inducing desired services, and they 
+reduce intrabrand competition more than vertical price re­
+straints by eliminating both price and service competition. 
+See Brief for Economists as Amici Curiae 17–18. 
+In sum, it is a ﬂawed antitrust doctrine that serves the 
+interests of lawyers—by creating legal distinctions that op­
+erate as traps for the unwary—more than the interests of 
+consumers—by requiring manufacturers to choose second­
+best options to achieve sound business objectives. 
+B 
+Respondent’s arguments for reafﬁrming Dr. Miles on the 
+basis of stare decisis do not require a different result.  Re­
+spondent looks to congressional action concerning vertical 
+price  restraints.  In  1937,  Congress  passed  the  Miller-
+Tydings Fair Trade Act, 50 Stat. 693, which made vertical 
+price  restraints  legal  if  authorized  by  a  fair  trade  law 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  905 
+Opinion of the Court 
+enacted by a State.  Fifteen years later, Congress expanded 
+the exemption to permit vertical price-setting agreements 
+between a manufacturer  and a distributor to  be enforced 
+against  other  distributors  not  involved  in  the  agreement. 
+McGuire Act, 66 Stat. 632.  In 1975, however, Congress re­
+pealed both Acts.  Consumer Goods Pricing Act, 89 Stat. 
+801.  That the Dr. Miles rule applied to vertical price re­
+straints in 1975, according to respondent, shows Congress 
+ratiﬁed the rule. 
+This is not so.  The text of the Consumer Goods Pricing 
+Act did not codify the rule of per se illegality for vertical 
+price  restraints.  It  rescinded  statutory  provisions  that 
+made them per se legal.  Congress once again placed these 
+restraints within the ambit of § 1 of the Sherman Act.  And, 
+as has been discussed, Congress intended § 1 to give courts 
+the ability “to develop governing principles of law” in the 
+common-law  tradition.  Texas  Industries,  Inc.  v.  Radcliff 
+Materials, Inc., 451 U. S. 630, 643 (1981); see Business Elec­
+tronics, 485 U. S., at 731 (“The changing content of the term 
+‘restraint of trade’ was well recognized at the time the Sher­
+man Act was enacted”).  Congress could have set the Dr. 
+Miles rule in stone, but it chose a more ﬂexible option.  We 
+respect its decision by analyzing vertical price restraints, 
+like all restraints, in conformance with traditional § 1 princi­
+ples,  including  the  principle  that  our  antitrust  doctrines 
+“evolv[e] with new circumstances and new wisdom.”  Busi­
+ness Electronics, supra, at 732; see also Easterbrook 139. 
+The rule of reason, furthermore, is not inconsistent with 
+the Consumer Goods Pricing Act.  Unlike the earlier con­
+gressional  exemption,  it  does  not  treat  vertical  price  re­
+straints as per se legal.  In this respect, the justiﬁcations 
+for the prior exemption are illuminating.  Its goal “was to 
+allow the States to protect small retail establishments that 
+Congress thought might otherwise be driven from the mar­
+ketplace by large-volume discounters.”  California Retail 
+Liquor Dealers Assn. v. Midcal Aluminum, Inc., 445 U. S. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+906  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+97, 102 (1980).  The state fair trade laws also appear to have 
+been justiﬁed  on similar grounds.  See Areeda  & Hoven­
+kamp 298.  The rationales for these provisions are foreign to 
+the Sherman Act.  Divorced from competition and consumer 
+welfare, they were designed to save inefﬁcient small retail­
+ers from their inability to compete.  The purpose of the anti­
+trust laws, by contrast, is “the protection of competition, not 
+competitors.”  Atlantic  Richﬁeld  Co.  v.  USA  Petroleum 
+Co., 495 U. S. 328, 338 (1990) (internal quotation marks omit­
+ted).  To the extent Congress repealed the exemption for 
+some vertical price restraints to end its prior practice of en­
+couraging anticompetitive conduct, the rule of reason pro­
+motes the same objective. 
+Respondent also relies on several congressional appropria­
+tions in the mid-1980’s in which Congress did not permit the 
+Department of Justice or the Federal Trade Commission to 
+use funds to advocate overturning Dr. Miles.  See, e. g., 97 
+Stat. 1071.  We need not pause long in addressing this argu­
+ment.  The conditions on funding are no longer in place, see, 
+e. g., Brief for United States as Amicus Curiae 21, and they 
+were ambiguous at best.  As much as they might show con­
+gressional approval for Dr. Miles, they might demonstrate a 
+different proposition: that Congress could not pass legisla­
+tion codifying the rule and reached a short-term compro­
+mise instead. 
+Reliance interests do not require us to reafﬁrm Dr. Miles. 
+To be sure, reliance on a judicial opinion is a signiﬁcant rea­
+son to adhere to it, Payne v.  Tennessee, 501 U. S. 808, 828 
+(1991), especially “in cases involving property and contract 
+rights,” Khan, 522 U. S., at 20.  The reliance interests here, 
+however, like the reliance interests in Khan, cannot justify 
+an inefﬁcient rule, especially because the narrowness of the 
+rule has allowed manufacturers to set minimum resale prices 
+in other ways.  And while the Dr. Miles rule is longstand­
+ing, resale price maintenance was legal under fair trade laws 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  907 
+Opinion of the Court 
+in a majority of States for a large part of the past century 
+up until 1975. 
+It is also of note that during this time “when the legal 
+environment in the [United States] was most favorable for 
+[resale price maintenance], no more than a tiny fraction of 
+manufacturers ever employed [resale price maintenance] con­
+tracts.”  Overstreet 6; see also id., at 169 (noting that “no 
+more than one percent of manufacturers, accounting for no 
+more than ten percent of consumer goods purchases, ever 
+employed [resale price maintenance] in any single year in 
+the [United States]”); Scherer & Ross 549 (noting that “[t]he 
+fraction of U. S. retail sales covered by [resale price mainte­
+nance] in its heyday has been variously estimated at from 4 
+to  10  percent”).  To  the  extent  consumers  demand  cheap 
+goods, judging vertical price restraints under the rule of rea­
+son  will  not  prevent  the  market  from  providing  them. 
+Cf. Easterbrook 152–153 (noting that “S.S. Kresge (the old 
+K-Mart) ﬂourished during the days of manufacturers’ great­
+est freedom” because “discount stores offer a combination 
+of price and service that many customers value” and that 
+“[n]othing in restricted dealing threatens the ability of con­
+sumers to ﬁnd low prices”); Scherer & Ross 557 (noting that 
+“for the most part, the effects of the [Consumer Goods Pric­
+ing Act] were imperceptible because the forces of competi­
+tion had already repealed the [previous antitrust exemption] 
+in their own quiet way”). 
+For these reasons the Court’s decision in Dr. Miles Medi­
+cal Co. v. John D. Park & Sons Co., 220 U. S. 373 (1911), is 
+now overruled.  Vertical price restraints are to be judged 
+according to the rule of reason. 
+V 
+Noting that Leegin’s president has an ownership interest 
+in retail stores that sell Brighton, respondent claims Leegin 
+participated in an unlawful horizontal cartel with competing 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+908  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+retailers.  Respondent did not make this allegation in the 
+lower courts, and we do not consider it here. 
+The judgment of the Court of Appeals is reversed, and 
+the case is remanded for proceedings consistent with this 
+opinion. 
+It is so ordered. 
+Justice Breyer, with whom Justice Stevens, Justice 
+Souter, and Justice Ginsburg join, dissenting. 
+In Dr. Miles Medical Co. v. John D. Park & Sons Co., 220 
+U. S. 373, 394, 408–409 (1911), this Court held that an agree­
+ment between a manufacturer of proprietary medicines and 
+its dealers to ﬁx the minimum price at which its medicines 
+could be sold was “invalid . . . under the [Sherman Act, 15 
+U. S. C. § 1].”  This Court has consistently read Dr. Miles as 
+establishing a bright-line rule that agreements ﬁxing mini­
+mum  resale  prices  are  per  se  illegal.  See,  e. g.,  United 
+States v. Trenton Potteries Co., 273 U. S. 392, 399–401 (1927); 
+NYNEX  Corp.  v.  Discon,  Inc.,  525  U. S.  128,  133  (1998). 
+That per se rule is one upon which the legal profession, busi­
+ness,  and  the  public  have  relied  for  close  to  a  century. 
+Today the Court holds that courts must determine the law­
+fulness of minimum resale price maintenance by applying, 
+not a bright-line per se rule, but a circumstance-speciﬁc “rule 
+of  reason.”  Ante,  at  907.  And  in  doing  so  it  overturns 
+Dr. Miles. 
+The Court justiﬁes its departure from ordinary considera­
+tions of stare decisis by pointing to a set of arguments well 
+known in the antitrust literature for close to half a century. 
+See  ante,  at  889–892.  Congress  has  repeatedly  found  in 
+these arguments insufﬁcient grounds for overturning the per 
+se rule.  See, e. g., Hearings on H. R. 10527 et al. before the 
+Subcommittee on Commerce and Finance of the House Com­
+mittee on Interstate and Foreign Commerce, 85th Cong., 2d 
+Sess., 74–76, 89, 99, 101–102, 192–195, 261–262 (1958).  And, 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  909 
+Breyer, J., dissenting 
+in my view, they do not warrant the Court’s now overturning 
+so well-established a legal precedent. 
+I 
+The Sherman Act seeks to maintain a marketplace free 
+of anticompetitive practices, in particular those enforced by 
+agreement among private ﬁrms.  The law assumes that such 
+a marketplace, free of private restrictions, will tend to bring 
+about the lower prices, better products, and more efﬁcient 
+production  processes  that  consumers  typically  desire.  In 
+determining  the  lawfulness  of  particular  practices,  courts 
+often apply a “rule of reason.”  They examine both a prac­
+tice’s likely anticompetitive effects and its beneﬁcial business 
+justiﬁcations.  See, e. g., National Collegiate Athletic Assn. 
+v. Board of Regents of Univ. of Okla., 468 U. S. 85, 109–110, 
+and n. 39 (1984); National Soc. of Professional Engineers v. 
+United States, 435 U. S. 679, 688–691 (1978); Board of Trade 
+of Chicago v. United States, 246 U. S. 231, 238 (1918). 
+Nonetheless, sometimes the likely anticompetitive conse­
+quences of a particular practice are so serious and the poten­
+tial justiﬁcations so few (or, e. g., so difﬁcult to prove) that 
+courts have departed from a pure “rule of reason” approach. 
+And sometimes this Court has imposed a rule of per se un­
+lawfulness—a rule that instructs courts to ﬁnd the practice 
+unlawful all (or nearly  all) the time.  See, e. g., NYNEX, 
+supra, at 133; Arizona v.  Maricopa County Medical Soc., 
+457 U. S. 332, 343–344, and n. 16 (1982); Continental T. V., 
+Inc. v.  GTE Sylvania Inc., 433 U. S. 36, 50, n. 16 (1977); 
+United States v. Topco Associates, Inc., 405 U. S. 596, 609– 
+611  (1972);  United  States  v.  Socony-Vacuum  Oil  Co.,  310 
+U. S. 150, 213–214 (1940) (citing and quoting Trenton Potter­
+ies, supra, at 397–398). 
+The case before us asks which kind of approach the courts 
+should follow where minimum resale price maintenance is at 
+issue.  Should they apply a per se rule (or a variation) that 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+910  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+would make minimum resale price maintenance always (or 
+almost always) unlawful?  Should they apply a “rule of rea­
+son”?  Were the Court writing on a blank slate, I would ﬁnd 
+these questions difﬁcult.  But, of course, the Court is not 
+writing on a blank slate, and that fact makes a considerable 
+legal difference. 
+To best explain why the question would be difﬁcult were 
+we deciding it afresh, I brieﬂy summarize several classical 
+arguments for and against the use of a per se rule.  The 
+arguments focus on three sets of considerations, those in­
+volving:  (1)  potential  anticompetitive  effects,  (2)  potential 
+beneﬁts, and (3) administration.  The difﬁculty arises out of 
+the fact that the different sets of considerations point in dif­
+ferent  directions.  See,  e. g.,  8  P.  Areeda,  Antitrust  Law 
+¶¶ 1628–1633,  pp.  330–392  (1st  ed.  1989)  (hereinafter 
+Areeda);  8  P.  Areeda  &  H.  Hovenkamp,  Antitrust  Law 
+¶¶ 1628–1633,  pp.  288–339  (2d  ed.  2004)  (hereinafter 
+Areeda & Hovenkamp); Easterbrook, Vertical Arrangements 
+and the Rule of Reason, 53 Antitrust L. J. 135, 146–152 (1984) 
+(hereinafter Easterbrook); Pitofsky, In Defense of Discount­
+ers: The No-Frills Case for a Per Se Rule Against Vertical 
+Price Fixing, 71 Geo. L. J. 1487 (1983) (hereinafter Pitofsky); 
+Scherer, The Economics of Vertical Restraints, 52 Antitrust 
+L. J. 687, 706–707 (1983) (hereinafter Scherer); Posner, The 
+Next Step in the Antitrust Treatment of Restricted Distri­
+bution: Per Se Legality, 48 U. Chi. L. Rev. 6, 22–26 (1981); 
+Brief for William S. Comanor et al. as Amici Curiae 7–10. 
+On  the  one  hand,  agreements  setting  minimum  resale 
+prices may have serious anticompetitive consequences.  In 
+respect  to  dealers:  Resale  price  maintenance  agreements, 
+rather  like  horizontal  price  agreements,  can  diminish  or 
+eliminate price competition among dealers of a single brand 
+or (if practiced generally by manufacturers) among multi­
+brand dealers.  In doing so, they can prevent dealers from 
+offering  customers  the  lower  prices  that  many  customers 
+prefer; they can prevent dealers from responding to changes 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  911 
+Breyer, J., dissenting 
+in demand, say, falling demand, by cutting prices; they can 
+encourage dealers to substitute service, for price, competi­
+tion, thereby threatening wastefully to attract too many re­
+sources into that portion of the industry; they can inhibit 
+expansion  by  more  efﬁcient  dealers  whose  lower  prices 
+might otherwise attract more customers, stiﬂing the devel­
+opment  of  new,  more  efﬁcient  modes  of  retailing;  and  so 
+forth.  See, e. g., 8 Areeda & Hovenkamp ¶ 1632c, at 319– 
+321; Steiner, The Evolution and Applications of Dual-Stage 
+Thinking,  49  The  Antitrust  Bulletin  877,  899–900  (2004); 
+Comanor,  Vertical  Price-Fixing,  Vertical  Market  Restric­
+tions, and the New Antitrust Policy, 98 Harv. L. Rev. 983, 
+990–1000 (1985). 
+In respect to producers: Resale price maintenance agree­
+ments can help to reinforce the competition-inhibiting behav­
+ior of ﬁrms in concentrated industries.  In such industries 
+ﬁrms may tacitly collude, i. e., observe each other’s pricing 
+behavior, each understanding that price cutting by one ﬁrm 
+is likely to trigger price competition by all.  See 8 Areeda & 
+Hovenkamp  ¶ 1632d,  at  321–323;  P.  Areeda  &  L.  Kaplow, 
+Antitrust  Analysis  ¶¶ 231–233,  pp.  276–283  (4th  ed.  1988) 
+(hereinafter Areeda & Kaplow).  Cf. United States v. Con­
+tainer  Corp.  of  America,  393  U. S.  333  (1969);  Areeda  & 
+Kaplow  ¶¶ 247–253,  at  327–348.  Where  that  is  so,  resale 
+price maintenance can make it easier for each producer to 
+identify (by observing retail markets) when a competitor has 
+begun to cut prices.  And a producer who cuts wholesale 
+prices without lowering the minimum resale price will stand 
+to gain little, if anything, in increased proﬁts, because the 
+dealer will be unable to stimulate increased consumer de­
+mand by passing along the producer’s price cut to consumers. 
+In  either  case,  resale  price  maintenance  agreements  will 
+tend to prevent price competition from “breaking out”; and 
+they  will  thereby  tend  to  stabilize  producer  prices.  See 
+Pitofsky  1490–1491.  Cf.,  e. g.,  Container  Corp.,  supra,  at 
+336–337. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+912  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+Those who express concern about the potential anticom­
+petitive  effects  ﬁnd  empirical  support  in  the  behavior  of 
+prices before, and then after, Congress in 1975 repealed the 
+Miller-Tydings Fair Trade Act, 50 Stat. 693, and the McGuire 
+Act, 66 Stat. 631.  Those Acts had permitted (but not re­
+quired) individual States to enact “fair trade” laws author­
+izing  minimum  resale  price  maintenance.  At  the  time  of 
+repeal minimum resale price maintenance was lawful in 36 
+States; it was unlawful in 14 States.  See Hearings on S. 408 
+before the Subcommittee on Antitrust and Monopoly of the 
+Senate Committee on the Judiciary, 94th Cong., 1st Sess., 173 
+(1975) (hereinafter Hearings on S. 408) (statement of Thomas 
+E. Kauper, Assistant Attorney General, Antitrust Division). 
+Comparing prices in the former States with prices in the 
+latter States, the Department of Justice argued that mini­
+mum resale price maintenance had raised prices by 19% to 
+27%.  See Hearings on H. R. 2384 before the Subcommittee 
+on Monopolies and Commercial Law of the House Committee 
+on the Judiciary, 94th Cong., 1st Sess., 122 (1975) (hereinafter 
+Hearings on H. R. 2384) (statement of Keith I. Clearwaters, 
+Deputy Assistant Attorney General, Antitrust Division). 
+After repeal, minimum resale  price maintenance agree­
+ments were unlawful per se in every State.  The Federal 
+Trade  Commission  (FTC)  staff,  after  studying  numerous 
+price  surveys,  wrote  that  collectively  the  surveys  “indi­
+cate[d]  that  [resale  price  maintenance]  in  most  cases  in­
+creased the prices of products sold with [resale price mainte­
+nance].”  Bureau  of  Economics  Staff  Report  to  the  FTC, 
+T. Overstreet, Resale Price Maintenance: Economic Theories 
+and Empirical Evidence 160 (1983) (hereinafter Overstreet). 
+Most economists today agree that, in the words of a promi­
+nent antitrust treatise, “resale price maintenance tends to 
+produce higher consumer prices than would otherwise be the 
+case.”  8 Areeda & Hovenkamp ¶ 1604b, at 40 (ﬁnding “[t]he 
+evidence . . . persuasive on this point”).  See also Brief for 
+William S. Comanor et al. as Amici Curiae 4 (“It is uni­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  913 
+Breyer, J., dissenting 
+formly  acknowledged  that  [resale  price  maintenance]  and 
+other vertical restraints lead to higher consumer prices”). 
+On  the  other  hand,  those  favoring  resale  price  mainte­
+nance have long argued that resale price maintenance agree­
+ments can provide important consumer beneﬁts.  The ma­
+jority lists two: First, such agreements can facilitate new 
+entry.  Ante, at 891.  For example, a newly entering pro­
+ducer  wishing  to  build  a  product  name  might  be  able  to 
+convince dealers to help it do so—if, but only if, the pro­
+ducer can assure those dealers that they will later recoup 
+their investment.  Without resale price maintenance, late­
+entering dealers might take advantage of the earlier invest­
+ment and, through price competition, drive prices down to 
+the point where the early dealers cannot recover what they 
+spent.  By assuring the initial dealers that such later price 
+competition will not occur, resale price maintenance can en­
+courage  them  to  carry  the  new  product,  thereby  helping 
+the  new  producer  succeed.  See  8  Areeda  &  Hovenkamp 
+¶¶ 1617a, 1631b, at 193–196, 308.  The result might be in­
+creased  competition  at  the  producer  level,  i. e.,  greater 
+inter-brand competition, that brings with it net consumer 
+beneﬁts. 
+Second,  without  resale  price  maintenance  a  producer 
+might ﬁnd its efforts to sell a product undermined by what 
+resale price maintenance advocates call “free riding.”  Ante, 
+at 890–891.  Suppose a producer concludes that it can suc­
+ceed only if dealers provide certain services, say, product 
+demonstrations, high quality shops, advertising that creates 
+a certain product image, and so forth.  Without resale price 
+maintenance, some dealers might take a “free ride” on the 
+investment  that  others  make  in  providing  those  services. 
+Such a dealer would save money by not paying for those 
+services and could consequently cut its own price and in­
+crease its own sales.  Under these circumstances, dealers 
+might prove unwilling to invest in the provision of necessary 
+services.  See, e. g., 8 Areeda & Hovenkamp ¶¶ 1611–1613, 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+914  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+1631c, at 126–165, 309–313; R. Posner, Antitrust Law 172– 
+173 (2d ed. 2001); R. Bork, The Antitrust Paradox 290–291 
+(1978) (hereinafter Bork); Easterbrook 146–149. 
+Moreover, where a producer and not a group of dealers 
+seeks a resale price maintenance agreement, there is a spe­
+cial reason to believe some such beneﬁts exist.  That is be­
+cause, other things being equal, producers should want to 
+encourage price competition among their dealers.  By doing 
+so they will often increase proﬁts by selling more of their 
+product.  See Sylvania, 433 U. S., at 56, n. 24; Bork 290. 
+And  that  is  so,  even  if  the  producer  possesses  sufﬁcient 
+market  power  to  earn  a  supernormal  proﬁt.  That  is  to 
+say, other things being equal, the producer will beneﬁt by 
+charging his dealers a competitive (or even a higher-than­
+competitive) wholesale price while encouraging price compe­
+tition among them.  Hence, if the producer is the moving 
+force, the producer must have some special reason for want­
+ing resale price maintenance; and in the absence of, say, con­
+centrated producer markets (where that special reason might 
+consist of a desire to stabilize wholesale prices), that special 
+reason may well reﬂect the special circumstances just de­
+scribed:  new  entry,  “free  riding,”  or  variations  on  those 
+themes. 
+The upshot is, as many economists suggest, sometimes re­
+sale price maintenance can prove harmful; sometimes it can 
+bring beneﬁts.  See, e. g., Brief for Economists as Amici Cu­
+riae 16; 8 Areeda & Hovenkamp ¶¶ 1631–1632, at 306–328; 
+Pitofsky 1495; Scherer 706–707.  But before concluding that 
+courts should consequently apply a rule of reason, I would 
+ask such questions as, how often are harms or beneﬁts likely 
+to occur?  How easy is it to separate the beneﬁcial sheep 
+from the antitrust goats? 
+Economic discussion, such as the studies the Court relies 
+upon, can help provide answers to these questions, and in 
+doing so, economics can, and should, inform antitrust law. 
+But antitrust law cannot, and should not, precisely replicate 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  915 
+Breyer, J., dissenting 
+economists’ (sometimes conﬂicting) views.  That is because 
+law, unlike economics, is an administrative system the effects 
+of which depend upon the content of rules and precedents 
+only as they are applied by judges and juries in courts and 
+by lawyers advising their clients.  And that fact means that 
+courts will often bring their own administrative judgment 
+to bear, sometimes applying rules of per se unlawfulness to 
+business  practices  even  when  those  practices  sometimes 
+produce beneﬁts.  See, e. g., F. Scherer & D. Ross, Industrial 
+Market Structure and Economic Performance 335–339 (3d 
+ed. 1990) (hereinafter Scherer & Ross) (describing some cir­
+cumstances  under  which  price-ﬁxing agreements  could  be 
+more beneﬁcial than “unfettered competition,” but also not­
+ing potential costs of moving from a per se ban to a rule of 
+reasonableness assessment of such agreements). 
+I have already described studies and analyses that suggest 
+(though they cannot prove) that resale price maintenance can 
+cause harms with some regularity—and certainly when deal­
+ers are the driving force.  But what about beneﬁts?  How 
+often,  for  example,  will  the  beneﬁts  to  which  the  Court 
+points occur in practice?  I can ﬁnd no economic consensus 
+on this point.  There is a consensus in the literature that 
+“free  riding”  takes  place.  But  “free  riding”  often  takes 
+place  in  the  economy  without  any  legal  effort  to  stop  it. 
+Many visitors to California take free rides on the Paciﬁc 
+Coast Highway.  We all beneﬁt freely from ideas, such as 
+that of creating the ﬁrst supermarket.  Dealers often take a 
+“free ride” on investments that others have made in building 
+a product’s name and reputation.  The question is how often 
+the “free riding” problem is serious enough signiﬁcantly to 
+deter dealer investment. 
+To be more speciﬁc, one can easily imagine a dealer who 
+refuses to provide important presale services, say, a detailed 
+explanation of how a product works (or who fails to provide 
+a proper atmosphere in which to sell expensive perfume or 
+alligator billfolds), lest customers use that “free” service (or 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+916  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+enjoy the psychological beneﬁt arising when a high-priced 
+retailer stocks a particular brand of billfold or handbag) and 
+then buy from another dealer at a lower price.  Sometimes 
+this must happen in reality.  But does it happen often?  We 
+do, after all, live in an economy where ﬁrms, despite Dr. 
+Miles’  per  se  rule,  still  sell  complex  technical  equipment 
+(as  well  as  expensive  perfume  and  alligator  billfolds)  to 
+consumers. 
+All this is to say that the ultimate question is not whether, 
+but how much, “free riding” of this sort takes place.  And, 
+after reading the briefs, I must answer that question with 
+an uncertain “sometimes.”  See, e. g., Brief for William S. 
+Comanor et al. as Amici Curiae 6–7 (noting “skepticism in 
+the economic literature about how often [free riding] actually 
+occurs”);  Scherer  &  Ross  551–555  (explaining  the  “severe 
+limitations”  of  the  free-rider  justiﬁcation  for  resale  price 
+maintenance); Pitofsky, Why Dr. Miles Was Right, 8 Regu­
+lation, No. 1, pp. 27, 29–30 (Jan./Feb. 1984) (similar analysis). 
+How easily can courts identify instances in which the bene­
+ﬁts are likely to outweigh potential harms?  My own answer 
+is, not very easily.  For one thing, it is often difﬁcult to iden­
+tify who—producer or dealer—is the moving force behind 
+any given  resale price  maintenance agreement.  Suppose, 
+for  example,  several  large  multibrand  retailers  all  sell 
+resale-price-maintained products.  Suppose further that 
+small  producers  set  retail  prices  because  they  fear  that, 
+otherwise, the large retailers will favor (say, by allocating 
+better shelf space) the goods of other producers who practice 
+resale price maintenance.  Who “initiated” this practice, the 
+retailers hoping for considerable insulation from retail com­
+petition, or the producers, who simply seek to deal best with 
+the circumstances they ﬁnd?  For another thing, as I just 
+said, it is difﬁcult to determine just when, and where, the 
+“free  riding”  problem  is  serious  enough  to  warrant  legal 
+protection. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  917 
+Breyer, J., dissenting 
+I recognize that scholars have sought to develop checklists 
+and sets of questions that will help courts separate instances 
+where anticompetitive harms are more likely from instances 
+where  only  beneﬁts  are  likely  to  be  found.  See,  e. g.,  8 
+Areeda & Hovenkamp ¶¶ 1633c–1633e, at 330–339.  See also 
+Brief for William S. Comanor et al. as Amici Curiae 8–10. 
+But applying these criteria in court is often easier said than 
+done.  The Court’s invitation to consider the existence of 
+“market power,” for example, ante, at 898, invites lengthy 
+time-consuming argument among competing experts, as they 
+seek to apply abstract, highly technical, criteria to often ill­
+deﬁned markets.  And resale price maintenance cases, un­
+like a major merger or monopoly case, are likely to prove 
+numerous  and  involve  only  private  parties.  One  cannot 
+fairly expect judges and juries in such cases to apply complex 
+economic criteria without making a considerable number of 
+mistakes, which themselves may impose serious costs.  See, 
+e. g.,  H.  Hovenkamp,  The  Antitrust  Enterprise  105  (2005) 
+(litigating a rule of reason case is “one of the most costly 
+procedures in antitrust practice”).  See also Bok, Section 7 
+of the Clayton Act and the Merging of Law and Economics, 
+74 Harv. L. Rev. 226, 238–247 (1960) (describing lengthy FTC 
+efforts to apply complex criteria in a merger case). 
+Are there special advantages to a bright-line rule?  With­
+out such a rule, it is often unfair, and consequently impracti­
+cal, for enforcement ofﬁcials to bring criminal proceedings. 
+And since enforcement resources are limited, that loss may 
+tempt some producers or dealers to enter into agreements 
+that are, on balance, anticompetitive. 
+Given the uncertainties that surround key items in the 
+overall balance sheet, particularly in respect to the “admin­
+istrative” questions, I can concede to the majority that the 
+problem is difﬁcult.  And, if forced to decide now, at most 
+I might agree that the per se rule should be slightly modi­
+ﬁed to allow an exception for the more easily identiﬁable 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+918  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+and temporary condition of “new entry.”  See Pitofsky 1495. 
+But I am not now forced to decide this question.  The ques­
+tion before us is not what should be the rule, starting from 
+scratch.  We here must decide whether to change a clear 
+and simple price-related antitrust rule that the courts have 
+applied for nearly a century. 
+II 
+We write, not on a blank slate, but on a slate that begins 
+with Dr. Miles and goes on to list a century’s worth of simi­
+lar cases, massive amounts of advice that lawyers have pro­
+vided their clients, and untold numbers of business decisions 
+those clients have taken in reliance upon that advice.  See, 
+e. g., United States v. Bausch & Lomb Optical Co., 321 U. S. 
+707, 721 (1944); Sylvania, 433 U. S., at 51, n. 18 (“The per se 
+illegality of [vertical] price restrictions has been established 
+ﬁrmly for many years . . . ”).  Indeed, a Westlaw search 
+shows that Dr. Miles itself has been cited dozens of times in 
+this Court and hundreds of times in lower courts.  Those 
+who wish this Court to change so well-established a legal 
+precedent bear a heavy burden of proof.  See Illinois Brick 
+Co. v. Illinois, 431 U. S. 720, 736 (1977) (noting, in declining 
+to overrule an earlier case interpreting § 4 of the Clayton 
+Act, that “considerations of stare decisis weigh heavily in 
+the area of statutory construction, where Congress is free to 
+change this Court’s interpretation of its legislation”).  I am 
+not aware of any case in which this Court has overturned 
+so  well-established  a  statutory  precedent.  Regardless,  I 
+do not see how the Court can claim that ordinary criteria 
+for  overruling  an  earlier  case  have  been  met.  See,  e. g., 
+Planned Parenthood of Southeastern Pa. v. Casey, 505 U. S. 
+833, 854–855 (1992).  See also Federal Election Comm’n v. 
+Wisconsin Right to Life, Inc., ante, at 500–503 (Scalia, J., 
+concurring in part and concurring in judgment). 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  919 
+Breyer, J., dissenting 
+A 
+I can ﬁnd no change in circumstances in the past several 
+decades that helps the majority’s position.  In fact, there has 
+been one important change that argues strongly to the con­
+trary.  In 1975, Congress repealed the McGuire and Miller-
+Tydings Acts.  See Consumer Goods Pricing Act of 1975, 89 
+Stat. 801.  And it thereby consciously extended Dr. Miles’ 
+per se rule.  Indeed, at that time the Department of Justice 
+and the FTC, then urging application of the per se rule, dis­
+cussed  virtually  every  argument  presented  now  to  this 
+Court as well as others not here presented.  And they ex­
+plained to Congress why Congress should reject them.  See 
+Hearings  on  S.  408,  at  176–177  (statement  of  Thomas  E. 
+Kauper, Assistant Attorney General, Antitrust Division); id., 
+at 170–172 (testimony of Lewis A. Engman, Chairman of the 
+FTC); Hearings on H. R. 2384, at 113–114 (testimony of Keith 
+I. Clearwaters, Deputy Assistant Attorney General, Anti­
+trust  Division).  Congress  fully  understood,  and  conse­
+quently intended, that the result of its repeal of McGuire 
+and Miller-Tydings would be to make minimum resale price 
+maintenance per se unlawful.  See, e. g., S. Rep. No. 94–466, 
+pp. 1–3 (1975) (“Without [the exemptions authorized by the 
+Miller-Tydings and McGuire Acts,] the agreements they au­
+thorize would violate the antitrust laws. . . . [R]epeal of the 
+fair trade laws generally will prohibit manufacturers from 
+enforcing resale prices”).  See also Sylvania, supra, at 51, 
+n. 18 (“Congress recently has expressed its approval of a per 
+se analysis of vertical price restrictions by repealing those 
+provisions of the Miller-Tydings and McGuire Acts allowing 
+fair-trade pricing at the option of the individual States”). 
+Congress did not prohibit this Court from reconsidering 
+the per se rule.  But enacting major legislation premised 
+upon the existence of that rule constitutes important public 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+920  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+reliance upon that rule.  And doing so aware of the relevant 
+arguments  constitutes  even  stronger  reliance  upon  the 
+Court’s keeping the rule, at least in the absence of some sig­
+niﬁcant change in respect to those arguments. 
+Have there been any such changes?  There have been a 
+few economic studies, described in some of the briefs, that 
+argue, contrary to the testimony of the Justice Department 
+and the FTC to Congress in 1975, that resale price mainte­
+nance is not harmful.  One study, relying on an analysis of 
+litigated resale price maintenance cases from 1975 to 1982, 
+concludes that resale price maintenance does not ordinarily 
+involve producer or dealer collusion.  See Ippolito, Resale 
+Price Maintenance: Empirical Evidence from Litigation, 34 
+J. Law & Econ. 263, 281–282, 292 (1991).  But this study 
+equates the failure of plaintiffs to allege collusion with the 
+absence of collusion—an equation that overlooks the super­
+ﬂuous nature of allegations of horizontal collusion in a resale 
+price maintenance case and the tacit form that such collusion 
+might take.  See H. Hovenkamp, Federal Antitrust Policy 
+§ 11.3c, p. 464, n. 19 (3d ed. 2005); supra, at 911. 
+The other study provides a theoretical basis for concluding 
+that resale price maintenance “need not lead to higher retail 
+prices.”  Marvel  &  McCafferty,  The  Political  Economy  of 
+Resale Price Maintenance, 94 J. Pol. Econ. 1074, 1075 (1986). 
+But  this  study  develops  a  theoretical  model  “under  the 
+assumption  that  [resale  price  maintenance]  is  efﬁciency­
+enhancing.”  Ibid.  Its  only  empirical  support  is  a  1940 
+study that the authors acknowledge is much criticized.  See 
+id., at 1091.  And many other economists take a different 
+view.  See Brief for  William S. Comanor et  al. as Amici 
+Curiae 4. 
+Regardless,  taken  together,  these  studies  at  most  may 
+offer  some  mild  support  for  the  majority’s  position.  But 
+they cannot constitute a major change in circumstances. 
+Petitioner and some amici have also presented us with 
+newer studies that show that resale price maintenance some­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  921 
+Breyer, J., dissenting 
+times  brings  consumer  beneﬁts.  Overstreet  119–129  (de­
+scribing numerous case studies).  But the proponents of a 
+per se rule have always conceded as much.  What is remark­
+able about the majority’s arguments is that nothing in this 
+respect is new.  See supra, at 910, 919 (citing articles and 
+congressional testimony going back several decades).  The 
+only new feature of these arguments lies in the fact that the 
+most current advocates of overruling Dr. Miles have aban­
+doned a host of other not-very-persuasive arguments upon 
+which  prior  resale  price  maintenance  proponents  used  to 
+rely.  See, e. g., 8 Areeda ¶ 1631a, at 350–352 (listing “ ‘[t]ra­
+ditional’ justiﬁcations” for resale price maintenance). 
+The one arguable exception consists of the majority’s claim 
+that  “even  absent  free  riding,”  resale  price  maintenance 
+“may be the most efﬁcient way to expand the manufacturer’s 
+market  share  by  inducing  the  retailer’s  performance  and 
+allowing it to use its own initiative and experience in provid­
+ing valuable services.”  Ante, at 892.  I cannot count this 
+as an exception, however, because I do not understand how, 
+in the absence of free riding (and assuming competitiveness), 
+an  established  producer  would  need  resale  price  mainte­
+nance.  Why, on these assumptions, would a dealer not “ex­
+pand” its “market share” as best that dealer sees ﬁt, obtain­
+ing  appropriate  payment  from  consumers  in  the  process? 
+There may be an answer to this question.  But I have not 
+seen it.  And I do not think that we should place signiﬁcant 
+weight upon  justiﬁcations that  the parties do  not explain 
+with sufﬁcient clarity for a generalist judge to understand. 
+No one claims that the American economy has changed 
+in ways that might support the majority.  Concentration in 
+retailing has increased.  See, e. g., Brief for Respondent 18 
+(since minimum resale price maintenance was banned nation­
+wide in 1975, the total number of retailers has dropped while 
+the growth in sales per store has risen); Brief for American 
+Antitrust Institute as Amicus Curiae 17, n. 20 (citing private 
+study reporting that the combined sales of the 10 largest 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+922  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+retailers worldwide has grown to nearly 30% of total retail 
+sales of top 250 retailers; also quoting 1999 Organisation for 
+Economic Co-operation and Development report stating that 
+the “ ‘last twenty years have seen momentous changes in re­
+tail distribution including signiﬁcant increases in concentra­
+tion’ ”);  Mamen,  Facing  Goliath:  Challenging  the  Impacts 
+of  Supermarket  Consolidation  on  our  Local  Economies, 
+Communities, and Food Security, The Oakland Institute, 1 
+Policy  Brief,  No.  3,  pp. 1,  2  (Spring  2007),  http://www. 
+oaklandinstitute.org/pdfs/facing_goliath.pdf (as visited June 
+25, 2007, and available in Clerk of Court’s case ﬁle) (noting 
+that “[f]or many decades, the top ﬁve food retail ﬁrms in the 
+U. S. controlled less than 20 percent of the market”; from 
+1997 to 2000, “the top ﬁve ﬁrms increased their market share 
+from 24 to 42 percent of all retail sales”; and “[b]y 2003, they 
+controlled  over  half  of  all  grocery  sales”).  That  change, 
+other things being equal, may enable (and motivate) more 
+retailers, accounting for a greater percentage of total retail 
+sales volume, to seek resale price maintenance, thereby mak­
+ing it more difﬁcult for price-cutting competitors (perhaps 
+internet retailers) to obtain market share. 
+Nor has anyone argued that concentration among manufac­
+turers that might use resale price maintenance has dimin­
+ished signiﬁcantly.  And as far as I can tell, it has not.  Con­
+sider household electrical appliances, which a study from the 
+late 1950’s suggests constituted a signiﬁcant portion of those 
+products subject to resale price maintenance at that time. 
+See Hollander, United States of America, in Resale Price 
+Maintenance 67, 80–81 (B. Yamey ed. 1966).  Although it is 
+somewhat difﬁcult to compare census data from 2002 with 
+that from several decades ago (because of changes in the 
+classiﬁcation system), it is clear that at least some subsets of 
+the household electrical appliance industry are more concen­
+trated, in terms of manufacturer market power, now than 
+they were then.  For instance, the top eight domestic manu­
+facturers of household cooking appliances accounted for 68% 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  923 
+Breyer, J., dissenting 
+of the domestic market (measured by value of shipments) in 
+1963 (the earliest date for which I was able to ﬁnd data), 
+compared  with  77%  in  2002.  See  Dept.  of  Commerce, 
+Bureau  of  Census,  1972  Census  of  Manufactures,  Special 
+Report  Series,  Concentration  Ratios  in  Manufacturing, 
+No. MC72(SR)–2, p. SR2–38 (1975) (hereinafter 1972 Cen­
+sus); Dept. of Commerce, Bureau of Census, 2002 Economic 
+Census, Concentration Ratios: 2002, No. EC02–31SR–1, p. 55 
+(2006) (hereinafter 2002 Census).  The top eight domestic 
+manufacturers of household laundry equipment accounted for 
+95% of the domestic market in 1963 (90% in 1958), compared 
+with 99% in 2002.  1972 Census, at SR2–38; 2002 Census, 
+at 55.  And the top eight domestic manufacturers of house­
+hold refrigerators and freezers accounted for 91% of the do­
+mestic market in 1963, compared with 95% in 2002.  1972 
+Census, at SR2–38; 2002 Census, at 55.  Increased concen­
+tration among manufacturers increases the likelihood that 
+producer-originated  resale  price  maintenance  will  prove 
+more prevalent today than in years past, and more harmful. 
+At the very least, the majority has not explained how these, 
+or  other  changes  in  the  economy,  could  help  support  its 
+position. 
+In sum, there is no relevant change.  And without some 
+such  change,  there  is  no  ground  for  abandoning  a  well­
+established antitrust rule. 
+B 
+With the preceding discussion in mind, I would consult the 
+list of factors that our case law indicates are relevant when 
+we consider overruling an earlier case.  Justice Scalia, 
+writing separately in another of our cases this Term, well 
+summarizes that law.  See Wisconsin Right to Life, Inc., 
+ante, at 500–503 (opinion concurring in part and concurring 
+in judgment).  And every relevant factor he mentions ar­
+gues against overruling Dr. Miles here. 
+First,  the  Court  applies  stare  decisis  more  “rigidly”  in 
+statutory than in constitutional cases.  See Glidden Co. v. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+924  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+Zdanok, 370 U. S. 530, 543 (1962); Illinois Brick Co., 431 
+U. S., at 736.  This is a statutory case. 
+Second, the Court does sometimes overrule cases that it 
+decided wrongly only a reasonably short time ago.  As Jus­
+tice Scalia put it, “[o]verruling a constitutional case de­
+cided just a few years earlier is far from unprecedented.” 
+Wisconsin Right to Life, ante, at 501 (emphasis added).  We 
+here  overrule  one  statutory case,  Dr.  Miles,  decided  100 
+years ago, and we overrule the cases that reafﬁrmed its per 
+se rule in the intervening years.  See, e. g., Trenton Potter­
+ies, 273 U. S., at 399–401; Bausch & Lomb, 321 U. S., at 721; 
+United States  v.  Parke,  Davis & Co.,  362 U. S.  29, 45–47 
+(1960);  Simpson  v.  Union  Oil  Co.  of  Cal.,  377  U. S.  13, 
+16–17 (1964). 
+Third, the fact that a decision creates an “unworkable” 
+legal regime argues in favor of overruling.  See Payne v. 
+Tennessee, 501 U. S. 808, 827–828 (1991); Swift & Co.  v. Wick­
+ham, 382 U. S. 111, 116 (1965).  Implementation of the per 
+se rule, even with the complications attendant the exception 
+allowed for in United States v. Colgate & Co., 250 U. S. 300 
+(1919), has proved practical over the course of the last cen­
+tury, particularly when compared with the many complexi­
+ties of litigating a case under the “rule of reason” regime. 
+No one has shown how moving from the Dr. Miles regime 
+to “rule of reason” analysis would make the legal regime 
+governing minimum resale price maintenance more “admin­
+istrable,” Wisconsin Right to Life, ante, at 501 (opinion of 
+Scalia, J.), particularly since Colgate would remain good law 
+with respect to unreasonable price maintenance. 
+Fourth, the fact that a decision “unsettles” the law may 
+argue in favor of overruling.  See Sylvania, 433 U. S., at 47; 
+Wisconsin Right to Life, ante, at 502 (opinion of Scalia, J.). 
+The per se rule is well-settled law, as the Court itself has 
+previously recognized.  Sylvania, supra, at 51, n. 18.  It is 
+the majority’s change here that will unsettle the law. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  925 
+Breyer, J., dissenting 
+Fifth, the fact that a case involves property rights or con­
+tract rights, where reliance interests are involved, argues 
+against  overruling.  Payne,  supra,  at  828.  This  case  in­
+volves contract rights and perhaps property rights (consider 
+shopping malls).  And there has been considerable reliance 
+upon the per se rule.  As I have said, Congress relied upon 
+the continued vitality of Dr. Miles when it repealed Miller-
+Tydings and McGuire.  Supra, at 919–920.  The Executive 
+Branch argued for repeal on the assumption that Dr. Miles 
+stated the law.  Supra, at 919–920.  Moreover, whole sec­
+tors of the economy have come to rely upon the per se rule. 
+A factory outlet store tells us that the rule “form[s] an essen­
+tial part of the regulatory background against which [that 
+ﬁrm] and many other discount retailers have ﬁnanced, struc­
+tured, and operated their businesses.”  Brief for Burlington 
+Coat Factory Warehouse Corp. as Amicus Curiae 5.  The 
+Consumer  Federation  of  America  tells  us  that  large  low­
+price retailers would not exist without Dr. Miles; minimum 
+resale  price  maintenance,  “by  stabilizing  price  levels  and 
+preventing low-price competition, erects a potentially insur­
+mountable barrier to entry for such low-price innovators.” 
+Brief for Consumer Federation of America as Amicus Cu­
+riae 5, 7–9 (discussing, inter alia, comments by Wal-Mart’s 
+founder 25 years ago that relaxation of the per se ban on 
+minimum resale price maintenance would be a “ ‘great dan­
+ger’ ” to Wal-Mart’s then-relatively-nascent business).  See 
+also Brief for American Antitrust Institute as Amicus Cu­
+riae  14–15,  and  sources  cited  therein  (making  the  same 
+point).  New  distributors,  including  internet  distributors, 
+have similarly invested time, money, and labor in an effort 
+to bring yet lower cost goods to Americans. 
+This Court’s overruling of the per se rule jeopardizes this 
+reliance, and more.  What about malls built on the assump­
+tion that a discount distributor will remain an anchor tenant? 
+What about home buyers who have taken a home’s distance 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+926  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+from such a mall into account?  What about Americans, pro­
+ducers, distributors, and consumers, who have understand­
+ably assumed, at least for the last 30 years, that price compe­
+tition  is  a  legally  guaranteed  way  of  life?  The  majority 
+denies  none  of  this.  It  simply  says  that  these  “reliance 
+interests . . . , like the reliance interests in [State Oil Co. v.] 
+Khan, [522 U. S. 3 (1997),] cannot justify an inefﬁcient rule.” 
+Ante, at 906. 
+The Court minimizes the importance of this reliance, add­
+ing that it “is also of note” that at the time resale price main­
+tenance contracts were lawful “ ‘no more than a tiny fraction 
+of  manufacturers  ever  employed’ ”  the  practice.  Ante,  at 
+907  (quoting  Overstreet  6).  By  “tiny”  the  Court  means 
+manufacturers that accounted for up to “ ‘ten percent of con­
+sumer  goods  purchases’ ”  annually.  Ante,  at  907.  That 
+ﬁgure in today’s economy equals just over $300 billion.  See 
+Dept. of Commerce, Bureau of Census, Statistical Abstract 
+of the United States: 2007, p. 649 (126th ed.) (over $3 trillion 
+in U. S. retail sales in 2002).  Putting the Court’s estimate 
+together with the Justice Department’s early 1970’s study 
+translates a legal regime that permits all resale price main­
+tenance into retail bills that are higher by an average of 
+roughly $750 to $1,000 annually for an American family of 
+four.  Just how much higher retail bills will be after the 
+Court’s decision today, of course, depends upon what is now 
+unknown, namely, how courts will decide future cases under 
+a  “rule  of  reason.”  But  these  ﬁgures  indicate  that  the 
+amounts involved are important to American families and 
+cannot be dismissed as “tiny.” 
+Sixth, the fact that a rule of law has become “embedded” 
+in our “national culture” argues strongly against overruling. 
+Dickerson v.  United States, 530 U. S. 428, 443–444 (2000). 
+The per se  rule forbidding minimum resale  price mainte­
+nance agreements has long been “embedded” in the law of 
+antitrust.  It involves price, the economy’s “ ‘central nervous 
+system.’ ”  National  Soc.  of  Professional  Engineers,  435 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  927 
+Breyer, J., dissenting 
+U. S., at 692 (quoting Socony-Vacuum Oil, 310 U. S., at 226, 
+n. 59).  It reﬂects a basic antitrust assumption (that consum­
+ers often prefer lower prices to more service).  It embod­
+ies a basic antitrust objective (providing consumers with a 
+free choice about such matters).  And it creates an easily 
+administered  and  enforceable  bright  line,  “Do  not  agree 
+about price,” that businesses as well as lawyers have long 
+understood. 
+The only contrary stare decisis factor that the majority 
+mentions consists of its claim that this Court has “[f]rom the 
+beginning . . .  treated the Sherman Act as a common-law 
+statute,” and has previously overruled antitrust precedent. 
+Ante, at 899, 900–902.  It points in support to State Oil Co. 
+v. Khan, 522 U. S. 3 (1997), overruling Albrecht v. Herald Co., 
+390 U. S. 145 (1968), in which this Court had held that maxi­
+mum resale price agreements were unlawful per se, and to 
+Sylvania, overruling United States v.  Arnold, Schwinn & 
+Co., 388 U. S. 365 (1967), in which this Court had held that 
+producer-imposed territorial limits were unlawful per se. 
+The  Court  decided  Khan,  however,  29  years  after  Al­
+brecht—still a signiﬁcant period, but nowhere close to the 
+century Dr. Miles has stood.  The Court speciﬁcally noted 
+the lack of any signiﬁcant reliance upon Albrecht.  522 U. S., 
+at 18–19 (Albrecht has had “little or no relevance to ongoing 
+enforcement of the Sherman Act”).  Albrecht had far less 
+support in traditional antitrust principles than did Dr. Miles. 
+Compare, e. g., 8 Areeda & Hovenkamp ¶ 1632, at 316–328 
+(analyzing potential harms of minimum resale price mainte­
+nance),  with  id.,  ¶ 1637,  at  352–361  (analyzing  potential 
+harms  of  maximum  resale  price  maintenance).  See  also, 
+e. g., Pitofsky 1490, n. 17.  And Congress had nowhere ex­
+pressed support for Albrecht’s rule.  Khan, supra, at 19. 
+In Sylvania, the Court, in overruling Schwinn, explicitly 
+distinguished Dr. Miles on the ground that while Congress 
+had “recently . . . expressed its approval of a per se analy­
+sis of vertical price restrictions” by repealing the Miller­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+928  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+Tydings and McGuire Acts, “[n]o similar expression of con­
+gressional  intent  exists  for  nonprice  restrictions.”  433 
+U. S., at 51, n. 18.  Moreover, the Court decided Sylvania 
+only a decade after Schwinn.  And it based its overruling 
+on a generally perceived need to avoid “confusion” in the law, 
+433 U. S., at 47–49, a factor totally absent here. 
+The Court suggests that it is following “the common-law 
+tradition.”  Ante, at 905.  But the common law would not 
+have permitted overruling Dr. Miles in these circumstances. 
+Common-law courts rarely overruled well-established earlier 
+rules outright.  Rather, they would over time issue deci­
+sions that gradually eroded the scope and effect of the rule 
+in question, which might eventually lead the courts to put 
+the rule to rest.  One can argue that modifying the per se 
+rule to make an exception, say, for new entry, see Pitofsky 
+1495, could prove consistent with this approach.  To swallow 
+up a century-old precedent, potentially affecting many bil­
+lions of dollars of sales, is not.  The reader should compare 
+today’s “common-law” decision with Justice Cardozo’s deci­
+sion  in  Allegheny  College  v.  National  Chautauqua  Cty. 
+Bank of Jamestown, 246 N. Y. 369, 159 N. E. 173 (1927), and 
+note a gradualism that does not characterize today’s decision. 
+Moreover, a Court that rests its decision upon economists’ 
+views of the economic merits should also take account of 
+legal scholars’ views about common-law overruling.  Profes­
+sors Hart and Sacks list 12 factors (similar to those I have 
+mentioned) that support judicial “adherence to prior hold­
+ings.”  They all support adherence to Dr. Miles here.  See 
+H. Hart & A. Sacks, The Legal Process 568–569 (W. Esk­
+ridge & P. Frickey eds. 1994).  Karl Llewellyn has written 
+that the common-law judge’s “conscious reshaping” of prior 
+law “must so move as to hold the degree of movement down 
+to the degree to which need truly presses.”  The Bramble 
+Bush 156 (1960).  Where here is the pressing need?  The 
+Court notes that the FTC argues here in favor of a rule of 
+reason.  See ante, at 900.  But both Congress and the FTC, 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  929 
+Breyer, J., dissenting 
+unlike courts, are well equipped to gather empirical evidence 
+outside the context of a single case.  As neither has done 
+so, we cannot conclude with conﬁdence that the gains from 
+eliminating the per se rule will outweigh the costs. 
+In sum, every stare decisis concern this Court has ever 
+mentioned counsels against overruling here.  It is difﬁcult 
+for  me  to  understand  how  one  can  believe  both  that 
+(1) satisfying a set of stare decisis concerns justiﬁes over­
+ruling a recent constitutional decision, Wisconsin Right to 
+Life, Inc., ante, at 500–503 (Scalia, J., joined by Kennedy 
+and Thomas, JJ., concurring in part and concurring in judg­
+ment), but (2) failing to satisfy any of those same concerns 
+nonetheless permits overruling a longstanding statutory de­
+cision.  Either those concerns are relevant or they are not. 
+* * * 
+The only safe predictions to make about today’s decision 
+are that it will likely raise the price of goods at retail and 
+that  it  will  create  considerable  legal  turbulence  as  lower 
+courts seek to develop workable principles.  I do not believe 
+that the majority has shown new or changed conditions suf­
+ﬁcient to warrant overruling a decision of such long standing. 
+All ordinary stare decisis considerations indicate the con­
+trary.  For these reasons, with respect, I dissent. 
+
+NEW PAGE

@@ -1,0 +1,323 @@
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+CASES ADJUDGED 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+AT
+
+OCTOBER TERM, 2005
+
+TEXACO INC. v. DAGHER et al. 
+certiorari to the united states court of appeals for 
+the ninth circuit 
+No. 04–805.  Argued January 10, 2006—Decided February 28, 2006* 
+Petitioners, Texaco Inc. and Shell Oil Co., collaborated in a joint venture, 
+Equilon Enterprises, to reﬁne and sell gasoline in the western United 
+States under the two companies’ original brand names.  After Equilon 
+set a single price for both brands, respondents, Texaco and Shell Oil 
+service station owners, brought suit alleging that, by unifying gas prices 
+under the two brands, petitioners had violated the per se rule against 
+price ﬁxing long recognized under § 1 of the Sherman Act, see, e. g., 
+Catalano, Inc. v. Target Sales, Inc., 446 U. S. 643, 647.  Granting peti­
+tioners summary judgment, the District Court determined that the rule 
+of reason, rather than a per se rule, governs respondents’ claim, and 
+that, by eschewing rule of reason analysis, respondents had failed to 
+raise a triable issue of fact.  The Ninth Circuit reversed, characterizing 
+petitioners’ position as a request for an exception to the per se price­
+ﬁxing prohibition, and rejecting that request. 
+Held: It is not per se illegal under § 1 of the Sherman Act for a lawful, 
+economically integrated  joint venture to set  the prices at  which it 
+sells its products.  Although § 1 prohibits “[e]very contract [or] com­
+bination . . . i n  restraint  of  trade,”  15  U. S. C.  § 1, this  Court  has 
+not taken a literal approach to that language, recognizing, instead, that 
+*Together with No. 04–814, Shell Oil Co. v. Dagher et al., also on certio­
+rari to the same court. 
+1 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+2  TEXACO INC. v. DAGHER 
+Syllabus 
+Congress intended to outlaw only unreasonable restraints, e. g., State 
+Oil Co. v. Khan, 522 U. S. 3, 10.  Under rule of reason analysis, antitrust 
+plaintiffs must demonstrate that a particular contract or combination is 
+in fact unreasonable and anticompetitive.  See, e. g., id., at 10–19.  Per 
+se liability is reserved for “plainly anticompetitive” agreements.  Na­
+tional Soc. of Professional Engineers v. United States, 435 U. S. 679, 
+692.  While “horizontal” price-ﬁxing agreements between two or more 
+competitors are per se unlawful, see, e. g., Catalano, supra, at 647, this 
+litigation does not present such an agreement, because Texaco and Shell 
+Oil did not compete with one another in the relevant market—i. e., gaso­
+line sales to western service stations—but instead participated in that 
+market jointly through Equilon.  When those who would otherwise be 
+competitors pool their capital and share the risks of loss and opportuni­
+ties for proﬁt, they are regarded as a single ﬁrm competing with other 
+sellers in the market.  Arizona v. Maricopa County Medical Soc., 457 
+U. S. 332, 356.  As such, Equilon’s pricing policy may be price ﬁxing in 
+a literal sense, but it is not price ﬁxing in the antitrust sense.  The 
+court below erred in reaching the opposite conclusion under the ancil­
+lary restraints doctrine, which governs the validity of restrictions im­
+posed by a legitimate joint venture on nonventure activities.  That doc­
+trine has no application here, where the challenged business practice 
+involves the core activity of the joint venture itself—the pricing of the 
+very goods produced and sold by Equilon.  Pp. 5–8. 
+369 F. 3d 1108, reversed. 
+Thomas, J., delivered the opinion of the Court, in which all other Mem­
+bers joined, except Alito, J., who took no part in the consideration or 
+decision of the cases. 
+Glen D. Nager argued the cause for petitioners in both 
+cases.  With him on the briefs for petitioner in No. 04–805 
+were Craig E. Stewart, Joe Sims, and Louis K. Fisher.  On 
+the briefs for petitioner in No. 04–814 were Ronald L. Olson, 
+Bradley S. Phillips, Stuart N. Senator, and Paul J. Watford. 
+Jeffrey P. Minear argued the cause for the United States 
+as amicus curiae urging reversal in both cases.  With him 
+on the brief were Solicitor General Clement, Acting Assist­
+ant Attorney General  Barnett,  Deputy  Solicitor  General 
+Hungar, Catherine G. O’Sullivan, and Adam D. Hirsh. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  3 
+Opinion of the Court 
+Joseph M. Alioto argued the cause for respondents in both 
+cases.  With him on the brief were Daniel R. Shulman and 
+Gregory Merz.† 
+Justice Thomas delivered the opinion of the Court. 
+From 1998 until 2002, petitioners Texaco Inc. and Shell Oil 
+Co. collaborated in a joint venture, Equilon Enterprises, to 
+reﬁne and sell gasoline in the western United States under 
+the original Texaco and Shell Oil brand names.  Respond­
+ents, a class of Texaco and Shell Oil service station owners, 
+allege that petitioners engaged in unlawful price ﬁxing when 
+Equilon set a single price for both Texaco and Shell Oil brand 
+gasoline.  We granted certiorari to determine whether it is 
+per se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, 
+for a lawful, economically integrated joint venture to set the 
+prices at which the joint venture sells its products.  We con­
+clude that it is not, and accordingly we reverse the contrary 
+judgment of the Court of Appeals. 
+I 
+Historically, Texaco and Shell Oil have competed with one 
+another in the national and international oil and gasoline 
+†Briefs of amici curiae urging reversal in both cases were ﬁled for the 
+American Bankers Association et al. by W. Stephen Smith and Beth S. 
+Brinkmann; for the American Petroleum Institute by Robert A. Long, Jr., 
+Harry M. Ng, and Douglas W. Morris; for the Chamber of Commerce of 
+the United States of America by Raymond A. Jacobsen, Jr., Stephen A. 
+Bokat, Robin S. Conrad, and Amar D. Sarwal; for Verizon Communica­
+tions Inc. by Roy T. Englert, Jr., Donald J. Russell, John Thorne, and 
+Paul J. Larkin, Jr.; and for Visa U. S. A. Inc. et al. by M. Laurence Popof­
+sky and Stephen V. Bomse. 
+Stephen F. Ross ﬁled a brief for the American Antitrust Institute as 
+amicus curiae urging afﬁrmance in both cases. 
+Briefs of amici curiae were ﬁled in both cases for the Northwest Ohio 
+Physician Specialists Cooperative, LLC, by Charles D. Weller and Freder­
+ick Byers; and for the Retail Industry Leaders Association et al. by Lloyd 
+Constantine and Michelle A. Peters.  Steve C. Vaughn ﬁled a brief for the 
+Parker Hanniﬁn Corp. as amicus curiae in No. 04–805. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+4  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+markets.  Their business activities include reﬁning crude oil 
+into gasoline, as well as marketing gasoline to downstream 
+purchasers, such as the service stations represented in re­
+spondents’ class action. 
+In  1998,  Texaco  and  Shell  Oil  formed  a  joint  venture, 
+Equilon,  to  consolidate  their  operations  in  the  western 
+United States, thereby ending competition between the two 
+companies in the domestic reﬁning and marketing of gaso­
+line.  Under the joint venture agreement, Texaco and Shell 
+Oil agreed to pool their resources and share the risks of and 
+proﬁts from Equilon’s activities.  Equilon’s board of direc­
+tors would comprise representatives of Texaco and Shell Oil, 
+and Equilon gasoline would be sold to downstream purchas­
+ers under the original Texaco and Shell Oil brand names. 
+The formation of Equilon was approved by consent decree, 
+subject to certain divestments and other modiﬁcations, by 
+the Federal Trade Commission, see In re Shell Oil Co., 125 
+F. T. C. 769 (1998), as well as by the state attorneys gen­
+eral of California, Hawaii, Oregon, and Washington.  Nota­
+bly, the decrees imposed no restrictions on the pricing of 
+Equilon gasoline. 
+After  the  joint  venture  began  to  operate,  respondents 
+brought suit in District Court, alleging that, by unifying gas­
+oline prices under the two brands, petitioners had violated 
+the per se rule against price ﬁxing that this Court has long 
+recognized under § 1 of the Sherman Act, ch. 647, 26 Stat. 
+209, as amended, 15 U. S. C. § 1.  See, e. g., Catalano, Inc. v. 
+Target Sales, Inc., 446 U. S. 643, 647 (1980) (per curiam). 
+The District Court awarded summary judgment to Texaco 
+and Shell Oil.  It determined that the rule of reason, rather 
+than a per se rule or the quick look doctrine, governs re­
+spondents’ claim, and that, by eschewing rule of reason anal­
+ysis, respondents had failed to raise a triable issue of fact. 
+The Ninth Circuit reversed, characterizing petitioners’ posi­
+tion as a request for an “exception to the per se prohibition 
+on  price-ﬁxing,”  and  rejecting  that  request.  Dagher  v. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  5 
+Opinion of the Court 
+Saudi Reﬁning, Inc., 369 F. 3d 1108, 1116 (2004).  We consol­
+idated Texaco’s and Shell Oil’s separate petitions and granted 
+certiorari to determine the extent to which the per se rule 
+against price ﬁxing applies to an important and increasingly 
+popular  form  of  business  organization,  the  joint  venture. 
+545 U. S. 1138 (2005). 
+II 
+Section 1 of the Sherman Act prohibits “[e]very contract, 
+combination in the form of trust or otherwise, or conspiracy, 
+in restraint of trade or commerce among the several States.” 
+15 U. S. C. § 1.  This Court has not taken a literal approach 
+to this language, however.  See, e. g., State Oil Co. v. Khan, 
+522 U. S. 3, 10 (1997) (“[T]his Court has long recognized that 
+Congress intended to outlaw only unreasonable restraints” 
+(emphasis added)).  Instead, this Court presumptively ap­
+plies rule of reason analysis, under which antitrust plaintiffs 
+must demonstrate that a particular contract or combination 
+is in fact unreasonable and anticompetitive before it will be 
+found unlawful.  See, e. g., id., at 10–19.  Per se liability is 
+reserved for only those agreements that are “so plainly anti­
+competitive that no elaborate study of the industry is needed 
+to establish their illegality.”  National Soc. of Professional 
+Engineers v.  United States, 435 U. S. 679, 692 (1978).  Ac­
+cordingly, “we  have expressed  reluctance to adopt  per se 
+rules . . . ‘where the economic impact of certain practices is 
+not immediately obvious.’ ”  State Oil, supra, at 10 (quoting 
+FTC v. Indiana Federation of Dentists, 476 U. S. 447, 458– 
+459 (1986)). 
+Price-ﬁxing agreements between two or more competitors, 
+otherwise known as horizontal price-ﬁxing agreements, fall 
+into the category of arrangements that are per se unlawful. 
+See, e. g., Catalano, supra, at 647.  These cases do not pre­
+sent such an agreement, however, because Texaco and Shell 
+Oil did not compete with one another in the relevant mar­
+ket—namely, the sale of gasoline to service stations in the 
+western  United  States—but  instead  participated  in  that 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+6  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+market jointly through their investments in Equilon.1  In 
+other words, the pricing policy challenged here amounts to 
+little  more  than  price  setting  by  a  single  entity—albeit 
+within  the  context  of  a  joint  venture—and  not  a  pricing 
+agreement  between  competing  entities  with  respect  to 
+their competing products.  Throughout Equilon’s existence, 
+Texaco and Shell Oil shared in the proﬁts of Equilon’s activi­
+ties in their role as investors, not competitors.  When “per­
+sons who would otherwise be competitors pool their capital 
+and share the risks of loss as well as the opportunities for 
+proﬁt . . . such joint ventures [are] regarded as a single ﬁrm 
+competing with other sellers in the market.”  Arizona v. 
+Maricopa County Medical Soc., 457 U. S. 332, 356 (1982). 
+As such, though Equilon’s pricing policy may be price ﬁxing 
+in a literal sense, it is not price ﬁxing in the antitrust sense. 
+See Broadcast Music, Inc. v.  Columbia Broadcasting Sys­
+tem, Inc., 441 U. S. 1, 9 (1979) (“When two partners set the 
+price of their goods or services they are literally ‘price ﬁx­
+ing,’ but they are not per se in violation of the Sherman 
+Act”). 
+This conclusion is conﬁrmed by respondents’ apparent con­
+cession that there would be no per se liability had Equilon 
+simply chosen to sell its gasoline under a single brand.  See 
+Tr. of Oral Arg. 34.  We see no reason to treat Equilon dif­
+ferently just because it chose to sell gasoline under two dis­
+1 We presume for purposes of these cases that Equilon is a lawful joint 
+venture.  Its formation has been approved by federal and state regula­
+tors, and there is no contention here that it is a sham.  As the court below 
+noted: “There is a voluminous record documenting the economic justiﬁca­
+tions for creating the joint ventures.  [T]he defendants concluded that 
+numerous synergies and cost efﬁciencies would result” by creating Equilon 
+as well as a parallel venture, Motiva Enterprises, in the eastern United 
+States, and “that nationwide there would be up to $800 million in cost 
+savings annually.”  369 F. 3d 1108, 1111 (CA9 2004).  Had respondents 
+challenged Equilon itself, they would have been required to show that its 
+creation was anticompetitive under the rule of reason.  See Copperweld 
+Corp. v. Independence Tube Corp., 467 U. S. 752, 768 (1984). 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  7 
+Opinion of the Court 
+tinct brands at a single price.  As a single entity, a joint 
+venture, like any other ﬁrm, must have the discretion to de­
+termine the prices of the products that it sells, including the 
+discretion to sell a product under two different brands at a 
+single, uniﬁed price.  If Equilon’s price uniﬁcation policy is 
+anticompetitive, then respondents should have challenged it 
+pursuant to the rule of reason.2  But it would be inconsistent 
+with this Court’s antitrust precedents to condemn the inter­
+nal pricing decisions of a legitimate joint venture as per se 
+unlawful.3 
+The court below reached the opposite conclusion by invok­
+ing the ancillary restraints doctrine.  369 F. 3d, at 1118– 
+1124.  That  doctrine  governs  the  validity  of  restrictions 
+imposed by a  legitimate business collaboration, such  as a 
+business association or joint venture, on nonventure activi­
+ties.  See, e. g., National Collegiate Athletic Assn. v. Board 
+of Regents of Univ. of Okla., 468 U. S. 85, 113–115 (1984); 
+Citizen Publishing Co. v. United States, 394 U. S. 131, 135– 
+136  (1969).  Under  the  doctrine,  courts  must  determine 
+whether the nonventure restriction is a naked restraint on 
+trade, and thus invalid, or one that is ancillary to the legiti­
+mate and competitive purposes of the business association, 
+and thus valid.  We agree with petitioners that the ancillary 
+restraints doctrine has no application here, where the busi­
+ness practice being challenged involves the core activity of 
+the  joint  venture  itself—namely,  the  pricing  of  the  very 
+2 Respondents have not put forth a rule of reason claim.  369 F. 3d, at 
+1113.  Accordingly, we need not address petitioners’ alternative argument 
+that § 1 of the Sherman Act is inapplicable to joint ventures. 
+3 Respondents alternatively contend that petitioners should be held lia­
+ble under the quick look doctrine.  To be sure, we have applied the quick 
+look doctrine to business activities that are so plainly anticompetitive that 
+courts need undertake only a cursory examination before imposing anti­
+trust liability.  See California Dental Assn. v. FTC, 526 U. S. 756, 770 
+(1999).  But for the same reasons that per se liability is unwarranted here, 
+we conclude that petitioners cannot be held liable under the quick look 
+doctrine. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+8  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+goods produced and sold by Equilon.  And even if we were 
+to invoke the doctrine in these cases, Equilon’s pricing policy 
+is clearly ancillary to the sale of its own products.  Judge 
+Fernandez, dissenting from the ruling of the court below, put 
+it well: 
+“In this case, nothing more radical is afoot than the 
+fact that an entity, which now owns all of the production, 
+transportation, research, storage, sales and distribution 
+facilities  for  engaging  in  the  gasoline  business,  also 
+prices its own products.  It decided to price them the 
+same, as any other entity could.  What could be more 
+integral to the running of a business than setting a price 
+for its goods and services?”  369 F. 3d, at 1127. 
+See also Broadcast Music, supra, at 23 (“Joint ventures and 
+other cooperative arrangements are . . . not usually unlawful, 
+at least not as price-ﬁxing schemes, where the agreement on 
+price is necessary to market the product at all”). 
+* * * 
+Because the pricing decisions of a legitimate joint venture 
+do not fall within the narrow category of activity that is per 
+se unlawful under § 1 of the Sherman Act, respondents’ anti­
+trust claim cannot prevail.  Accordingly, the judgment of the 
+Court of Appeals is reversed. 
+It is so ordered. 
+Justice Alito took no part in the consideration or deci­
+sion of these cases. 
+
+NEW PAGE

@@ -1,0 +1,11 @@
+Convert the following SCOTUS opinion document into a JSON-LD formatted knowledge graph. Each node should be a case citation, precedent, or prior opinion. Each node should have several properties such as date, case number, involved parties, reasoning for including in this opinion, and other relevant information.
+
+
+
+
+<<CHUNK>>
+
+
+
+
+JSON-LD Knowledge Graph:

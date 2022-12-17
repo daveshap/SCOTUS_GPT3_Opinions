@@ -1,0 +1,880 @@
+OCTOBER TERM, 1997
+Syllabus
+AMERICAN  TELEPHONE  & TELEGRAPH  CO. v.
+CENTRAL  OFFICE  TELEPHONE, INC.
+CERTIORARI TO THE UNITED STATES  COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 97-679.  Argued March 23, 1998-Decided June 15, 1998
+Respondent purchases "bulk" communications services from long-distance
+providers, such as petitioner AT&T, and resells them to its customers.
+Petitioner, as a common carrier under the Communications Act of 1934,
+must file with the Federal Communications Commission (FCC) "tariffs"
+containing  all its  "charges"  for interstate  services and  all  "classifi-
+cations, practices, and regulations affecting such charges," 47 U. S. C.
+§ 203(a).  A carrier may not "extend to any person any privileges or
+facilities in such communication, or employ or enforce any classifications,
+regulations,  or practices  affecting  such  charges,  except as  specified
+in such  [tariff]."  §203(c).  The FCC requires  carriers  to sell long-
+distance services to resellers under the same rates, terms, and condi-
+tions as apply to other customers.  In 1989, petitioner agreed to sell
+respondent a long-distance  service, which, under the parties' written
+subscription agreements, would be governed by the rates, terms, and
+conditions in the appropriate AT&T tariffs.  Respondent soon experi-
+enced problems with the service it received,  and withdrew from the
+contract before the expiration date.  Meanwhile, it had sued petitioner
+in Federal  District Court, asserting, inter alia, state-law claims  for
+breach of contract and for tortious interference with contractual rela-
+tions (viz., respondent's  contracts with its customers), the latter claim
+derivative of the former.  Respondent alleged that petitioner had prom-
+ised and failed to deliver various service, provisioning, and billing op-
+tions in addition to those set forth in the tariff, and that petitioner's
+conduct was willful, so that consequential damages were available under
+the tariff.  The Magistrate Judge rejected petitioner's  argument that
+the  claims  were  pre-empted  by  § 203's  filed-tariff  requirements;  he
+declined, however, to instruct on punitive damages  for the tortious-
+interference claim.  The jury found for respondent and awarded dam-
+ages.  The Ninth Circuit affirmed the judgment, but reversed the Mag-
+istrate Judge's failure to instruct on punitive damages and remanded for
+a trial on that aspect of the case.
+Held. The Communications Act's filed-tariff requirements  pre-empt re-
+spondent's state-law claims.  Pp. 221-228.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Syllabus
+(a) Sections 203(a) and (c)ar e modeled after similar provisions of the
+Interstate Commerce Act (ICA), and the "filed rate doctrine" associated
+with the ICA tariff provisions applies to the Communications Act as
+well.  MCI Telecommunications Corp. v. American Telephone & Tele-
+graph Co., 512 U.S. 218, 229-231.  Under that doctrine, the rate a car-
+rier duly files is the only lawful charge.  Louisville & Nashville R. Co.
+v. Maxwell, 237 U. S. 94, 97.  Even if a carrier intentionally misrepre-
+sents its rate and a customer relies on the misrepresentation, the carrier
+cannot be held to the promised rate if it conflicts with the published
+tariff.  Kansas City Southern R. Co. v. Carl, 227 U. S. 639, 653.  That
+this case involves services and billing rather than rates or ratesetting
+does not make the filed rate doctrine inapplicable.  Since rates have
+meaning only when one knows the services to which they are attached,
+any claim for excessive rates can be couched as a claim for inadequate
+services and vice versa.  The Communications Act recognizes this in
+the §§203(a) and (c)re quirements, and the cases decided under the ICA
+make it clear that discriminatory privileges are not limited to discounted
+rates, see, e. g., United States v. Wabash R. Co., 321 U. S. 403, 412-413.
+Pp. 221-224.
+(b) This Court's filed-rate cases involving special services claims can-
+not be distinguished  on the ground that the services they involved
+should have been included in the tarift  That is precisely the case here.
+Even provisioning  and billing are  "covered" by the applicable  tariff.
+Nor does it make any difference that petitioner provided the same serv-
+ices, without charge, to other customers;  that only tends to show that
+petitioner acted unlawfully with regard to the other customers as well.
+Pp. 224-226.
+(c) The analysis used in evaluating respondents contract claim applies
+with equal force to its wholly  derivative tortious-interference  claim.
+The Communications Act's saving clause does not dictate a different
+result.  It copies the ICA's saving clause, which has long been held to
+preserve only those rights that are not inconsistent with the statutory
+filed-rate requirements.  Keogh v. Chicago & Northwestern R. Co., 260
+U. S. 156, 163.  Finally, respondents argument that petitioner's willful
+misconduct makes the relief awarded here consistent with the tariff is
+rejected.  Pp. 226-228.
+108 F. 3d 981, reversed.
+ScALIA,  J., delivered the opinion of the Court, in which REHNQUIST,
+C. J.,  and  KENNEDY,  SoUTER,  THoMAs,  GINSBURG, and  BREYER,  JJ.,
+joined.  REHNQUIsT, C. J., filed a concurring opinion, post, p. 228.  STE-
+VENS,  J., filed a dissenting opinion, post, p. 231.  O'CoNNo?, J.,to ok no
+part in the consideration or decision of the case.
+
+NEW PAGE
+
+216  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+David W.  Carpenter argued  the  cause  for  petitioner.
+With him on the briefs were Carter G. Phillips, Thomas W.
+Merrill, Peter D. Keisler, and Marc E. Manly.
+Bruce M. Hall argued  the  cause  and  ified  a brief for
+respondent.*
+JUSTICE SCALIA delivered the opinion of the Court.
+Respondent  Central  Office  Telephone,  Inc.  (COT),  a re-
+seller  of long-distance  communications  services,  sued peti-
+tioner  AT&T,  a  provider  of long-distance  communications
+services, under state law for breach of contract and tortious
+interference  with  contract.  Petitioner  is  regulated  as  a
+common  carrier under the Communications  Act of 1934, 48
+Stat. 1064, as amended, 47 U. S. C. § 151 et seq.  The issue
+before  us  is  whether the  federal  filed-tariff  requirements
+of the Communications Act pre-empt respondent's state-law
+claims.
+I
+Respondent  purchases  "bulk"  long-distance  services-
+volume-discounted  services designed for large customers-
+from long-distance  providers,  and  resells  them to  smaller
+customers.  Like many other resellers in the telecommuni-
+cations industry, respondent does not own or operate facili-
+ties of its own; it is known as a "switchless reseller," which
+is the industry nomenclature for arbitrageur.  Of course re-
+spondent passes  along only a  portion of the bulk-purchase
+discount  to its  aggregated  customers,  and  retains  the  re-
+maining discount as profit.
+Petitioner provides long-distance  services and, as a com-
+mon carrier under the Communications  Act, § 153(h),  must
+*Gary M. Epstein, Maureen E.  Mahoney, Teresa D. Baer, Walter H.
+Alford,  William B.  Barfield, M. Robert Sutherland, and  Michael J
+Zpevak filed a brief for the United States Telephone Association et al. as
+amici curiae urging reversal.
+Henry D. Levine, Ellen G. Block, and James S. Blaszak filed a brief for
+the Ad Hoc Telecommunications Users Committee et al. as amici curiae.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+observe  certain  substantive  requirements  imposed by that
+law.  Section 203 of the Act requires that common carriers
+file "schedules" (also known as "tariffs") containing all their
+"charges" for interstate services and all "classifications, prac-
+tices,  and  regulations  affecting  such  charges."  §203(a).
+The Federal Communications  Commission  (FCC), which is
+the agency responsible for enforcing the Act, requires carri-
+ers to sell long-distance services to resellers such as respond-
+ent under the same rates, terms, and conditions as apply to
+other customers.
+Prior to  1989, petitioner  had  developed  a  type  of long-
+distance service known as Software Defined Network (SDN),
+designed to meet the needs of large companies with offices
+in multiple  locations.  SDN  established  a  "virtual  private
+network" that allowed  employees  in different  locations  to
+communicate  easily.  For example, an employee in Washing-
+ton  could  call  a  co-worker  in Denver  simply  by dialing a
+four-digit  extension.  SDN  customers,  in  exchange  for  a
+commitment to purchase large volumes of long-distance  com-
+munication time, received this service at a rate much below
+what it would otherwise cost.
+Several  changes  to  SDN  in  1989  made  the  service  ex-
+tremely attractive to resellers, such as respondent, who ag-
+gregate  smaller customers.  Petitioner developed the capa-
+bility to allow customers to use ordinary ("switched access")
+telephone lines to connect locations to their SDN networks.
+Previously, locations had to be connected  over special "dedi-
+cated access" lines, which  are direct lines from a location's
+telephone system to petitioner's long-distance  network, by-
+passing  the switches  of the local  exchange  carrier.  Dedi-
+cated access involves large fixed costs, so it is cost effective
+only  when  a location  originates  a  large  volume  of  calls.
+Switched access, in contrast, does not entail additional high
+fixed costs, so it is better suited to small users and hence to
+resellers.  Petitioner also instituted two pricing promotions
+for SDN in 1989:  additional discounts  from the basic SDN
+
+NEW PAGE
+
+218  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+rates for customers  making large usage and duration com-
+mitments, and waiver  of installation  charges  for customers
+making  multiyear  commitments  (subject  to  penalties  for
+early termination).  Petitioner also added a new billing op-
+tion.  In addition to network billing, whereby petitioner pre-
+pares a single bill that applies the tariffed rate to all usage at
+all locations, petitioner started to offer multilocation billing
+(MLB), which allows the SDN volume discounts to be appor-
+tioned between an SDN customer and individual locations on
+its network, with  the proportion being chosen  by the cus-
+tomer.  Under this option, petitioner sends bills directly to
+the customer's individual locations (which, in the case of re-
+sellers, means to the reseller's customers) but the customer
+(or reseller) remains responsible for all payments.  The tar-
+iff provides, however, that petitioner is not responsible for
+the  allocation  of  charges.  See  AT&T  Tariff FCC  No.  1,
+§ 6.2.4 (1986), App. to Brief for Petitioner 24a.
+Attracted  by these changes, in October 1989, respondent
+approached  petitioner  regarding  its  possible  purchase  of
+SDN.  LaDonna Kisor, a sales representative in petitioner's
+Portland, Oregon, office, described the service and gave re-
+spondent literature on SDN.  She predicted that petitioner
+could establish an initial SDN network for respondent in four
+to five months, and could thereafter add new locations within
+30 days of receiving an order.  Respondent subscribed to a
+tariffed switched-access  SDN plan under which the up-front
+installation charges would be waived and respondent would
+receive a  17% to 20% discount  off basic SDN rates in ex-
+change for a 4-year commitment to purchase two million min-
+utes of service annually.  Respondent  also requested MLB.
+Petitioner  confirmed  respondent's  order,  stating  that  re-
+spondent would obtain SDN  "'pursuant to the rates, terms
+and conditions in AT&T's [FCC Tariff No. 1],"  and that the
+provisions  of the tariff, "'including  limitations  on AT&T's
+liabilities, shall govern your and AT&T's obligations and lia-
+bilities  with  respect  to the  service  and  options you  have
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+selected."'  Brief for Petitioner  14.  Respondent  accepted
+these terms in writing on October 30, 1989.
+By February  1990, it had become apparent  that the de-
+mand for SDN exceeded  petitioner's  expectations-largely
+because of the switchless resellers attracted to the service.
+Petitioner could not fill the volumes of switched-access  or-
+ders  as  rapidly  as  dedicated  access  orders,  or  as  quickly
+as  petitioner's  personnel  had  predicted.  Accordingly,  Ms.
+Kisor notified respondent that it would take up to 90 days to
+add  new  locations  after  the initial  SDN  was  established.
+She suggested placing respondent's customers with another
+AT&T service, the Multilocation Calling Plan (MLCP), until
+they could be placed on SDN.  Respondent agreed to this,
+and ordered MLCP.  Again, respondent signed a letter con-
+firming that MLCP "'is  provided under the terms and condi-
+tions stated in AT&T's Tariff F. C. C. Nos. 1 and 2."'  Brief
+for Appellant in Nos. 94-36116, 94-36156 (CA9), p. 15.
+Ms. Kisor informed respondent that its initial SDN net-
+work was functioning in April 1990.  At that point, respond-
+ent elected to increase to a larger SDN volume commitment
+in order to  qualify for  a larger discount.  In  placing this
+order, respondent signed a form stating that the SDN serv-
+ice  "'WILL  BE  GOVERNED  BY  THE  RATES  AND
+TERMS  AND  CONDITIONS  IN  THE  APPROPRIATE
+AT&T TARIFFS."'  Brief for Petitioner 14-15.  Respond-
+ent then began reselling SDN to its own customers and plac-
+ing orders with petitioner that required petitioner to treat
+respondent's  customers  as if they were new locations  on a
+corporate SDN.
+Almost from the outset, respondent experienced problems
+with the network, including delays in provisioning (the filling
+of orders) and in billing.  An additional billing problem was
+especially damaging  to respondent:  respondent's customers
+received bills reflecting 100% of the discount instead of the
+50% respondent selected.  These problems continued, and in
+October 1990, they led respondent to switch to network bill-
+
+NEW PAGE
+
+220  AMERICAN TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+Opinion of the Court
+ing.  Although  respondent continued to resell SDN, it was
+ultimately unable to meet its usage commitment for the first
+period in which it was applicable.  In September  1992, re-
+spondent notified petitioner that it was terminating its SDN
+service effective September 30, 1992, with 18 months remain-
+ing on its contract.
+Meanwhile,  on  November  27,  1991,  respondent had filed
+suit against petitioner in the United  States District  Court
+for the District of Oregon.  The complaint contained a vari-
+ety of claims, none of which arose under the Communications
+Act, and ultimately  two state-law  claims went  to trial:  (1)
+breach of contract (including breach of an implied covenant
+of good faith and fair dealing); and (2) tortious interference
+with contractual relations  (viz., respondents  contracts with
+its customers).  Respondent's state-law claims rested on the
+allegation that its contracts with petitioner were not limited
+by petitioner's  tariff but also included certain understand-
+ings respondent's president derived from reading petitioner's
+brochures  and talking with its representatives.  According
+to  respondent,  petitioner  promised  various  service,  provi-
+sioning, and billing options in addition to those set forth in
+the tariff.  Respondent also claimed that petitioner violated
+its state-law implied duty of good faith and fair dealing by
+taking actions that undermined the purpose  of the contract
+for  respondent,  which  was  to  purchase  SDN  services  for
+resale at a profit.  The tortious-interference  claim was de-
+rivative  of the contract  claim.  Respondent  asserted that,
+because respondent promised certain benefits of SDN to its
+customers, and because petitioner provided competing serv-
+ices, any intentional violation of petitioner's contractual du-
+ties constituted tortious-interference with respondent's rela-
+tionship with its customers.  Respondent also asserted that,
+since petitioner's conduct was willful, consequential damages
+were available under the terms of the tariff.  Petitioner fied
+a counterclaim to recover $200,000 in unpaid tariffed charges
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+from April to October 1990, and  to obtain  the termination
+charges that respondent did not pay in 1992.
+Throughout the proceedings  in District Court, petitioner
+argued that respondent's state-law contract  and tort claims
+were pre-empted by the filed-tariff requirements  of § 203 of
+the Act.  The Magistrate Judge rejected this argument and
+instructed the jury to consider not only the written subscrip-
+tion agreements, but also any statements made or documents
+furnished before the parties signed the agreements "'if you
+find that the parties intended that those statements or writ-
+ten materials  form  part of their agreements."'  Brief for
+Petitioner  18.  The  Magistrate  Judge  also  instructed  the
+jury that it could  not find  for respondent  on  its contract
+claims unless it found that petitioner engaged in willful mis-
+conduct.  He  declined to instruct on punitive  damages  for
+the tortious-interference claim.  The jury found for respond-
+ent  on  its  state-law  claims,  rejected  petitioner's  counter-
+claim,  and  awarded  respondent  $13  million  in lost profits.
+The Magistrate Judge reduced the judgment to $1.154  mil-
+lion, which represented. the lost profits  respondent claimed
+during the period before it canceled SDN on September 30,
+1992; he found that there was no competent evidence for lost
+profits after that date.  The Court of Appeals, over a dissent
+by Judge Brunetti, affirmed the judgment but reversed the
+Magistrate Judge's  failure to instruct on punitive  damages
+and  remanded  for a trial on  that aspect  of the  case.  108
+F. 3d 981 (CA9 1997).  We granted certiorari to determine
+whether the federal filed-rate requirements of § 203 pre-empt
+respondent's claims.  522 U. S. 1024 (1997).
+II
+Section 203(a) of the Communications  Act requires every
+common carrier to file with the FCC "schedules," i. e., tariffs,
+"showing all charges" and "showing the classifications, prac-
+tices,  and regulations  affecting  such  charges."  47  U. S. C.
+§ 203(a).  Section 203(c) makes it unlawful for  a carrier  to
+
+NEW PAGE
+
+222  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE,  INC.
+Opinion of the Court
+"extend to  any  person any  privileges  or  facilities  in such
+communication, or employ or enforce any classifications, reg-
+ulations, or practices affecting such charges, except as speci-
+fied in such schedule."  These provisions are modeled after
+similar provisions of the Interstate Commerce Act (ICA) and
+share its goal of preventing unreasonable and discriminatory
+charges.  MCI  Telecommunications  Corp.  v.  American
+Telephone & Telegraph Co.,  512  U. S. 218,  229-230  (1994).
+Accordingly, the century-old "filed rate doctrine" associated
+with the ICA tariff provisions applies to the Communications
+Act as well.  See id., at 229-231; Arkansas Louisiana Gas
+Co. v. Hall, 453 U. S. 571, 577 (1981);  cf. United States Nay.
+Co. v. Cunard S. S. Co., 284 U. S. 474, 481 (1932).  In Louis-
+ville & Nashville R. Co. v. Maxwell, 237 U. S. 94, 97 (1915),
+we described  the basic  contours  of the filed  rate doctrine
+under the ICA:
+"Under the Interstate Commerce Act, the rate of the
+carrier  duly filed is the only lawful charge.  Deviation
+from  it is  not permitted upon  any pretext.  Shippers
+and travelers are charged with notice of it, and they as
+well as the carrier must abide by it, unless it is found
+by the Commission to be unreasonable.  Ignorance  or
+misquotation  of rates  is  not  an  excuse  for  paying or
+charging either less or more than the rate filed.  This
+rule  is  undeniably  strict  and  it  obviously  may  work
+hardship  in  some  cases,  but  it  embodies  the  policy
+which has been adopted by Congress in the regulation
+of  interstate  commerce  in  order  to  prevent  unjust
+discrimination."
+Thus, even if a carrier intentionally misrepresents  its rate
+and a customer relies  on the misrepresentation,  the carrier
+cannot be held to the promised rate if it conflicts with the
+published tariff.  Kansas City Southern R. Co. v. Carl, 227
+U. S. 639, 653 (1913).
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+While  the ified  rate  doctrine  may  seem harsh  in  some
+circumstances,  see, e.g.,  Maislin Industries, U.S.,  Inc. v.
+Primary Steel, Inc., 497 U. S. 116, 130-131 (1990),  its strict
+application  is  necessary  to  "prevent  carriers  from  inten-
+tionally  'misquoting' rates to shippers as a means of offer-
+ing them rebates or discounts,"  the very evil the filing re-
+quirement seeks to prevent.  Id., at 127.  Regardless of the
+carrier's motive-whether it seeks to benefit or harm a par-
+ticular customer-the policy of nondiscriminatory rates is vi-
+olated when similarly situated customers pay different rates
+for the same services.  It is that antidiscriminatory policy
+which lies at "the heart of the common-carrier section of the
+Communications  Act."  MCI Telecommunications Corp. v.
+American Telephone & Telegraph Co., supra, at 229.
+The  Ninth Circuit  thought the  filed  rate  doctrine  inap-
+plicable "[b]ecause this case does not involve rates or rate-
+setting, but rather involves the provisioning of services and
+billing."  108  F. 3d,  at 990.  Rates, however, do not  exist
+in isolation.  They have meaning only when one knows the
+services to which they are attached.  Any claim for exces-
+sive rates can be couched as a claim for inadequate services
+and vice versa.  "If 'discrimination in charges' does not in-
+clude non-price  features, then the carrier  could defeat the
+broad purpose of the statute by the simple expedient of pro-
+viding an additional benefit at no additional charge....  An
+unreasonable 'discrimination in charges,' that is, can come in
+the form of a lower price for an equivalent service or in the
+form of an enhanced service for an equivalent price."  Com-
+petitive Telecommunications Assn. v. FCC,9 98 F. 2d 1058,
+1062  (CADC  1993).  The  Communications  Act  recognizes
+this  when  it  requires  the  filed  tariff  to  show  not  only
+"charges,"  but also "the classifications,  practices, and regu-
+lations  affecting  such  charges,"  47  U. S. C.  § 203(a);  and
+when it makes it unlawful to "extend to any person any privi-
+leges or facilities in such  communication,  or employ or en-
+
+NEW PAGE
+
+224  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+force  any  classifications,  regulations,  or practices  affecting
+such  charges" except those set forth in the tariff, §203(c).
+Unsurprisingly, the cases decided under the ICA make it
+clear that discriminatory  "privileges" come in many guises,
+and are not limited to discounted rates.  "[A]  preference  or
+rebate is the necessary result of every violation of [the ana-
+log to § 203(c) in the ICA] where the carrier renders or pays
+for a service not covered by the prescribed tariffs."  United
+States v. Wabash R. Co.,  321 U. S. 403, 412-413  (1944).  In
+Chicago & Alton R. Co. v. Kirby, 225  U. S.  155  (1912),  we
+rejected a shipper's breach-of-contract  claim against a rail-
+road for failure to ship a carload of race horses by a particu-
+larly fast train.  We held- that the contract was invalid as a
+matter of law because the carrier's tariffs "did not provide
+for an expedited service, nor for transportation by any par-
+ticular train," and therefore the shipper received "an undue
+advantage ...  that is not one open  to others in the same
+situation."  Id., at 163, 165.  Similarly, in Davis v. Cornwell,
+264 U. S. 560 (1924), we invalidated the carrier's agreement
+to provide the shipper with a number of railroad cars  on a
+specified day; such a special advantage, we said, "is illegal,
+when not provided for in the tariff."  Id., at 562.  See also
+Kansas City Southern R. Co. v. Carl, supra, at 653;  Wight
+v. United States, 167 U. S. 512, 517-518 (1897);  I. Lake, Dis-
+crimination by Railroads and Other Public Utilities 310-315
+(1947).
+III
+The  Ninth  Circuit  distinguished  the  Court's  filed  rate
+cases involving claims for special services on the ground that
+the services at issue there "should have been included in the
+tariff  and  made  available  to  all"  because  "the  customer
+would  have been  expected to pay a higher rate" for those
+services.  108 F. 3d, at 989, n. 9.  But that is precisely the
+case here.  Indeed, the additional services  and guarantees
+that respondent claims it was  entitled to by virtue  of Ms.
+Kisor's  representations  and  petitioner's  sales  brochures-
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+viz.,  faster provisioning,  the allocation  of charges  through
+multilocation billing, and various matters relating to depos-
+its, calling cards, and service support, see 108 F. 3d, at 987-
+988-all pertain to subjects that are specifically addressed
+by the filed  tariff.  See  AT&T  Tariff FCC  No.  1, §2.5.10
+(provisioning of orders); § 6.2.4 (allocation of charges); § 2.5.6
+(deposits); § 2.5.12.B (calling cards); § 6.2.5 (service supports).
+The  Ninth Circuit agreed that all of respondent's claims
+except those relating to provisioning and billing would be
+pre-empted if the ified rate doctrine applied.  108 F. 3d, at
+990.  But even provisioning and billing are, in the relevant
+sense,  "covered"  by the tariff.  For  example, whereas  re-
+spondent asks to enforce a guarantee that orders would be
+provisioned within 30 to 90 days, the tariff leaves it  up to
+petitioner to "establis[h] and confir[m]"  a due date for provi-
+sioning, requires that petitioner merely make "every reason-
+able effort" to meet that due date, and if it  fails gives the
+customer  no recourse  except to "cancel  the order  without
+penalty or payment  of nonrecurring  charges."  §2.5.10(B).
+Faster, guaranteed provisioning of orders for the same rate
+is  certainly  a privilege  within  the  meaning  of 47  U. S. C.
+§203(c)  and  the filed  rate doctrine.  Cf. Chicago & Alton
+R. Co. v. Kirby, supra, at  163  (refusing to  enforce  prom-
+ise for faster, guaranteed service not included in the tariff).
+As for billing, whereas respondent claims that, pursuant to
+the MLB  option, petitioner promised to allocate usage and
+charges accurately  among respondent's customers, the tariff
+provides  that  petitioner  "will  not  allocate  . . . usage  or
+charges"  among  the  locations  on the  customer's  network
+and "is not responsible for the way that the Customer may
+allocate usage or charges."  AT&T Tariff FCC No. 1, § 6.2.4.
+Any assurance by petitioner that it would allocate usage and
+charges and take responsibility for the task would have been
+in flat contradiction  of the tariff.  See Chesapeake & Ohio
+R. Co. v. Westinghouse, Church, Kerr & Co.,  270 U. S. 260,
+266 (1926).
+
+NEW PAGE
+
+226  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+Opinion of the Court
+The Ninth Circuit distinguished respondents claims from
+those in our fied-rate cases involving special services in one
+other respect: according to respondent, the "special services"
+that it sought were provided by petitioner, without charge,
+to other customers, 108 F. 3d, at 989, n. 9.  Even if that were
+so, the claim  for these services  would  still be pre-empted
+under the filed rate doctrine.  To the extent respondent is
+asserting discriminatory  treatment, its remedy is to bring
+suit under § 202 of the Communications Act.'  To the extent
+petitioner is claiming that its own claims for special services
+are not really special because other companies get the same
+preferences, "that would only tend to show that the practice
+was unlawful [with regard to] the others as well."  United
+States v. Wabash R. Co., supra, at 413.  Because respondent
+asks for privileges  not included  in the tariff, its state-law
+claims are barred in either case.
+IV
+Our  analysis  applies  with  equal  force  to  respondent's
+tortious-interference  claim  because  that is wholly  deriva-
+tive of the contract claim for additional and better services.
+Respondent  contended  that the  tort  claim  Was  based  on
+"AT&T's refusal to provide [respondent]  with certain types
+of service"  and  the  Magistrate Judge  agreed, noting that
+"'the claims in this case, even the tort claim,..,  stem from
+the alleged failure of AT&T to comply with its contractual
+relationship.'  2  Brief for Appellant in Nos. 94-36116,  94-
+1Eight months after the close of discovery (and well after the 2-year
+statute  of limitations  in the  Communications  Act,  §415),  respondent
+sought leave to file a second amended complaint to add a § 202 claim.  The
+Magistrate Judge denied the request.  Respondent  did not appeal that
+ruling.
+2 The dissent argues that "the jury's verdict on respondent's tort claim
+is supported by evidence that went well beyond, and differed in nature
+from, the contract claim," post, at 231, which the dissent asserts requires
+us to remand this case rather than reverse the judgment.  This issue of
+noncontract evidence neither was included within the question presented
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+36156 (CA9), p. 33.  Respondent can no more obtain unlaw-
+ful preferences under the cloak of a tort claim than it can by
+contract.  "The rights as defined by the tariff cannot be var-
+ied or enlarged by either  contract  or tort of the  carrier."
+Keogh v. Chicago & Northwestern R. Co., 260 U. S. 156, 163
+(1922); see also Maislin, 497 U. S., at 126.
+The saving clause of the Communications  Act, § 414, con-
+trary to respondent's reading of it, does not dictate a differ-
+ent result.  Section 414 copies the saving clause of the ICA,
+and we have long held that the latter preserves  only those
+rights that are not inconsistent with the statutory fied-tariff
+requirements.  Adams Express Co. v. Croninger,2 26 U. S.
+491, 507 (1913).  A claim for services that constitute unlaw-
+ful preferences  or that directly conflict with the tariff-the
+basis for both the tort and contract claims here-cannot be
+"saved" under § 414.  "Th[e saving] clause...  cannot in rea-
+son be construed as continuing in [customers] a common law
+for our review ('Whether...  the Ninth Circuit improperly allowed state-
+law contract and tort claims based on a common carrier's failure to honor
+an alleged side agreement to give its customer better service than called
+for by the carrier's tariff") nor was raised by respondent as an alternative
+ground in support of the judgment.  Nor has respondent ever suggested
+the need for a remand, even though the petition for certiorari sought not
+merely reversal, but summary reversal.  In its brief on the merits, re-
+spondent argued that the intentional tort claim was not pre-empted be-
+cause AT&T's willful breach of its contractual commitments was not pro-
+tected by the filed rate doctrine.  There was no hint of an argument that,
+even if that willful breach could not form the basis for an action, other
+alleged intentional acts sufficed to support the judgment below.  At no
+point has respondent disputed the Magistrate Judge's finding that the tort
+claim is derivative of the contract claim, or the Ninth Circuit's description
+of its tort claim as based on the fact that "because  COT had promised
+certain benefits  of SDN to its customers, and because AT&T provided
+competing services, any violation of AT&T's contractual duties constituted
+tortious interference with COT's relationship with its customers."  108
+F. 3d 981, 988 (1997).  Contrary to the dissents assertion, we have no
+obligation to search the record  for the existence  of a nonjurisdictional
+point not presented, and to consider a disposition (remand instead of rever-
+sal) not suggested by either side.
+
+NEW PAGE
+
+228  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE  TELEPHONE, INC.
+REHNQUIST, C. J., concurring
+right, the continued existence of which would be absolutely
+inconsistent with the provisions of the act.  In other words,
+the act cannot be held to destroy itself."  Texas & Pacific R.
+Co. v. Abilene Cotton Oil Co., 204 U. S. 426, 446 (1907).
+Finally, we reject respondent's argument that, even if the
+tariff exclusively governs the parties' relationship, the relief
+awarded  is  consistent  with  the  tariff, since  AT&T  Tariff
+FCC No. 1, § 2.3.1 provides that petitioner's "liability, if any,
+for its willful misconduct is not limited by this tariff."  Re-
+spondent  reasons  that, because  the jury found  that peti-
+tioner engaged in willful misconduct,  the verdict does not
+conflict  with  the tariff.  Section 2.3.1,  however, cannot be
+construed to do what the parties have no power to do.  It
+removes only those limitations upon liability imposed by the
+tariff,n ot those imposed by law.  It is the Communications
+Act  that  renders  the  promise  of  preferences  unenforce-
+able.  The tariff can  no more  exempt the broken promise
+of preference  that is willful than it can the broken  prom-
+ise of preference that is unintentional.  (In fact, perversely
+enough,  the  willful breach  displays  a  greater,  if belated,
+attempt to comply with the law.)
+Because  respondent's  state-law claims are barred by the
+fied rate doctrine,  we reverse  the judgment  of the Ninth
+Circuit.
+It is so ordered.
+JUSTICE  O'CONNOR  took no part in the consideration  or
+decision of this case.
+CHIEF JUSTICE REHNQUIST, concurring.
+The Court concludes that respondent's  tortious interfer-
+ence claim is "wholly derivative  of the contract claim"  and
+therefore barred by the filed rate doctrine.  The Court ac-
+cepts the Magistrate Judge's finding to that effect, ante, at
+226, and I agree: The  acts of tortious interference  asserted
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+REHNQUIST, C. J., concurring
+against AT&T amount to no more than an intentional refusal
+to provide  services  to respondent in an amount or manner
+contrary to the filed tariff.
+I write separately to note that this finding is necessary to
+the conclusion that respondent's state-law tort claim may not
+proceed.  As  the majority  correctly  states, the  filed  rate
+doctrine  exists  to  protect  the  "antidiscriminatory  policy
+which lies at 'the heart of the common-carrier  section of the
+Communications Act."'  Ante, at 223.  Central to that anti-
+discriminatory  policy  is  the notion  that all  purchasers  of
+services covered by the tariff will pay the same rate.  The
+filed  rate doctrine furthers this policy by disallowing  suits
+brought to enforce agreements to provide services on terms
+different from those listed in the tariff.  This ensures that
+the tariff governs  the terms by which the common carrier
+provides those services to its customers.
+It is  crucial  to note, however,  that this is all  the tariff
+governs.  In order  for the filed rate doctrine  to serve  its
+purpose, therefore, it need pre-empt  only those  suits that
+seek to alter the terms  and conditions  provided for in the
+tariff.  This is how the doctrine has been applied in the past.
+In Chicago & Alton R. Co. v. Kirby, 225 U. S. 155 (1912), for
+example, respondent entered into a contract with petitioner
+to ship horses  from Springfield, Illinois, to New York City
+via a special fast train.  The tariff that the petitioner had
+filed "did not provide for an expedited service, nor for trans-
+portation by any particular train."  Id., at 163.  The Court
+ruled that respondents  suit to enforce the special arrange-
+ment could not proceed:
+"An advantage accorded by special agreement which af-
+fects the value of the service to the shipper and its cost
+to the carrier should be published in the tariffs, and for
+a breach of such a contract, relief will be denied, because
+its allowance without such publication is a violation of
+the act.  It is also illegal because it is an undue advan-
+
+NEW PAGE
+
+280  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+REHNQUIST, C. J., concurring
+tage in that it is not one open to all others in the same
+situation."  Id., at 165.
+In Keogh v. Chicago & Northwestern R. Co., 260 U. S. 156,
+163 (1922), the question was not whether a separate contract
+could be enforced, but rather whether petitioner could bring
+an antitrust complaint challenging the rate that respondents
+had filed in their tariff.  The Court ruled that he could not:
+"The legal rights of shipper as against carrier in respect
+to a rate are measured by the published tariff.  Unless
+and until suspended or set aside, this rate is made, for all
+purposes, the legal rate, as between carrier and shipper.
+The rights as defined by the tariff cannot be varied or
+enlarged  by  either  contract  or  tort  of  the  carrier."
+Ibid. (emphasis added).
+In this case respondent's  contract  claim seeks to enforce
+side arrangements  that it  made with petitioner.  Respond-
+ent  contends  that petitioner  promised  to  provide  it  with
+services  on terms  different from those listed in the tariff.
+As the above cases make clear, the filed rate doctrine bars
+such a claim.  Respondents tort claim is entirely derivative
+of its contractual claim, and the Court is therefore correct in
+concluding that the doctrine also bars the tort claim.
+The  tariff does not govern, however, the entirety of the
+relationship between the common carrier and its customers.
+For  example, it  does  not affect whatever  duties  state law
+might impose on petitioner to refrain from intentionally in-
+terfering with respondent's relationships with its customers
+by  means  other  than  failing  to  honor  unenforceable  side
+agreements, or to refrain from engaging in slander or libel,
+or  to satisfy other  contractual  obligations.  The fied rate
+doctrine's  purpose is to ensure that the filed rates are the
+exclusive  source of the terms and  conditions by which the
+common carrier provides to its customers the services cov-
+ered by the tariff.  It  does not serve as a shield against all
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+STEVENS, J., dissenting
+actions  based in state law.  It is with  this understanding
+that I join the Court's opinion.
+JUSTICE STEVENS,  dissenting.
+Everyone  agrees  that respondent's  tortious  interference
+claim  would  be barred  by  the filed  rate  doctrine  if it is
+"wholly derivative  of the contract  claim for additional  and
+better services."  Ante, at 226 (majority opinion);  ante, at
+228  (REHNQUIST,  C.  J.,  concurring).  Moreover,  it  is  true
+that when the Magistrate Judge ruled that respondent's case
+would not support a punitive damages award as a matter of
+state  law, he  characterized  the tort claim  as  "stem[ming]
+from the alleged failure of AT&T to comply with its contrac-
+tual relationship."  Tr. 2207.  In my opinion, however, the
+jury's verdict on respondent's tort claim is supported by evi-
+dence that went well beyond,  and  differed in nature from,
+the contract claim.
+If petitioner, in an effort to appropriate respondent's cus-
+tomers,  had  included with  each  bill  sent to  a  customer  a
+statement expressly characterizing respondent as an unethi-
+cal, profit-hungry middleman, I would think it clear that the
+filed rate  doctrine  would not  constitute a defense  to  such
+tortious conduct.  The evidence in the record indicates that
+a similar result was obtained by mailing bills to the custom-
+ers that disclosed the markup that respondent obtained  on
+their calls.
+Respondent's tort claim was also premised in part on testi-
+mony that AT&T used a telemarketer to contact respondent's
+customers and, without their authorization, convert them to
+AT&T's own long-distance  service.  Id., at 557-558.  In re-
+jecting  AT&T's  motion for  a directed  verdict  on  the tort
+claim, the Magistrate recognized that this practice of "slam-
+ming" customers could "easily be a case of intentional inter-
+ference" that would not necessarily also constitute breach of
+contract.  Id., at 2166-2167.  Slamming was clearly a part
+of the case presented in the District Court.  There was an
+
+NEW PAGE
+
+232  AMERICAN TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+STEVENS, J., dissenting
+allegation of slamming in respondents amended complaint;'
+in the District Court, AT&T's trial counsel took issue with
+respondent's  effort  to make  slamming  "a big part of this
+case,"  id., at 2170, and said in closing argument that slam-
+ming "is the basis for  this intentional  interference"  claim,
+id., at 2921;  and nothing in the jury instructions  remotely
+suggested that the tort claim required proof of broken prom-
+ises by AT&T to provide additional services.  Respondents
+evidence easily fits within the definition of intentional inter-
+ference set forth in the jury charge:
+"COT asserts  that AT&T intentionally interfered  with
+its business  relations  and  expectations  of future  busi-
+ness relations  with its customers,  the end users  of its
+SDN  service.  In order to prevail on this claim,  COT
+must prove by a  preponderance  of the  evidence, one,
+that COT had business relations with the probability of
+future  economic  benefit.  Two,  that AT&T  was  aware
+of the relationships  and expectation  of future benefits.
+Three,  that AT&T intentionally interfered with  COT's
+business relations.  Four, that AT&T interfered for an
+improper  motive  or by using  improper means.  And,
+five, that COT suffered  economic  injury as  a result of
+the interference."  App. 71.
+It may be the fact that the billing disclosures  and  slam-
+ming were the consequence of negligence rather than a delib-
+erate plan to take over a network of customers that respond-
+ent  had  developed, but  the jury concluded  otherwise.  It
+found that petitioner acted intentionally and willfully in in-
+terfering  with  respondents  business  relations.  See ibid.2
+That finding is doubly significant.
+I" [D]espite repeated requests by COT to AT&T, AT&T failed to rectify
+incidents of unauthorized changes made in the designated carriers ('slam-
+ming') of COT's customers."  App. 28.
+2 The jury's $13  million  damages  award,  reduced by the Magistrate
+Judge to $1.154  million, did not differentiate between the contract and
+tort claims.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+STEVENS, J., dissenting
+First, as the Court acknowledges,  ante, at 228, the jury's
+finding precludes  a defense based on the provisions of the
+tariff that purport to limit petitioner's liability.  Second, and
+of greater importance, it determines that the most egregious
+tortious conduct was  not merely derivative  of the contract
+violations.  Enforcement  of respondent's state-law right to
+be free  from tortious  interference  with  business  relations
+does not somehow award respondent an unlawful preference
+that should have been specified in the tariff (presumably in
+return for an added fee or higher rate); it instead gives effect
+to a generally applicable right that petitioner is required, by
+state law, to respect in dealing with  all others, customers
+and noncustomers alike.  Thus, at least some of the tortious
+interference occurred independently  of the customer-carrier
+relationship and would have been actionable even if respond-
+ent had never entered into a contract with AT&T.
+The Court correctly states that the filed rate doctrine will
+pre-empt some tort claims, but we have never before applied
+that harsh doctrine to bar relief for tortious conduct with so
+little connection to, or effect upon, the relationship governed
+by the tariff.  To the extent respondent's tort claim is based
+on petitioner's billing disclosures and slamming practices, it
+neither  challenges the carrier's filed rates, as did the anti-
+trust claim in Keogh v. Chicago & Northwestern R. Co., 260
+U. S.  156  (1922),  nor seeks a  special service  or privilege  of
+the sort requested in cases such as Chicago & Alton R. Co.
+v. Kirby, 225  U. S.  155  (1912),  and  Davis v. Cornwell, 264
+U. S.  560 (1924).  More akin to this case is Nader v. Alle-
+gheny Airlines, Inc., 426  U. S. 290, 300 (1976),  in which we
+held that a common-law tort action for fraudulent misrepre-
+sentation against a federally regulated air carrier could "co-
+exist" with the Federal Aviation Act.  To a limited degree
+it may be said that here, as in Nader, "any impact on rates
+that may result from the imposition of tort liability or from
+practices adopted by a carrier to avoid such liability would
+be merely incidental."  Ibid.  If the Communications Act's
+
+NEW PAGE
+
+234  AMERICAN  TELEPHONE  & TELEGRAPH CO.
+v. CENTRAL OFFICE TELEPHONE,  INC.
+STEVENS, J., dissenting
+saving clause 3 means anything, it preserves state-law reme-
+dies against carriers on facts such as these.
+The District Court and the Court of Appeals never consid-
+ered whether respondent's tort claim is wholly derivative of
+its contract  claim  for purposes  of the filed  rate  doctrine,
+because those courts mistakenly believed that even the con-
+tract claim was not covered by the doctrine.  On my own
+reading of the record, I think it clear that a portion of the
+tort claim is not pre-empted.  The Court should therefore
+remand the case for a new trial rather than ordering judg-
+ment outright for AT&T.4
+Although  the Court holds broadly that respondent's  tort
+claim is totally barred, it declines to consider whether a por-
+tion of the claim might survive on remand because this issue
+was  not part of the question presented in the petition for
+certiorari  and  was  not  specifically  raised  by  respondent.
+Ante, at 226-227, n. 2.  The latter point is wholly irrelevant,
+precisely  because  of the scope  of the  question  presented.
+The only question that we agreed to decide was whether the
+filed rate  doctrine  pre-empts  "state-law contract  and  tort
+claims  based  on  a  common  carrier's  failure  to  honor  an
+alleged side agreement  to give its customer better service
+than called for by the carrier's tariff."  Pet. for Cert. i.  The
+Court  answers  that  legal  question,  and  then  decides  an
+additional, factual  one:  whether respondent's tort claim  is
+"based on" AT&T's "failure to honor an alleged side agree-
+ment,"  and  thus is  "wholly  derivative"  of the  pre-empted
+contract  claim.  In resolving that issue,  the Court cannot
+3 "Nothing in this chapter contained shall in any way abridge or alter
+the remedies now existing at common law or by statute, but the provisions
+of this chapter are in addition to such remedies."  47 U. S. C. §414.
+4 Beyond the billing disclosures and slamming, respondent asserts that
+AT&T also misappropriated customer information from respondents con-
+fidential data base.  Brief for Respondent 4.  That basis for a tort remedy,
+if supported by sufficient evidence, would also appear not to be pre-empted
+by the filed rate doctrine.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)  235
+STEVENS, J., dissenting
+simply rely on AT&T's bald assertion, supported only by a
+statement of the Magistrate taken  out of context, that the
+tort  claim  is  "wholly  derivative";  we  have  an  obligation
+either to study the record  or at least to remand  and  allow
+the lower  courts to consider  the proper application  of the
+legal rule to the facts of this case.
+I respectfully dissent.
+
+NEW PAGE
