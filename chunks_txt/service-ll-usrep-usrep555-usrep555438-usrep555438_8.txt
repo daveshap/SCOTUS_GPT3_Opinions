@@ -1,0 +1,43 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  459 
+Breyer, J., concurring in judgment 
+petitioners were required to provide wholesale digital sub­
+scriber line (DSL) transport service as a common carrier, 
+charging “just and reasonable” rates that were not “unrea­
+sonabl[y]  discriminat[ory].”  47  U. S. C.  §§ 201(b),  202(a) 
+(2000 ed.).  And, in my view, a purchaser from a regulated 
+ﬁrm (which, if a natural monopolist, is lawfully such) cannot 
+win an antitrust case simply by showing that it is “squeezed” 
+between the regulated ﬁrm’s wholesale price (to the plain­
+tiff) and its retail price (to customers for whose business 
+both ﬁrms compete).  When a regulatory structure exists to 
+deter and remedy anticompetitive harm, the costs of anti­
+trust enforcement are likely to be greater than the beneﬁts. 
+See Concord v. Boston Edison Co., 915 F. 2d 17, 26–29 (CA1 
+1990).  Cf. 3 P. Areeda & D. Turner, Antitrust Law ¶¶ 834– 
+836, pp. 344–355 (1978) (whether a particular course of con­
+duct counts as “exclusionary” for antitrust purposes depends 
+upon a host of factors, including, for example, the market 
+position of the defendant, the nature of the market, and the 
+nature of the defendant’s conduct). 
+Unlike Concord, the regulators here controlled prices only 
+at the wholesale level.  See 915 F. 2d, at 29.  But respond­
+ents do not claim that that regulatory fact makes any differ­
+ence; and rightly so, for as far as I can tell, respondents could 
+have gone to the regulators and asked for petitioners’ whole­
+sale prices to be lowered in light of the alleged price squeeze. 
+Cf.  FPC  v.  Conway  Corp.,  426  U. S.  271,  279  (1976);  3 
+Areeda & Turner, supra, ¶ 726e, at 219–220. 
+Respondents now seek to show only that the defendant 
+engaged  in  predatory  pricing,  within  the  terms  of  this 
+Court’s decision in Brooke Group Ltd. v. Brown & William­
+son Tobacco Corp., 509 U. S. 209 (1993).  The District Court 
+can determine whether there is anything in the procedural 
+history of  this case  that bars respondents  from asserting 
+their predatory pricing claim.  And if not, it can decide the 
+merits of that claim.  As I said, I would remand the case so 
+that it can do so. 
+
+NEW PAGE

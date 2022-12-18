@@ -1,0 +1,88 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "STATE OIL CO. v. KHAN",
+  "caseNumber": "522 U. S. 3 (1997)",
+  "court": "Supreme Court of the United States",
+  "opinion": {
+    "@type": "LegalOpinion",
+    "description": "The District Court found that the allegations in the complaint did not state a per se violation of the Sherman Act because they did not establish the sort of 'manifestly anti-competitive implications or pernicious effect on competition' that would justify per se prohibition of State Oil's conduct. Subsequently, in ruling on cross-motions for summary judgment, the District Court concluded that respondents had failed to demonstrate antitrust injury or harm to competition. The Court of Appeals for the Seventh Circuit reversed. The court first noted that the agreement between respondents and State Oil did indeed fix maximum gasoline prices by making it 'worthless' for respondents to exceed the suggested retail prices. After reviewing legal and economic aspects of price fixing, the court concluded that State Oil's pricing scheme was a per se antitrust violation under Albrecht v. Herald Co. Although the Court of Appeals characterized Albrecht as 'unsound when decided' and 'inconsistent with later decisions' of this Court, it felt constrained to follow that decision. We granted certiorari to consider two questions, whether State Oil's conduct constitutes a per se violation of the Sherman Act and whether respondents are entitled to recover damages based on that conduct."
+  },
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Dr. Miles Medical Co. v. John D. Park & Sons Co.",
+      "caseNumber": "220 U. S. 373 (1911)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized the illegality of agreements under which manufacturers or suppliers set the minimum resale prices to be charged by their distributors."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Joint Traffic Assn.",
+      "caseNumber": "171 U. S. 505 (1898)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that Congress intended to outlaw only unreasonable restraints."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Board of Trade of Chicago v. United States",
+      "caseNumber": "246 U. S. 231 (1918)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that most antitrust claims are analyzed under a 'rule of reason', according to which the finder of fact must decide whether the questioned practice imposes an unreasonable restraint on competition, taking into account a variety of factors."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Northern Pacific R. Co. v. United States",
+      "caseNumber": "356 U. S. 1 (1958)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that some types of restraints have such predictable and pernicious anticompetitive effect, and such limited potential for procompetitive benefit, that they are deemed unlawful per se."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Arizona v. Maricopa County Medical Soc.",
+      "caseNumber": "457 U. S. 332 (1982)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that Congress intended to outlaw only unreasonable restraints."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Broadcast Music, Inc. v. Columbia Broadcasting System, Inc.",
+      "caseNumber": "441 U. S. 1 (1979)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that per se treatment is appropriate 'once experience with a particular kind of restraint enables the Court to predict with confidence that the rule of reason will condemn it.'"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "FTC v. Indiana Federation of Dentists",
+      "caseNumber": "476 U. S. 447 (1986)",
+      "court": "Supreme Court of the United States",
+      "description": "Recognized that the Court has expressed reluctance to adopt per se rules with regard to 'restraints imposed in the context of business relationships where the economic impact of certain practices is not immediately obvious.'"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc.",
+      "caseNumber": "340 U. S. 211 (1951)",
+      "court": "Supreme Court of the United States",
+      "description": "Noted that agreements to fix maximum prices, 'no less than those to fix minimum prices, cripple the freedom of traders and thereby restrain their ability to sell in accordance with their own judgment.'"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "White Motor Co. v. United States",
+      "caseNumber": "372 U. S. 253 (1963)",
+      "court": "Supreme Court of the United States",
+      "description": "Determined that too little was known about the competitive impact of such vertical limitations to warrant treating them as per se unlawful."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Arnold, Schwinn & Co.",
+      "caseNumber": "388 U. S. 365 (1967)",
+      "court": "Supreme Court of the United States",
+      "description": "Reconsidered the status of exclusive dealer territories and held that, upon the transfer of title to goods to a distributor, a supplier's imposition of territorial restrictions on the distributor was 'so obviously destructive of competition' as to constitute a per se violation of the Sherman Act."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Atlantic Richfield Co. v. USA Petroleum Co.",
+      "caseNumber": "495 U. S. 328 (1990)",
+      "court": "Supreme Court of the United States",
+      "description": "Found that respondents could have suffered antitrust injury from not being able to adjust gasoline prices."
+    }

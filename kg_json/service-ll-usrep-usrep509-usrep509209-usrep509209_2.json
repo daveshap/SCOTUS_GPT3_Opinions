@@ -1,0 +1,47 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+  "datePublished": "1993",
+  "caseNumber": "509 U.S. 209",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Brooke Group Ltd."
+    },
+    {
+      "@type": "Organization",
+      "name": "Brown & Williamson Tobacco Corp."
+    }
+  ],
+  "reasoningForIncluding": "Liggett contends that Brown & Williamson cut prices on generic cigarettes below cost and offered discriminatory volume rebates to wholesalers to force Liggett to raise its own generic cigarette prices and introduce oligopoly pricing in the economy segment.",
+  "background": {
+    "@type": "Background",
+    "cigaretteIndustry": {
+      "@type": "Industry",
+      "concentration": "high",
+      "profitability": "high",
+      "priceCompetition": "low"
+    },
+    "domesticCigaretteMarket": {
+      "@type": "Market",
+      "marketShare": {
+        "R.J. Reynolds": "28%",
+        "Philip Morris": "40%",
+        "Brown & Williamson": "12%",
+        "Liggett": "2-5%"
+      },
+      "genericSegment": {
+        "@type": "Segment",
+        "characteristics": "bargain prices",
+        "products": [
+          "black and whites",
+          "private label generics",
+          "branded generics",
+          "Value-25s"
+        ],
+        "marketShare": "4%"
+      }
+    }
+  }
+}

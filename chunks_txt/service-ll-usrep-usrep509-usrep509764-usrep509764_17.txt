@@ -1,0 +1,121 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+SCALIA, J., dissenting
+II
+Petitioners  in  No.  91-1128,  various  British  corporations
+and other British subjects, argue that certain of the claims
+against them constitute an inappropriate extraterritorial ap-
+plication of the Sherman Act."  It is important to distinguish
+two distinct questions  raised  by this petition:  whether the
+District  Court had jurisdiction,  and whether  the Sherman
+Act  reaches  the extraterritorial  conduct  alleged here.  On
+the  first  question,  I  believe  that  the  District  Court  had
+subject-matter  jurisdiction  over  the  Sherman  Act  claims
+against all the defendants  (personal jurisdiction  is not con-
+tested).  Respondents  asserted  nonfrivolous  claims  under
+the Sherman Act, and 28 U. S. C. § 1331 vests district courts
+with subject-matter jurisdiction  over cases  "arising under"
+federal  statutes.  As  precedents  such  as  Lauritzen  v.
+Larsen, 345 U. S. 571  (1953), make clear, that is sufficient to
+establish the District Court's jurisdiction over these claims.
+Lauritzen involved  a Jones Act claim brought by a foreign
+sailor  against  a  foreign  shipowner.  The  shipowner  con-
+tested the District Court's jurisdiction, see id., at 573, appar-
+ently on the grounds that the Jones Act did not govern the
+dispute between the foreign parties to the action.  Though
+ultimately agreeing with the shipowner that the Jones Act
+did not apply, see discussion  infra, at 816., the Court held
+that the District Court had jurisdiction.
+"As frequently happens, a contention that there is some
+barrier to granting plaintiff's  claim is cast in terms  of
+an exception to jurisdiction of subject matter.  A cause
+of action under our law was asserted here, and the court
+had power to determine whether it was or was not well
+founded in law and in fact."  345 U. S., at 575.
+8The counts at issue in this litigation are the Fifth, Sixth, and Eighth
+Claims  for Relief in the California Complaint.  See App. 43-46 (  131-
+140), id., at 47-49 (1  146-150).
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SCALIA, J., dissenting
+See also Romero v. internationalT  erminal Operating Co.,
+358 U. S. 354, 359 (1959).
+The  second  question-the  extraterritorial  reach  of  the
+Sherman Act-has nothing to do with the jurisdiction of the
+courts.  It  is  a  question  of  substantive  law  turning  on
+whether, in  enacting  the Sherman  Act,  Congress  asserted
+regulatory power over the challenged conduct.  See EEOC
+v. Arabian American Oil  Co.,  499  U.S.  244,  248  (1991)
+(Aramco) ("It is  our task to determine  whether Congress
+intended  the  protections  of  Title  VII  to  apply  to  United
+States citizens employed by American employers outside of
+the  United  States").  If a  plaintiff fails  to prevail  on  this
+issue,  the  court  does  not  dismiss  the  claim  for  want  of
+subject-matter  jurisdiction-want  of  power  to  adjudicate;
+rather, it decides  the claim,  ruling on  the merits that  the
+plaintiff has failed to state a cause of action under the rele-
+vant statute.  See Romero, supra, at 384 (holding no claim
+available  under  the  Jones  Act);  American Banana Co. v.
+United Fruit Co., 213 U. S. 347, 359 (1909) (holding that com-
+plaint based upon foreign conduct "alleges no case under the
+[Sherman Act]").
+There  is, however, a type of "jurisdiction" relevant to de-
+termining the extraterritorial reach of a statute; it is known
+as "legislative jurisdiction," Aramco, supra, at 253; Restate-
+ment (First) Conflict of Laws § 60 (1934),  or "jurisdiction to
+prescribe,"  1 Restatement (Third) of Foreign Relations Law
+of the  United  States  235  (1987)  (hereinafter  Restatement
+(Third)).  This refers to "the authority of a state to make its
+law applicable to persons or activities,"  and is quite a sepa-
+rate matter from "jurisdiction to adjudicate,"  see id., at 231.
+There is no doubt, of course, that Congress possesses legisla-
+tive jurisdiction over the acts alleged in this complaint: Con-
+gress has broad power under Article I, § 8, cl. 3, "[t]o  regulate
+Commerce with foreign Nations," and this Court has repeat-
+edly upheld  its power  to make  laws  applicable  to persons
+or activities beyond our territorial boundaries where United
+
+NEW PAGE
+
+814  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SCALIA, J., dissenting
+States interests are affected.  See Ford v. United States, 273
+U. S. 593, 621-623 (1927);  United States v. Bowman, 260 U. S.
+94, 98-99 (1922); American Banana,s upra, at 356.  But the
+question  in this  litigation  is  whether, and  to what extent,
+Congress  has exercised that undoubted legislative jurisdic-
+tion in enacting the Sherman Act.
+Two canons of statutory construction are relevant in this
+inquiry.  The first is the "longstanding principle of American
+law 'that  legislation  of Congress,  unless  a contrary  intent
+appears, is meant to apply only within the territorial juris-
+diction of the United States."'  Aramco, supra,a t 248 (quot-
+ing Foley Bros., Inc. v. Filardo, 336  U. S. 281,  285  (1949)).
+Applying that canon in Aramco, we held that the version of
+Title VII of the  Civil  Rights Act of 1964  then in force,  42
+U. S. C. §§ 2000e to 2000e-17  (1988  ed.), did not extend out-
+side the territory of the United States even though the stat-
+ute contained broad provisions extending its prohibitions to,
+for example,  "'any  activity, business,  or  industry  in  com-
+merce.'  Id.,  at  249  (quoting 42  U. S. C.  § 2000e(h)).  We
+held such "boilerplate language" to be an insufficient indica-
+tion to override the presumption against extraterritoriality.
+Id., at 251; see also id., at 251-253.  The Sherman Act con-
+tains similar "boilerplate language," and if the question were
+not governed  by precedent,  it would be worth  considering
+whether that presumption  controls  the outcome here.  We
+have, however, found the presumption to be overcome  with
+respect to our antitrust laws; it is now well established that
+the Sherman Act applies extraterritorially.  See Matsushita
+Elec. Industrial Co. v. Zenith Radio Corp., 475  U. S.  574,
+582,  n.  6  (1986);  Continental Ore Co. v.  Union Carbide &
+Carbon Corp., 370  U. S.  690,  704  (1962);  see  also  United
+States v. Aluminum  Co. of America, 148  F. 2d  416  (CA2
+1945).
+But if the presumption against extraterritoriality has been
+overcome or is otherwise inapplicable, a second canon of stat-
+utory construction becomes  relevant:  "[A]n  act of congress
+

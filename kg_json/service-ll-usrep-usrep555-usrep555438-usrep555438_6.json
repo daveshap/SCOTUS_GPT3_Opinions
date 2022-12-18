@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "555US2",
+      "@type": "cite",
+      "date": "01-28-1417:16:35",
+      "caseNumber": "555 U. S. 438 (2009)",
+      "parties": "Pacific Bell Telephone Co. v. Linkline Communications, Inc.",
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "Areeda",
+      "@type": "cite",
+      "date": "1989",
+      "caseNumber": "58 Antitrust L. J. 841",
+      "parties": "Areeda",
+      "reasoning": "Essential Facilities: An Epithet in Need of Limiting Principles"
+    },
+    {
+      "@id": "Concord",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "915 F. 2d 17",
+      "parties": "Concord v. Boston Edison Co.",
+      "reasoning": "Avoid direct price administration"
+    },
+    {
+      "@id": "BrookeGroup",
+      "@type": "cite",
+      "date": "509 U. S.",
+      "caseNumber": "225",
+      "parties": "Brooke Group",
+      "reasoning": "Predation claims require understanding of extent and duration of alleged predation"
+    },
+    {
+      "@id": "Trinko",
+      "@type": "cite",
+      "date": "408",
+      "caseNumber": "Trinko",
+      "parties": "",
+      "reasoning": "Mere possession of monopoly power and charging of monopoly prices is not unlawful"
+    },
+    {
+      "@id": "AAI",
+      "@type": "cite",
+      "date": "Brief for American Antitrust Institute (AAI)",
+      "caseNumber": "30",
+      "parties": "AAI",
+      "reasoning": "Proposing a 'transfer price test' for identifying an unlawful price squeeze"
+    },
+    {
+      "@id": "COMPTEL",
+      "@type": "cite",
+      "date": "Brief for COMPTEL",
+      "caseNumber": "16-19",
+      "parties": "COMPTEL",
+      "reasoning": "Proposing a 'transfer price test' for identifying an unlawful price squeeze"
+    },
+    {
+      "@id": "Ray",
+      "@type": "cite",
+      "date": "606 F. Supp. 757",
+      "caseNumber": "Ray v. Indiana & Mich. Elec. Co.",
+      "parties": "",
+      "reasoning": "Proposing a 'transfer price test' for identifying an unlawful price squeeze"
+    }
+  ]
+}

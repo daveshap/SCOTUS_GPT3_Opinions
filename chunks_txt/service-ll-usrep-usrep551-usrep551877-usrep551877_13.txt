@@ -1,0 +1,127 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  913 
+Breyer, J., dissenting 
+formly  acknowledged  that  [resale  price  maintenance]  and 
+other vertical restraints lead to higher consumer prices”). 
+On  the  other  hand,  those  favoring  resale  price  mainte­
+nance have long argued that resale price maintenance agree­
+ments can provide important consumer beneﬁts.  The ma­
+jority lists two: First, such agreements can facilitate new 
+entry.  Ante, at 891.  For example, a newly entering pro­
+ducer  wishing  to  build  a  product  name  might  be  able  to 
+convince dealers to help it do so—if, but only if, the pro­
+ducer can assure those dealers that they will later recoup 
+their investment.  Without resale price maintenance, late­
+entering dealers might take advantage of the earlier invest­
+ment and, through price competition, drive prices down to 
+the point where the early dealers cannot recover what they 
+spent.  By assuring the initial dealers that such later price 
+competition will not occur, resale price maintenance can en­
+courage  them  to  carry  the  new  product,  thereby  helping 
+the  new  producer  succeed.  See  8  Areeda  &  Hovenkamp 
+¶¶ 1617a, 1631b, at 193–196, 308.  The result might be in­
+creased  competition  at  the  producer  level,  i. e.,  greater 
+inter-brand competition, that brings with it net consumer 
+beneﬁts. 
+Second,  without  resale  price  maintenance  a  producer 
+might ﬁnd its efforts to sell a product undermined by what 
+resale price maintenance advocates call “free riding.”  Ante, 
+at 890–891.  Suppose a producer concludes that it can suc­
+ceed only if dealers provide certain services, say, product 
+demonstrations, high quality shops, advertising that creates 
+a certain product image, and so forth.  Without resale price 
+maintenance, some dealers might take a “free ride” on the 
+investment  that  others  make  in  providing  those  services. 
+Such a dealer would save money by not paying for those 
+services and could consequently cut its own price and in­
+crease its own sales.  Under these circumstances, dealers 
+might prove unwilling to invest in the provision of necessary 
+services.  See, e. g., 8 Areeda & Hovenkamp ¶¶ 1611–1613, 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+914  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+1631c, at 126–165, 309–313; R. Posner, Antitrust Law 172– 
+173 (2d ed. 2001); R. Bork, The Antitrust Paradox 290–291 
+(1978) (hereinafter Bork); Easterbrook 146–149. 
+Moreover, where a producer and not a group of dealers 
+seeks a resale price maintenance agreement, there is a spe­
+cial reason to believe some such beneﬁts exist.  That is be­
+cause, other things being equal, producers should want to 
+encourage price competition among their dealers.  By doing 
+so they will often increase proﬁts by selling more of their 
+product.  See Sylvania, 433 U. S., at 56, n. 24; Bork 290. 
+And  that  is  so,  even  if  the  producer  possesses  sufﬁcient 
+market  power  to  earn  a  supernormal  proﬁt.  That  is  to 
+say, other things being equal, the producer will beneﬁt by 
+charging his dealers a competitive (or even a higher-than­
+competitive) wholesale price while encouraging price compe­
+tition among them.  Hence, if the producer is the moving 
+force, the producer must have some special reason for want­
+ing resale price maintenance; and in the absence of, say, con­
+centrated producer markets (where that special reason might 
+consist of a desire to stabilize wholesale prices), that special 
+reason may well reﬂect the special circumstances just de­
+scribed:  new  entry,  “free  riding,”  or  variations  on  those 
+themes. 
+The upshot is, as many economists suggest, sometimes re­
+sale price maintenance can prove harmful; sometimes it can 
+bring beneﬁts.  See, e. g., Brief for Economists as Amici Cu­
+riae 16; 8 Areeda & Hovenkamp ¶¶ 1631–1632, at 306–328; 
+Pitofsky 1495; Scherer 706–707.  But before concluding that 
+courts should consequently apply a rule of reason, I would 
+ask such questions as, how often are harms or beneﬁts likely 
+to occur?  How easy is it to separate the beneﬁcial sheep 
+from the antitrust goats? 
+Economic discussion, such as the studies the Court relies 
+upon, can help provide answers to these questions, and in 
+doing so, economics can, and should, inform antitrust law. 
+But antitrust law cannot, and should not, precisely replicate 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  915 
+Breyer, J., dissenting 
+economists’ (sometimes conﬂicting) views.  That is because 
+law, unlike economics, is an administrative system the effects 
+of which depend upon the content of rules and precedents 
+only as they are applied by judges and juries in courts and 
+by lawyers advising their clients.  And that fact means that 
+courts will often bring their own administrative judgment 
+to bear, sometimes applying rules of per se unlawfulness to 
+business  practices  even  when  those  practices  sometimes 
+produce beneﬁts.  See, e. g., F. Scherer & D. Ross, Industrial 
+Market Structure and Economic Performance 335–339 (3d 
+ed. 1990) (hereinafter Scherer & Ross) (describing some cir­
+cumstances  under  which  price-ﬁxing agreements  could  be 
+more beneﬁcial than “unfettered competition,” but also not­
+ing potential costs of moving from a per se ban to a rule of 
+reasonableness assessment of such agreements). 
+I have already described studies and analyses that suggest 
+(though they cannot prove) that resale price maintenance can 
+cause harms with some regularity—and certainly when deal­
+ers are the driving force.  But what about beneﬁts?  How 
+often,  for  example,  will  the  beneﬁts  to  which  the  Court 
+points occur in practice?  I can ﬁnd no economic consensus 
+on this point.  There is a consensus in the literature that 
+“free  riding”  takes  place.  But  “free  riding”  often  takes 
+place  in  the  economy  without  any  legal  effort  to  stop  it. 
+Many visitors to California take free rides on the Paciﬁc 
+Coast Highway.  We all beneﬁt freely from ideas, such as 
+that of creating the ﬁrst supermarket.  Dealers often take a 
+“free ride” on investments that others have made in building 
+a product’s name and reputation.  The question is how often 
+the “free riding” problem is serious enough signiﬁcantly to 
+deter dealer investment. 
+To be more speciﬁc, one can easily imagine a dealer who 
+refuses to provide important presale services, say, a detailed 
+explanation of how a product works (or who fails to provide 
+a proper atmosphere in which to sell expensive perfume or 
+alligator billfolds), lest customers use that “free” service (or 
+

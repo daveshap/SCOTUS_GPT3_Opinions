@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInThisOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "cite:503_U_S_407_1992",
+      "cite": "503 U. S. 407 (1992)",
+      "date": "1992",
+      "caseNumber": "503 U. S. 407",
+      "involvedParties": "White, J., dissenting",
+      "reasoning": "Deferring to a federal agency's construction of the legislation that it is charged with administering is one thing."
+    },
+    {
+      "@id": "cite:Inc_v_Natural_Resources_Defense_Council_Inc_467_U_S_837_1984",
+      "cite": "Inc. v. Natural Resources Defense Council, Inc., 467  U. S. 837 (1984)",
+      "date": "1984",
+      "caseNumber": "467 U. S. 837",
+      "involvedParties": "Inc. v. Natural Resources Defense Council, Inc.",
+      "reasoning": "Chevron U S. A Inc. v. Natural Resources Defense Council, Inc., 467 U. S. 837 (1984)"
+    },
+    {
+      "@id": "cite:Pauley_v_BethEnergy_Mines_Inc_501_U_S_680_1991",
+      "cite": "Pauley v. BethEnergy Mines, Inc., 501 U. S. 680 (1991)",
+      "date": "1991",
+      "caseNumber": "501 U. S. 680",
+      "involvedParties": "Pauley v. BethEnergy Mines, Inc.",
+      "reasoning": "The majority acknowledges that \"the ICC's opinion is not explicit in all of its details\""
+    },
+    {
+      "@id": "cite:Motor_Vehicle_Mfrs_Assn_of_United_States_Inc_v_State_Farm_Mut_Automobile_Ins_Co_463_U_S_29_1983",
+      "cite": "Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co.,  463 U. S. 29 (1983)",
+      "date": "1983",
+      "caseNumber": "463 U. S. 29",
+      "involvedParties": "Motor Vehicle Mfrs. Assn. of United States, Inc. v. State Farm Mut. Automobile Ins. Co.",
+      "reasoning": "The simple fact is that the ICC never addressed this point, and therefore failed to construe a key portion of the statute."
+    },
+    {
+      "@id": "cite:National_Railroad_Passenger_Corporation_v_Boston_Maine_Corp_503_U_S_407_1992",
+      "cite": "National Railroad Passenger Corporation v. Boston & Maine Corp., 503 U. S. 407 (1992)",
+      "date": "1992",
+      "caseNumber": "503 U. S. 407",
+      "involvedParties": "National Railroad Passenger Corporation v. Boston & Maine Corp.",
+      "reasoning": "Rather than acknowledging the ICC's omission and remanding for clarification and factfinding, the majority relies on the Government's argument that the Commission must have interpreted the word \"required\" as meaning \"useful or appropriate.\""
+    }
+  ]
+}

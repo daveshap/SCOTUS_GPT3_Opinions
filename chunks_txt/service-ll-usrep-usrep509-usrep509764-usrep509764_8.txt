@@ -1,0 +1,125 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+SOUTER, J., concurring in judgment
+the Court that, construed in favor of the plaintiffs, the First,
+Second, Third, and Fourth Claims for Relief in the California
+Complaint, and the First and Second Claims for Relief in the
+Connecticut  Complaint,  allege  one  or more  § 3(b) "act[s]  of
+boycott," and are thus sufficient to survive a motion to dis-
+miss.  See infra, at 789-790; post, at 811.
+In  reviewing the motions to dismiss, however, the Court
+has  decided  to use what  I  believe to  be  an  overly narrow
+definition of the term "boycott" as used in § 3(b), confining it
+to those refusals to deal that are "unrelated" or "collateral"
+to  the objective sought by those refusing to deal.  Post, at
+803.  I do  not believe  that the McCarran-Ferguson  Act or
+our precedents warrant such a cramped reading of the term.
+The  majority and  I find common  ground in four proposi-
+tions concerning  § 3(b) boycotts, as established in our  deci-
+sions in St. Paul Fire & Marine Ins. Co. v. Barry, 438 U. S.
+531 (1978), and United States v. South-Eastern Underwriters
+Assn., 322 U. S. 533 (1944).  First, as we noted in St. Paul,
+our only prior decision construing "boycott" as it appears in
+§ 3(b), only those refusals  to deal involving the coordinated
+action of multiple actors constitute § 3(b) boycotts: "conduct
+by individual actors falling short of concerted activity is sim-
+ply not a 'boycott' within [the meaning of] § 3(b)."  438 U. S.,
+at 555;  see post, at 800  ("'boycott"' used "to  describe  ...
+collective  action");  post, at  801  ("To  'boycott'  means  '[t]o
+combine  in  refusing  to hold  relations"'  (citation  omitted)).
+Second, a  § 3(b) boycott need not involve  an absolute re-
+fusal to deal.13  A primary goal of the  alleged conspirators
+in South-Eastern Underwriters,a s we described it, was "to
+force  nonmember  insurance  companies  into  the  conspira-
+cies." 14  322 U. S., at 535; cf. Joint Hearing on S. 1362, H. R.
+13 Petitioners correctly concede this point.  See Brief for Petitioners in
+No. 91-1111, p. 32, n. 14.
+14 As we have noted before, see Group Life & Health Ins. Co. v. Royal
+Drug Co., 440 U. S. 205, 217 (1979);  SEC v. National Securities, Inc., 393
+U. S. 453, 458 (1969), the McCarran-Ferguson Act was precipitated by our
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+SOUTER, J., concurring in judgment
+3269, and H. R. 3270 before the Subcommittees of the Senate
+Committee  on  the  Judiciary,  78th  Cong.,  :Lst  Sess.,  pt. 2,
+p. 335  (1943)  (statement of Edward L. Williams,  President,
+Insurance  Executives  Association)  ("[T]he  companies  that
+want  to  come into  the Interstate  Underwriters  Board can
+come in there.  I do not know of any company that is turned
+down").  Thus, presumably, the refusals to deal orchestrated
+by the defendants would cease if the targets agreed to join the
+association  and abide by its terms.  See post, at 801  ("The
+refusal to deal may...  be conditional" (emphasis omitted)).
+Third,  contrary  to petitioners'  contentions,  see  Brief for
+Petitioners  in No. 91-1111,  pp. 32,  n. 14,  34, 38-39, a §3(b)
+boycott need not entail unequal treatment of the targets of
+the boycott and its instigators.  Some refusals to deal (those,
+perhaps, which are alleged to violate only § 2 of the Sherman
+Act 15)  may have as their object the complete destruction of
+the business of competitors;  these may well involve uncon-
+ditional  discrimination  against the targets.  Other refusals
+to deal, however, may seek simply to prevent competition as
+to the price or features of the product  sold; and these need
+not depend on unequal treatment of the targets.  Assuming,
+holding in South-Eastern Underwriterst hat the business of insurance was
+interstate  commerce  and  thus  subject  generally  to  federal  regulation
+under the Commerce Clause, and to scrutiny under the Sherman Act spe-
+cifically.  Congress responded, both to "ensure that the States would con-
+tinue to have the ability to tax and regulate the business of insurance,"
+Royal Drug Co., 440 U. S., at 217-218 (footnote omitted), and to limit the
+application of the antitrust laws to the insurance industry, id., at 218.  In
+drafting the § 3(b) exception to the § 2(b) grant of antilrust immunity, Con-
+gress borrowed language from our description of the indictment in South-
+Eastern Underwriters as charging that "[t]he  conspirators not only fixed
+premium rates and agents' commissions, but employed boycotts together
+with other types of coercion  and intimidation to force nonmember insur-
+ance companies into the conspiracies."  322 U. S., at 535.
+15S ection 2 of the Sherman Act, 26 Stat. 209, as amended, 15 U. S. C. § 2,
+prohibits  monopolization  of, or attempts  or conspiracies  to monopolize,
+"any part of the trade or commerce  among the several States, or with
+foreign nations."
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SOUTER, J., concurring in judgment
+as the South-Eastern Underwriters Court appears to have
+done, that membership in the defendant association was open
+to all insurers, the association is most readily seen as having
+intended to treat all insurers equally: they all had the choice
+either to join the association and abide by its rules, or to be
+subjected to the "boycotts," and acts of coercion and intimi-
+dation,  alleged  in  that  case.  See post, at  808  (describing
+South-Eastern Underwriters as  involving  a  "boycott,  by
+primary insurers,  of competitors who refused  to join their
+price-fixing conspiracy").
+Fourth, although a necessary element, "concerted activity"
+is not, by itself, sufficient for a  finding  of "boycott"  under
+§ 3(b).  Were  this the case,  we recognized  in Barry, § 3(b)
+might well "'devour  the broad antitrust immunity bestowed
+by § 2(b),"' 438 U. S., at 545, n. 18 (quoting id., at 559 (Stew-
+art, J., dissenting)), since every "contract, combination in the
+form of trust or otherwise, or conspiracy, in restraint of trade
+or commerce,"  15 U. S. C. § 1, involves  "concerted activity."
+Thus,  we  suggested,  simple  price  fixing  has  been  treated
+neither as a boycott nor as coercion  "int he absence  of any
+additional enforcement activity."  438 U. S., at 545, n. 18; see
+post, at 804 (contending that simple concerted agreements on
+contract terms  are not properly characterized  as boycotts).
+Contrary  to the  majority's  view, however,  our  decisions
+have suggested that "enforcement activity" is a multifarious
+concept.  The  South-Eastern Underwriters Court,  which
+coined the phrase "boycotts[,]...  coercion and intimidation,"
+322  U. S.,  at 535;  see  n.  14,  supra, provides  us  with  a list
+of actions  that, it finds, are  encompassed  by  these  terms.
+"Companies  not  members  of  [the  association],"  it  states,
+"were  cut off from the opportunity to reinsure their risks,
+and  their  services  and  facilities  were  disparaged;  inde-
+pendent  sales  agencies  who  defiantly  represented  non-
+[association]  companies  were  punished  by a  withdrawal  of
+the  right  to  represent  the  members  of  [the  association];
+and  persons  needing  insurance  who  purchased  from  non-
+

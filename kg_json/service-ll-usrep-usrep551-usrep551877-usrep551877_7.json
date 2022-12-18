@@ -1,0 +1,86 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "caseNumber": "551 U. S. 877 (2007)",
+  "datePublished": "09-20-1121:22:06",
+  "court": "Supreme Court of the United States",
+  "opinion": "Opinion of the Court",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Leegin Creative Leather Products, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "PSKS, Inc."
+    }
+  ],
+  "citedCases": [
+    {
+      "@type": "LegalCase",
+      "name": "GTE Sylvania, Inc. v. Consumers Union of United States, Inc.",
+      "caseNumber": "433 U. S. 36 (1977)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Business Electronics Corp. v. Sharp Electronics Corp.",
+      "caseNumber": "485 U. S. 717 (1988)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Khan v. Total Network, Inc.",
+      "caseNumber": "522 U. S. 3 (1997)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Marvel Entertainment, LLC v. NCSoft Corp.",
+      "caseNumber": "605 F. 3d 83 (2010)"
+    }
+  ],
+  "citedPublications": [
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Easterbrook, Vertical Arrangements and the Rule of Reason",
+      "author": "Easterbrook",
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1984"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Overstreet, Resale Price Maintenance: A Survey of Economic Theory and Evidence",
+      "author": "Overstreet",
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1980"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Mathewson & Winter, The Economics of Resale Price Maintenance",
+      "author": ["Mathewson", "Winter"],
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1985"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Bork, The Rule of Reason and the Per Se Concept: Price Fixing and Market Division",
+      "author": "Bork",
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1976"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Posner, The Rule of Reason and the Economic Theory of Regulation",
+      "author": "Posner",
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1976"
+    },
+    {
+      "@type": "ScholarlyArticle",
+      "name": "Scherer & Ross, Industrial Market Structure and Economic Performance",
+      "author": ["Scherer", "Ross"],
+      "publicationName": "Antitrust Law Journal",
+      "datePublished": "1990"
+    }
+  ],
+  "reasoning": "The Court has thus explained that administrative “advantages are not sufﬁcient in themselves to justify the creation of per se rules,” GTE Sylvania, 433 U. S., at 50, n. 16, and has relegated their use to restraints that are “manifestly anticompetitive,” id., at 49–50. Were the Court now to conclude that vertical price restraints should be per se illegal based on administrative costs, we would undermine, if not overrule, the traditional “demanding standards” for adopting per se rules. Any possible reduction in administrative costs cannot alone justify the Dr. Miles rule. Resale price maintenance, it is true, does have economic dangers. If the rule of reason were to apply to vertical price restraints, courts would have to be diligent in eliminating their anticompetitive uses from the market. This is a realistic objective, and certain factors are relevant to the inquiry. For example, the number of manufacturers that make use of the practice in a given industry can provide important instruction. When only a few manufacturers lacking market power adopt the practice, there is little likelihood it is facilitating a manufacturer cartel, for a cartel then can be undercut by rival manufacturers. Likewise, a retailer cartel is unlikely when only a single manufacturer in a competitive market uses resale price maintenance. Interbrand competition would divert consumers to lower priced substitutes and eliminate any gains to retailers from their price-ﬁxing agreement over a single brand."
+}

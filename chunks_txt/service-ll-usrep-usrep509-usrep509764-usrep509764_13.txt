@@ -1,0 +1,124 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+JUSTICE  SCALIA delivered  the opinion of the Court with
+respect to Part  I,  and  delivered  a dissenting  opinion with
+respect to Part II.*
+With  respect  to  the  petition  in  No.  91-1111,  I  join  the
+Court's judgment  and  Parts  I  and  11-A  of its  opinion.  I
+write  separately  because  I  do  not  agree  with  JUSTICE
+SOUTER's  analysis,  set forth in Part II-B of his opinion, of
+what  constitutes  a  "boycott"  for  purposes  of § 3(b)  of the
+McCarran-Ferguson Act, 15 U. S. C. § 1013(b).  With respect
+to  the petition  in  No.  91-1128,  I  dissent  from the  Court's
+ruling  concerning  the  extraterritorial  application  of  the
+Sherman  Act.  Part  I  below  discusses  the boycott  issue;
+Part II extraterritoriality.
+I
+Determining proper application  of §3 (b) of the McCarran-
+Ferguson Act to the present cases requires precise definition
+of the word  "boycott."1  It is  a relatively  new word, little
+more than  a century  old.  It was  first used in  1880,  to de-
+scribe  the collective  action  taken  against  Captain  Charles
+Boycott, an English agent managing various estates in Ire-
+land.  The  Land League,  an  Irish organization  formed  the
+previous  year, had  demanded  that  landlords  reduce  their
+rents and had urged tenants to avoid dealing with those who
+failed  to do  so.  Boycott  did  not bend  to the demand  and
+instead ordered evictions.  In retaliation, the tenants "seniti
+Captain  Boycott to Coventry  in a  very thorough  manner."
+J. McCarthy, England  Under  Gladstone  108  (1886).  "The
+population of the region for miles round resolved not to have
+anything to do with him, and, as far as they  could prevent
+*JUsTICE O'CONNOR, JUSTICE KENNEDY, and JUSTICE THOMAs join this
+opinion in its entirety, and THE CHIEF JUSTICE joins Part I of this opinion.
+'Section  3(b)  of the  McCarran-Ferguson  Act,  1.5  U. S. C.  § 1013(b),
+provides:
+"Nothing contained in this Act shall render the said Sherman Act in-
+applicable  to any agreement to  boycott, coerce, or intimidate,  or act of
+boycott, coercion, or intimidation."
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+it, not  to  allow any  one  else  to have  anything  to do  with
+him.  . .[T]he  awful  sentence  of excommunication  could
+.
+hardly have rendered him more helplessly alone for a time.
+No  one would work for him; no one would supply him with
+food."  Id., at 108-109; see also H. Laidler, Boycotts and the
+Labor Struggle 23-27 (1968).  Thus, the verb made from the
+unfortunate  Captain's  name  has  had  from  the  outset  the
+meaning  it continues  to carry  today.  To  "boycott"  means
+"[t]o  combine in refusing to hold relations of any kind, social
+or commercial, public or private, with (a neighbour),  on ac-
+count of political or other differences, so as to punish him for
+the position he has taken up, or coerce him into abandoning
+it."  2 Oxford English Dictionary 468 (2d ed. 1989).
+Petitioners  have  suggested  that a  boycott  ordinarily  re-
+quires "an absolute refusal to deal on any terms," which was
+concededly  not the case here.  Brief for Petitioners  in No.
+91-1111,  p. 31;  see  also Reply  Brief for Petitioners  in No.
+91-1111,  pp.  12-13.  We  think not.  As the definition just
+recited provides, the refusal may be imposed "to punish [the
+target] for the position he has taken up, or coerce him into
+abandoning it."  The  refusal to deal  may, in other words,
+be conditional, offering its target the incentive of renewed
+dealing if and when he mends his ways.  This  is often the
+case-and indeed seems to have been the case with the origi-
+nal  Boycott boycott.  Cf. McCarthy,  supra, at  109  (noting
+that the Captain later lived "at peace" with his neighbors).
+Furthermore, other dictionary definitions extend the term to
+include a partial boycott-a refusal to engage in some, but
+not all,  transactions  with  the target.  See  Webster's  New
+International Dictionary 321 (2d ed. 1950) (defining "boycott"
+as "to  withhold, wholly or in part, social or business inter-
+course from, as an expression of disapproval or means of co-
+ercion" (emphasis added)).
+It  is,  however,  important-and  crucial  in  the  present
+cases-to distinguish  between  a  conditional  boycott  and  a
+concerted  agreement to seek particular terms in particular
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+transactions.  A concerted agreement to terms (a "carteliza-
+tion") is  "a way of obtaining and  exercising market  power
+by concertedly exacting terms like those which a monopolist
+might  exact."  L.  Sullivan,  Law  of  Antitrust  257  (1977).
+The parties to such an agreement (the members of a cartel)
+are not engaging in a boycott, because:
+"They  are  not  coercing  anyone,  at  least  in  the  usual
+sense of that word; they are merely (though concertedly)
+saying  'we  will deal with you only on the following
+trade terms.'
+"....  Indeed, if a concerted agreement, say, to include
+a security deposit in all contracts is a 'boycott' because
+it  excludes  all buyers  who  won't agree  to  it, then  by
+parity of reasoning every price fixing agreement would
+be a boycott also.  The use  of the single  concept, boy-
+cott, to cover agreements  so varied  in nature can only
+add to confusion."  Ibid. (emphasis added).
+Thus, if Captain Boycott's tenants had agreed  among them-
+selves that they would refuse to renew their leases unless he
+reduced  his rents, that would have  been a concerted agree-
+ment on  the terms  of the leases, but not  a boycott.2  The
+tenants, of course, did more than that; they refused to engage
+in other, unrelated transactions  with Boycott-e. g.,  selling
+him  food-unless he  agreed  to their terms  on rents.  It is
+2 Under the Oxford English Dictionary definition, of course, this example
+would not be a "boycott" because the tenants had not suspended all rela-
+tions with the Captain.  But if one recognizes partial boycotts (as we and
+JUSTICE SOUTER do), and if one believes (as JUSTICE SOUTER does but we
+do not) that the purpose of a boycott can be to secure different terms in
+the very transaction that is the supposed subject of the boycott, then it is
+impossible to explain why this is not a boycott.  Under JUSTICE SOUTER'S
+reasoning, it would be a boycott, at least if the tenants acted "at the behest
+of"  (whatever that means), ante, at 792,  the  Irish Land League.  This
+hypothetical shows that the problems presented by partial boycotts (which
+we agree  fall within §3(b)) make  more urgent  the need  to distinguish
+boycotts from concerted agreements on terms.
+

@@ -1,0 +1,79 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/DastarCorpvTwentiethCenturyFoxFilmCorp",
+      "@type": "cite",
+      "date": "2003",
+      "parties": [
+        "Dastar Corp.",
+        "Twentieth Century Fox Film Corp."
+      ],
+      "reasoning": "The right to copy, and to copy without attribution, once a copyright has expired, like 'the right to make [an article whose patent has expired]-including the right to make it in precisely the shape it carried when patented-passes to the public.'"
+    },
+    {
+      "@id": "http://schema.org/SearsRoebuckCo.vStiffelCo.",
+      "@type": "cite",
+      "date": "1964",
+      "parties": [
+        "Sears, Roebuck & Co.",
+        "Stiffel Co."
+      ],
+      "reasoning": "The right to make an article whose patent has expired passes to the public."
+    },
+    {
+      "@id": "http://schema.org/KelloggCo.vNationalBiscuitCo.",
+      "@type": "cite",
+      "date": "1938",
+      "parties": [
+        "Kellogg Co.",
+        "National Biscuit Co."
+      ],
+      "reasoning": "Unless an intellectual property right such as a patent or copyright protects an item, it will be subject to copying."
+    },
+    {
+      "@id": "http://schema.org/TrafFixDevicesInc.vMarketingDisplaysInc.",
+      "@type": "cite",
+      "date": "2001",
+      "parties": [
+        "TrafFix Devices, Inc.",
+        "Marketing Displays, Inc."
+      ],
+      "reasoning": "In general, unless an intellectual property right such as a patent or copyright protects an item, it will be subject to copying."
+    },
+    {
+      "@id": "http://schema.org/BonitoBoatsInc.vThunderCraftBoatsInc.",
+      "@type": "cite",
+      "date": "1989",
+      "parties": [
+        "Bonito Boats, Inc.",
+        "Thunder Craft Boats, Inc."
+      ],
+      "reasoning": "The rights of a patentee or copyright holder are part of a 'carefully crafted bargain.'"
+    },
+    {
+      "@id": "http://schema.org/QualitexCo.vJacobsonProductsCo.",
+      "@type": "cite",
+      "date": "1995",
+      "parties": [
+        "Qualitex Co.",
+        "Jacobson Products Co."
+      ],
+      "reasoning": "Federal trademark law 'has no necessary relation to invention or discovery.'"
+    },
+    {
+      "@id": "http://schema.org/VisualArtistsRightsActof1990",
+      "@type": "cite",
+      "date": "1990",
+      "parties": [
+        "Visual Artists Rights Act of 1990"
+      ],
+      "reasoning": "Congress has wished to create an addition to the law of copyright with much more specificity than the Lanham Act's ambiguous use of 'origin.'"
+    }
+  ]
+}

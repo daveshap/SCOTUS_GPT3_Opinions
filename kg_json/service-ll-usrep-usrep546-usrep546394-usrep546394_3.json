@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "546US2",
+      "@type": "CaseCitation",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "546US2",
+      "involvedParties": "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc.",
+      "reasoning": "Opinion of the Court that party and may grant a motion for judgment as a matter of law against that party with respect to a claim or defense that cannot under the controlling law be maintained or defeated without a favorable finding on that issue."
+    },
+    {
+      "@id": "Rule50",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "Rule50",
+      "involvedParties": "None",
+      "reasoning": "Rule 50(b) sets forth the procedural requirements for renewing a sufficiency of the evidence challenge after the jury verdict and entry of judgment."
+    },
+    {
+      "@id": "Cone",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "Cone",
+      "involvedParties": "West Virginia Pulp & Paper Co.",
+      "reasoning": "In the absence of such a motion an appellate court [is] without power to direct the District Court to enter judgment contrary to the one it had permitted to stand."
+    },
+    {
+      "@id": "GlobeLiquor",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "GlobeLiquor",
+      "involvedParties": "San Roman",
+      "reasoning": "A party's failure to file a Rule 50(b) motion deprives the appellate court of the power to order the entry of judgment in favor of that party where the district court directed the jury's verdict."
+    },
+    {
+      "@id": "Johnson",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "Johnson",
+      "involvedParties": "New York, N.H. & H.R. Co.",
+      "reasoning": "A postverdict motion is necessary because 'determination of whether a new trial should be granted or a judgment entered under Rule 50(b) calls for the judgment in the first instance of the judge who saw and heard the witnesses and has the feel of the case which no appellate printed transcript can impart.'"
+    },
+    {
+      "@id": "Neely",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "Neely",
+      "involvedParties": "Martin K. Eby Constr. Co.",
+      "reasoning": "An appellate court may, in certain circumstances, direct the entry of judgment when it reverses the district court's denial of a Rule 50(b) motion."
+    },
+    {
+      "@id": "Weisgram",
+      "@type": "Precedent",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "Weisgram",
+      "involvedParties": "Marley Co.",
+      "reasoning": "An appellate court may, in certain circumstances, direct the entry of judgment when it reverses the district court's denial of a Rule 50(b) motion."
+    }
+  ]
+}

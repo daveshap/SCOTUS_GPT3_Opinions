@@ -1,0 +1,24 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/case/1",
+      "date": "2020-01-01",
+      "caseNumber": "12345",
+      "involvedParties": ["John Doe", "Jane Doe"],
+      "reasoning": "This case is relevant to the opinion because it establishes a precedent."
+    },
+    {
+      "@id": "http://example.org/case/2",
+      "date": "2019-12-01",
+      "caseNumber": "54321",
+      "involvedParties": ["John Smith", "Jane Smith"],
+      "reasoning": "This case is relevant to the opinion because it is a prior opinion."
+    }
+  ]
+}

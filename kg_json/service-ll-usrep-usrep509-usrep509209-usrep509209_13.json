@@ -1,0 +1,24 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+  "datePublished": "1993",
+  "caseNumber": "509 U. S. 209",
+  "dissentingOpinion": "Stevens, J.",
+  "background": {
+    "@type": "Background",
+    "description": "B&W is the third largest firm in a highly concentrated industry. For decades, the industry has been marked by the same kind of supracompetitive pricing that is characteristic of the textbook monopoly. In 1980, Liggett introduced a new line of generic cigarettes in plain black and white packages, offered at an effective price of approximately 30% less than branded cigarettes. In 1984, R. J. Reynolds repositioned one of its established brands, Doral, by selling it at discount prices comparable to Liggett's black and whites.",
+    "impactOnSmokingPublic": "The weighted average retail price of a pack of cigarettes increased 56% between 1980 and 1983 (from $.63 to $.98)."
+  },
+  "bwPlans": {
+    "@type": "Plans",
+    "description": "B&W decided to follow precisely the pathway of RJR and introduce a new 'branded generic' of its own, known as Hallmark, to be sold at the same prices as RJR's Doral. B&W took a more aggressive approach to Liggett's black and whites and decided to launch its own line of black and white cigarettes with the same style array and list price as Liggett's, but with superior discounts/allowances.",
+    "anticipatedCompetitiveCounterattacks": "B&W, anticipating 'competitive counterattacks', was 'prepared to redistribute this entire amount in the form of additional trade allowances.'",
+    "ultimateAim": "B&W's ultimate aim was to 'limit generic segment growth.'"
+  },
+  "bwImplementation": {
+    "@type": "Implementation",
+    "description": "B&W began to implement its plan even before it made its first shipment of black and whites in July 1984, with a series of price announcements in June of that year. When B&W announced its first volume discount schedule for distributors, Liggett responded by increasing its own discounts. Though Liggett's discounts remained lower than B&W's, B&W responded in turn by increasing its rebates still further.",
+    "potentialTradingProfit": "B&W estimated an aggregate potential trading profit on black and whites of $342 million for 1984 to 1988."
+  }
+}

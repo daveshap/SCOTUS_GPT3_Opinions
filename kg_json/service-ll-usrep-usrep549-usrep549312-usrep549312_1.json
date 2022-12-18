@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInThisOpinion",
+    "predatoryPricing": "http://schema.org/predatoryPricing",
+    "predatoryBidding": "http://schema.org/predatoryBidding",
+    "recoupment": "http://schema.org/recoupment"
+  },
+  "@graph": [
+    {
+      "@id": "WeyerhaeuserCoV.Ross-SimmonsHardwoodLumberCo.",
+      "date": "03-28-1012:12:49",
+      "caseNumber": "No. 05–381",
+      "parties": ["Weyerhaeuser Co.", "Ross-Simmons Hardwood Lumber Co., Inc."],
+      "reasoning": "The test this Court applied to predatory-pricing claims in Brooke Group also applies to predatory-bidding claims."
+    },
+    {
+      "@id": "BrookeGroupLtdV.Brown&WilliamsonTobaccoCorp.",
+      "date": "509 U. S. 209",
+      "caseNumber": "No. 05–381",
+      "parties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "predatoryPricing": "A plaintiff must show that the prices complained of are below cost.",
+      "recoupment": "A plaintiff must show that the alleged predator had “a dangerous probabilit[y] of recouping its investment in below-cost pric[ing]."
+    }
+  ]
+}

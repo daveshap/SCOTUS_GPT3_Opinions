@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Major League Baseball Players Assn. v. Garvey",
+  "caseNumber": "532 U. S. 504 (2001)",
+  "datePublished": "2001",
+  "court": "Supreme Court of the United States",
+  "involvedParty": [
+    {
+      "@type": "Person",
+      "name": "Steve Garvey"
+    },
+    {
+      "@type": "Organization",
+      "name": "Major League Baseball Players Assn."
+    }
+  ],
+  "reasoning": "Garvey moved in Federal District Court to vacate the arbitrator's award, alleging that the arbitrator violated the Framework by denying his claim. The District Court denied the motion. The Court of Appeals for the Ninth Circuit reversed by a divided vote.",
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Garvey I",
+      "datePublished": "2000",
+      "court": "Court of Appeals for the Ninth Circuit"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Garvey II",
+      "datePublished": "2000",
+      "court": "Court of Appeals for the Ninth Circuit"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Eastern Associated Coal Corp. v. Mine Workers",
+      "datePublished": "2000",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Paperworkers v. Misco, Inc.",
+      "datePublished": "1987",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Hamilton-Brown Shoe Co. v. Wolf Brothers & Co.",
+      "datePublished": "1916",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Mercer v. Theriot",
+      "datePublished": "1964",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Steelworkers v. Enterprise Wheel & Car Corp.",
+      "datePublished": "1960",
+      "court": "Supreme Court of the United States"
+    }
+  ]
+}

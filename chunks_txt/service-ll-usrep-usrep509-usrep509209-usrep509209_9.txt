@@ -1,0 +1,121 @@
+
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+Brown & Williamson had a reasonable prospect of producing
+sustained  supracompetitive  pricing  in the generic segment
+adequate to recoup its predatory losses: first, if generic out-
+put or price information indicates that oligopolistic price co-
+ordination  in fact  produced  supracompetitive  prices  in the
+generic segment; or second, if evidence about the market and
+Brown  & Williamson's  conduct  indicate  that  the  alleged
+scheme was likely to have brought about tacit coordination
+and oligopoly  pricing in the generic  segment, even if it did
+not actually do so.
+1
+In this case,  the price and  output data do not support a
+reasonable inference that Brown & Williamson and the other
+cigarette companies elevated prices above a competitive level
+for  generic  cigarettes.  Supracompetitive  pricing  entails  a
+restriction  in  output.  See  National Collegiate Athletic
+Assn. v. Board of Regents of Univ. of Okla., 468  U. S. 85,
+104-108  (1984);  Broadcast Music, Inc. v. Columbia Broad-
+casting System, Inc., 441  U. S.  1, 19-20  (1979);  P. Samuel-
+son & W. Nordhaus,  Economics 516 (12th ed. 1985); Sullivan,
+Antitrust, at 32; Bork, The Antitrust Paradox, at 178-179; 2
+Areeda  & Turner  403a;  Easterbrook, The  Limits of Anti-
+trust, 63 Texas L. Rev. 1, 20, 31  (1984).  In the present set-
+ting, in  which  output expanded  at  a  rapid  rate  following
+Brown  & Williamson's alleged predation,  output in the ge-
+neric  segment  can only  have  been restricted  in  the sense
+that it expanded at a slower rate than it would have absent
+Brown & Williamson's intervention.  Such a counterfactual
+proposition is difficult to prove in the best of circumstances;
+here, the record evidence does not permit a reasonable infer-
+ence that output would have been greater without Brown &
+Williamson's entry into the generic segment.
+Following Brown & Williamson's  entry, the rate at which
+generic cigarettes were capturing market share did not slow;
+indeed,  the average  rate of growth  doubled.  During  the
+
+NEW PAGE
+
+234  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+four years from 1980 to  1984 in which  Liggett was alone in
+the generic segment, the segment gained market share at an
+average rate of 1% of the overall market per year, from 0.4%
+in 1980 to slightly more than 4% of the cigarette market in
+1984.  In the next  five years, following the alleged preda-
+tion, the generic  segment  expanded from 4% to more than
+15%  of the domestic  cigarette market, or  greater than 2%
+per year.
+While this evidence tends to show that Brown & William-
+son's  participation  in the economy segment did not restrict
+output, it is not dispositive.  One could speculate, for exam-
+ple, that the rate of segment growth would have tripled, in-
+stead of doubled, without Brown & Williamson's alleged pre-
+dation.  But there is no concrete  evidence of this.  Indeed,
+the only  industry projection in the record estimating what
+the segment's  growth  would have  been  without Brown  &
+Williamson's entry supports the opposite inference.  In 1984,
+Brown & Williamson forecast in an important planning docu-
+ment that the economy segment  would account  for  10%  of
+the  total cigarette  market  by  1988  if it  did not enter  the
+segment.  App. 133,  135.  In fact, in 1988,  after what  Lig-
+gett alleges was a sustained and dangerous  anticompetitive
+campaign by Brown & Williamson,  the generic  segment ac-
+counted  for over 12%  of the  total market.  Id., at 354-356.
+Thus  the  segment's  output  expanded  more  robustly  than
+Brown  & Williamson had estimated  it would had Brown  &
+Williamson never entered.
+Brown  & Williamson  did  note  in  1985,  a  year  after  in-
+troducing  its  black  and  whites,  that  its  presence  within
+the  generic  segment  "appears  to have  resulted  in  . . . a
+slowing  in  the segment's  growth  rate."  Id.,  at 257.  But
+this  statement  was  made  in  early  1985,  when  Liggett
+itself contends the below-cost pricing was still in effect and
+before  any anticompetitive  contraction  in output is alleged
+to have occurred.
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+Whatever  it may mean,2 this  statement has  little value  in
+evaluating the competitive implications of Brown & William-
+son's later conduct, which  was alleged to provide  the basis
+for recouping predatory losses.
+In  arguing that Brown  & Williamson  was  able to exert
+market power and raise generic prices above a competitive
+level in the generic category through tacit price coordination
+with  the other  cigarette  manufacturers,  Liggett places  its
+principal reliance on direct evidence of price behavior.  This
+evidence  demonstrates that the list prices on all cigarettes,
+generic and branded alike, rose to a significant degree during
+the late  1980's.  Id., at 325.  From 1986  to 1989, list prices
+on  both  generic  and  branded  cigarettes  increased  twice  a
+year by  similar amounts.  Liggett's  economic  expert  testi-
+fied  that these price  increases  outpaced  increases  in  costs,
+taxes, and promotional  expenditures.  Id., at 525.  The list
+prices  of generics, moreover, rose at a faster rate than the
+prices  of branded  cigarettes,  thus narrowing the list price
+differential between branded  and generic products.  Id., at
+325.  Liggett argues  that  this  would  permit  a  reasonable
+jury to find that Brown & Williamson succeeded in bringing
+about  oligopolistic  price  coordination  and  supracompetitive
+prices in the generic  category  sufficient to slow its growth,
+thereby preserving supracompetitive branded profits and re-
+couping its predatory losses.
+A reasonable jury, however, could not have drawn the in-
+ferences  Liggett proposes.  All of Liggett's data are based
+upon the list prices of various categories of cigarettes.  Yet
+the jury had before  it undisputed evidence  that during the
+period in question, list prices were not the actual prices paid
+by consumers.  100 Tr. 227-229.  As the market became un-
+2 This statement could well have referred to the rate at which the seg-
+ment was growing relative to prior years' generic volume; this "internal"
+rate of growth would inevitably slow as the base volume against which it
+was measured grew.
+

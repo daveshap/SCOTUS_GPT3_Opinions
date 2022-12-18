@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "datePublished": "2007-09-20",
+  "caseNumber": "551 U. S. 877",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Leegin Creative Leather Products, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "PSKS, Inc."
+    }
+  ],
+  "reasoningForIncludingInOpinion": [
+    {
+      "@type": "LegalCase",
+      "name": "Dr. Miles Medical Co. v. John D. Park & Sons Co.",
+      "datePublished": "1911-01-01",
+      "caseNumber": "220 U. S. 373",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Dr. Miles Medical Co."
+        },
+        {
+          "@type": "Organization",
+          "name": "John D. Park & Sons Co."
+        }
+      ],
+      "legalOpinion": "Agreements fixing minimum resale prices are per se illegal."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Trenton Potteries Co.",
+      "datePublished": "1927-01-01",
+      "caseNumber": "273 U. S. 392",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "United States"
+        },
+        {
+          "@type": "Organization",
+          "name": "Trenton Potteries Co."
+        }
+      ],
+      "legalOpinion": "Agreements fixing minimum resale prices are per se illegal."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "NYNEX Corp. v. Discon, Inc.",
+      "datePublished": "1998-01-01",
+      "caseNumber": "525 U. S. 128",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "NYNEX Corp."
+        },
+        {
+          "@type": "Organization",
+          "name": "Discon, Inc."
+        }
+      ],
+      "legalOpinion": "Agreements fixing minimum resale prices are per se illegal."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Hearings on H. R. 10527 et al.",
+      "datePublished": "1958-01-01",
+      "caseNumber": "85th Cong., 2d Sess.",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Subcommittee on Commerce and Finance of the House Committee on Interstate and Foreign Commerce"
+        }
+      ],
+      "legalOpinion": "Arguments for overturning the per se rule were found insufficient."
+    }
+  ],
+  "legalOpinion": "Vertical price restraints are to be judged according to the rule of reason."
+}

@@ -1,0 +1,124 @@
+
+
+404  VERIZON  COMMUNICATIONS  INC. v.  LAW OFFICES
+OF  CURTIS V. TRINKO, LLP
+Opinion of the Court
+to make a "voluntary contribution" to the U. S. Treasury in
+the amount of $3 million, 15 FCC Red. 5415, 5421,  16 (2000);
+under the PSC orders, Verizon incurred liability to the com-
+petitive LECs in the amount of $10 million.  Under the con-
+sent decree  and orders, Verizon  was subjected to new per-
+formance measurements  and new reporting requirements to
+the FCC  and  PSC, with additional  penalties  for continued
+noncompliance.  In June 2000, the FCC terminated the con-
+sent decree.  Enforcement  Bureau Announces that Bell At-
+lantic  Has  Satisfied  Consent  Decree  Regarding  Electronic
+Ordering Systems in New York (June 20, 2000), http://www.
+fcc.gov/eb/NewsReleases/bellatlet.html  (all Internet  mate-
+rials as visited Dec. 12, 2003, and available in Clerk of Court's
+case  file).  The  next  month  the  PSC  relieved  Verizon  of
+the  heightened  reporting  requirement.  Order  Addressing
+OSS Issues, MCI WorldCom, Inc. v. Bell Atlantic-New York,
+Nos. 00-C-0008,  00-C-0009,  99-C-0949,  2000 WL  1531916
+(N. Y. PSC, July 27, 2000).
+Respondent Law Offices of Curtis V. Trinko, LLP, a New
+York City law firm, was a local telephone service  customer
+of AT&T.  The day after Verizon entered its consent decree
+with  the FCC, respondent filed a complaint in the District
+Court for the  Southern District of New York, on behalf of
+itself and a class of similarly situated customers.  See App.
+12-33.  The complaint,  as later amended,  id., at 34-50, al-
+leged that Verizon had filled rivals'  orders on a discrimina-
+tory basis as part of an anticompetitive scheme to discourage
+customers from becoming or remaining customers of compet-
+itive LECs, thus impeding the competitive  LECs' ability to
+enter and compete in the market for local telephone service.
+See,  e.g.,  id., at  34-35,  46-47, 1 1, 2,  52,  54.  According
+to  the  complaint,  Verizon  "has  filled  orders  of  [competi-
+tive  LEC]  customers  after  filling  those  for  its  own  local
+phone service, has failed to fill in a timely manner, or not at
+all,  a  substantial  number  of orders  for  [competitive  LEC]
+customers...  , and has systematically failed to inform [com-
+
+NEW PAGE
+
+Cite as: 540'U. S. 398 (2004)
+Opinion of the Court
+petitive  LECs]  of the  status  of their  customers'  orders."
+Id., at 39,  21.  The complaint set forth a single example of
+the alleged "failure to provide adequate access  to [competi-
+tive  LECs],"  namely, the  OSS failure that  resulted  in  the
+FCC consent  decree  and PSC orders.  Id., at 40,  22.  It
+asserted that the result of Verizon's improper "behavior with
+respect to providing access  to its local loop"  was to "deter
+potential customers  [of rivals]  from switching."  Id., at 35,
+47,  2, 57.  The complaint sought damages  and injunctive
+relief for violation of § 2 of the Sherman Act, 15 U. S. C. § 2,
+pursuant to the remedy provisions of §§ 4 and 16 of the Clay-
+ton Act, 38 Stat. 731, as amended, 15 U. S. C. §§ 15, 26.  The
+complaint also alleged violations  of the 1996  Act, § 202(a) of
+the Communications Act of 1934, 48 Stat. 1064, as amended,
+47 U. S. C. § 151 et seq., and state law.
+The District Court dismissed the complaint in its entirety.
+As  to the antitrust portion, it  concluded  that respondent's
+allegations  of deficient  assistance  to rivals  failed  to satisfy
+the requirements of § 2.  The Court of Appeals for the Sec-
+ond Circuit reinstated  the complaint  in part, including  the
+antitrust claim.  305 F. 3d 89, 113 (2002).  We granted cer-
+tiorari, limited to the question whether the Court of Appeals
+erred in reversing the District Court's dismissal of respond-
+ent's antitrust claims.  538 U. S. 905 (2003).
+II
+To decide  this case, we must first determine what effect
+(if any) the 1996 Act has upon the application  of traditional
+antitrust principles.  The Act imposes a large number of du-
+ties upon  incumbent  LECs-above  and beyond  those basic
+responsibilities it imposes upon all carriers, such as assuring
+number portability and providing access to rights-of-way, see
+47  U. S. C.  §§ 251(b)(2),  (4).  Under  the  sharing  duties  of
+§251(c),  incumbent  LECs are required  to offer  three kinds
+of access.  Already noted, and perhaps most intrusive, is the
+duty to offer access to UNEs on "just, reasonable, and non-
+
+NEW PAGE
+
+406  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF  CURTIS V. TRINKO, LLP
+Opinion of the Court
+discriminatory" terms, § 251(c)(3), a phrase that the FCC has
+interpreted to mean a price reflecting long-run incremental
+cost.  See Verizon Communications Inc. v. FCC, 535 U. S.,
+at 495-496.  A rival can interconnect its own facilities with
+those of the incumbent LEC, or it can simply purchase serv-
+ices at wholesale from the incumbent and resell them to con-
+sumers.  See  §§251(c)(2),  (4).  The  Act also  imposes  upon
+incumbents the duty to allow physical "collocation"-that is,
+to permit a competitor to locate and install its equipment on
+the  incumbent's  premises-which  makes  feasible  intercon-
+nection and access to UNEs.  See §251(c)(6).
+That Congress created these duties, however, does not au-
+tomatically lead to the conclusion  that they can be enforced
+by means of an antitrust claim.  Indeed, a detailed regula-
+tory scheme such as that created by the 1996 Act ordinarily
+raises  the question  whether the regulated  entities  are not
+shielded from  antitrust scrutiny altogether by the doctrine
+of implied immunity.  See, e. g.,  United States v. National
+Assn. of Securities Dealers, Inc., 422 U. S. 694 (1975);  Gor-
+don v. New York  Stock Exchange, Inc., 422 U. S. 659 (1975).
+In some respects the enforcement scheme set up by the 1996
+Act is a good candidate for implication of antitrust immunity,
+to avoid the real possibility of judgments conflicting with the
+agency's regulatory scheme "that might be voiced by courts
+exercising  jurisdiction under  the antitrust  laws."  United
+States v. National Assn. of Securities Dealers, Inc., supra,
+at 734.
+Congress,  however,  precluded  that interpretation.  Sec-
+tion 601(b)(1)  of the 1996 Act is an antitrust-specific saving
+clause providing that "nothing in this Act or the amendments
+made by this  Act shall  be construed  to modify, impair,  or
+supersede  the  applicability  of any  of the  antitrust laws."
+110 Stat. 143, 47 U. S. C. § 152,  note.  This bars a finding of
+implied immunity.  As the FCC has put the point, the saving
+clause preserves  those "claims that satisfy established  anti-
+trust standards."  Brief for United  States and  the Federal
+

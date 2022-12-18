@@ -1,0 +1,123 @@
+
+
+416  NATIONAL  RAILROAD PASSENGER CORPORATION  v.
+BOSTON & MAINE CORP.
+Opinion of the Court
+Appeals' decision  in this case, added  the following sentence
+to  § 562(d)(1):  "The  Corporation  may  subsequently  convey
+title or other interest in  such property to  a third  party, if
+such  reconveyance  is found  by  the Commission  to further
+the purposes of this Act."  Independent  Safety  Board  Act
+Amendments of 1990  § 9(a), Pub. L.  101-641,  104 Stat. 4658.
+The  amendment  was  made applicable  to all pending cases,
+§ 9(b), and B&M does not dispute that it applied in this case
+even while it was before the Court of Appeals on rehearing.
+Brief for  Respondent  B&M  33-35.  The  Court of Appeals
+considered the 1990 amendment, but denied rehearing none-
+theless.  288 U. S. App. D. C. 196, 925 F. 2d 427 (1991).  The
+panel majority held that while § 9 made it clear Amtrak was
+authorized  to reconvey  condemned  property "subsequent to
+a condemnation  that is  otherwise  valid under [§ 562(d)],"  it
+did not change the statutory limitation that the property be
+"'required  for intercity rail passenger service'  in the first
+place.  Id., at 197, 925 F. 2d, at 428 (emphasis in  original).
+The  majority reasoned  that since  its original decision  was
+based  on Amtrak's  failure  to satisfy  that requirement,  the
+amendment did not affect its holding.  The majority also dis-
+tinguished  a case from the Second  Circuit, National Rail-
+road PassengerC  orp. v. Two Parcels of Land, 822 F. 2d 1261,
+cert.  denied,  484  U. S.  954  (1987),  which  had  interpreted
+§ 545(d)(1)  (the provision  authorizing  Amtrak  to  condemn
+nonrail property) to permit reconveyance  following condem-
+nation.  288 U. S. App. D. C., at 196-197, 425 F. 2d, at 427-
+428.  In a separate opinion, Judge Ginsburg wrote that the
+amendment confirmed her view that the ICC had not misin-
+terpreted the statute, but that a remand remained necessary
+for further factual determinations.
+Amtrak and CV, in No. 90-1419,  and the ICC, in No. 90-
+1769, filed separate petitions seeking review of the Court of
+Appeals'  decision.  We granted  certiorari and  consolidated
+the cases.  502 U. S. 807 (1991).  We now reverse.
+
+NEW PAGE
+
+Cite as: 503 U. S. 407 (1992)
+Opinion of the Court
+II
+The primary question raised by these cases  is a straight-
+forward matter of statutory interpretation: whether § 562(d),
+as  amended,  authorizes  the condemnation  and  transaction
+approved by the ICC but set aside by the Court of Appeals.
+The Court of Appeals disallowed the transaction based on its
+own  interpretation  of the language  "required  for intercity
+rail passenger service"  in § 562(d)(1).  In  so holding it lim-
+ited Amtrak's condemnation authority to property that was
+necessary, in the sense of indispensable, to Amtrak's opera-
+tions.  The ICC interpreted the relevant statutory language
+to give Amtrak more latitude, and it is our task to determine
+whether  the  Commission  had  authority  for  its  statutory
+interpretation.
+Judicial  deference  to  reasonable  interpretations  by  an
+agency  of a  statute that it administers  is a dominant, well-
+settled principle of federal law.  We relied upon it in Chev-
+ron U S. A. Inc. v. Natural Resources Defense Council, Inc.,
+467 U. S. 837 (1984), and have reaffirmed it often.  See, e. g.,
+K mart Corp. v. Cartier,I nc., 486 U. S. 281, 292-293  (1988);
+Pauley v. BethEnergy Mines, Inc., 501  U. S.  680, 696-697
+(1991).  These  decisions  mandate  that when  a court  is re-
+viewing an agency decision based on a statutory interpreta-
+tion, "if the statute  is silent or ambiguous  with respect to
+the specific  issue, the question for the court is whether the
+agency's answer is based on a permissible construction of the
+statute."  Chevron U S. A., supra,a t 843.  If the agency in-
+terpretation is not in conflict with the plain language  of the
+statute, deference  is due.  K mart Corp., 486  U. S., at 292.
+In ascertaining whether the agency's interpretation is a per-
+missible construction  of the language, a court must look to
+the structure  and language  of the statute as a whole.  Id.,
+at 291; Sullivan v. Everhart, 494 U. S. 83, 89 (1990).  If the
+text is ambiguous  and so open to interpretation in some re-
+spects, a degree of deference is granted to the agency, though
+
+NEW PAGE
+
+418  NATIONAL RAILROAD PASSENGER CORPORATION  v.
+BOSTON & MAINE CORP.
+Opinion of the Court
+a reviewing  court  need not accept an interpretation which
+is unreasonable.
+Under these principles the ICC's interpretation of § 562(d)
+was permissible, and the Court of Appeals'  decision  was in
+error to disregard it.  While the ICC's opinion is not explicit
+in all  of its  details, the Commission's  decision  is based  on
+a  reading of the statute  quite  different  from the Court of
+Appeals'.  The  ICC agreed  that property Amtrak seeks  to
+condemn under § 562(d) must be  "required for intercity rail
+passenger service."  It determined, however, that the word
+"required" need not mean, as the Court of Appeals'  opinion
+suggests, indispensable or necessary.  Instead, the ICC gave
+effect to the statutory presumption of Amtrak's need for the
+track, and in so doing implemented and interpreted the stat-
+ute in a manner that comports with its words and structure.
+The analysis of the Court of Appeals is inconsistent with the
+Commission's interpretation of the statutory presumption of
+need.  The  ICC's  position  before  the  Court  is  that  "re-
+quired" can also mean "useful or appropriate," Brief for Peti-
+tioners in No. 90-1769, p. 17, and that the order under review
+adopted that meaning.  We agree that the manner in which
+the ICC has applied the statute in this case has that inter-
+pretation as its basic premise.  App. to Pet. for Cert. in No.
+90-1419, pp. 42a-46a.
+In its brief the ICC cites a dictionary definition in support
+of its view.  Brief for Petitioners in No. 90-1769, p. 17, citing
+Webster's Third  New International  Dictionary  1929  (1986).
+The  existence  of  alternative  dictionary  definitions  of  the
+word "required," each making some sense under the statute,
+itself indicates  that  the  statute  is  open  to interpretation.
+See Sullivan v. Everhart, supra.  Few phrases in a complex
+scheme  of regulation are so clear as to be beyond the need
+for interpretation when applied in a real context.  Further,
+the structure of the provision reinforces our conclusion that
+statutory interpretation is appropriate and that the Court of
+Appeals'  interpretation  is  itself open  to  serious  question.
+

@@ -1,0 +1,76 @@
+
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  7 
+Opinion of the Court 
+tinct brands at a single price.  As a single entity, a joint 
+venture, like any other ﬁrm, must have the discretion to de­
+termine the prices of the products that it sells, including the 
+discretion to sell a product under two different brands at a 
+single, uniﬁed price.  If Equilon’s price uniﬁcation policy is 
+anticompetitive, then respondents should have challenged it 
+pursuant to the rule of reason.2  But it would be inconsistent 
+with this Court’s antitrust precedents to condemn the inter­
+nal pricing decisions of a legitimate joint venture as per se 
+unlawful.3 
+The court below reached the opposite conclusion by invok­
+ing the ancillary restraints doctrine.  369 F. 3d, at 1118– 
+1124.  That  doctrine  governs  the  validity  of  restrictions 
+imposed by a  legitimate business collaboration, such  as a 
+business association or joint venture, on nonventure activi­
+ties.  See, e. g., National Collegiate Athletic Assn. v. Board 
+of Regents of Univ. of Okla., 468 U. S. 85, 113–115 (1984); 
+Citizen Publishing Co. v. United States, 394 U. S. 131, 135– 
+136  (1969).  Under  the  doctrine,  courts  must  determine 
+whether the nonventure restriction is a naked restraint on 
+trade, and thus invalid, or one that is ancillary to the legiti­
+mate and competitive purposes of the business association, 
+and thus valid.  We agree with petitioners that the ancillary 
+restraints doctrine has no application here, where the busi­
+ness practice being challenged involves the core activity of 
+the  joint  venture  itself—namely,  the  pricing  of  the  very 
+2 Respondents have not put forth a rule of reason claim.  369 F. 3d, at 
+1113.  Accordingly, we need not address petitioners’ alternative argument 
+that § 1 of the Sherman Act is inapplicable to joint ventures. 
+3 Respondents alternatively contend that petitioners should be held lia­
+ble under the quick look doctrine.  To be sure, we have applied the quick 
+look doctrine to business activities that are so plainly anticompetitive that 
+courts need undertake only a cursory examination before imposing anti­
+trust liability.  See California Dental Assn. v. FTC, 526 U. S. 756, 770 
+(1999).  But for the same reasons that per se liability is unwarranted here, 
+we conclude that petitioners cannot be held liable under the quick look 
+doctrine. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+8  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+goods produced and sold by Equilon.  And even if we were 
+to invoke the doctrine in these cases, Equilon’s pricing policy 
+is clearly ancillary to the sale of its own products.  Judge 
+Fernandez, dissenting from the ruling of the court below, put 
+it well: 
+“In this case, nothing more radical is afoot than the 
+fact that an entity, which now owns all of the production, 
+transportation, research, storage, sales and distribution 
+facilities  for  engaging  in  the  gasoline  business,  also 
+prices its own products.  It decided to price them the 
+same, as any other entity could.  What could be more 
+integral to the running of a business than setting a price 
+for its goods and services?”  369 F. 3d, at 1127. 
+See also Broadcast Music, supra, at 23 (“Joint ventures and 
+other cooperative arrangements are . . . not usually unlawful, 
+at least not as price-ﬁxing schemes, where the agreement on 
+price is necessary to market the product at all”). 
+* * * 
+Because the pricing decisions of a legitimate joint venture 
+do not fall within the narrow category of activity that is per 
+se unlawful under § 1 of the Sherman Act, respondents’ anti­
+trust claim cannot prevail.  Accordingly, the judgment of the 
+Court of Appeals is reversed. 
+It is so ordered. 
+Justice Alito took no part in the consideration or deci­
+sion of these cases. 
+
+NEW PAGE

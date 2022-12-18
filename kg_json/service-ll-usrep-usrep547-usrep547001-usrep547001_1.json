@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/texaco-v-dagher",
+      "@type": "http://schema.org/LegalCase",
+      "date": "2005-10-01",
+      "caseNumber": "04-805",
+      "involvedParties": ["Texaco Inc.", "Shell Oil Co.", "Equilon Enterprises", "Texaco and Shell Oil service station owners"],
+      "reasoning": "It is not per se illegal under § 1 of the Sherman Act for a lawful, economically integrated joint venture to set the prices at which it sells its products."
+    },
+    {
+      "@id": "http://example.org/shell-oil-v-dagher",
+      "@type": "http://schema.org/LegalCase",
+      "date": "2005-10-01",
+      "caseNumber": "04-814",
+      "involvedParties": ["Shell Oil Co.", "Texaco and Shell Oil service station owners"],
+      "reasoning": "It is not per se illegal under § 1 of the Sherman Act for a lawful, economically integrated joint venture to set the prices at which it sells its products."
+    },
+    {
+      "@id": "http://example.org/catalano-v-target-sales",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1980-06-30",
+      "caseNumber": "446 U.S. 643",
+      "involvedParties": ["Catalano, Inc.", "Target Sales, Inc."],
+      "reasoning": "§ 1 of the Sherman Act prohibits “[e]very contract [or] combination . . . in restraint of trade.”"
+    },
+    {
+      "@id": "http://example.org/state-oil-v-khan",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1997-06-23",
+      "caseNumber": "522 U.S. 3",
+      "involvedParties": ["State Oil Co.", "Khan"],
+      "reasoning": "Under rule of reason analysis, antitrust plaintiffs must demonstrate that a particular contract or combination is in fact unreasonable and anticompetitive."
+    },
+    {
+      "@id": "http://example.org/national-society-of-professional-engineers-v-united-states",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1977-06-20",
+      "caseNumber": "435 U.S. 679",
+      "involvedParties": ["National Society of Professional Engineers", "United States"],
+      "reasoning": "Per se liability is reserved for “plainly anticompetitive” agreements."
+    },
+    {
+      "@id": "http://example.org/arizona-v-maricopa-county-medical-society",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1982-06-07",
+      "caseNumber": "457 U.S. 332",
+      "involvedParties": ["Arizona", "Maricopa County Medical Society"],
+      "reasoning": "When those who would otherwise be competitors pool their capital and share the risks of loss and opportunities for profit, they are regarded as a single firm competing with other sellers in the market."
+    }
+  ]
+}

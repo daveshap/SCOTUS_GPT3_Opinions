@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "parties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "546US1",
+      "@type": "CaseCitation",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "546US1",
+      "parties": "VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-SIMCO GMC, INC.",
+      "reasoning": "Robinson-Patman Act claim: primary line, secondary line, and tertiary line."
+    },
+    {
+      "@id": "15USC13",
+      "@type": "Precedent",
+      "date": "1936",
+      "caseNumber": "15USC13",
+      "parties": "Clayton Act",
+      "reasoning": "Private plaintiff may recover threefold for actual injury sustained as a result of a violation of the Robinson-Patman Act."
+    },
+    {
+      "@id": "451US557",
+      "@type": "Precedent",
+      "date": "1981",
+      "caseNumber": "451US557",
+      "parties": "J. Truett Payne Co. v. Chrysler Motors Corp.",
+      "reasoning": "Robinson-Patman Act does not ban all price differences charged to different purchasers of commodities of like grade and quality."
+    },
+    {
+      "@id": "509US209",
+      "@type": "Precedent",
+      "date": "1993",
+      "caseNumber": "509US209",
+      "parties": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "reasoning": "Robinson-Patman Act proscribes price discrimination only to the extent that it threatens to injure competition."
+    },
+    {
+      "@id": "496US543",
+      "@type": "Precedent",
+      "date": "1990",
+      "caseNumber": "496US543",
+      "parties": "Texaco Inc. v. Hasbrouck",
+      "reasoning": "Robinson-Patman Act cases typically refer to 'favored' and 'disfavored' purchasers."
+    },
+    {
+      "@id": "371US505",
+      "@type": "Precedent",
+      "date": "1963",
+      "caseNumber": "371US505",
+      "parties": "FTC v. Sun Oil Co.",
+      "reasoning": "Hallmark of the requisite competitive injury is the diversion of sales or profits from a disfavored purchaser to a favored purchaser."
+    },
+    {
+      "@id": "460US428",
+      "@type": "Precedent",
+      "date": "1983",
+      "caseNumber": "460US428",
+      "parties": "Falls City Industries, Inc. v. Vanco Beverage, Inc.",
+      "reasoning": "Permissible inference of competitive injury may arise from evidence that a favored competitor received a significant price reduction over a substantial period of time."
+    },
+    {
+      "@id": "334US37",
+      "@type": "Precedent",
+      "date": "1948",
+      "caseNumber": "334US37",
+      "parties": "FTC v. Morton Salt Co.",
+      "reasoning": "Permissible inference of competitive injury may arise from evidence that a favored competitor received a significant price reduction over a substantial period of time."
+    }
+  ]
+}

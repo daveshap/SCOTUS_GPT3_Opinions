@@ -1,0 +1,42 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/540U.S.736",
+      "@type": "CaseCitation",
+      "date": "2004",
+      "caseNumber": "540 U. S. 736",
+      "involvedParties": "Opinion of the Court",
+      "reasoning": "The federal prohibition binds state governmental bodies."
+    },
+    {
+      "@id": "http://schema.org/UnitedStatesv.CooperCorp.",
+      "@type": "CaseCitation",
+      "date": "1941",
+      "caseNumber": "312 U. S. 600",
+      "involvedParties": "United States v. Cooper Corp.",
+      "reasoning": "The Court held the United States could not sue for antitrust damages because it is not a person under the antitrust statute."
+    },
+    {
+      "@id": "http://schema.org/15U.S.C.§15a",
+      "@type": "CaseCitation",
+      "date": "1970",
+      "caseNumber": "15 U.S. C. § 15a",
+      "involvedParties": "Congress",
+      "reasoning": "Congress did not change the definition of 'person' in the statute, but added a new section allowing the United States to sue."
+    },
+    {
+      "@id": "http://schema.org/PostalServicev.FlamingoIndustries(USA)Ltd.",
+      "@type": "CaseCitation",
+      "date": "2004",
+      "caseNumber": "540 U. S. 736",
+      "involvedParties": "Postal Service v. Flamingo Industries (USA) Ltd.",
+      "reasoning": "The statutory designation of the Postal Service as an 'independent establishment of the executive branch of the Government of the United States' is not consistent with the idea that it is an entity existing outside the Government."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+
+
+788  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SOUTER, J., concurring in judgment
+[association]  companies  were  threatened  with  boycotts  and
+withdrawal of all patronage."  322 U. S., at 535-536.  Faced
+with such a list, and with all of the other instances  in which
+we have used  the term "boycott,"  we  rightly came  to the
+conclusion in Barry that, as used in our cases, the term does
+not  refer to  a  "'unitary  phenomenon.'  438  U. S.,  at 543
+(quoting P. Areeda, Antitrust Analysis 381 (2d ed. 1974)).
+The question in this litigation is whether the alleged activ-
+ities  of  the domestic  defendants,  acting  together with  the
+foreign defendants who are not petitioners here, include "en-
+forcement activities" that would raise the  claimed attempts
+to  fix  terms  to the level  of § 3(b) boycotts..  I  believe they
+do.  The core of the plaintiffs' allegations against the domes-
+tic defendants concern those activities that form the basis of
+the First, Second, Third, and Fourth Claims for Relief in the
+California  Complaint,  and  the  Second  Claim  for  Relief in
+the  Connecticut  Complaint:  the conspiracies  involving both
+the primary insurers and domestic and foreign brokers and re-
+insurers to force changes in the ISO CGL forms.  According
+to the complaints, primary insurer defendants  Hartford and
+Allstate first tried to convince other members of the ISO that
+the ISO CGL forms should be changed to limit coverage in the
+manner  we  have  detailed  above,  see  supra, at  773-774;
+but  they failed  to persuade  a  majority of members  of the
+relevant  ISO committees,  and the  changes  were not made.
+Unable to persuade  other primary insurers to agree volun-
+tarily to their terms, Hartford and Allstate, joined by Aetna
+and CIGNA, sought the aid of other individuals and entities
+who were not members of ISO, and who would not ordinarily
+be parties to an agreement setting the terms of primary in-
+surance,  not being  in the  business  of selling it.  The  four
+primary  insurers  convinced  these  individuals  and  entities,
+the  reinsurers,  to  put  pressure  on  ISO  and  its  members
+by refusing to reinsure  coverages written  on the ISO CGL
+forms until the desired changes were made.  Both domestic
+and foreign reinsurers, acting at the behest of the four pri-
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SOUTER, J., concurring in judgment
+mary  insurers,  announced  that  they  would  not  reinsure
+under the ISO CGL forms until changes were made.  As an
+immediate result of this pressure, ISO decided  to include a
+retroactive-date provision in its claims-made form, and to ex-
+clude all pollution coverage  from both its  claims-made  and
+occurrence forms.  In sum, the four primary insurers solic-
+ited refusals to deal from outside the primary insurance in-
+dustry as a means of forcing their fellow primary insurers to
+agree to their terms;  the outsiders, acting at the behest  of
+the four, in fact refused to deal with primary insurers until
+they capitulated, which, in part at least, they did.
+This  pattern of activity  bears  a  striking resemblance  to
+the first act of boycott listed by the South-Eastern Under-
+writers Court;  although neither  the South-Eastern Under-
+writers opinion,  nor  the underlying  indictment,  see  Tran-
+script of Record, 0. T. 1943,  No. 354, p. 11  (  22(e)), details
+exactly how the defendants  managed to  "cut off [nonmem-
+bers] from the opportunity to reinsure their risks," 322 U. S.,
+at 535, the defendants could have done so by prompting rein-
+surance companies  to refuse to deal with nonmembers, just
+as is  alleged here.16   Moreover,  the activity  falls  squarely
+16The majority claims that this refusal to deal was a boycott only be-
+cause "membership in the association [had]  no discernible bearing upon
+the  terms of the refused  reinsurance contracts."  Post, at 809.  Testi-
+mony at the hearings on the bill that became the McCarran-Ferguson Act
+indicates that the insurance companies thought otherwise.  "We say 'You
+do not issue insurance to a company that does not do business the way we
+think it should be done and belong to our association.'  . . . It is for the
+protection of the public, the stockholders, and the companies....  You know
+when those large risks are taken that they have to be reinsured.  We do
+not want to have to take a risk that is bad, or at an improper rate, or an
+excessive commission, we do not want our agents to take that, nor do we
+want to reinsure part of the risk that is written that way.  We feel this
+way-that some groups are doing business in what is not the proper way,
+we feel it is not in the interest of the companies and it is not in the interest
+of the public, and we just do not want to do business with them."  Joint
+Hearing on S. 1362, H. R. 3269, and H. R. 3270 before the Subcommittees
+of the  Senate Committee  on the Judiciary, 78th Cong.,  1st Sess., pt. 2,
+
+NEW PAGE
+
+790  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SOUTER, J., concurring in judgment
+within even the narrow theory of the § 3(b) exception Justice
+Stewart advanced in dissent in Barry.  Under that theory,17
+the § 3(b) exception should be limited to "attempts by mem-
+bers  of the insurance  business  to  force  other  members  to
+follow the industry's private rules and practices."  438 U. S.,
+at  565.  I  can  think  of no  better  description  of the  four
+primary  insurers'  activities  in  this  litigation.  For  these
+reasons,  I agree  with the Court's ultimate  conclusion  that
+the Court of Appeals was correct  in reversing  the District
+Court's  dismissal  of the  First, Second,  Third,  and  Fourth
+Claims for Relief in the California Complaint, and the Second
+Claim for Relief in the Connecticut Complaint.8
+p. 333 (1943) (statement of Edward L. Williams, President, Insurance Ex-
+ecutives Association).
+17I n passing the McCarran-Ferguson Act, Justice Stewart argued, "Con-
+gress plainly wanted to allow the States to authorize anticompetitive prac-
+tices which they determined to be in the public interest."  St. Paul Fire &
+Marine Ins. Co. v. Barry, 438 U. S. 531,  565 (1978)  (dissenting opinion).
+Hence, § 2(b) provides that the federal antitrust laws will generally not be
+applicable to those insurance business practices "regulated by State law,"
+and presumably state law could, for example, either mandate price fixing,
+or specifically authorize voluntary price-fixing agreements.  On the other
+hand, Congress intended to delegate regulatory power only to the States;
+nothing in the McCarran-Ferguson  Act suggests that Congress wanted
+one insurer, or a group of insurers, to be able to formulate and enforce
+policy for other insurers.  Thus, the enforcement  activities that distin-
+guish §3(b) "boycotts" from other concerted activity include, in this con-
+text, "private enforcement ...  of industry rules and practices,  even if
+those rules and practices are permitted by state law."  Id., at 565-566
+(emphasis in original) (footnote omitted).
+"'The First and Sixth Claims for Relief in the Connecticut Complaint,
+and the Seventh Claim for Relief in the California Complaint, which also
+name  some  or all  of the  petitioners,  present special  cases.  The First
+Claim for Relief in the Connecticut Complaint alleges an overarching con-
+spiracy involving all of the defendants named in the complaint and all of
+the conduct alleged.  As such, it encompasses  "boycott" activity, and the
+Court of Appeals was correct to reverse the District Court's order dismiss-
+ing it.  As currently described in the complaint's statement of facts, how-
+ever, some  of the actions  of the reinsurers  and the  retrocessional rein-
+surers appear to have been taken independently, rather than at the behest
+

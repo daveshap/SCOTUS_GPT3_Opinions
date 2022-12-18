@@ -1,0 +1,124 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+According  to  the  London  reinsurers,  the  District  Court
+should have declined to exercise such jurisdiction under the
+principle  of international  comity.U  The  Court  of Appeals
+agreed that courts should look to that principle  in deciding
+whether  to  exercise  jurisdiction  under  the  Sherman  Act.
+Id.,  at  932.  This  availed  the  London  reinsurers  nothing,
+however.  To  be  sure, the Court of Appeals  believed  that
+"application of [American]  antitrust laws to the London rein-
+surance market 'would lead to significant conflict with Eng-
+lish law and policy,"'  and that "[s]uch  a  conflict, unless out-
+weighed by other factors, would by itself be reason to decline
+export transactions  that did not injure the United  States economy, see
+H. R. Rep. No. 97-686, pp. 2-3, 9-10 (1982); P. Areeda & H. Hovenkamp,
+Antitrust Law  236'a, pp. 296-297 (Supp. 1992), and it is unclear how it
+might apply to the conduct alleged here.  Also unclear is whether the
+Act's  "direct, substantial,  and  reasonably  foreseeable  effect"  standard
+amends existing law or merely codifies  it.  See id.,  236'a, p. 297.  We
+need  not  address  these  questions  here.  Assuming  that  the  FTAIA's
+standard affects this litigation, and assuming further that that standard
+differs  from  the  prior  law,  the  conduct  alleged  plainly  meets  its
+requirements.
+24JUSTICE  SCALIA contends that comity concerns figure into the prior
+analysis whether jurisdiction exists under the Sherman Act.  Post, at 817-
+818.  This contention is inconsistent with the general understanding that
+the Sherman Act covers foreign conduct producing a substantial intended
+effect in the United States, and that concerns of comity come into play, if
+at all, only after a court has determined that the acts complained of are
+subject to Sherman Act jurisdiction.  See United States v. Aluminum Co.
+of America, 148 F. 2d, 416, 444 (CA2  1945) ("[I]t follows from what we
+have .. .said that [the agreements  at issue] were unlawful [under  the
+Sherman Act],  though made abroad, if they were intended to affect im-
+ports and did affect them"); Mannington Mills, Inc. v. Congoleum Corp.,
+595 F. 2d 1287, 1294 (CA3 1979) (once court determines that jurisdiction
+exists under the Sherman Act, question remains whether comity precludes
+its exercise);  H. R. Rep. No. 97-686, supra, at 13.  But cf  Timberlane
+Lumber Co. v. Bank of America, N T & S. A, 549 F. 2d 597, 613 (CA9
+1976);  1 J. Atwood  & K.  Brewster,  Antitrust and  American  Business
+Abroad 166 (1981).  In any event, the parties conceded jurisdiction at oral
+argument, see supra, at 795, and we see no need to address this conten-
+tion here.
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+exercise of jurisdiction."  Id., at 933 (citation omitted).  But
+other factors, in the court's view, including the London rein-
+surers'  express  purpose  to affect  United  States  commerce
+and  the  substantial  nature  of  the  effect  produced,  out-
+weighed the supposed conflict  and required  the exercise  of
+jurisdiction in this litigation.  Id., at 934.
+When it enacted the FTAIA, Congress expressed no view
+on  the question whether a court  with  Sherman  Act juris-
+diction should ever decline  to exercise  such jurisdiction on
+grounds of international comity.  See H. R. Rep. No. 97-686,
+p. 13 (1982) ("If a court determines that the requirements for
+subject matter jurisdiction are met, [the FTAIA] would have
+no effect on the court['s] ability to employ notions of comity
+or otherwise to take account of the international charac-
+... 
+ter of the transaction")  (citing Timberlan).  We need not
+decide that question here, however, for even assuming that
+in a  proper case a  court may decline  to exercise  Sherman
+Act jurisdiction over foreign conduct (or, as JUSTICE SCALIA
+would  put it, may  conclude  by  the  employment  of comity
+analysis  in  the first instance that there is no jurisdiction),
+international  comity  would  not  counsel  against  exercising
+jurisdiction in the circumstances alleged here.
+The only substantial question in this litigation is whether
+"there  is in fact  a true conflict  between domestic and  for-
+eign law."  Socidt6 Nationale Industriele Agrospatiale v.
+United States Dist. Court for Southern Dist. of Iowa, 482
+U. S.  522, 555 (1987)  (BLACKMUN,  J.,  concurring in part and
+dissenting  in  part).  The  London  reinsurers  contend  that
+applying the Act to their conduct would conflict significantly
+with British law, and the British Governmenit, appearing be-
+fore us as amicus curiae, concurs.  See Brief for Petitioners
+Merrett Underwriting Agency Management Ltd. et al. in No.
+91-1128, pp. 22-27; Brief for Government of United Kingdom
+of Great  Britain  and  Northern  Ireland  as  Amicus Curiae
+10-14.  They assert that Parliament has established a com-
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+prehensive regulatory regime over the London reinsurance
+market and that the conduct alleged here was perfectly con-
+sistent with British law and policy.  But this is not to state
+a conflict.  "IT]he fact that conduct is lawful in the state in
+which it took place  will not, of itself, bar application  of the
+United States antitrust laws," even where the foreign state
+has a strong policy to permit or encourage such conduct.  Re-
+statement (Third) Foreign Relations  Law § 415, Comment j;
+see Continental Ore Co., supra, at 706-707.  No conflict ex-
+ists, for these purposes, "where a person subject to regula-
+tion by two states can comply with the laws of both."  Re-
+statement  (Third) Foreign  Relations  Law  §403,  Comment
+e.2  Since the London reinsurers do not argue that British
+law requires them to act in some fashion prohibited by the
+law  of the  United  States,  see  Reply  Brief for  Petitioners
+Merrett  Underwriting  Agency  Management  Ltd.  et al.  in
+No. 91-1128, pp. 7-8, or claim that their compliance with the
+laws  of both  countries  is  otherwise  impossible,  we see  no
+conflict with British law.  See Restatement  (Third) Foreign
+Relations  Law  §403,  Comment  e,  §415,  Comment j.  We
+have no need  in this  litigation to -address other considera-
+tions that might inform a decision to refrain from the exer-
+cise of jurisdiction on grounds of international comity.
+IV
+The judgment of the Court of Appeals is affirmed in part
+and reversed in part, and the cases are remanded for further
+proceedings  consistent with this opinion.
+It is so ordered.
+2 JUSTICE SCALIA says that we put the cart before the horse in citing
+this authority, for he argues it may be apposite only after a determination
+that jurisdiction over the foreign acts is reasonable.  Post, at 821.  But
+whatever the order of cart and horse, conflict in this sense is the only
+substantial issue before the Court.
+

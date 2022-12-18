@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": "SCALIA, J., dissenting",
+      "reasoning": "United States law",
+      "opinion": "Where applicable foreign and domestic law provide different substantive rules of decision to govern the parties' dispute, a conflict-of-laws analysis is necessary."
+    },
+    {
+      "@id": "R. Weintraub, Commentary on Conflict of Laws 2-3 (1980)",
+      "@type": "cite",
+      "date": "1980",
+      "caseNumber": "2-3",
+      "involvedParties": "R. Weintraub",
+      "reasoning": "Commentary on Conflict of Laws",
+      "opinion": "A conflict-of-laws analysis is necessary."
+    },
+    {
+      "@id": "Restatement (First) of Conflict of Laws § 1, Comment c and Illustrations (1934)",
+      "@type": "cite",
+      "date": "1934",
+      "caseNumber": "§ 1",
+      "involvedParties": "Restatement (First) of Conflict of Laws",
+      "reasoning": "Comment c and Illustrations",
+      "opinion": "A conflict-of-laws analysis is necessary."
+    },
+    {
+      "@id": "Restatement (Third) § 403",
+      "@type": "cite",
+      "date": "",
+      "caseNumber": "§ 403",
+      "involvedParties": "Restatement (Third)",
+      "reasoning": "",
+      "opinion": "Subsection (3) applies only when one state requires what another prohibits, or where compliance with the regulations of two states exercising jurisdiction consistently with this section is otherwise impossible. It does not apply where a person subject to regulation by two states can comply with the laws of both."
+    },
+    {
+      "@id": "Restatement (Third) § 415, Comment a",
+      "@type": "cite",
+      "date": "",
+      "caseNumber": "§ 415",
+      "involvedParties": "Restatement (Third)",
+      "reasoning": "Comment a",
+      "opinion": "Any exercise of [legislative] jurisdiction under this section is subject to the requirement of reasonableness set forth in § 403(2)."
+    },
+    {
+      "@id": "Restatement (Third) § 415, Comment j",
+      "@type": "cite",
+      "date": "",
+      "caseNumber": "§ 415",
+      "involvedParties": "Restatement (Third)",
+      "reasoning": "Comment j",
+      "opinion": "Refer back to the conflict analysis set forth in § 403(3), which, as noted above, comes after the reasonableness analysis of § 403(2)."
+    },
+    {
+      "@id": "Hartford Fire Ins. Co. v. California",
+      "@type": "cite",
+      "date": "",
+      "caseNumber": "No. 91-1128",
+      "involvedParties": "Hartford Fire Ins. Co. v. California",
+      "reasoning": "",
+      "opinion": "I would reverse the judgment of the Court of Appeals on this issue, and remand to the District Court with instructions to dismiss for failure to state a claim on the three counts at issue in No. 91-1128."
+    }
+  ]
+}

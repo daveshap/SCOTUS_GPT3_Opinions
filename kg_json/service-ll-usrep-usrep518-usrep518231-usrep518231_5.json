@@ -1,0 +1,99 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:518_U_S_231_1996",
+      "cite": "518 U. S. 231 (1996)",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": ["Petitioners", "Government"],
+      "reasoning": "Petitioners claim that the implicit exemption applies only to labor-management agreements. The Government argues that the exemption should terminate at the point of impasse."
+    },
+    {
+      "@id": "cite:Connell_421_U_S_618_1975",
+      "cite": "Connell, 421 U. S. 618 (1975)",
+      "date": "1975",
+      "caseNumber": "421 U. S. 618",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners deduce from case law language that the exemption applies only to labor-management agreements."
+    },
+    {
+      "@id": "cite:Pennington_381_U_S_678_1965",
+      "cite": "Pennington, 381 U. S. 678 (1965)",
+      "date": "1965",
+      "caseNumber": "381 U. S. 678",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners deduce from case law language that the exemption applies only to labor-management agreements."
+    },
+    {
+      "@id": "cite:Jewel_Tea_381_U_S_637_1965",
+      "cite": "Jewel Tea, 381 U. S. 637 (1965)",
+      "date": "1965",
+      "caseNumber": "381 U. S. 637",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners deduce from case law language that the exemption applies only to labor-management agreements."
+    },
+    {
+      "@id": "cite:Areeda_Hovenkamp_Antitrust_Law_229d_1978",
+      "cite": "Areeda & Hovenkamp, Antitrust Law 229'd (1978)",
+      "date": "1978",
+      "caseNumber": "Antitrust Law 229'd",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners cannot rescue their principle by claiming that the exemption applies only insofar as both labor and management consent to those understandings."
+    },
+    {
+      "@id": "cite:Hi_Way_Billboards_Inc_206_N_L_R_B_22_1973",
+      "cite": "Hi-Way Billboards, Inc., 206 N. L. R. B. 22 (1973)",
+      "date": "1973",
+      "caseNumber": "206 N. L. R. B. 22",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners cannot save their principle by weakening it, as by requiring union consent only to the multi-employer bargaining process itself."
+    },
+    {
+      "@id": "cite:Weyerhaeuser_Co_166_N_L_R_B_299_1967",
+      "cite": "Weyerhaeuser Co., 166 N. L. R. B. 299 (1967)",
+      "date": "1967",
+      "caseNumber": "166 N. L. R. B. 299",
+      "involvedParties": ["Petitioners"],
+      "reasoning": "Petitioners cannot save their principle by weakening it, as by requiring union consent only to the multi-employer bargaining process itself."
+    },
+    {
+      "@id": "cite:Worldwide_Detective_Bureau_296_N_L_R_B_148_1989",
+      "cite": "Worldwide Detective Bureau, 296 N. L. R. B. 148 (1989)",
+      "date": "1989",
+      "caseNumber": "296 N. L. R. B. 148",
+      "involvedParties": ["Government"],
+      "reasoning": "The duty to bargain survives; employers must stand ready to resume collective bargaining."
+    },
+    {
+      "@id": "cite:Bonanno_Linen_454_U_S_404_1982",
+      "cite": "Bonanno Linen, 454 U. S. 404 (1982)",
+      "date": "1982",
+      "caseNumber": "454 U. S. 404",
+      "involvedParties": ["Government"],
+      "reasoning": "Employers, however, are not completely free at impasse to act independently."
+    },
+    {
+      "@id": "cite:Brown_380_U_S_278_1965",
+      "cite": "Brown, 380 U. S. 278 (1965)",
+      "date": "1965",
+      "caseNumber": "380 U. S. 278",
+      "involvedParties": ["Government"],
+      "reasoning": "Labor law permits employers, after impasse, to engage in considerable joint behavior, including joint lockouts and replacement hiring."
+    },
+    {
+      "@id": "cite:Gordon_422_U_S_659_1975",
+      "cite": "Gordon v. New York Stock Exchange, Inc., 422 U. S. 659 (1975)",
+      "date": "1975",
+      "caseNumber": "422 U. S. 659",
+      "involvedParties": ["Government"],
+      "reasoning": "This Court has implied antitrust immunities that extend beyond statutorily required joint action to joint action that a statute 'expressly or impliedly allows or assumes must also be immune.'"
+    },
+    {
+      "@id": "cite:United_States_v_National_Assn_of_Securities_Dealers

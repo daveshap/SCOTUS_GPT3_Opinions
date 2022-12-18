@@ -1,0 +1,121 @@
+
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+Rule Against Vertical Price Fixing, 71 Geo. L. J. 1487, 1490,
+n. 17 (1983).
+Not only are the potential injuries  cited in Albrecht less
+serious than the Court imagined, the per se rule established
+therein could in fact exacerbate problems related to the un-
+restrained  exercise of market power by monopolist-dealers.
+Indeed, both courts and  antitrust scholars  have noted that
+Albrecht's rule may actually harm consumers  and manufac-
+turers.  See, e. g., Caribe BMW, Inc. v. Bayerische Motoren
+Werke  Aktiengesellschaft, 19  F.  3d  745,  753  (CA1  1994)
+(Breyer, C. J.); Areeda  1636a, at 395;  G. Mathewson  & R.
+Winter,  Competition  Policy  and  Vertical  Exchange  13-14
+(1985).  Other  commentators  have  also explained  that Al-
+brecht's per se rule has even more potential for deleterious
+effect  on competition  after our  decision in GTE Sylvania,
+because, now that vertical  nonprice restrictions are not un-
+lawful per se, the likelihood of dealer monopoly power is in-
+creased.  See, e. g.,  Easterbrook 890, n. 20; see also ARCO,
+495  U. S., at 343, n. 13.  We  do not intend to suggest  that
+dealers generally possess sufficient market power to exploit
+a monopoly situation.  Such retail market power may in fact
+be uncommon.  See, e. g., Business Electronics,4 85 U. S., at
+727, n. 2; GTE Sylvania, 433 U. S.,  at 54.  Nor do we hold
+that  a  ban  on  vertical  maximum  price  fixing  inevitably
+has  anticompetitive  consequences  in  the  exclusive  dealer
+context.
+After reconsidering Albrecht's rationale and the substan-
+tial criticism the decision has received, however, we conclude
+that there is insufficient economic justification for per se in-
+validation of vertical maximum price fixing.  That is so not
+only because it is difficult to accept the assumptions underly-
+ing Albrecht, but also because Albrecht has little or no rele-
+vance  to  ongoing  enforcement  of the  Sherman  Act.  See
+Copperweld Corp. v. Independence Tube Corp., 467 U. S. 752,
+777, and n. 25 (1984).  Moreover, neither the parties nor any
+
+NEW PAGE
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+of the amici curiae have called our attention to any cases in
+which enforcement  efforts have been directed solely against
+the conduct encompassed by Albrech's per se rule.
+Respondents argue that reconsideration of Albrecht should
+require "persuasive, expert testimony establishing that the
+per se rule has distorted the market."  Brief for Respond-
+ents 7.  Their reasoning ignores the fact that Albrecht itself
+relied solely upon hypothetical effects of vertical maximum
+price fixing.  Further, Albrecht's dire predictions have not
+been borne  out, even  though  manufacturers  and  suppliers
+appear to have fashioned schemes to get around the per se
+rule  against  vertical  maximum  price  fixing.  In  these
+circumstances,  it is the  retention  of the  rule  of Albrecht,
+and not, as respondents would have it, the rule's elimination,
+that lacks adequate justification.  See, e. g.,  GTE Sylvania,
+supra, at 58-59.
+Respondents'  reliance  on  Toolson v. New  York  Yankees,
+Inc., 346 U. S. 356 (1953)  (per curiam), and Flood v. Kuhn,
+407 U. S. 258 (1972), is similarly misplaced, because those de-
+cisions are clearly inapposite, having to do with the antitrust
+exemption for professional baseball, which this Court has de-
+scribed as "an aberration.  ..  rest[ing] on a recognition and
+an acceptance of baseball's unique characteristics and needs,"
+id., at 282.  In the context of this case, we infer little mean-
+ing from the fact that Congress has not reacted legislatively
+to Albrecht.  In any event, the history of various legislative
+proposals regarding price fixing seems neither clearly to sup-
+port nor to denounce the per se rule of Albrecht.  Respond-
+ents are of course free to  seek legislative protection  from
+gasoline  suppliers  of the  sort embodied  in the  Petroleum
+Marketing  Practices  Act, 92 Stat. 322,  15 U. S. C. § 2801  et
+seq.  For the reasons  we have noted, however, the remedy
+for respondents'  dispute with State Oil should not come in
+the form of a per se rule affecting the conduct of the entire
+marketplace.
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+C
+Despite what  Chief Judge Posner aptly described as Al-
+brecht's "infirmities,  [and]  its  increasingly  wobbly, moth-
+eaten foundations," 93 F. 3d, at 1363, there remains the ques-
+tion whether Albrecht deserves continuing respect under the
+doctrine of stare decisis.  The Court of Appeals was correct
+in  applying  that principle  despite  disagreement  with Al-
+brecht, for it is this Court's prerogative alone to overrule one
+of its precedents.
+We approach the reconsideration of decisions of this Court
+with  the  utmost  caution.  Stare decisis reflects  "a policy
+judgment that 'in most matters it is more important that the
+applicable  rule  of  law  be  settled  than  that  it  be  settled
+right."'  Agostini v. Felton, 521 U. S. 203, 235 (1997) (quot-
+ing Burnet v.  Coronado Oil & Gas Co.,  285 U.S. 393,  406
+(1932) (Brandeis, J., dissenting)).  It "is the preferred course
+because  it promotes the evenhanded,  predictable,  and  con-
+sistent development  of legal principles,  fosters reliance  on
+judicial decisions, and contributes to the actual and perceived
+integrity of the judicial process."  Payne v. Tennessee, 501
+U. S. 808, 827  (1991).  This  Court hag expressed  its reluc-
+tance to overrule  decisions involving  statutory interpreta-
+tion, see, e. g., Illinois Brick Co. v. Illinois,4 31 U. S. 720, 736
+(1977), and has acknowledged that stare decisis concerns are
+at their acme in cases involving property and contract rights,
+see, e. g., Payne, 501 U. S.,  at 828.  Both of those concerns
+are arguably relevant in this case.
+But "[s]tared ecisis is not an inexorable command."  Ibid.
+In the area of antitrust law, there is a competing  interest,
+well represented in this Court's decisions, in recognizing and
+adapting to changed circumstances and the lessons of accu-
+mulated  experience.  Thus,  the  general  presumption  that
+legislative changes should be left to Congress has less force
+with  respect  to the  Sherman Act  in light  of the accepted
+view  that Congress  "expected the courts  to give  shape to
+the statute's broad mandate by drawing on common-law tra-
+

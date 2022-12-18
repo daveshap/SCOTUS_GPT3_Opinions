@@ -1,0 +1,20 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description",
+    "opinion": "http://schema.org/opinionOfTheCourt"
+  },
+  "@graph": [
+    {
+      "@id": "SpectrumSportsIncVMcQuillan",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1993",
+      "caseNumber": "506 U. S. 447",
+      "involvedParties": ["Spectrum Sports, Inc.", "McQuillan"],
+      "reasoning": "Respondents sued petitioners seeking damages for alleged violations of §§ 1 and 2 of the Sherman Act, 15 U. S. C. §§ 1 and 2,2  § 3 of the Clayton Act, 38 Stat. 731,  15 U. S. C. § 14, the  Racketeer  Influenced  and  Corrupt  Organizations  Act (RICO),  18  U. S. C.  § 1962, and  two provisions  of California business law.  Respondents also alleged fraud, breach of oral contract, interference  with prospective business advantage, bad-faith  denial  of the  existence  of an  oral  contract,  and conversion.",
+      "opinion": "The jury awarded $1,743,000  in compensatory damages on  each  of  the  violations  found  to  have  occurred.3   This amount was trebled under § 4 of the Clayton Act.  The District Court also awarded nearly $1 million in attorney's fees and denied  motions  for judgment notwithstanding  the verdict and for a new trial."
+    }
+  ]
+}

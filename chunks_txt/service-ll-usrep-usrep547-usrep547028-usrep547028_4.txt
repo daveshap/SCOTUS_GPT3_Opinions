@@ -1,0 +1,123 @@
+
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  37 
+Opinion of the Court 
+“Per se condemnation—condemnation without inquiry 
+into actual market conditions—is only appropriate if the 
+existence of forcing is  probable.  Thus, application of 
+the per se rule focuses on the probability of anticompeti­
+tive consequences. . . .  
+“For example, if the Government has granted the seller 
+a patent or similar monopoly over a product, it is fair to 
+presume that the inability to buy the product elsewhere 
+gives the seller market power.  United States v. Loew’s 
+Inc.,  371  U. S.,  at  45–47.  Any  effort  to  enlarge  the 
+scope of the patent monopoly by using the market power 
+it confers to restrain competition in the market for a 
+second product will undermine competition on the mer­
+its in that second market.  Thus, the sale or lease of a 
+patented item on condition that the buyer make all his 
+purchases of a separate tied product from the patentee 
+is unlawful.”  Id., at 13–16 (footnote omitted). 
+Notably, nothing in our opinion suggested a rebuttable pre­
+sumption of market power applicable to tying arrangements 
+involving  a  patent  on  the  tying  good.  See  infra,  at  44; 
+cf. 396 F. 3d, at 1352.  Instead, it described the rule that 
+a contract to sell a patented product on condition that the 
+purchaser buy unpatented goods exclusively from the pat­
+entee is a per se violation of § 1 of the Sherman Act. 
+Justice  O’Connor  wrote  separately  in  Jefferson  Parish, 
+concurring in the judgment on the ground that the case did 
+not involve a true tying arrangement because, in her view, 
+surgical services and anesthesia were not separate products. 
+466 U. S., at 43.  In her opinion, she questioned not only the 
+propriety of treating any tying arrangement as a per se vio­
+lation of the Sherman Act, id., at 35, but also the validity 
+of the presumption that a patent always gives the patentee 
+signiﬁcant market power, observing that the presumption 
+was actually a product of our patent misuse cases rather than 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+38  ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC. 
+Opinion of the Court 
+our antitrust jurisprudence, id., at 37–38, n. 7.  It is that 
+presumption, a vestige of the Court’s historical distrust of 
+tying arrangements, that we address squarely today. 
+III 
+Justice O’Connor was, of course, correct in her assertion 
+that the presumption that a patent confers market power 
+arose outside the antitrust context as part of the patent mis­
+use doctrine.  That doctrine had its origins in Motion Pic­
+ture Patents Co. v. Universal Film Mfg. Co., 243 U. S. 502 
+(1917), which found no support in the patent laws for the 
+proposition  that  a  patentee  may  “prescribe  by  notice 
+attached to a patented machine the conditions of its use and 
+the supplies which must be used in the operation of it, under 
+pain of infringement of the patent,” id., at 509.  Although 
+Motion Picture Patents Co. simply narrowed the scope of 
+possible patent infringement claims, it formed the basis for 
+the Court’s subsequent decisions creating a patent misuse 
+defense to infringement claims when a patentee uses its pat­
+ent “as the effective means of restraining competition with 
+its sale of an unpatented article.”  Morton Salt Co. v. G. S. 
+Suppiger Co., 314 U. S. 488, 490 (1942); see also, e. g., Carbice 
+Corp. of America v. American Patents Development Corp., 
+283 U. S. 27, 31 (1931). 
+Without any analysis of actual market conditions, these 
+patent misuse decisions assumed that, by tying the purchase 
+of unpatented goods to the sale of the patented good, the 
+patentee was  “restraining competition,”  Morton Salt, 314 
+U. S., at 490, or “secur[ing] a limited monopoly of an unpat­
+ented material,” Mercoid, 320 U. S., at 664; see also Carbice, 
+283 U. S., at 31–32.  In other words, these decisions pre­
+sumed “[t]he requisite economic power” over the tying prod­
+uct such that the patentee could “extend [its] economic con­
+trol to unpatented products.”  Loew’s, 371 U. S., at 45–46. 
+The presumption that a patent confers market power mi­
+grated from patent law to antitrust law in International 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  39 
+Opinion of the Court 
+Salt Co. v. United States, 332 U. S. 392 (1947).  In that case, 
+we afﬁrmed a District Court decision holding that leases of 
+patented machines requiring the lessees to use the defend­
+ant’s unpatented salt products violated § 1 of the Sherman 
+Act and § 3 of the Clayton Act as a matter of law.  Id., at 
+396.  Although the Court’s opinion does not discuss market 
+power or the patent misuse doctrine, it assumes that “[t]he 
+volume of business affected by these contracts cannot be said 
+to be insigniﬁcant or insubstantial and the tendency of the 
+arrangement  to  accomplishment  of  monopoly  seems  obvi­
+ous.”  Ibid. 
+The assumption that tying contracts “ten[d] . . . to  accom­
+plishment of monopoly” can be traced to the Government’s 
+brief in International Salt, which relied heavily on our ear­
+lier patent misuse decision in Morton Salt.  The Govern­
+ment described Morton Salt as “present[ing] a factual situa­
+tion almost identical with the instant case,” and it asserted 
+that “although the Court in that case did not ﬁnd it necessary 
+to decide whether the antitrust laws were violated, its lan­
+guage, its reasoning, and its citations indicate that the policy 
+underlying the decision was the same as that of the Sherman 
+Act.”  Brief for United States in International Salt Co. v. 
+United States, O. T. 1947, No. 46, p. 19 (United States Brief). 
+Building on its assertion that International Salt was logi­
+cally indistinguishable from Morton Salt, the Government 
+argued that this Court should place tying arrangements in­
+volving patented products in the category of per se violations 
+of the Sherman Act.  United States Brief 26–33. 
+Our opinion in International Salt clearly shows that we 
+accepted the Government’s invitation to import the presump­
+tion of market power in a patented product into our antitrust 
+jurisprudence.  While  we  cited  Morton Salt only  for  the 
+narrower proposition that the defendant’s patents did not 
+confer any right to restrain competition in unpatented salt or 
+afford the defendant any immunity from the antitrust laws, 
+International Salt, 332 U. S., at 395–396, given the fact that 
+

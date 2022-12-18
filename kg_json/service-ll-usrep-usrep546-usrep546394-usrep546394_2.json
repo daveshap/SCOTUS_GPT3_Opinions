@@ -1,0 +1,56 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "546US2",
+      "@type": "CaseCitation",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "546 U. S. 394 (2006)",
+      "involvedParties": [
+        "ConAgra",
+        "Unitherm",
+        "Jennie-O",
+        "Patent and Trademark Office"
+      ],
+      "reasoning": "ConAgra attempted to enforce its patent for “A Method for Browning Precooked Whole Muscle Meat Products,” U. S. Patent No. 5,952,027 (’027 patent)."
+    },
+    {
+      "@id": "WalkerProcessEquipmentInc",
+      "@type": "Precedent",
+      "date": "1965",
+      "caseNumber": "Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp., 382 U. S. 172",
+      "involvedParties": [
+        "Walker Process Equipment, Inc.",
+        "Food Machinery & Chemical Corp."
+      ],
+      "reasoning": "The enforcement of a patent procured by fraud on the Patent Ofﬁce may be violative of § 2 of the Sherman Act provided the other elements necessary to a § 2 case are present."
+    },
+    {
+      "@id": "BiodexCorp",
+      "@type": "Precedent",
+      "date": "1991",
+      "caseNumber": "Biodex Corp. v. Loredan Biomedical, Inc., 946 F. 2d 850",
+      "involvedParties": [
+        "Biodex Corp.",
+        "Loredan Biomedical, Inc."
+      ],
+      "reasoning": "A party’s “failure to present the district court with a post-verdict motion precludes appellate review of sufﬁciency of the evidence."
+    },
+    {
+      "@id": "Cummings",
+      "@type": "Precedent",
+      "date": "2004",
+      "caseNumber": "Cummings v. General Motors Corp., 365 F. 3d 944",
+      "involvedParties": [
+        "Cummings",
+        "General Motors Corp."
+      ],
+      "reasoning": "A party that has failed to ﬁle a postverdict motion challenging the sufﬁciency of the evidence may nonetheless raise such a claim on appeal, so long as that party ﬁled a Rule 50(a) motion prior to submission of the case to the jury."
+    }
+  ]
+}

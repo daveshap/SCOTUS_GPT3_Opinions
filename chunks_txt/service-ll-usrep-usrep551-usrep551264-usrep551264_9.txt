@@ -1,0 +1,115 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+288  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Thomas, J., dissenting 
+fashion, § 28 of the Securities Exchange Act of 1934 states 
+that “the rights and remedies provided by this chapter shall 
+be in addition to any and all other rights and remedies that 
+may exist at law or in equity.”  § 78bb(a).  This Court has 
+previously characterized those clauses as “conﬁrm[ing] that 
+the remedies in each Act were to be supplemented by ‘any 
+and  all’  additional  remedies.”  Herman  &  MacLean  v. 
+Huddleston, 459 U. S. 375, 383 (1983). 
+The Sherman Act was enacted in 1890.  See 26 Stat. 209. 
+Accordingly, rights and remedies under the federal antitrust 
+laws certainly would have been thought of as “rights and 
+remedies” that existed “at law or in equity” by the Con­
+gresses that enacted that Securities Act and the Securities 
+Exchange Act in the early 1930’s.  See § 77p; § 78bb.  There­
+fore,  both  statutes  explicitly  save  the  very  remedies  the 
+Court holds to be impliedly precluded.  There is no convinc­
+ing argument for why these saving provisions should not 
+resolve this case in respondents’ favor. 
+The Court’s opinion overlooks the saving clauses seem­
+ingly because they do not “explicitly state whether they pre­
+clude application of the antitrust laws.”  Ante, at 270; see 
+also Brief for Petitioners 33, n. 5.1  As the Court observes, 
+some  statutes contain  saving clauses  speciﬁc to  antitrust. 
+See, e. g., Verizon Communications Inc. v.  Law Ofﬁces of 
+Curtis V. Trinko, LLP, 540 U. S. 398, 406 (2004) (“ ‘[N]othing 
+in this Act or the amendments made by this Act shall be 
+construed to modify, impair, or supersede the applicability of 
+1 The Court suggests that the argument advanced in my opinion was 
+not preserved by respondents.  See ante, at 275.  Respondents’ principal 
+contention in the Court of Appeals below was that “[t]he federal securities 
+laws do not expressly immunize Defendants’ alleged conduct from prosecu­
+tion under the federal antitrust laws.”  See, e. g., Brief for Appellants in 
+No. 03–9288 (CA2), pp. 15–16.  Because a full reading of the securities 
+laws is essential to analyzing respondents’ central argument, I do not con­
+sider arguments based on the saving clauses unpreserved.  Cf. United 
+States v.  Morton, 467 U. S. 822, 828 (1984) (“[W]e read statutes as a 
+whole”). 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  289 
+Thomas, J., dissenting 
+any of the antitrust laws’ ” (quoting Telecommunications Act 
+of 1996, § 601(b)(1), 110 Stat. 143, note following 47 U. S. C. 
+§ 152)).  But the mere existence of targeted saving clauses 
+does not demonstrate—or even suggest—that antitrust rem­
+edies are not included within the “any and all” other reme­
+dies to which the securities saving clauses refer.  Although 
+Congress may have singled out antitrust remedies for special 
+treatment in some statutes, it is not precluded from using 
+more general saving provisions that encompass antitrust and 
+other remedies.  Surely Congress is not required to enumer­
+ate every cause of action—state and federal—that may be 
+brought.  When Congress wants to preserve all other reme­
+dies, using the word “all” is sufﬁcient. 
+Petitioners also argue that the saving clauses should not 
+apply because the clauses did not play a role in the Court’s 
+prior securities-antitrust pre-emption cases.  Brief for Peti­
+tioners 33, n. 5 (“[N]either provision was found to bar immu­
+nity in Gordon [v. New York Stock Exchange, Inc., 422 U. S. 
+659 (1975),] or [United States v. National Assn. of Securities 
+Dealers, Inc., 422 U. S. 694 (1975) (NASD)]”).  Be that as it 
+may, none of the opinions in Silver v. New York Stock Ex­
+change, 373 U. S. 341 (1963), Gordon, or NASD—majority or 
+dissent—offered any analysis of the saving clauses.  Omit­
+ted reasoning has little claim to precedential value.  Absent 
+any indication that these omissions were the product of rea­
+soned analysis instead of inadvertent oversight, I would not 
+allow the Court’s prior silence on this issue to erect a perpet­
+ual bar to arguments based on a full reading of the statute’s 
+relevant text. 
+Finally, it might be argued that the saving clauses pre­
+serve only state-law rights and remedies.  This argument 
+has no textual basis.  If Congress had intended to limit the 
+clauses to state law, it surely would not have phrased them 
+to preserve “any and all” rights and remedies.  Other pro­
+visions in both Acts, including a later sentence in the sec­
+tion containing the Securities Exchange Act’s saving clause, 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+290  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Thomas, J., dissenting 
+suggest that Congress explicitly referred to States when it 
+intended  to  impose  a  state-law  limitation.  See,  e. g.,  15 
+U. S. C. § 77v(a) (referring to “State and Territorial courts”); 
+§ 78bb(a) (referring to the “securities commission . . . of any 
+State”); cf. 17 U. S. C. § 301(b) (“Nothing in this title annuls 
+or limits any rights or remedies under the common law or 
+statutes of any State . . . ”).  Given Congress’ demonstrated 
+ability to limit provisions of the securities laws to States and 
+the lack of any such limitation here, the saving clauses can­
+not be understood as limited only to state-law rights and 
+remedies.2 
+A straightforward application of the saving clauses to this 
+case leads to the conclusion that respondents’ antitrust suits 
+must proceed.  Accordingly, we do not need to reconcile any 
+conﬂict between the securities laws and the antitrust laws. 
+I respectfully dissent. 
+2 The Court’s suggestion that the clauses were intended to save only 
+securities-related rights and remedies is subject to many of the same criti­
+cisms.  See ante, at 275.  The Securities Act of 1933 provided no private 
+federal remedy for fraud in the purchase or sale of registered securities. 
+On the Court’s proposed reading of § 77p, however, a federal action for 
+mail  or  wire  fraud  and  a  state-law  action  for  fraud,  which  are  not 
+securities-related rights or remedies, would not have been included within 
+the Securities Act’s saving provision. 
+

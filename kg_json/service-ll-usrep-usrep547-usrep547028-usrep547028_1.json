@@ -1,0 +1,113 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Illinois Tool Works Inc. et al. v. Independent Ink, Inc.",
+    "datePublished": "2006-03-01",
+    "caseNumber": "04-1329",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Illinois Tool Works Inc."
+      },
+      {
+        "@type": "Organization",
+        "name": "Independent Ink, Inc."
+      }
+    ],
+    "decision": "Petitioners manufacture and market printing systems that include a patented printhead and ink container and unpatented ink, which they sell to original equipment manufacturers who agree that they will purchase ink exclusively from petitioners and that neither they nor their customers will refill the patented containers with ink of any kind. After petitioner Trident’s infringement action was dismissed, respondent filed suit seeking a judgment of noninfringement and invalidity of Trident’s patents on the ground that petitioners are engaged in illegal “tying” and monopolization in violation of §§1 and 2 of the Sherman Act. Granting petitioners summary judgment, the District Court rejected respondent’s argument that petitioners necessarily have market power as a matter of law by virtue of the patent on their printhead system, thereby rendering the tying arrangements per se violations of the antitrust laws. After carefully reviewing this Court’s tying-arrangements decisions, the Federal Circuit reversed as to the § 1 claim, concluding that it had to follow this Court’s precedents until overruled by this Court.",
+    "reasoning": "Because a patent does not necessarily confer market power upon the patentee, in all cases involving a tying arrangement, the plaintiff must prove that the defendant has market power in the tying product."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Standard Oil Co. of Cal. v. United States",
+    "datePublished": "1949-05-23",
+    "caseNumber": "No. 5",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Standard Oil Co. of Cal."
+      },
+      {
+        "@type": "Organization",
+        "name": "United States"
+      }
+    ],
+    "decision": "The Court held that Standard Oil had violated the Sherman Antitrust Act by attempting to monopolize the petroleum industry in California.",
+    "reasoning": "The Court found that Standard Oil had violated the Sherman Antitrust Act by attempting to monopolize the petroleum industry in California."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "United States Steel Corp. v. Fortner Enterprises, Inc.",
+    "datePublished": "1977-04-25",
+    "caseNumber": "No. 75-1445",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "United States Steel Corp."
+      },
+      {
+        "@type": "Organization",
+        "name": "Fortner Enterprises, Inc."
+      }
+    ],
+    "decision": "The Court held that the defendant had not violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product.",
+    "reasoning": "The Court found that the defendant had not violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Jefferson Parish Hospital Dist. No. 2 v. Hyde",
+    "datePublished": "1984-06-04",
+    "caseNumber": "No. 83-724",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Jefferson Parish Hospital Dist. No. 2"
+      },
+      {
+        "@type": "Person",
+        "name": "Hyde"
+      }
+    ],
+    "decision": "The Court held that the defendant had not violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product.",
+    "reasoning": "The Court found that the defendant had not violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "International Salt Co. v. United States",
+    "datePublished": "1947-06-02",
+    "caseNumber": "No. 5",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "International Salt Co."
+      },
+      {
+        "@type": "Organization",
+        "name": "United States"
+      }
+    ],
+    "decision": "The Court held that the defendant had violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product.",
+    "reasoning": "The Court found that the defendant had violated the Sherman Antitrust Act by tying the sale of its unpatented product to the sale of its patented product."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Morton Salt Co. v. G. S. Suppiger Co.",
+    "datePublished": "1944-05-08",
+    "caseNumber": "No. 5",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Morton Salt Co."
+      },

@@ -1,0 +1,101 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "StateOilCoVKhann",
+      "@type": "Opinion",
+      "date": "1997",
+      "caseNumber": "522 U.S. 3",
+      "involvedParties": ["State Oil Co.", "Khan"],
+      "reasoning": "Reconsideration of Albrecht's rationale and the substantial criticism the decision has received.",
+      "citation": "Rule Against Vertical Price Fixing, 71 Geo. L. J. 1487, 1490, n. 17 (1983)."
+    },
+    {
+      "@id": "Albrecht",
+      "@type": "Opinion",
+      "date": "1983",
+      "caseNumber": "71 Geo. L. J. 1487",
+      "involvedParties": ["Albrecht"],
+      "reasoning": "Potential injuries cited in Albrecht less serious than the Court imagined.",
+      "citation": "Rule Against Vertical Price Fixing, 71 Geo. L. J. 1487, 1490, n. 17 (1983)."
+    },
+    {
+      "@id": "CaribeBMW",
+      "@type": "Opinion",
+      "date": "1994",
+      "caseNumber": "19 F. 3d 745",
+      "involvedParties": ["Caribe BMW, Inc.", "Bayerische Motoren Werke Aktiengesellschaft"],
+      "reasoning": "Albrecht's rule may actually harm consumers and manufacturers.",
+      "citation": "Areeda 1636a, at 395; G. Mathewson & R. Winter, Competition Policy and Vertical Exchange 13-14 (1985)."
+    },
+    {
+      "@id": "Areeda",
+      "@type": "Opinion",
+      "date": "1985",
+      "caseNumber": "1636a",
+      "involvedParties": ["Areeda"],
+      "reasoning": "Albrecht's per se rule has even more potential for deleterious effect on competition after our decision in GTE Sylvania.",
+      "citation": "Areeda 1636a, at 395; G. Mathewson & R. Winter, Competition Policy and Vertical Exchange 13-14 (1985)."
+    },
+    {
+      "@id": "GTE_Sylvania",
+      "@type": "Opinion",
+      "date": "1977",
+      "caseNumber": "433 U.S. 36",
+      "involvedParties": ["GTE Sylvania"],
+      "reasoning": "Vertical nonprice restrictions are not unlawful per se.",
+      "citation": "GTE Sylvania, 433 U. S., at 54."
+    },
+    {
+      "@id": "Toolson",
+      "@type": "Opinion",
+      "date": "1953",
+      "caseNumber": "346 U.S. 356",
+      "involvedParties": ["Toolson", "New York Yankees, Inc."],
+      "reasoning": "Inapposite, having to do with the antitrust exemption for professional baseball.",
+      "citation": "Toolson v. New York Yankees, Inc., 346 U. S. 356 (1953) (per curiam)."
+    },
+    {
+      "@id": "Flood",
+      "@type": "Opinion",
+      "date": "1972",
+      "caseNumber": "407 U.S. 258",
+      "involvedParties": ["Flood", "Kuhn"],
+      "reasoning": "Inapposite, having to do with the antitrust exemption for professional baseball.",
+      "citation": "Flood v. Kuhn, 407 U. S. 258 (1972)."
+    },
+    {
+      "@id": "IllinoisBrickCo",
+      "@type": "Opinion",
+      "date": "1977",
+      "caseNumber": "431 U.S. 720",
+      "involvedParties": ["Illinois Brick Co."],
+      "reasoning": "Expressed reluctance to overrule decisions involving statutory interpretation.",
+      "citation": "Illinois Brick Co. v. Illinois, 431 U. S. 720, 736 (1977)."
+    },
+    {
+      "@id": "Payne",
+      "@type": "Opinion",
+      "date": "1991",
+      "caseNumber": "501 U.S. 808",
+      "involvedParties": ["Payne"],
+      "reasoning": "Stare decisis concerns are at their acme in cases involving property and contract rights.",
+      "citation": "Payne v. Tennessee, 501 U. S. 808, 827 (1991)."
+    },
+    {
+      "@id": "Agostini",
+      "@type": "Opinion",
+      "date": "1997",
+      "caseNumber": "521 U.S. 203",
+      "involvedParties": ["Agostini", "Felton"],
+      "reasoning": "Stare decisis is not an inexorable command.",
+      "citation": "Agostini v. Felton, 521 U. S. 203, 235 (1997)."
+    }
+  ]
+}

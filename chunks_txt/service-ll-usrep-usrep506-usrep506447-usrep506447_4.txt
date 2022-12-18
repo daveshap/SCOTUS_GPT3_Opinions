@@ -1,0 +1,119 @@
+
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+be necessary to appraise the exclusionary power of the illegal
+patent claim in terms of the relevant market for the product
+involved.  Ibid.  The reason was that "[w]ithout a definition
+of that market there is no way to measure  [the defendant's]
+ability to lessen or destroy competition."  Ibid.
+Similarly, this Court reaffirmed in Copperweld Corp. v. In-
+dependence Tube Corp., 467 U. S. 752 (1984),  that "Congress
+authorized  Sherman Act scrutiny of single firms only when
+they  pose  a  danger  of monopolization.  Judging unilateral
+conduct  in this manner  reduces  the  risk that the antitrust
+laws will dampen the competitive zeal of a single aggressive
+entrepreneur."  Id., at 768.  Thus, the conduct of a  single
+firm,  governed  by  § 2,  "is  unlawful  only when it  threatens
+actual monopolization."  Id., at 767.  See also Lorain Jour-
+nal Co. v.  United States, 342  U. S.  143,  154  (1951);  United
+States v. Griffith, 334  U. S.  100,  105-106  (1948);  American
+Tobacco Co. v. United States, 328 U. S. 781, 785 (1946).
+The Courts of Appeals other than the Ninth Circuit have
+followed  this  approach.  Consistent  with  our  cases,  it  is
+generally required that to demonstrate attempted monopoli-
+zation  a  plaintiff  must  prove  (1)  that  the  defendant  has
+engaged in predatory or anticompetitive  conduct  with (2) a
+specific intent to monopolize and (3) a dangerous  probability
+of  achieving  monopoly  power.  See  3  Areeda  &  Turner,
+supra,  820, at 312.  In order to determine  whether  there
+is  a  dangerous  probability  of monopolization,  courts  have
+found  it necessary  to consider the  relevant  market and the
+defendant's  ability to  lessen or destroy  competition  in  that
+8
+market.
+"See, e. g., Arthur S. Langenderfer, Inc. v. S. E. Johnson Co., 917 F. 2d,
+at 1431-1432;  Twin Laboratories,I nc. v. Weider Health & Fitness, 900 F.
+2d, at 570; Colorado Interstate Gas Co. v. Natural Gas Pipeline Co. of
+America, 885 F. 2d, at 693; Indiana Grocery, Inc. v. Super Valu Stores,
+Inc., 864 F. 2d, at 1413-1416; General Industries Corp. v. Hartz Mountain
+Corp., 810 F. 2d, at 804.
+
+NEW PAGE
+
+Cite as: 506 U. S. 447 (1993)
+Opinion of the Court
+Notwithstanding the array of authority contrary to Lessig,
+the Court of Appeals in this case reaffirmed  its prior hold-
+ings; indeed, it did not mention either this Court's decisions
+discussed  above  or the many  decisions  of other  Courts  of
+Appeals reaching contrary results.  Respondents urge us to
+affirm the decision  below.  We are not at all inclined,  how-
+ever, to embrace  Lessig's interpretation  of § 2,  for there is
+little, if any, support for it in the statute or the case law, and
+the notion that proof of unfair or predatory conduct alone is
+sufficient to make out the offense of attempted monopoliza-
+tion is  contrary  to the purpose  and  policy of the Sherman
+Act.
+The Lessig opinion claimed  support from the language of
+§ 2,  which  prohibits  attempts  to  monopolize  "any  part" of
+commerce, and therefore forbids attempts to monopolize any
+appreciable  segment  of  interstate  sales  of  the  relevant
+product.  See United States v. Yellow Cab Co., 332 U. S. 218,
+226  (1947).  The  "any  part"  clause,  however,  applies  to
+charges of monopolization as well as to attempts to monopo-
+lize, and it is beyond doubt that the former requires proof of
+market power in a relevant market.  United States v. Grin-
+nell Corp., 384  U. S.  563,  570-571  (1966);  United States v.
+E.  I. du Pont de Nemours & Co., 351  U. S. 377, 404 (1956).9
+In support of its determination  that an inference  of dan-
+gerous probability was permissible from a showing of intent,
+the Lessig opinion cited, and added emphasis to, this Court's
+reference  in  its opinion  in Swift to  "'intent  and  the conse-
+quent dangerous probability."'  327 F. 2d, at 474, n. 46, quot-
+ing 196 U. S., at 396.  But any question whether dangerous
+9 Lessig cited  United States v. Yellow Cab Co., 332 U. S., at 226, in sup-
+port of its interpretation, but Yellow Cab relied on the "any part" language
+to support the proposition that it is immaterial how large an amount of
+interstate trade is affected, or how important that part of commerce is in
+relation to the entire amount of that type of commerce in the Nation.
+
+NEW PAGE
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+probability  of success  requires  proof  of more  than  intent
+alone should have been removed by the subsequent passage
+in Swift which stated that "not every act that may be done
+with intent to produce an unlawful result ...  constitutes an
+attempt.  It is  a  question  of proximity  and  degree."  Id.,
+at 402.
+The Lessig court  also relied  on a footnote  in Du Pont &
+Co.,  supra, at 395, n. 23, for the proposition that when the
+charge is attempt to monopolize, the relevant market is "not
+in issue."  That footnote, which  appeared in analysis  of the
+relevant  market  issue  in  Du  Pont, rejected  the  Govern-
+ment's reliance on several cases, noting that "the scope of the
+market was not in issue" in Story Parchment Co. v. Paterson
+Parchment Paper Co., 282 U. S. 555 (1931).  That reference
+merely reflected  the  fact  that, in Story Parchment, which
+was not an  attempt to monopolize case, the parties  did not
+challenge the definition of the market adopted by the lower
+courts.  Nor was Du Pont itself concerned with the issue in
+this case.
+It is also our view that Lessig and later Ninth Circuit deci-
+sions refining and applying it are inconsistent with the policy
+of the Sherman Act.  The purpose  of the Act is not to pro-
+tect businesses from the working of the market; it is to pro-
+tect the public from the failure of the market.  The law di-
+rects  itself not against  conduct  which  is competitive,  even
+severely so, but against conduct which unfairly tends to de-
+stroy competition itself.  It does so not out of solicitude for
+private concerns but out of concern for the public interest.
+See, e. g., Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429
+U. S.  477, 488 (1977);  Cargill, Inc. v. Monfort of Colorado,
+Inc., 479 U. S.  104, 116-117 (1986); Brown Shoe Co. v. United
+States, 370 U. S. 294, 320 (1962).  Thus, this Court and other
+courts have been careful to avoid  constructions  of § 2 which
+might chill  competition,  rather  than foster it.  It is  some-
+

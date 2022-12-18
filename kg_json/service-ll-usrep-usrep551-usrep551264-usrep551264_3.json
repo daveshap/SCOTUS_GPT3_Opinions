@@ -1,0 +1,98 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/CreditSuisseSecuritiesUSALLCvBilling",
+      "@type": "http://schema.org/LegalCase",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551US1",
+      "involvedParties": "Credit Suisse Securities (USA) LLC v. Billing",
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "http://schema.org/InitialPublicOfferingAntitrustLitigation",
+      "@type": "http://schema.org/LegalCase",
+      "date": "2003",
+      "caseNumber": "287 F. Supp. 2d 497",
+      "involvedParties": "In re Initial Public Offering Antitrust Litigation",
+      "reasoning": "The District Court agreed with petitioners and dismissed the complaints against them."
+    },
+    {
+      "@id": "http://schema.org/SecondCircuitCourtOfAppeals",
+      "@type": "http://schema.org/LegalCase",
+      "date": "2005",
+      "caseNumber": "426 F. 3d 130",
+      "involvedParties": "Court of Appeals for the Second Circuit",
+      "reasoning": "The Court of Appeals for the Second Circuit reversed, however, and reinstated the complaints."
+    },
+    {
+      "@id": "http://schema.org/WebbPomereneAct",
+      "@type": "http://schema.org/LegalCase",
+      "date": "15 U. S. C. § 62",
+      "caseNumber": "",
+      "involvedParties": "Webb-Pomerene Act",
+      "reasoning": "Sometimes regulatory statutes explicitly state whether they preclude application of the antitrust laws."
+    },
+    {
+      "@id": "http://schema.org/TelecommunicationsActOf1996",
+      "@type": "http://schema.org/LegalCase",
+      "date": "47 U. S. C. § 152",
+      "caseNumber": "",
+      "involvedParties": "Telecommunications Act of 1996",
+      "reasoning": "Where regulatory statutes are silent in respect to antitrust, however, courts must determine whether, and in what respects, they implicitly preclude application of the antitrust laws."
+    },
+    {
+      "@id": "http://schema.org/VerizonCommunicationsIncvLawOfficesOfCurtisVTrinkoLLP",
+      "@type": "http://schema.org/LegalCase",
+      "date": "540 U. S. 398",
+      "caseNumber": "",
+      "involvedParties": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "Analyzing the antitrust saving clause of the Telecommunications Act."
+    },
+    {
+      "@id": "http://schema.org/Silver",
+      "@type": "http://schema.org/LegalCase",
+      "date": "373 U. S. 359-360",
+      "caseNumber": "",
+      "involvedParties": "Silver",
+      "reasoning": "The Court wrote that, where possible, courts should “reconcil[e] the operation of both [i. e., antitrust and securities] statutory schemes . . . rather than holding one completely ousted.”"
+    },
+    {
+      "@id": "http://schema.org/Gordon",
+      "@type": "http://schema.org/LegalCase",
+      "date": "422 U. S. 682",
+      "caseNumber": "",
+      "involvedParties": "Gordon",
+      "reasoning": "An “implied repeal” of the antitrust laws would be found only “where there is a ‘plain repugnancy between the antitrust and regulatory provisions.’”"
+    },
+    {
+      "@id": "http://schema.org/PhiladelphiaNatBank",
+      "@type": "http://schema.org/LegalCase",
+      "date": "374 U. S. 350-351",
+      "caseNumber": "",
+      "involvedParties": "Philadelphia Nat. Bank",
+      "reasoning": "No implied immunity."
+    },
+    {
+      "@id": "http://schema.org/OtterTailPowerCo",
+      "@type": "http://schema.org/LegalCase",
+      "date": "410 U. S. 374-375",
+      "caseNumber": "",
+      "involvedParties": "Otter Tail Power Co. v. United States",
+      "reasoning": "No implied immunity."
+    },
+    {
+      "@id": "http://schema.org/PhoneteleIncvAmericanTelTelCo",
+      "@type": "http://schema.org/LegalCase",
+      "date": "664 F. 2d 716",
+      "caseNumber": "",
+      "involvedParties": "Phonetele, Inc. v. American Tel. & Tel. Co.",
+      "reasoning": "No implied immunity."
+    }
+  ]
+}

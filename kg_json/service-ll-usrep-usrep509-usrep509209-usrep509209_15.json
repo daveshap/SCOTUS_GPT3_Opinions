@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 209 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "parties": "STEVENS, J., dissenting",
+      "reasoning": "those facts, see n. 3, supra, justified the finding by the jury that B&W's discriminatory pricing campaign \"had a reasonable possibility of injuring competition\""
+    },
+    {
+      "@id": "Sherman Act",
+      "@type": "cite",
+      "date": "1890",
+      "reasoning": "prohibit the predatory practice of deliberately selling below cost to discipline a competitor, either to drive the competitor out of business or to raise prices to a level that will enable the predator to recover its losses and, in the long run, earn additional profits"
+    },
+    {
+      "@id": "Clayton Act",
+      "@type": "cite",
+      "date": "1914",
+      "reasoning": "cover price discrimination \"where the effect of such discrimination may be to substantially lessen competition or tend to create a monopoly in any line of commerce\""
+    },
+    {
+      "@id": "Robinson-Patman Act",
+      "@type": "cite",
+      "date": "1936",
+      "reasoning": "designed to reach discriminations \"in their incipiency, before the harm to competition is effected. It is enough that they 'may' have the prescribed effect\""
+    },
+    {
+      "@id": "FTC v. Morton Salt Co.",
+      "@type": "cite",
+      "date": "1948",
+      "reasoning": "\"The statute requires no more than that the effect of the prohibited price discriminations 'may be substantially to lessen competition ... or to injure, destroy, or prevent competition'\""
+    },
+    {
+      "@id": "Falls City Industries, Inc. v. Vanco Beverage, Inc.",
+      "@type": "cite",
+      "date": "1983",
+      "reasoning": "\"In keeping with the Robinson-Patman Act's prophylactic purpose, § 2(a) does not require that the discriminations must in fact have harmed competition, but only that there is a reasonable possibility that they 'may' have such an effect\""
+    },
+    {
+      "@id": "BROOKE GROUP LTD. v. BROWN & WILLIAMSON TOBACCO CORP.",
+      "@type": "cite",
+      "date": "1993",
+      "parties": "STEVENS, J., dissenting",
+      "reasoning": "Liggett need not show any actual harm to competition, but only the reasonable possibility that such harm would flow from B&W's conduct"
+    }
+  ]
+}

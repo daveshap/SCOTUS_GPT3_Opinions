@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "caseNumber": "524 U. S. 214 (1998)",
+      "date": "1998",
+      "involvedParties": "American Telephone & Telegraph Co. and Central Office Telephone, Inc.",
+      "reasoning": "The jury found for respondent on its state-law claims, rejected petitioner's counterclaim, and awarded respondent $13 million in lost profits."
+    },
+    {
+      "@id": "Section 203(a) of the Communications Act",
+      "involvedParties": "Common carriers",
+      "reasoning": "Requires every common carrier to file with the FCC 'schedules,' i. e., tariffs, 'showing all charges' and 'showing the classifications, practices, and regulations affecting such charges.'"
+    },
+    {
+      "@id": "Section 203(c) of the Communications Act",
+      "involvedParties": "Common carriers",
+      "reasoning": "Makes it unlawful for a carrier to 'extend to any person any privileges or facilities in such communication, or employ or enforce any classifications, regulations, or practices affecting such charges, except as specified in such schedule.'"
+    },
+    {
+      "@id": "Louisville & Nashville R. Co. v. Maxwell",
+      "caseNumber": "237 U. S. 94 (1915)",
+      "date": "1915",
+      "involvedParties": "Louisville & Nashville R. Co. and Maxwell",
+      "reasoning": "Described the basic contours of the filed rate doctrine under the ICA: 'Under the Interstate Commerce Act, the rate of the carrier duly filed is the only lawful charge. Deviation from it is not permitted upon any pretext.'"
+    },
+    {
+      "@id": "Kansas City Southern R. Co. v. Carl",
+      "caseNumber": "227 U. S. 639 (1913)",
+      "date": "1913",
+      "involvedParties": "Kansas City Southern R. Co. and Carl",
+      "reasoning": "Even if a carrier intentionally misrepresents its rate and a customer relies on the misrepresentation, the carrier cannot be held to the promised rate if it conflicts with the published tariff."
+    }
+  ]
+}

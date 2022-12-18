@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 209 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": "STEVENS, J., dissenting",
+      "reasoning": "None of our cases disputes that proposition."
+    },
+    {
+      "@id": "Utah Pie Co. v. Continental Baking Co.",
+      "@type": "cite",
+      "date": "1967",
+      "caseNumber": "386 U. S. 685",
+      "involvedParties": "Utah Pie Co. v. Continental Baking Co.",
+      "reasoning": "Threat to competition may be shown by predatory intent, combined with injury to competitor."
+    },
+    {
+      "@id": "Lomar Wholesale Grocery, Inc. v. Dieter's Gourmet Foods, Inc.",
+      "@type": "cite",
+      "date": "1987",
+      "caseNumber": "824 F. 2d 582",
+      "involvedParties": "Lomar Wholesale Grocery, Inc. v. Dieter's Gourmet Foods, Inc.",
+      "reasoning": "Threat to competition may be shown by predatory intent, combined with injury to competitor."
+    },
+    {
+      "@id": "Double H Plastics, Inc. v. Sonoco Products Co.",
+      "@type": "cite",
+      "date": "1984",
+      "caseNumber": "732 F. 2d 351",
+      "involvedParties": "Double H Plastics, Inc. v. Sonoco Products Co.",
+      "reasoning": "Threat to competition may be shown by evidence of predatory intent, in form of below-cost pricing."
+    },
+    {
+      "@id": "D. E. Rogers Associates, Inc. v. Gardner-Denver Co.",
+      "@type": "cite",
+      "date": "1983",
+      "caseNumber": "718 F. 2d 1431",
+      "involvedParties": "D. E. Rogers Associates, Inc. v. Gardner-Denver Co.",
+      "reasoning": "Anticompetitive effect may be proven inferentially from anticompetitive intent."
+    },
+    {
+      "@id": "Board of Trade of Chicago v. United States",
+      "@type": "cite",
+      "date": "1918",
+      "caseNumber": "246 U. S. 231",
+      "involvedParties": "Board of Trade of Chicago v. United States",
+      "reasoning": "In determining whether rule violates antitrust law, knowledge of intent may help the court to interpret facts and to predict consequences."
+    },
+    {
+      "@id": "Judge Easterbrook",
+      "@type": "cite",
+      "date": "1984",
+      "caseNumber": "63 Texas L. Rev. 1",
+      "involvedParties": "Judge Easterbrook",
+      "reasoning": "Lawyers know less about the business than the people they represent; judges know even less about the business than the lawyers."
+    },
+    {
+      "@id": "BROOKE GROUP LTD. v. BROWN & WILLIAMSON TOBACCO CORP.",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": "STEVENS, J., dissenting",
+      "reasoning": "The jury was entitled to infer that B&W's below-cost pricing actually produced supracompetitive prices, with the help of tacit collusion among the players."
+    }
+  ]
+}

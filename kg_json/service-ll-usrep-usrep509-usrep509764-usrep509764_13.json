@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": {
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Hartford Fire Ins. Co.", "California"],
+      "reasoning": "Determining proper application of §3 (b) of the McCarran-Ferguson Act to the present cases requires precise definition of the word 'boycott.'"
+    },
+    "McCarran-Ferguson Act": {
+      "@type": "Precedent",
+      "date": "1945",
+      "involvedParties": ["Congress"],
+      "reasoning": "Section 3(b) of the McCarran-Ferguson Act, 15 U. S. C. § 1013(b), provides: 'Nothing contained in this Act shall render the said Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation.'"
+    },
+    "Sherman Act": {
+      "@type": "Precedent",
+      "date": "1890",
+      "involvedParties": ["Congress"],
+      "reasoning": "The Sherman Act is a federal antitrust law that prohibits anticompetitive behavior and unfair business practices."
+    },
+    "Charles Boycott": {
+      "@type": "CaseCitation",
+      "date": "1880",
+      "involvedParties": ["Charles Boycott", "Irish Land League"],
+      "reasoning": "The Land League, an Irish organization formed the previous year, had demanded that landlords reduce their rents and had urged tenants to avoid dealing with those who failed to do so."
+    }
+  }
+}

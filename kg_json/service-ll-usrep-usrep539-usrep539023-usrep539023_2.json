@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "node:1",
+      "date": "2003",
+      "caseNumber": "539 U. S. 23",
+      "involvedParties": "Dastar Corp. v. Twentieth Century Fox Film Corp.",
+      "reasoning": "Opinion of the Court",
+      "citation": "Dastar Corp. v. Twentieth Century Fox Film Corp."
+    },
+    {
+      "@id": "node:2",
+      "date": "1975",
+      "caseNumber": "App. to Pet. for Cert. 9a",
+      "involvedParties": "Doubleday",
+      "reasoning": "Renewed copyright on the book as the 'proprietor of copyright in a work made for hire'",
+      "citation": "App. to Pet. for Cert. 9a"
+    },
+    {
+      "@id": "node:3",
+      "date": "1988",
+      "caseNumber": "none",
+      "involvedParties": "Fox",
+      "reasoning": "Reacquired the television rights in General Eisenhower's book, including the exclusive right to distribute the Crusade television series on video and to sublicense others to do so",
+      "citation": "none"
+    },
+    {
+      "@id": "node:4",
+      "date": "1995",
+      "caseNumber": "none",
+      "involvedParties": "Dastar",
+      "reasoning": "Decided to expand its product line from music compact discs to videos",
+      "citation": "none"
+    },
+    {
+      "@id": "node:5",
+      "date": "1998",
+      "caseNumber": "none",
+      "involvedParties": "Fox, SFM, and New Line",
+      "reasoning": "Brought this action alleging that Dastar's sale of its Campaigns video set infringes Doubleday's copyright in General Eisenhower's book and, thus, their exclusive television rights in the book",
+      "citation": "none"
+    },
+    {
+      "@id": "node:6",
+      "date": "2002",
+      "caseNumber": "34 Fed. Appx. 312",
+      "involvedParties": "Court of Appeals for the Ninth Circuit",
+      "reasoning": "Affirmed the judgment for respondents on the Lanham Act claim, but reversed as to the copyright claim and remanded",
+      "citation": "34 Fed. Appx. 312"
+    },
+    {
+      "@id": "node:7",
+      "date": "2003",
+      "caseNumber": "537 U. S. 1099",
+      "involvedParties": "Supreme Court of the United States",
+      "reasoning": "Granted certiorari",
+      "citation": "537 U. S. 1099"
+    }
+  ]
+}

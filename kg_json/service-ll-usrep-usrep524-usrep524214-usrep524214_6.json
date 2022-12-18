@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "524_U_S_214_1998",
+      "@type": "cite",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": "AT&T, Central Office Telephone, Inc.",
+      "reasoning": "The filed rate doctrine exists to protect the antidiscriminatory policy which lies at the heart of the common-carrier section of the Communications Act. The doctrine pre-empts suits that seek to alter the terms and conditions provided for in the tariff. The tariff does not govern the entirety of the relationship between the common carrier and its customers, and the filed rate doctrine does not serve as a shield against all actions based in state law."
+    },
+    {
+      "@id": "Chicago_Alton_R_Co_v_Kirby_225_U_S_155_1912",
+      "@type": "cite",
+      "date": "1912",
+      "caseNumber": "225 U. S. 155",
+      "involvedParties": "Chicago & Alton R. Co., Kirby",
+      "reasoning": "An advantage accorded by special agreement which affects the value of the service to the shipper and its cost to the carrier should be published in the tariffs, and for a breach of such a contract, relief will be denied, because its allowance without such publication is a violation of the act. It is also illegal because it is an undue advantage in that it is not one open to all others in the same situation."
+    },
+    {
+      "@id": "Keogh_v_Chicago_Northwestern_R_Co_260_U_S_156_1922",
+      "@type": "cite",
+      "date": "1922",
+      "caseNumber": "260 U. S. 156",
+      "involvedParties": "Keogh, Chicago & Northwestern R. Co.",
+      "reasoning": "The legal rights of shipper as against carrier in respect to a rate are measured by the published tariff. Unless and until suspended or set aside, this rate is made, for all purposes, the legal rate, as between carrier and shipper. The rights as defined by the tariff cannot be varied or enlarged by either contract or tort of the carrier."
+    },
+    {
+      "@id": "American_Telephone_Telegraph_Co_v_Central_Office_Telephone_Inc_524_U_S_214_1998",
+      "@type": "cite",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": "American Telephone & Telegraph Co., Central Office Telephone, Inc.",
+      "reasoning": "The filed rate doctrine's purpose is to ensure that the filed rates are the exclusive source of the terms and conditions by which the common carrier provides to its customers the services covered by the tariff. It does not serve as a shield against all actions based in state law."
+    },
+    {
+      "@id": "Stevens_dissenting_opinion_524_U_S_214_1998",
+      "@type": "cite",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": "Stevens",
+      "reasoning": "If petitioner, in an effort to appropriate respondent's customers, had included with each bill sent to a customer a statement expressly characterizing respondent as an unethical, profit-hungry middleman, I would think it clear that the filed rate doctrine would not constitute a defense to such tortious conduct. Respondent's tort claim was also premised in part on testimony that AT&T used a telemarketer to contact respondent's customers and, without their authorization, convert them to AT&T's own long-distance service."
+    }
+  ]
+}

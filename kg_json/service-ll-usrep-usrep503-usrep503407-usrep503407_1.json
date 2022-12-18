@@ -1,0 +1,38 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "National Railroad Passenger Corporation v. Boston & Maine Corp.",
+    "datePublished": "March 25, 1992",
+    "caseNumber": "90-1419",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "National Railroad Passenger Corporation"
+      },
+      {
+        "@type": "Organization",
+        "name": "Boston & Maine Corporation"
+      },
+      {
+        "@type": "Organization",
+        "name": "Interstate Commerce Commission"
+      },
+      {
+        "@type": "Organization",
+        "name": "Central Vermont Railroad"
+      },
+      {
+        "@type": "Organization",
+        "name": "State of Vermont"
+      }
+    ],
+    "relevantStatute": {
+      "@type": "Legislation",
+      "name": "Rail Passenger Service Act of 1970",
+      "description": "The Rail Passenger Service Act of 1970 (RPSA) created petitioner National Railroad Passenger Corporation (Amtrak), a private corporation, to provide intercity and commuter rail passenger service. The Act permits Amtrak to enter into \"trackage rights\" agreements to use tracks owned and used by freight railroads, 45 U. S. C. § 562(a), and allows Amtrak to ask petitioner Interstate Commerce Commission (ICC) to condemn railroad property \"required for intercity rail passenger service\" if Amtrak and the railroad cannot agree upon sale terms, § 562(d)."
+    },
+    "reasoning": "The ICC's decision was based on a reasonable interpretation and application of § 562(d). The ICC's interpretation of the word \"required\" is due deference as a reasonable interpretation of an ambiguous term in a statute that the ICC administers. The ICC's interpretation gives effect to § 562(d)'s presumption of need. The ICC was not required to make specific findings regarding Amtrak's actual need for the condemnation because its oversight responsibility is limited to ensuring that condemned property will be used in Amtrak's rail operations. The ICC's interpretation of § 562(d) also did not violate the \"public use\" requirement of the Fifth Amendment's Takings Clause, since the ICC's determination that the condemnation will serve a public purpose by facilitating Amtrak's rail service was not irrational."
+  }
+]

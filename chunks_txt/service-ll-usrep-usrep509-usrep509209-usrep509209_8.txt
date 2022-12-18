@@ -1,0 +1,122 @@
+
+
+230  BROOKE GROUP LTD. v BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+tion it portends, may be  the injury to competition  the Act
+prohibits.  See,  e. g.,  United States v.  Philadelphia Nat.
+Bank, 374 U. S. 321 (1963).  We adhere  to "the normal rule
+of statutory construction that identical words used in differ-
+ent  parts of the same  act are  intended  to have  the same
+meaning."  Sullivan v. Stroop, 496 U. S. 478, 484 (1990)  (in-
+ternal quotation marks omitted).  See also J  Truett Payne
+Co. v. Chrysler Motors Corp., 451 U. S. 557, 562 (1981) (evalu-
+ating  the  competitive  injury  requirement  of  Robinson-
+Patman  Act  §2(a)  in  light  of analogous  interpretations  of
+Clayton Act § 7).  We decline to create a per se rule of nonli-
+ability for predatory price discrimination  when recoupment
+is alleged to take place through supracompetitive  oligopoly
+pricing.  Cf. Cargill,4 79 U. S., at 121.
+III
+Although Liggett's theory of liability, as an abstract mat-
+ter, is within  the  reach  of the  statute, we  agree  with the
+Court of Appeals  and the District Court that  Liggett was
+not entitled to submit its case to the jury.  It is not custom-
+ary for this Court to review the sufficiency of the evidence,
+but we will do so when the issue is properly before us and
+the benefits of providing guidance  concerning the proper ap-
+plication of a legal standard and avoiding the systemic costs
+associated with further proceedings justify the required ex-
+penditure of judicial resources.  See, e. g., Aspen Skiing Co.
+v.  Aspen Highlands Skiing Corp., 472  U. S.  585,  605-611
+(1985);  Monsanto Co. v. Spray-Rite Service Corp., 465 U. S.
+752, 765-768 (1984);  United States v. Pabst Brewing Co., 384
+U. S.  546,  550-552  (1966).  The record  in this  case demon-
+strates  that  the  anticompetitive  scheme  Liggett  alleged,
+when judged against  the realities  of the market, does  not
+provide an adequate basis for a finding of liability.
+A
+Liggett's theory of competitive injury through oligopolistic
+price  coordination  depends  upon  a  complex  chain  of cause
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+and effect: Brown & Williamson would enter the generic seg-
+ment with list prices  matching Liggett's but with massive,
+discriminatory volume rebates directed  at Liggett's biggest
+wholesalers; as a result, the net price of Brown & William-
+son's generics would be below its costs; Liggett would suffer
+losses trying to defend its market share and wholesale cus-
+tomer base by matching Brown  & Williamson's  rebates; to
+avoid further losses,  Liggett would  raise  its list prices  on
+generics  or acquiesce  in price  leadership by Brown  & Wil-
+liamson; higher  list prices  to consumers  would  shrink the
+percentage gap in retail price between generic and branded
+cigarettes; and this narrowing of the gap would make gener-
+ics less appealing to the consumer, thus slowing the growth
+of  the  economy  segment  and  reducing  cannibalization  of
+branded sales and their associated supracompetitive profits.
+Although  Brown  & Williamson's  entry  into  the  generic
+segment could  be  regarded  as procompetitive  in  intent  as
+well as  effect, the record  contains  sufficient  evidence  from
+which  a  reasonable  jury  could  conclude  that  Brown  &
+Williamson  envisioned  or  intended  this  anticompetitive
+course  of events.  See, e.g .,  App.  57-58,  67-68,  89-91,  99,
+112-114, 200, 241, 253, 257, 262-263, 279-280, 469-470, 664-
+666.  There  is  also  sufficient  evidence  in  the record  from
+which a reasonable jury could conclude that for a period of
+approximately  18  months, Brown  & Williamson's  prices on
+its generic  cigarettes  were below its costs, see id., at 338-
+339, 651, 740, and that this below-cost pricing imposed losses
+on Liggett that Liggett was unwilling to sustain, given its
+corporate parent's  effort to locate a buyer for the company,
+see  id., at 74,  92, 200, 253, 596-597.  Liggett  has failed  to
+demonstrate competitive injury as a matter of law, however,
+because its proof is flawed in a critical respect: The evidence
+is inadequate to show that in pursuing this scheme, Brown &
+Williamson had a reasonable prospect of recovering its losses
+from below-cost  pricing through  slowing the growth of ge-
+nerics.  As we have noted, "[t]he  success of any predatory
+
+NEW PAGE
+
+232  BROOKE GROUP LTD. v. BROWN  & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+scheme  depends  on  maintaining  monopoly  power  for  long
+enough both to  recoup the predator's losses and to harvest
+some  additional  gain."  Matsushita, 475  U. S.,  at 589  (em-
+phasis omitted).
+No inference  of recoupment is sustainable  on this record,
+because  no  evidence  suggests  that  Brown  & Williamson-
+whatever its intent in introducing black and whites may have
+been-was likely to obtain the power to raise the prices for
+generic  cigarettes  above a  competitive  level.  Recoupment
+through supracompetitive pricing in the economy segment of
+the cigarette market is an indispensable aspect of Liggett's
+own  proffered  theory, because  a  slowing  of growth in  the
+economy  segment,  even  if it results  from  an  increase  in
+generic  prices,  is not itself anticompetitive.  Only  if those
+higher prices are a product of nonmarket forces  has compe-
+tition  suffered.  If prices  rise in response  to an  excess  of
+demand over supply, or segment growth slows as patterns of
+consumer preference become stable, the market is function-
+ing in  a competitive  manner.  Consumers  are  not injured
+from the perspective  of the antitrust laws  by the price  in-
+creases;  they are in fact  causing them.  Thus, the linchpin
+of the  predatory  scheme  alleged  by  Liggett  is  Brown  &
+Williamson's  ability,  with  the  other  oligopolists,  to  raise
+prices above  a competitive  level in  the generic  segment  of
+the market.  Because  relying on  tacit  coordination  among
+oligopolists  as a means  of recouping losses from predatory
+pricing  is  "highly  speculative,"  Areeda  &  Hovenkamp
+711.2c, at 647, competent evidence is necessary to allow a
+reasonable inference that it poses an authentic threat to com-
+petition.  The evidence in this case is insufficient to demon-
+strate the danger of Brown & Williamson's  alleged  scheme.
+B
+Based  on  Liggett's theory  of the case  and  the record  it
+created, there are two means by which one might infer that
+

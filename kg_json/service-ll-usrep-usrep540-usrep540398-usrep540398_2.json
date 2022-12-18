@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:540_U_S_398_2004",
+      "cite": "540 U. S. 398 (2004)",
+      "date": "2004",
+      "caseNumber": "540 U. S. 398",
+      "involvedParties": [
+        "Verizon Communications Inc.",
+        "Law Offices of Curtis V. Trinko, LLP",
+        "AT&T Corp.",
+        "Iowa Utilities Bd.",
+        "New York's Public Service Commission",
+        "Allegiance Telecom, Inc.",
+        "American Antitrust Institute",
+        "Covad Communications Co., Inc.",
+        "Economics Professors",
+        "Law Professors",
+        "National Association of State Utility Consumer Advocates",
+        "Z-Tel Technologies, Inc.",
+        "Project to Promote Competition and Innovation in the Digital Age"
+      ],
+      "reasoning": "This case considers whether a complaint alleging breach of the incumbent's duty under the 1996 Act to share its network with competitors states a claim under § 2 of the Sherman Act, 26 Stat. 209."
+    }
+  ]
+}

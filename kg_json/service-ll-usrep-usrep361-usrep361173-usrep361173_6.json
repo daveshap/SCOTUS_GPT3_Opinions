@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "OCTOBER_TERM_1959",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "79 Cong. Rec. 12207",
+      "reasoning": "The wisdom and experience of that commission"
+    },
+    {
+      "@id": "Interstate_Commerce_Commission_v._Illinois_Central_R._Co.",
+      "date": "1911-05-22",
+      "caseNumber": "215 U. S. 452",
+      "involvedParties": "Interstate Commerce Commission, Illinois Central R. Co.",
+      "reasoning": "Congress has left the task of making that determination to the wisdom and experience of the Commission"
+    },
+    {
+      "@id": "Pennsylvania_Co._v._United_States",
+      "date": "1914-05-18",
+      "caseNumber": "236 U. S. 351",
+      "involvedParties": "Pennsylvania Co., United States",
+      "reasoning": "Congress has left the task of making that determination to the wisdom and experience of the Commission"
+    },
+    {
+      "@id": "United_States_v._Chicago_Heights_Trucking_Co.",
+      "date": "1940-06-03",
+      "caseNumber": "310 U. S. 344",
+      "involvedParties": "United States, Chicago Heights Trucking Co.",
+      "reasoning": "Congress has left the task of making that determination to the wisdom and experience of the Commission"
+    },
+    {
+      "@id": "Purcell_v._United_States",
+      "date": "1942-06-01",
+      "caseNumber": "315 U. S. 381",
+      "involvedParties": "Purcell, United States",
+      "reasoning": "Congress has left the task of making that determination to the wisdom and experience of the Commission"
+    },
+    {
+      "@id": "MINNEAPOLIS_&_ST._LOUIS_R._CO._v._U.S.",
+      "date": "1959-10-01",
+      "caseNumber": "189 173 Opinion of the Court",
+      "involvedParties": "Minneapolis & St. Louis R. Co., U.S.",
+      "reasoning": "The Commission fully estimated the scope and appraised the effects of any curtailment of competition which might result from the acquisition of Western by the Santa Fe and Pennsylvania"
+    },
+    {
+      "@id": "Toledo,_P._&_W._R._Co._Acquisition",
+      "date": "1955-05-26",
+      "caseNumber": "124 I. C. C. 181",
+      "involvedParties": "Toledo, P. & W. R. Co.",
+      "reasoning": "The Commission found that Western's modern existence began at that time and, under the guidance of McNear, was built into a fine railroad"
+    },
+    {
+      "@id": "Clayton_Act",
+      "date": "1914-10-15",
+      "caseNumber": "38 Stat. 734, 15 U. S. C. § 20",
+      "involvedParties": "Common carrier, another corporation",
+      "reasoning": "The evident purpose of § 10 of the Clayton Act was to prohibit a corporation from abusing a carrier by palming off upon it securities, supplies and other articles without competitive bidding and at excessive prices"
+    }
+  ]
+}

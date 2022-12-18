@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/503U.S.407",
+      "date": "1992",
+      "caseNumber": "503 U. S. 407",
+      "involvedParties": [
+        "Amtrak",
+        "CV",
+        "B&M",
+        "Canadian National Railway Company",
+        "Canadian Pacific, Ltd.",
+        "Vermont",
+        "Massachusetts"
+      ],
+      "reasoning": "This was the first decided case involving Amtrak's condemnation powers under § 562(d).",
+      "cite": "503 U. S. 407 (1992)"
+    },
+    {
+      "@id": "http://schema.org/286U.S.App.D.C.1",
+      "date": "1990",
+      "caseNumber": "286 U. S. App. D. C. 1",
+      "involvedParties": [
+        "Amtrak",
+        "B&M",
+        "CV",
+        "Vermont",
+        "Massachusetts"
+      ],
+      "reasoning": "The majority held that § 562(d) does not permit Amtrak to condemn railroad property which it intends to reconvey to another railroad.",
+      "cite": "286 U. S. App. D. C. 1 (1990)"
+    }
+  ]
+}

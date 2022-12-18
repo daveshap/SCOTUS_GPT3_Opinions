@@ -1,0 +1,126 @@
+
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+406  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+expedited greatly.  If the jury agrees with the court’s 
+appraisal of the evidence, and returns a verdict for the 
+party who moved for judgment as a matter of law, the 
+case is at an end.  If the jury brings in a different ver­
+dict, the trial court can grant a renewed motion for judg­
+ment as a matter of law.  Then if the appellate court 
+holds that the trial court was in error in its appraisal of 
+the evidence, it can reverse and order judgment on the 
+verdict of the jury, without any need for a new trial. 
+For this reason the appellate courts repeatedly have said 
+that it usually is desirable to take a verdict, and then 
+pass on the sufﬁciency of the evidence on a post-verdict 
+motion.”  9A Federal Practice § 2533, at 319 (footnote 
+omitted). 
+Thus, the District Court’s denial of respondent’s preverdict 
+motion cannot form the basis of respondent’s appeal, because 
+the denial of that motion was not error.  It was merely an 
+exercise of the District Court’s discretion, in accordance with 
+the text of the Rule and the accepted practice of permitting 
+the jury to make an initial judgment about the sufﬁciency of 
+the evidence.  The only error here was counsel’s failure to 
+ﬁle a postverdict motion pursuant to Rule 50(b).6 
+6 Respondent claims that its failure to renew its Rule 50(a) motion was 
+in reliance on the Tenth Circuit’s determination that it could order a new 
+trial in the absence of a Rule 50(b) motion.  But respondent cannot credi­
+bly maintain that it wanted the Court of Appeals to order a new trial as 
+opposed to entering judgment.  And, as the Tenth Circuit has recognized, 
+respondent could not obtain the entry of judgment unless it complied with 
+Rule 50(b).  Cummings v. General Motors Corp., 365 F. 3d 944, 951 (2004). 
+Respondent therefore had every incentive to comply with that Rule’s re­
+quirements.  Accordingly, we reject its contention that our application of 
+Rule 50(b) to the instant case is impermissibly retroactive.  See also 
+Harper v. Virginia Dept. of Taxation, 509 U. S. 86, 97 (1993) (“[W]e can 
+scarcely permit the substantive law to shift and spring according to the 
+particular equities of individual parties’ claims of actual reliance on an old 
+rule and of harm from a retroactive application of the new rule” (internal 
+quotation marks and brackets omitted)). 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  407 
+Stevens, J., dissenting 
+* * * 
+For the foregoing reasons, we hold that since respondent 
+failed to renew its preverdict motion as speciﬁed in Rule 
+50(b), there was no basis for review of respondent’s sufﬁ­
+ciency of the evidence challenge in the Court of Appeals. 
+The judgment of the Court of Appeals is reversed.7 
+It is so ordered. 
+Justice Stevens, with whom Justice Kennedy joins, 
+dissenting. 
+Murphy’s law applies to trial lawyers as well as pilots. 
+Even an expert will occasionally blunder.  For that reason 
+Congress has preserved the federal appeals courts’ power to 
+correct plain error, even though trial counsel’s omission will 
+ordinarily give rise to a binding waiver.  This is not a case, 
+in my view, in which the authority of the appellate court is 
+limited by an explicit statute or controlling rule.  The spirit 
+of the Federal Rules of Civil Procedure favors preservation 
+of a court’s power to avoid manifestly unjust results in ex­
+ceptional cases.  See Johnson v. New York, N. H. & H. R. 
+Co.,  344  U. S.  48,  62  (1952)  (Frankfurter,  J.,  dissenting) 
+(“ ‘Procedure is the means; full, equal and exact enforcement 
+of  substantive  law  is  the  end’ ”  (quoting  Pound,  The  Eti­
+quette  of  Justice,  3  Proceedings  Neb.  St.  Bar  Assn.  231 
+(1909))).  Moreover,  we  have  an  overriding  duty  to  obey 
+statutory commands that unambiguously express the intent 
+of Congress even in areas such as procedure in which we 
+may have special expertise. 
+Today, relying primarily on a case decided in March 1947, 
+Cone v. West Virginia Pulp & Paper Co., 330 U. S. 212, and 
+a  case  decided  in  January  1948,  Globe  Liquor  Co.  v.  San 
+7 We reject respondent’s contention that it is entitled to a remand for 
+reconsideration in light of Phillips v. AWH Corp., 415 F. 3d 1303 (CA Fed. 
+2005).  The Federal Circuit has already denied respondent’s petition for 
+rehearing raising this issue. 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+408  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Stevens, J., dissenting 
+Roman, 332 U. S. 571, the Court holds that the Court of Ap­
+peals was “powerless” to review the sufﬁciency of the evi­
+dence supporting the verdict in petitioner’s favor because 
+respondent failed to ﬁle proper postverdict motions pursuant 
+to Rules 50(b) and 59 of the Federal Rules of Civil Procedure 
+in the trial court.  Ante, at 405.  The majority’s holding is 
+inconsistent with a statute enacted just months after Globe 
+Liquor was decided.  That statute, which remains in effect 
+today, provides: 
+“The Supreme Court or any other court of appellate 
+jurisdiction may afﬁrm, modify, vacate, set aside or re­
+verse any judgment, decree, or order of a court lawfully 
+brought before it for review, and may remand the cause 
+and direct the entry of such appropriate judgment, de­
+cree, or order, or require such further proceedings to 
+be had as may be just under the circumstances.”  28 
+U. S. C. § 2106. 
+Nothing in Rule 50(b) limits this statutory grant of power 
+to appellate courts; while a party’s failure to make a Rule 
+50(b) motion precludes the district court from directing a 
+verdict in that party’s favor, the Rule does not purport to 
+strip the courts of appeals of the authority to review district 
+court judgments or to order such relief as “may be just under 
+the circumstances.”  Nor do general principles of waiver or 
+forfeiture have that effect.  Cf. ante, at 404–405.  It is well 
+settled that a litigant’s waiver or forfeiture of an argument 
+does not, in the absence of a contrary statutory command, 
+preclude the courts of appeals from considering those argu­
+ments.  See Singleton v.  Wulff,  428 U. S. 106, 121 (1976). 
+Arguments raised for the ﬁrst time on appeal may be enter­
+tained,  for  example,  if  their  consideration  would  prevent 
+manifest injustice.  Ibid.* 
+*The Court suggests that the Seventh Amendment limits appellate 
+courts’ power to review judgments under 28 U. S. C. § 2106.  See ante, 
+at 402–403, n. 4.  I disagree with the Court’s analysis in two respects. 
+

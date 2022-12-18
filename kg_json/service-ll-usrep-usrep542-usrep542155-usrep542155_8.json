@@ -1,0 +1,24 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "176 F. H OFMAN-LA ROCHE LTD v. EMPAGRAN S. A.",
+    "datePublished": "SCALIA, J., concuring in judgment",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Person",
+        "name": "F. H OFMAN-LA ROCHE LTD"
+      },
+      {
+        "@type": "Person",
+        "name": "EMPAGRAN S. A."
+      }
+    ],
+    "reasoning": "The language of the statute is readily susceptible of the interpretation the Court provides and because only that interpretation is consistent with the principle that statutes should be read in acord with the customary deference to the aplication of foreign countries' laws within their own teritories.",
+    "judge": {
+      "@type": "Person",
+      "name": "Justice Scalia"
+    }
+  }
+]

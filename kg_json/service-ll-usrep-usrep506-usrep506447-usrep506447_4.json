@@ -1,0 +1,117 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForIncludingInThisOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "SpectrumSportsIncVMcQuillan",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "506 U. S. 447",
+      "parties": [
+        "Spectrum Sports, Inc.",
+        "McQuillan"
+      ],
+      "reasoning": "The Court of Appeals in this case reaffirmed its prior holdings; indeed, it did not mention either this Court's decisions discussed above or the many decisions of other Courts of Appeals reaching contrary results."
+    },
+    {
+      "@id": "ArthurSLangenderferIncVSSEJohnsonCo",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "917 F. 2d",
+      "parties": [
+        "Arthur S. Langenderfer, Inc.",
+        "S. E. Johnson Co."
+      ],
+      "reasoning": "In support of its determination that an inference of dangerous probability was permissible from a showing of intent, the Lessig opinion cited, and added emphasis to, this Court's reference in its opinion in Swift to 'intent and the consequent dangerous probability.'"
+    },
+    {
+      "@id": "TwinLaboratoriesIncVWeiderHealthFitness",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "900 F. 2d",
+      "parties": [
+        "Twin Laboratories, Inc.",
+        "Weider Health & Fitness"
+      ],
+      "reasoning": "In support of its determination that an inference of dangerous probability was permissible from a showing of intent, the Lessig opinion cited, and added emphasis to, this Court's reference in its opinion in Swift to 'intent and the consequent dangerous probability.'"
+    },
+    {
+      "@id": "ColoradoInterstateGasCoVNaturalGasPipelineCoOfAmerica",
+      "@type": "cite",
+      "date": "1989",
+      "caseNumber": "885 F. 2d",
+      "parties": [
+        "Colorado Interstate Gas Co.",
+        "Natural Gas Pipeline Co. of America"
+      ],
+      "reasoning": "In support of its determination that an inference of dangerous probability was permissible from a showing of intent, the Lessig opinion cited, and added emphasis to, this Court's reference in its opinion in Swift to 'intent and the consequent dangerous probability.'"
+    },
+    {
+      "@id": "IndianaGroceryIncVSuperValuStoresInc",
+      "@type": "cite",
+      "date": "1988",
+      "caseNumber": "864 F. 2d",
+      "parties": [
+        "Indiana Grocery, Inc.",
+        "Super Valu Stores, Inc."
+      ],
+      "reasoning": "In support of its determination that an inference of dangerous probability was permissible from a showing of intent, the Lessig opinion cited, and added emphasis to, this Court's reference in its opinion in Swift to 'intent and the consequent dangerous probability.'"
+    },
+    {
+      "@id": "GeneralIndustriesCorpVHartzMountainCorp",
+      "@type": "cite",
+      "date": "1987",
+      "caseNumber": "810 F. 2d",
+      "parties": [
+        "General Industries Corp.",
+        "Hartz Mountain Corp."
+      ],
+      "reasoning": "In support of its determination that an inference of dangerous probability was permissible from a showing of intent, the Lessig opinion cited, and added emphasis to, this Court's reference in its opinion in Swift to 'intent and the consequent dangerous probability.'"
+    },
+    {
+      "@id": "UnitedStatesVGrinnellCorp",
+      "@type": "cite",
+      "date": "1966",
+      "caseNumber": "384 U. S. 563",
+      "parties": [
+        "United States",
+        "Grinnell Corp."
+      ],
+      "reasoning": "The 'any part' clause, however, applies to charges of monopolization as well as to attempts to monopolize, and it is beyond doubt that the former requires proof of market power in a relevant market."
+    },
+    {
+      "@id": "UnitedStatesVEDIduPontDeNemoursCo",
+      "@type": "cite",
+      "date": "1956",
+      "caseNumber": "351 U. S. 377",
+      "parties": [
+        "United States",
+        "E. I. du Pont de Nemours & Co."
+      ],
+      "reasoning": "The 'any part' clause, however, applies to charges of monopolization as well as to attempts to monopolize, and it is beyond doubt that the former requires proof of market power in a relevant market."
+    },
+    {
+      "@id": "UnitedStatesVYellowCabCo",
+      "@type": "cite",
+      "date": "1947",
+      "caseNumber": "332 U. S. 218",
+      "parties": [
+        "United States",
+        "Yellow Cab Co."
+      ],
+      "reasoning": "The Lessig opinion claimed support from the language of § 2, which prohibits attempts to monopolize 'any part' of commerce, and therefore forbids attempts to monopolize any appreciable segment of interstate sales of the relevant product."
+    },
+    {
+      "@id": "UnitedStatesVGriffith",
+      "@type": "cite",
+      "date": "1948",
+      "caseNumber": "334 U. S. 100",
+      "parties": [
+        "United States",
+        "Griffith"
+      ],
+      "reasoning": "Thus, the conduct of a single firm, governed by § 2, 'is unlawful only when it threatens actual monopolization.' Id., at 767. See also Lorain Journal Co. v. United States, 342 U. S. 143, 154 (1951); United States v. Griffith, 334 U. S. 100

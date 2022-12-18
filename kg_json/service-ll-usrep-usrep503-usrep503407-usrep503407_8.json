@@ -1,0 +1,21 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "National Railroad Passenger Corporation v. Boston & Maine Corp.",
+    "datePublished": "White, J., dissenting",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "428",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "National Railroad Passenger Corporation"
+      },
+      {
+        "@type": "Organization",
+        "name": "Boston & Maine Corp."
+      }
+    ],
+    "reasoningForIncluding": "The ICC has failed to provide a clear, authoritative construction of 'required for intercity rail passenger service', so the case should be returned to the Commission so that the agency can do its job properly."
+  }
+]

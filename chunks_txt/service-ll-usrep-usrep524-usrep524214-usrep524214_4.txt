@@ -1,0 +1,123 @@
+
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+While  the ified  rate  doctrine  may  seem harsh  in  some
+circumstances,  see, e.g.,  Maislin Industries, U.S.,  Inc. v.
+Primary Steel, Inc., 497 U. S. 116, 130-131 (1990),  its strict
+application  is  necessary  to  "prevent  carriers  from  inten-
+tionally  'misquoting' rates to shippers as a means of offer-
+ing them rebates or discounts,"  the very evil the filing re-
+quirement seeks to prevent.  Id., at 127.  Regardless of the
+carrier's motive-whether it seeks to benefit or harm a par-
+ticular customer-the policy of nondiscriminatory rates is vi-
+olated when similarly situated customers pay different rates
+for the same services.  It is that antidiscriminatory policy
+which lies at "the heart of the common-carrier section of the
+Communications  Act."  MCI Telecommunications Corp. v.
+American Telephone & Telegraph Co., supra, at 229.
+The  Ninth Circuit  thought the  filed  rate  doctrine  inap-
+plicable "[b]ecause this case does not involve rates or rate-
+setting, but rather involves the provisioning of services and
+billing."  108  F. 3d,  at 990.  Rates, however, do not  exist
+in isolation.  They have meaning only when one knows the
+services to which they are attached.  Any claim for exces-
+sive rates can be couched as a claim for inadequate services
+and vice versa.  "If 'discrimination in charges' does not in-
+clude non-price  features, then the carrier  could defeat the
+broad purpose of the statute by the simple expedient of pro-
+viding an additional benefit at no additional charge....  An
+unreasonable 'discrimination in charges,' that is, can come in
+the form of a lower price for an equivalent service or in the
+form of an enhanced service for an equivalent price."  Com-
+petitive Telecommunications Assn. v. FCC,9 98 F. 2d 1058,
+1062  (CADC  1993).  The  Communications  Act  recognizes
+this  when  it  requires  the  filed  tariff  to  show  not  only
+"charges,"  but also "the classifications,  practices, and regu-
+lations  affecting  such  charges,"  47  U. S. C.  § 203(a);  and
+when it makes it unlawful to "extend to any person any privi-
+leges or facilities in such  communication,  or employ or en-
+
+NEW PAGE
+
+224  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+force  any  classifications,  regulations,  or practices  affecting
+such  charges" except those set forth in the tariff, §203(c).
+Unsurprisingly, the cases decided under the ICA make it
+clear that discriminatory  "privileges" come in many guises,
+and are not limited to discounted rates.  "[A]  preference  or
+rebate is the necessary result of every violation of [the ana-
+log to § 203(c) in the ICA] where the carrier renders or pays
+for a service not covered by the prescribed tariffs."  United
+States v. Wabash R. Co.,  321 U. S. 403, 412-413  (1944).  In
+Chicago & Alton R. Co. v. Kirby, 225  U. S.  155  (1912),  we
+rejected a shipper's breach-of-contract  claim against a rail-
+road for failure to ship a carload of race horses by a particu-
+larly fast train.  We held- that the contract was invalid as a
+matter of law because the carrier's tariffs "did not provide
+for an expedited service, nor for transportation by any par-
+ticular train," and therefore the shipper received "an undue
+advantage ...  that is not one open  to others in the same
+situation."  Id., at 163, 165.  Similarly, in Davis v. Cornwell,
+264 U. S. 560 (1924), we invalidated the carrier's agreement
+to provide the shipper with a number of railroad cars  on a
+specified day; such a special advantage, we said, "is illegal,
+when not provided for in the tariff."  Id., at 562.  See also
+Kansas City Southern R. Co. v. Carl, supra, at 653;  Wight
+v. United States, 167 U. S. 512, 517-518 (1897);  I. Lake, Dis-
+crimination by Railroads and Other Public Utilities 310-315
+(1947).
+III
+The  Ninth  Circuit  distinguished  the  Court's  filed  rate
+cases involving claims for special services on the ground that
+the services at issue there "should have been included in the
+tariff  and  made  available  to  all"  because  "the  customer
+would  have been  expected to pay a higher rate" for those
+services.  108 F. 3d, at 989, n. 9.  But that is precisely the
+case here.  Indeed, the additional services  and guarantees
+that respondent claims it was  entitled to by virtue  of Ms.
+Kisor's  representations  and  petitioner's  sales  brochures-
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+viz.,  faster provisioning,  the allocation  of charges  through
+multilocation billing, and various matters relating to depos-
+its, calling cards, and service support, see 108 F. 3d, at 987-
+988-all pertain to subjects that are specifically addressed
+by the filed  tariff.  See  AT&T  Tariff FCC  No.  1, §2.5.10
+(provisioning of orders); § 6.2.4 (allocation of charges); § 2.5.6
+(deposits); § 2.5.12.B (calling cards); § 6.2.5 (service supports).
+The  Ninth Circuit agreed that all of respondent's claims
+except those relating to provisioning and billing would be
+pre-empted if the ified rate doctrine applied.  108 F. 3d, at
+990.  But even provisioning and billing are, in the relevant
+sense,  "covered"  by the tariff.  For  example, whereas  re-
+spondent asks to enforce a guarantee that orders would be
+provisioned within 30 to 90 days, the tariff leaves it  up to
+petitioner to "establis[h] and confir[m]"  a due date for provi-
+sioning, requires that petitioner merely make "every reason-
+able effort" to meet that due date, and if it  fails gives the
+customer  no recourse  except to "cancel  the order  without
+penalty or payment  of nonrecurring  charges."  §2.5.10(B).
+Faster, guaranteed provisioning of orders for the same rate
+is  certainly  a privilege  within  the  meaning  of 47  U. S. C.
+§203(c)  and  the filed  rate doctrine.  Cf. Chicago & Alton
+R. Co. v. Kirby, supra, at  163  (refusing to  enforce  prom-
+ise for faster, guaranteed service not included in the tariff).
+As for billing, whereas respondent claims that, pursuant to
+the MLB  option, petitioner promised to allocate usage and
+charges accurately  among respondent's customers, the tariff
+provides  that  petitioner  "will  not  allocate  . . . usage  or
+charges"  among  the  locations  on the  customer's  network
+and "is not responsible for the way that the Customer may
+allocate usage or charges."  AT&T Tariff FCC No. 1, § 6.2.4.
+Any assurance by petitioner that it would allocate usage and
+charges and take responsibility for the task would have been
+in flat contradiction  of the tariff.  See Chesapeake & Ohio
+R. Co. v. Westinghouse, Church, Kerr & Co.,  270 U. S. 260,
+266 (1926).
+

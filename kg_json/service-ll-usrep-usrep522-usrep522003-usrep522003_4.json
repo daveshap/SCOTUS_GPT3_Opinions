@@ -1,0 +1,84 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "STATE OIL CO. v. KHAN",
+  "caseNumber": "522 U. S. 3 (1997)",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "STATE OIL CO."
+    },
+    {
+      "@type": "Person",
+      "name": "KHAN"
+    }
+  ],
+  "opinion": {
+    "@type": "LegalOpinion",
+    "citations": [
+      {
+        "@type": "LegalCase",
+        "name": "Socony-Vacuum Oil Co. v. United States",
+        "caseNumber": "310 U. S. 150 (1940)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc.",
+        "caseNumber": "340 U. S. 211 (1951)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Schwinn & Co. v. United States",
+        "caseNumber": "388 U. S. 365 (1967)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Albrecht v. Herald Co.",
+        "caseNumber": "390 U. S. 145 (1968)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Continental T V, Inc. v. GTE Sylvania Inc.",
+        "caseNumber": "433 U. S. 36 (1977)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "White Motor Co. v. United States",
+        "caseNumber": "372 U. S. 253 (1963)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Northern Pacific R. Co. v. United States",
+        "caseNumber": "356 U. S. 1 (1958)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Mari-copa County v. Maricopa County Medical Soc.",
+        "caseNumber": "457 U. S. 332 (1982)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "324 Liquor Corp. v. Duffy",
+        "caseNumber": "479 U. S. 335 (1987)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "ARCO v. K-Mart Corp.",
+        "caseNumber": "495 U. S. 3 (1990)"
+      }
+    ],
+    "reasoning": [
+      "such restrictions might avert vertical integration in the distribution process.",
+      "The Court drew the line, however, at permitting manufacturers to control product marketing once dominion over the goods had passed to dealers.",
+      "The Court concluded that it was per se unlawful for the publisher to fix the maximum resale price of its newspapers.",
+      "The Court rejected the notion that, because the newspaper publisher granted exclusive territories, a price ceiling was necessary to protect the public from price gouging by dealers who had monopoly power in their own territories.",
+      "Justice Harlan asserted that the majority had erred in equating the effects of maximum and minimum price fixing.",
+      "The Court acknowledged the principle of stare decisis, but explained that the need for clarification in the law justified reconsideration of Schwinn.",
+      "The Court considered the historical context of Schwinn, noting that Schwinn's per se rule against vertical nonprice restrictions came only four years after the Court had refused to endorse a similar rule in White Motor Co.",
+      "The Court then reviewed scholarly works supporting the economic utility of vertical nonprice restraints.",
+      "The Court declined to comment on Albrecht's per se treatment of vertical maximum price restrictions, noting that the issue \"involve[d] significantly different questions of analysis and policy.\"",
+      "Subsequent decisions of the Court have hinted that the analytical underpinnings of Albrecht were substantially weakened by GTE Sylvania.",
+      "Most recently, in ARCO, the Court signaled some disfavor with Albrecht's decision, and specifically acknowledged that vertical maximum price fixing \"may have procompetitive interbrand effects.\""
+    ]
+  }
+}

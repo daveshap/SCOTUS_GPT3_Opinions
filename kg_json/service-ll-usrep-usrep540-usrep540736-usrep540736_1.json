@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "parties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/UnitedStatesPostalServicevFlamingoIndustriesUSA",
+      "@type": "http://schema.org/LegalCase",
+      "date": "October 2003",
+      "caseNumber": "02-1290",
+      "parties": [
+        "United States Postal Service",
+        "Flamingo Industries (USA) Ltd."
+      ],
+      "reasoning": "After their contract to make mail sacks for the United States Postal Service was terminated, respondents brought this suit alleging, inter alia, that the Postal Service had sought to suppress competition and create a monopoly in mail sack production."
+    },
+    {
+      "@id": "http://schema.org/FDICvMeyer",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1994",
+      "caseNumber": "510 U.S. 471",
+      "parties": [
+        "FDIC",
+        "Meyer"
+      ],
+      "reasoning": "Meyer's two-step analysis for finding liability: whether the Postal Service's sue-and-be-sued clause effects a waiver of sovereign immunity for actions against the Postal Service and whether the Sherman Act's substantive prohibitions apply to the Postal Service."
+    },
+    {
+      "@id": "http://schema.org/UnitedStatesvCooperCorp",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1941",
+      "caseNumber": "312 U.S. 600",
+      "parties": [
+        "United States",
+        "Cooper Corp."
+      ],
+      "reasoning": "The Sherman Act imposes liability on any 'person', defined 'to include corporations and associations existing under or authorized by the laws of... the United States.' 15 U.S.C. § 7. In holding that the United States is not a person authorized to bring a treble-damages claim for its own alleged antitrust injury under the Sherman Act."
+    },
+    {
+      "@id": "http://schema.org/PostalReorganizationAct",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1970",
+      "caseNumber": "39 U.S.C. §401",
+      "parties": [
+        "United States Postal Service"
+      ],
+      "reasoning": "The waiver of immunity from suit provided by the Postal Reorganization Act (PRA)-which gives the Postal Service the power 'to sue and be sued in its official name.'"
+    },
+    {
+      "@id": "http://schema.org/ShermanAct",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1890",
+      "caseNumber": "15 U.S.C. § 7",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "The Sherman Act imposes liability on any 'person', defined 'to include corporations and associations existing under or authorized by the laws of... the United States.'"
+    },
+    {
+      "@id": "http://schema.org/15USC15a",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1974",
+      "caseNumber": "15 U.S.C. § 15a",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "Congress amended the antitrust statutes to allow the United States to bring antitrust suits."
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+OCTOBER TERM, 1992
+Syllabus
+HARTFORD  FIRE  INSURANCE  CO. ET  AL.
+v.  CALIFORNIA  ET  AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 91-1111.  Argued February 23, 1993-Decided June 28, 1993*
+Nineteen States and many private plaintiffs filed complaints alleging that
+the  defendants-four  domestic  primary insurers,  domestic  companies
+who sell reinsurance to insurers, two domestic trade associations, a do-
+mestic reinsurance  broker, and reinsurers  based in London-violated
+the Sherman Act by engaging in various conspiracies  aimed at forcing
+certain other primary insurers to change  the terms of their standard
+domestic commercial general liability insurance policies to conform with
+the policies  the defendant insurers wanted  to sell.  After the actions
+were consolidated  for litigation, the District Court granted the defend-
+ants' motions to dismiss.  The Court of Appeals reversed, rejecting the
+District Court's conclusion that the defendants were entitled to antitrust
+immunity under § 2(b) of the McCarran-Ferguson  Act, which exempts
+from  federal  regulation "the  business  of insurance,"  except  "to  the
+extent that such business is not regulated by State Law."  Although it
+held the conduct involved  to be "the business of insurance,"  the Court
+of Appeals ruled that the foreign reinsurers did not fall within § 2(b)'s
+protection  because  their activities  could  not be "regulated  by  State
+Law," and that the domestic insurers had forfeited their §2(b) exemp-
+tion when they conspired with the nonexempt foreign reinsurers.  Fur-
+thermore, held the  court, most of the conduct in question fell within
+§ 3(b), which provides that nothing in the McCarran-Ferguson Act "shall
+render the... Sherman Act inapplicable to any...  act of boycott ......
+Finally, the court rejected the District Court's conclusion that the prin-
+ciple  of international  comity barred it from  exercising Sherman  Act
+jurisdiction over the  three claims  brought solely against  the London
+reinsurers.
+Held  The judgment is affirmed in part and reversed in part, and the cases
+are remanded.
+938 F. 2d 919, affirmed in part, reversed in part, and remanded.
+JUSTICE SOUTER  delivered the opinion of the Court with respect to
+Parts I, II-A, III, and IV, concluding that:
+*Together with No. 91-1128,  Merrett Underwriting Agency  Manage-
+ment Ltd. et al. v. California et al., also on certiorari to the same court.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Syllabus
+1. The domestic defendants did not lose their § 2(b) immunity by con-
+spiring with the foreign defendants.  The Court of Appeals's conclusion
+to the contrary  was based in part on the statement, in Group Life &
+Health Ins. Co. v. Royal Drug Co., 440 U. S. 205, 231, that, "[in analo-
+gous contexts, the Court has held that an exempt entity forfeits anti-
+trust exemption by acting in concert with nonexempt parties."  Even
+assuming that foreign reinsurers were "not regulated by State Law,"
+the Court of Appeals's reasoning fails because the analogy drawn by the
+Royal  Drug Court was  a  loose  one.  Following  that language,  the
+Royal Drug Court cited two cases dealing  with the Capper-Volstead
+Act, which  immunizes  certain "persons" from  Sherman  Act liability.
+Ibid.  Because, in contrast, the McCarran-Ferguson  Act immunizes ac-
+tivities rather than entities, an entity-based analysis of § 2(b) immunity
+is inappropriate.  See  id., at 232-233.  Moreover,  the agreements at
+issue in Royal Drug Co. were made with "parties wholly outside the
+insurance industry," id., at 231, whereas the alleged agreements here
+are with foreign reinsurers  and admittedly  concern "the  business  of
+insurance."  Pp. 781-784.
+2. Even assuming that a court may decline to exercise Sherman Act
+jurisdiction over foreign conduct in an appropriate case, international
+comity would not counsel against exercising jurisdiction in the circum-
+stances alleged here.  The only substantial question in this litigation is
+whether "there is in fact a true conflict between domestic and foreign
+law."  Soci~t6 Nationale Industrielle A~rospatiale v.  United States
+Dist. Court for Southern Dist. of Iowa, 482 U. S. 522, 555 (BLACKMUN,
+J., concurring in part and dissenting in part).  That question must be
+answered in the negative, since the London reinsurers do not argue that
+British law requires them to act in some fashion prohibited by United
+States law or claim that their compliance with the laws of both countries
+is otherwise impossible.  Pp. 794-799.
+JUSTICE SCALIA delivered the opinion of the Court with respect to
+Part I, concluding  that a "boycott" for purposes of §3(b) of the Act
+occurs  where, in order to  coerce  a target into certain terms on one
+transaction, parties  refuse to engage  in other, unrelated  transactions
+with the target.  It is not a "boycott" but rather a concerted agreement
+to terms (a "cartelization") where parties refuse to engage in a particu-
+lar transaction until the terms of that transaction are agreeable.  Under
+the foregoing  test, the  allegations  of a  "boycott"  in  this  litigation,
+construed most favorably to the respondents, are sufficient to sustain
+most of the relevant counts of complaint against a motion to dismiss.
+Pp. 800-811.
+
+NEW PAGE
+
+766  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Syllabus
+SOUTER,  J.,  announced the judgment of the Court and delivered  the
+opinion for a unanimous Court with respect to Parts I and II-A, the opin-
+ion of the Court with respect to Parts III and IV, in which REHNQUIST,
+C. J.,  and WHrrE, BLACKMUN,  and STEVENS, JJ., joined, and an opinion
+concurring in the judgment with respect to Part II--B,  in which WHITE,
+BLACKMUN,  and STEVENS, JJ., joined.  SCALiA, J., delivered the opinion
+of the Court with respect to Part I, in which REHNQUIST, C. J., and O'CON-
+NOR, KENNEDY,  and  THoMAS, JJ., joined, and  a dissenting  opinion with
+respect to Part II, in which O'CONNOR, KENNEDY, and THOMAS, JJ., joined,
+post, p. 800.
+Stephen M. Shapiro argued  the  cause fIr petitioners  in
+No. 91-1111.  With him on the briefs were Kenneth S. Gel-
+ler, Mark I. Levy, Roy  T Englert, Jr., Timothy S. Bishop,
+Ronald A. Jacks, Richard E. Sherwood, William A. Mont-
+gomery, William M. Hannay, John G. Hark ins, Jr., Eleanor
+Morris Illoway, Bartlett H. McGuire, Douglas L Brandon,
+James S. Greenan, Raoul D. Kennedy, Alan H. Silberman,
+Stuart Altschuler, Peter 0.  Glaessner, David L.  Foster,
+Gregory L. Harris,F  rank Rothman, Timothy E. Carr,K  ent
+E.  Keller, Lewis A.  Kaplan, Allan Blumstein, Ronald C.
+Redcay, Michael M.  Uhlmann, Robert B. Green, Stephen
+M. Axinn, Michael L. Weiner, James M. Burns, Eugene F.
+Bannigan, Christine C. Burgess, Robert M. Mitchell, Philip
+H. Curtis,Z oe Baird, Jane Kelly, Joseph P. Giasi,J r., Joseph
+A. Gervasi, Debra J. Anderson, Michael S. Wilder, Jeffrey
+L. Morris, Edmond F. Rondepierre, and  John J. Hayden.
+Molly S. Boast argued  the  cause for petitioners in No. 91-
+1128.  With her on  the  briefs for  petitioners Merrett  Un-
+derwriting Agency Management  Ltd. et al. were Lawrence
+W. Pollack, Andreas F. Lowenfeld, Barry L. Bunshoft, Eric
+J. Sinrod, David W. Slaby, Michael L. McCluggage, James
+T  Nyeste,  Michael R. Blankshain, Jerome N. Lerch, Paul
+R. Haerle, Martin Frederic Evans, Donald Francis Dono-
+van, and  Colby A. Smith.  Barry R. Ostroger, Eleanor M.
+Fox, Mary Kay Vyskocil, and Kathryn A. Clokey ified briefs
+for  petitioner  Sturge  Reinsurance  Syndicate  Management
+Ltd.
+

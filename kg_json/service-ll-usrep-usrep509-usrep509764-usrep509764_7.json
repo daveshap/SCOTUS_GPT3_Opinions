@@ -1,0 +1,77 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": {
+      "@id": "http://example.org/HartfordFireInsCoVCalifornia",
+      "@type": "CaseCitation"
+    },
+    "Royal Drug Co.": {
+      "@id": "http://example.org/RoyalDrugCo",
+      "@type": "CaseCitation"
+    },
+    "Case-Swayne Co. v. Sunkist Growers, Inc.": {
+      "@id": "http://example.org/CaseSwayneCoVSunkistGrowersInc",
+      "@type": "CaseCitation"
+    },
+    "United States v. Borden Co.": {
+      "@id": "http://example.org/UnitedStatesVBordenCo",
+      "@type": "CaseCitation"
+    },
+    "Mine Workers v. Pennington": {
+      "@id": "http://example.org/MineWorkersVPennington",
+      "@type": "CaseCitation"
+    },
+    "date": {
+      "@id": "http://example.org/date",
+      "@type": "Date"
+    },
+    "caseNumber": {
+      "@id": "http://example.org/caseNumber",
+      "@type": "CaseNumber"
+    },
+    "involvedParties": {
+      "@id": "http://example.org/involvedParties",
+      "@type": "InvolvedParties"
+    },
+    "reasoning": {
+      "@id": "http://example.org/reasoning",
+      "@type": "Reasoning"
+    }
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/HartfordFireInsCoVCalifornia",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": "Hartford Fire Ins. Co. v. California",
+      "reasoning": "The Court of Appeals did not hold that, under these criteria, the domestic defendants' conduct fell outside 'the business of insurance'; to the contrary, it held that that condition was met."
+    },
+    {
+      "@id": "http://example.org/RoyalDrugCo",
+      "date": "1980",
+      "caseNumber": "440 U. S.  221",
+      "involvedParties": "Royal Drug Co.",
+      "reasoning": "The full sentence from Royal Drug Co. places the quoted fragment in a different light."
+    },
+    {
+      "@id": "http://example.org/CaseSwayneCoVSunkistGrowersInc",
+      "date": "1967",
+      "caseNumber": "389 U. S. 384",
+      "involvedParties": "Case-Swayne Co. v. Sunkist Growers, Inc.",
+      "reasoning": "Capper-Volstead Act, § 1, 42 Stat. 388, 7 U. S. C. § 291; see Case-Swayne Co. v. Sunkist Growers, Inc., 389 U. S. 384 (1967); United States v. Borden Co., 308 U. S. 188 (1939)."
+    },
+    {
+      "@id": "http://example.org/UnitedStatesVBordenCo",
+      "date": "1939",
+      "caseNumber": "308 U. S. 188",
+      "involvedParties": "United States v. Borden Co.",
+      "reasoning": "Capper-Volstead Act, § 1, 42 Stat. 388, 7 U. S. C. § 291; see Case-Swayne Co. v. Sunkist Growers, Inc., 389 U. S. 384 (1967); United States v. Borden Co., 308 U. S. 188 (1939)."
+    },
+    {
+      "@id": "http://example.org/MineWorkersVPennington",
+      "date": "1965",
+      "caseNumber": "381 U. S. 657",
+      "involvedParties": "Mine Workers v. Pennington",
+      "reasoning": "These cases, however, did not hold that labor unions lose their immunity whenever they enter into agreements with employers; to the contrary, we acknowledged in one of the cases that 'the law contemplates agreements on wages not only between individual employers and a union but agreements between the union and employers in a multi-employer bargaining unit.'"
+    }
+  ]
+}

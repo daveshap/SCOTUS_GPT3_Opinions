@@ -1,0 +1,50 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "F. Hoffmann-La Roche Ltd. v. Empagran S.A.",
+    "caseNumber": "542 U.S. 15 (2004)",
+    "court": "Supreme Court of the United States",
+    "datePublished": "2004-06-07",
+    "decision": "Opinion of the Court"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Timberlane Lumber Co. v. Bank of America, N.T. & S.A.",
+    "caseNumber": "549 F.2d 597 (9th Cir. 1976)",
+    "court": "United States Court of Appeals for the Ninth Circuit",
+    "datePublished": "1976-09-17",
+    "decision": "Lower Court Case"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "National Bank of Canada v. Interbank Card Assn.",
+    "caseNumber": "6 F.2d 6 (2d Cir. 1981)",
+    "court": "United States Court of Appeals for the Second Circuit",
+    "datePublished": "1981-01-05",
+    "decision": "Contemporaneous Lower Court Case"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Sherman Act",
+    "datePublished": "1890-07-02",
+    "decision": "Statute"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Foreign Trade Antitrust Improvements Act",
+    "datePublished": "1982-12-29",
+    "decision": "Statute"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Clayton Act",
+    "datePublished": "1914-10-15",
+    "decision": "Statute"
+  }
+]

@@ -1,0 +1,126 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+this  expansion  of the refusal  to deal  beyond  the targeted
+transaction that gives great coercive force to a  commercial
+boycott:  unrelated  transactions  are  used  as  leverage  to
+achieve the terms desired.
+The  proper  definition  of  "boycott"  is  evident  from  the
+Court's  opinion in  Eastern States Retail Lumber Dealers'
+Assn. v. United States, 234 U. S. 600 (1914),  which is recog-
+nized in the antitrust field as one of the "leading  case[s] in-
+volving  commercial  boycotts."  Barber,  Refusals  to  Deal
+under the Federal Antitrust Laws,  103 U. Pa. L.  Rev. 847,
+873 (1955).  The associations of retail lumber dealers in that
+case refused  to buy lumber  from wholesale  lumber  dealers
+who sold directly to consumers.  The boycott attempted "to
+impose as a condition ...  on  [the wholesale  dealers'] trade
+that they shall not sell in such manner that a local retailer
+may regard  such  sale  as  an  infringement  of his  exclusive
+right to trade."  234  U. S.,  at 611.  We held  that to be  an
+"'artificial  conditio[n],"'  since  "the trade  of the wholesaler
+with strangers was directly affected, not because of any sup-
+posed wrong which he had done to them, but because of the
+grievance  of a member  of one  of the associations."  Id., at
+611-612.  In  other words,  the associations'  activities  were
+a boycott because  they sought an objective-the  wholesale
+dealers' forbearance from retail trade-that was collateral to
+their transactions with the wholesalers.
+Of course as far as the Sherman Act (outside the exempted
+insurance  field) is concerned,  concerted  agreements on  con-
+tract  terms  are  as unlawful  as  boycotts.  For  example, in
+Paramount Famous Lasky Corp. v. United States, 282 U. S.
+30 (1930),  and United States v. First Nat. Pictures, Inc., 282
+U. S. 44 (1930),  we held  unreasonable  an agreement among
+competing motion picture distributors under which  they re-
+fused  to license  films to exhibitors  except on  standardized
+terms.  We also found unreasonable the restraint of trade in
+Anderson v. Shipowners Assn. of Pacific Coast, 272  U. S.
+359  (1926),  which  involved  an attempt  by an association  of
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+employers to establish industry-wide  terms of employment.
+These  sorts of concerted  actions, similar to what is alleged
+to  have  occurred  here,  are  not  properly  characterized  as
+"boycotts,"  and  the word does  not appear  in the opinions.'
+In fact, in the 65 years between the coining of the word and
+enactment of the McCarran-Ferguson Act in 1945, "boycott"
+appears in only seven opinions of this Court involving com-
+mercial (nonlabor) antitrust matters, and not once is it used
+as JUSTICE SOUTER uses it-to describe a concerted refusal
+to engage in particular transactions until the terms of those
+transactions are agreeable.4
+In addition to its use in the antitrust field, the concept of
+"boycott" frequently appears in labor law, and in this context
+as  well  there  is  a  clear  distinction  between  boycotts  and
+concerted  agreements  seeking terms.  The! ordinary strike
+8JUSnCE SOUTER points out that the Court in St. Paul Fire & Marine
+Ins. Co. v. Barry, 438 U. S. 531 (1978), found the term "boycott" "does not
+refer to "'a unitary phenomenon,"'"  ante, at 788 (quoting Barry, supra,
+at 543 (quoting P. Areeda, Antitrust Analysis 381 (2d ed.  1974))), and as-
+serts that our position contradicts this.  Ante, at 793.-794.  But to be not
+a "unitary phenomenon" is different from being an all-encompassing  one.
+"Boycott" is a multifaceted  "phenomenon" that includes conditional boy-
+cotts, punitive boycotts, coercive boycotts, partial boycotts, labor boycotts,
+political boycotts, social boycotts, etc.  It merely does not include refusals
+to deal because of objections to proposed terms.
+4S ee  United States v. Frankfort Distilleries,I nc., 324 U. S. 293, 295-
+296, 298 (1945) (refusal to engage in all transactions with targeted compa-
+nies unless they agreed to defendants' price-fixing scheme);  United States
+v. South-Eastern Underwriters Assn., 322 U. S. 533, 535, 536, 562 (1944)
+(discussed infra, at 808-809);  United States v. Bausch & Lomb Optical
+Co., 321 U. S. 707, 722 (1944)  (word used in reference  to a refusal to deal
+as means of enforcing resale  price maintenance);  Fashion Originators'
+Guild of America, Inc. v. FTC,3 12 U. S. 457, 461, 465, 467 (1941)  (boycott
+of retailers who sold competitors'  products);  United States v. American
+Livestock Commission Co., 279 U. S. 435, 436-438 (1929) (absolute boycott
+of a competing livestock association, intended to drive it out of business);
+Eastern States Retail Lumber Dealers' Assn. v. United States, 234 U. S.
+600, 610-611  (1914) (discussed supra, at 803); Nash v. United States, 229
+U. S. 373, 376 (1913) (word used in passing).
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+seeking better  contract  terms  is a "refusal  to deal"-i. e.,
+union members  refuse to sell their labor until the employer
+capitulates  to  their  contract  demands.  But no  one  would
+call this a boycott, because  the conditions  of the "refusal to
+deal" relate directly to the terms of the refused transaction
+(the employment contract).  A refusal to work changes from
+strike to boycott only when it seeks to obtain action from
+the employer  unrelated to  the employment  contract.  This
+distinction is well illustrated by the famous boycott of Pull-
+man cars by Eugene Debs' American Railway Union in 1894.
+The incident began when workers at the Pullman Palace Car
+Company called  a  strike, but  the "boycott"  occurred  only
+when  other members  of the American  Railway  Union, not
+Pullman  employees,  supported  the strikers  by refusing  to
+work on any train drawing a Pullman car.  See In re Debs,
+158  U. S.  564,  566-567  (1895)  (statement of  the  case);  H.
+Laidler,  Boycotts  and  the  Labor  Struggle  100-108 (1968).
+The  refusal to handle Pullman cars had  nothing to do with
+Pullman cars  themselves (working on Pullman  cars was  no
+more  difficult  or  dangerous  than  working  on  other  cars);
+rather, it was  in  furtherance  of the collateral  objective  of
+obtaining better employment terms for the Pullman workers.
+In other labor cases  as well, the term "boycott" invariably
+holds the meaning that we ascribe to it: Its goal is to alter,
+not the terms of the refused  transaction, but the terms of
+workers' employment.5
+6See, e. g., Bedford Cut Stone Co. v. Stone Cutters, 274 U. S. 37, 47, 49
+(1927) (refusal to work on stone received from nonunion quarries); Duplex
+Printing Press Co. v. Deering, 254 U. S.4 43, 462-463 (1921)  (boycott of
+target's product until it agreed to union's employment demands); Gompers
+v. Bucks Stove & Range Co., 221  U. S. 418 (1911)  (boycott of company's
+products because of allegedly unfair labor practices); Loewe v. Lawlor, 208
+U. S.2 74 (1908)  (boycott of fur hats made by a company  that would not
+allow its workers to be unionized).  See also Apex Hosiery Co. v. Leader,
+310  U. S. 469,  503-505  (1940)  (distinguishing between  ordinary  strikes
+and boycotts).
+

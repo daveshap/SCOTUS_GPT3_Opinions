@@ -1,0 +1,39 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Opinion of the Court",
+    "caseNumber": "361 U. S.",
+    "datePublished": "1959-10-01"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Appellants' contention",
+    "caseNumber": "§ 5 (2)",
+    "datePublished": "1959-10-01",
+    "reasoning": "The Commission has made adequate subsidiary findings upon all material issues and has made the ultimate findings required by § 5 (2), that they support the Commission's order, and are, in turn, supported by substantial evidence."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "District Court's decision",
+    "caseNumber": "§ 5 (2)",
+    "datePublished": "1959-10-01",
+    "reasoning": "The District Court fairly considered and decided all of the issues raised by appellants, accorded to them a full and fair judicial review, and reached a right result."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Judgment",
+    "caseNumber": "§ 5 (2)",
+    "datePublished": "1959-10-01",
+    "reasoning": "Affirmed."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "MR. JUSTICE DOUGLAS",
+    "role": "Dissenting Opinion"
+  }
+]

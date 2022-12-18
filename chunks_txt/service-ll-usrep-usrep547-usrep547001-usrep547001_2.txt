@@ -1,0 +1,127 @@
+
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+4  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+markets.  Their business activities include reﬁning crude oil 
+into gasoline, as well as marketing gasoline to downstream 
+purchasers, such as the service stations represented in re­
+spondents’ class action. 
+In  1998,  Texaco  and  Shell  Oil  formed  a  joint  venture, 
+Equilon,  to  consolidate  their  operations  in  the  western 
+United States, thereby ending competition between the two 
+companies in the domestic reﬁning and marketing of gaso­
+line.  Under the joint venture agreement, Texaco and Shell 
+Oil agreed to pool their resources and share the risks of and 
+proﬁts from Equilon’s activities.  Equilon’s board of direc­
+tors would comprise representatives of Texaco and Shell Oil, 
+and Equilon gasoline would be sold to downstream purchas­
+ers under the original Texaco and Shell Oil brand names. 
+The formation of Equilon was approved by consent decree, 
+subject to certain divestments and other modiﬁcations, by 
+the Federal Trade Commission, see In re Shell Oil Co., 125 
+F. T. C. 769 (1998), as well as by the state attorneys gen­
+eral of California, Hawaii, Oregon, and Washington.  Nota­
+bly, the decrees imposed no restrictions on the pricing of 
+Equilon gasoline. 
+After  the  joint  venture  began  to  operate,  respondents 
+brought suit in District Court, alleging that, by unifying gas­
+oline prices under the two brands, petitioners had violated 
+the per se rule against price ﬁxing that this Court has long 
+recognized under § 1 of the Sherman Act, ch. 647, 26 Stat. 
+209, as amended, 15 U. S. C. § 1.  See, e. g., Catalano, Inc. v. 
+Target Sales, Inc., 446 U. S. 643, 647 (1980) (per curiam). 
+The District Court awarded summary judgment to Texaco 
+and Shell Oil.  It determined that the rule of reason, rather 
+than a per se rule or the quick look doctrine, governs re­
+spondents’ claim, and that, by eschewing rule of reason anal­
+ysis, respondents had failed to raise a triable issue of fact. 
+The Ninth Circuit reversed, characterizing petitioners’ posi­
+tion as a request for an “exception to the per se prohibition 
+on  price-ﬁxing,”  and  rejecting  that  request.  Dagher  v. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  5 
+Opinion of the Court 
+Saudi Reﬁning, Inc., 369 F. 3d 1108, 1116 (2004).  We consol­
+idated Texaco’s and Shell Oil’s separate petitions and granted 
+certiorari to determine the extent to which the per se rule 
+against price ﬁxing applies to an important and increasingly 
+popular  form  of  business  organization,  the  joint  venture. 
+545 U. S. 1138 (2005). 
+II 
+Section 1 of the Sherman Act prohibits “[e]very contract, 
+combination in the form of trust or otherwise, or conspiracy, 
+in restraint of trade or commerce among the several States.” 
+15 U. S. C. § 1.  This Court has not taken a literal approach 
+to this language, however.  See, e. g., State Oil Co. v. Khan, 
+522 U. S. 3, 10 (1997) (“[T]his Court has long recognized that 
+Congress intended to outlaw only unreasonable restraints” 
+(emphasis added)).  Instead, this Court presumptively ap­
+plies rule of reason analysis, under which antitrust plaintiffs 
+must demonstrate that a particular contract or combination 
+is in fact unreasonable and anticompetitive before it will be 
+found unlawful.  See, e. g., id., at 10–19.  Per se liability is 
+reserved for only those agreements that are “so plainly anti­
+competitive that no elaborate study of the industry is needed 
+to establish their illegality.”  National Soc. of Professional 
+Engineers v.  United States, 435 U. S. 679, 692 (1978).  Ac­
+cordingly, “we  have expressed  reluctance to adopt  per se 
+rules . . . ‘where the economic impact of certain practices is 
+not immediately obvious.’ ”  State Oil, supra, at 10 (quoting 
+FTC v. Indiana Federation of Dentists, 476 U. S. 447, 458– 
+459 (1986)). 
+Price-ﬁxing agreements between two or more competitors, 
+otherwise known as horizontal price-ﬁxing agreements, fall 
+into the category of arrangements that are per se unlawful. 
+See, e. g., Catalano, supra, at 647.  These cases do not pre­
+sent such an agreement, however, because Texaco and Shell 
+Oil did not compete with one another in the relevant mar­
+ket—namely, the sale of gasoline to service stations in the 
+western  United  States—but  instead  participated  in  that 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+6  TEXACO INC. v. DAGHER 
+Opinion of the Court 
+market jointly through their investments in Equilon.1  In 
+other words, the pricing policy challenged here amounts to 
+little  more  than  price  setting  by  a  single  entity—albeit 
+within  the  context  of  a  joint  venture—and  not  a  pricing 
+agreement  between  competing  entities  with  respect  to 
+their competing products.  Throughout Equilon’s existence, 
+Texaco and Shell Oil shared in the proﬁts of Equilon’s activi­
+ties in their role as investors, not competitors.  When “per­
+sons who would otherwise be competitors pool their capital 
+and share the risks of loss as well as the opportunities for 
+proﬁt . . . such joint ventures [are] regarded as a single ﬁrm 
+competing with other sellers in the market.”  Arizona v. 
+Maricopa County Medical Soc., 457 U. S. 332, 356 (1982). 
+As such, though Equilon’s pricing policy may be price ﬁxing 
+in a literal sense, it is not price ﬁxing in the antitrust sense. 
+See Broadcast Music, Inc. v.  Columbia Broadcasting Sys­
+tem, Inc., 441 U. S. 1, 9 (1979) (“When two partners set the 
+price of their goods or services they are literally ‘price ﬁx­
+ing,’ but they are not per se in violation of the Sherman 
+Act”). 
+This conclusion is conﬁrmed by respondents’ apparent con­
+cession that there would be no per se liability had Equilon 
+simply chosen to sell its gasoline under a single brand.  See 
+Tr. of Oral Arg. 34.  We see no reason to treat Equilon dif­
+ferently just because it chose to sell gasoline under two dis­
+1 We presume for purposes of these cases that Equilon is a lawful joint 
+venture.  Its formation has been approved by federal and state regula­
+tors, and there is no contention here that it is a sham.  As the court below 
+noted: “There is a voluminous record documenting the economic justiﬁca­
+tions for creating the joint ventures.  [T]he defendants concluded that 
+numerous synergies and cost efﬁciencies would result” by creating Equilon 
+as well as a parallel venture, Motiva Enterprises, in the eastern United 
+States, and “that nationwide there would be up to $800 million in cost 
+savings annually.”  369 F. 3d 1108, 1111 (CA9 2004).  Had respondents 
+challenged Equilon itself, they would have been required to show that its 
+creation was anticompetitive under the rule of reason.  See Copperweld 
+Corp. v. Independence Tube Corp., 467 U. S. 752, 768 (1984). 
+

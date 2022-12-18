@@ -1,0 +1,127 @@
+
+
+254  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+STEVENS, J., dissenting
+nary program had a reasonable prospect of persuading Lig-
+gett to forgo its maverick price reductions and return to par-
+allel pricing  policies, and  thus to restore the same  kind of
+supracompetitive pricing that had characterized the industry
+in the past.  When  the facts are viewed  in  the light most
+favorable to Liggett, I think it clear that there is sufficient
+evidence  in the record  that  the "reasonable  possibility"  of
+competitive injury required by the statute actually  existed.
+III
+After 115  days of trial, during which  it considered  2,884
+exhibits, 85 deposition excerpts, and testimony from 23 live
+witnesses, the jury deliberated  for nine  days and  then re-
+turned a verdict finding that B&W engaged in price discrimi-
+nation with  a  "reasonable  possibility  of injuring  competi-
+tion."  748 F. Supp.,  at 348, n. 4; n. 2, supra.  The  Court's
+contrary conclusion  rests on a hodgepodge  of legal, factual,
+and economic  propositions that are  insufficient, alone or to-
+gether, to overcome  the jury's assessment of the evidence.
+First, as a matter of law, the Court reminds  us  that the
+Robinson-Patman  Act  is  concerned  with consumer  welfare
+and competition, as opposed to protecting individual compet-
+itors from harm; "the antitrust laws were passed for the pro-
+tection  of competition,  not competitors."  See  ante, at 224
+(internal quotations marks and emphasis omitted).  For that
+reason, predatory  price  cutting  is not  unlawful unless  the
+predator has a reasonable prospect of recouping his invest-
+ment  from  supracompetitive  profits.  Ibid.  The  jury, of
+course, was so instructed, see n. 2, supra, and no one ques-
+tions that proposition here.
+As a matter of fact, the Court emphasizes  the growth in
+the generic segment following B&W's entry.  As the Court
+notes, generics'  expansion  to over  12%  of the total market
+by 1988 exceeds B&W's own forecast that the segment would
+grow to only about 10%, assuming no entry by B&W.  Ante,
+at 234.  What these figures do not do, however, is answer the
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+STEVENS, J., dissenting
+relevant  question: whether the prices  of generic cigarettes
+during the late 1980's were competitive or supracompetitive.
+On this point, there is ample, uncontradicted evidence that
+the list prices on generic cigarettes, as well as the prices on
+branded  cigarettes,  rose regularly  and significantly  during
+the late 1980's, in a fashion remarkably similar to the price
+change patterns that characterized the industry in the 1970's
+when supracompetitive, oligopolistic pricing admittedly pre-
+vailed.  See  supra, at 245;  ante, at 213.  Given its knowl-
+edge of the industry's history of parallel pricing, I think the
+jury plainly was entitled to draw an inference  that these in-
+creased prices were supracompetitive.
+The Court responds to this evidence dismissively, suggest-
+ing that list prices have no bearing on the question because
+promotional  activities  of the cigarette  manufacturers  may
+have  offset such  price  increases.  Ante, at 235-236.  That
+response is insufficient for three reasons.  First, the promo-
+tions  to  which  the  majority  refers  related  primarily  to
+branded cigarettes; accordingly, while they narrowed the dif-
+ferential between branded prices and black and white prices,
+they did not reduce the consumer price of black and whites.
+See 33 Tr. 208-210.  Second,  the Court's speculation  is in-
+consistent  with  record  evidence  that the  semiannual  list
+price  increases  were  not  offset  by  consumer  promotions.
+See n. 12, supra.  See also ante, at 218 ("at least some por-
+tion of the list price increase  was  reflected in a higher net
+price  to the consumer").  Finally, to the extent there is a
+dispute regarding the effect of promotional activities on con-
+sumer prices for generics, the jury presumably resolved that
+dispute in Liggett's favor, and the Court's contrary specula-
+tion is an  insufficient  basis for setting aside that verdict.5
+16I nf inding an absence  of actual supracompetitive  pricing, the Court
+also relies on the testimony of Liggett executives, who stated that indus-
+try prices were fair.  Illustrative is the following exchange:
+"Q I want to know-yes or no-sir, whether or not you say that the
+price you charged for branded cigarettes, which is the same price you say
+
+NEW PAGE
+
+256  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+STEVENS, J., dissenting
+As a matter of economics, the Court reminds us that price
+cutting is generally  procompetitive,  and  hence  a  "boon  to
+consumers."  Ante,  at  224.  This  is  true,  however,  only
+so  long  as  reduced  prices  do  not  fall  below  cost,  as  the
+cases cited by the majority make clear.16  When a predator
+deliberately engages in below-cost pricing targeted at a par-
+ticular  competitor  over  a  sustained  period  of time,  then
+price cutting raises a credible inference that harm to compe-
+everybody else charged, was a fair and equitable price for that product to
+the American consumer.
+"A It's what the  industry  set, and  based  on that  it's a  fair price."
+App. 396.
+The problem with this testimony, and testimony like it, is that it relates
+to the period before the price war, as well as after, see id., at 392, when
+there is no real dispute but that prices were supracompetitive.  ("[Tihe
+profits in the cigarette industry are the best of any industry I've been
+associated with, very much so."  Ibid.)  Some of the testimony cited by
+the Court, for instance, is that of an outside director who served only from
+1977 or 1978 until 1980, see 64 Tr. 51-56, cited ante, at 237; his belief in the
+competitiveness  of his industry must be viewed against the "[slubstantial
+evidence suggest[ing] that in recent decades, the industry reaped the ben-
+efits of prices above a competitive level" to which the majority itself refers,
+ante, at 213.
+The jury was, of course, entitled to discount the probative force of testi-
+mony from  executives  to the effect that there was no  collusion among
+tobacco manufacturers,  App. 397-398, and that they had appeared before
+a congressional  committee  to vouch for the competitive  nature of their
+industry, id., at 623-631.  The jury was also free to give greater weight
+to the documentary evidence presented, the inferences to be drawn there-
+from, and the testimony of experts who agreed with the textbook charac-
+terization of the industry.  See App. 640-645; R. Tennant, American Ciga-
+rette Industry 342 (1950).
+"II n Atlantic Richfield Co. v. USA Petroleum Co.,  495 U. S. 328,339-340
+(1990),  for example, we noted that low prices benefit consumers "so long
+as they are above predatory levels."  In Cargill,I nc. v. Monfort of Colo-
+rado, Inc., 479 U. S. 104, 118 (1986), we recognized that price cutting of a
+predatory nature is "inimical" to competition, and limited  our approving
+comments to pricing that is "above some measure of incremental costs."
+Id., at 117-118, and n. 12 (internal quotation marks omitted).
+

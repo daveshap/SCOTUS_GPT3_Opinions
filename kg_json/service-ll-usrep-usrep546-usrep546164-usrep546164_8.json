@@ -1,0 +1,28 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "546US1",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "546 U. S. 164 (2006)",
+      "involvedParties": [
+        "Stevens, J.",
+        "FTC v. Morton Salt Co.",
+        "Corn Products Co. v. Federal Trade Comm’n",
+        "Falls City Industries, Inc. v. Vanco Beverage, Inc.",
+        "Tampa Elec. Co. v.  Nashville Coal Co.",
+        "Reeder",
+        "Volvo Trucks North America, Inc.",
+        "Reeder-Simco GMC, Inc."
+      ],
+      "reasoning": "For decades, juries have routinely inferred the requisite injury to competition under the Robinson-Patman Act from the fact that a manufacturer sells goods to one retailer at a higher price than to its competitors. This rule dates back to the following discussion of competitive injury in Justice Black’s opinion for the Court in FTC v. Morton Salt Co., 334 U. S. 37 (1948)."
+    }
+  ]
+}

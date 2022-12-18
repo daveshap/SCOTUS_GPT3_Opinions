@@ -1,0 +1,123 @@
+
+
+Cite as: 540 U. S. 736 (2004)
+Opinion of the Court
+trict Court  dismissed  the antitrust  claims,  concluding  that
+the  Postal Service  is not subject  to liability  under federal
+antitrust law.  The Court of Appeals reversed.  It held that
+the Postal Service can be liable but that it has a limited im-
+munity from antitrust liability for conduct undertaken at the
+command  of Congress.  302 F. 3d 985, 993 (CA9 2002).  We
+granted  certiorari  to  consider  the  question  whether  the
+United  States  Postal  Service  is  a  "person"  amenable  to
+suit under the controlling antitrust  statute.  538 U. S.  1056
+(2003).  We hold it is not subject to antitrust liability, and
+we reverse.
+After the Revolution,  both the Articles  of Confederation
+and the Constitution explicitly empowered the National Gov-
+ernment to provide and regulate postal services.  Article of
+Confederation IX; U. S. Const., Art. I, § 8.  The importance
+of the  enterprise  was  prefigured  by  the Continental  Con-
+gress' appointment of Benjamin Franklin to be the first Post-
+master General, on July 26,  1775.  G. Cullinan, The United
+States Postal Service 26 (1973)  (hereinafter  Cullinan).
+From those beginnings, the Postal Service has become "the
+nation's  oldest  and  largest  public  business."  J. Tierney,
+Postal Reorganization:  Managing  the Public's  Business  vii
+(1981)  (hereinafter Tierney).
+During its history since  Postmaster Franklin,  the postal
+organization has been reorganized or restructured at various
+times.  In the immediate period after ratification of the Con-
+stitution, it was called the General Post Office and was sub-
+ordinate to the Treasury Department.  Cullinan 35-36.  In
+1825, its name changed from the General Post Office  to the
+Post Office Department, an alteration accomplished by some-
+what informal means when Postmaster Joseph McLean  sim-
+ply changed  the  title  on  official  letterhead.  McLean  also
+began  the practice  of reporting  directly  to  the  President
+rather than to the Secretary of the Treasury.  Id., at 50-51.
+(McLean  was  a popular  Postmaster  who served  from  1823
+until  1829,  when  the  incoming  President  Andrew Jackson
+
+NEW PAGE
+
+740  POSTAL SERVICE v. FLAMINGO  INDUSTRIES  (USA)  LTD.
+Opinion of the Court
+solved his worries about McLean's independence  in matters
+of  postal  governance,  especially  patronage,  by  appointing
+him to this Court.  Id., at 52.)  In  1829, President Jackson
+acknowledged  the enhanced  status of the Postmaster  Gen-
+eral by making him a member of the Cabinet, though it was
+not until  1872 that  Congress  formally  recognized  the  Post
+Office  Department as an executive  department  of the Fed-
+eral Government.  Id., at 36.  A more complete  account of
+the origins and mission of the postal system is set forth in
+Postal Service v.  Council of Greenburgh Civic Assns., 453
+U. S. 114,  120-126 (1981).
+Major change came with the Postal Reorganization  Act of
+1970  (PRA), 39 U. S. C. § 101  et seq.  It was  adopted to in-
+crease  the efficiency  of the Postal  Service  and  reduce  po-
+litical influences  on its operations.  Tierney  1-26;  Cullinan
+5-10.  The  PRA  renames  the  Post Office  Department  the
+United States Postal Service and removes it from the Cabi-
+net to make it "an independent establishment of the execu-
+tive branch  of the Government  of the  United  States."  39
+U. S. C. § 201.  Superintendence over the new Postal Service
+is the responsibility  of a Board  of Governors, consisting  of
+11  members.  § 202.  Nine governors are  appointed by the
+President with the advice and consent of the Senate and are
+removable only for cause.  Ibid.  The other two governors
+are the  Postmaster General,  who  also  serves  as  the  chief
+executive officer of the Postal Service, and who is appointed
+by the other nine, and the Deputy Postmaster General, who
+is appointed by the other nine together with the Postmaster
+General.  Ibid.
+The PRA creates a second independent establishment, the
+Postal  Rate  Commission,  to  make  recommendations  on
+postal rate changes.  § 3601.  The  Commission  advises the
+Board of Governors on rates for all postal services, including
+both letter carriage and parcel delivery.  § 3621.  Rates are
+set by the Board  of Governors  based  on the  recommenda-
+tions of the Commission, and those decisions are in certain
+
+NEW PAGE
+
+Cite as: 540 U. S. 736 (2004)
+Opinion of the Court
+circumstances  subject to judicial review.  §§ 3625, 3628.  In
+making  rate  recommendations  the  Commission  must  con-
+sider  factors  including making  each  class  of mail  bear  the
+costs attributable to it, and the effect of rate increases on the
+mail-using public and on  competitors in the parcel  delivery
+business.  § 3622(b).
+Under the PRA, the Postal Service retains  its monopoly
+over  the  carriage  of  letters,  and  the  power  to  authorize
+postal inspectors to search for, seize, and forfeit mail matter
+transported  in  violation  of the  monopoly.  See  §§601-606.
+It  also retains the obligation  to provide  universal service to
+all  parts of the  country.  §§ 101,  403.  The  Postal  Service
+has the power of eminent domain, the power to make postal
+regulations,  and  the  power  to  enter  international  postal
+agreements  subject  to  the  supervision  of the  Secretary  of
+State.  §§401,  407.  It has, in addition, powers to contract,
+to  acquire  property,  and  to settle  claims.  §401.  As  this
+brief summary  indicates, the Postal Service  has  significant
+governmental  powers,  consistent  with its status  as  an  in-
+dependent  establishment  of the  Executive Branch.  It  was
+exempted  from  many,  though  not  all,  statutes  governing
+federal agencies,  and specifically  subjected to some  others.
+§§ 409-410.  With respect to antitrust liability, however, the
+PRA neither exempts the Postal Service nor  subjects it to
+liability by express mention.  It is silent on the point.
+The PRA waives the immunity of the Postal Service from
+suit by giving it the power "to sue and be sued in its official
+name."  §401.  The  first  question  we  address  is  whether
+that waiver suffices  by its own terms to subject the Postal
+Service to liability under the Sherman  Act, ch. 647, 26 Stat.
+209, as amended, 15 U. S. C. § 1 et seq.  We begin with a dis-
+cussion of our precedents bearing on the inquiry.
+This  Court has held that when  Congress passes enabling
+legislation  allowing  an agency  or other  entity  of the Fed-
+eral  Government  to be  sued  the  waiver  should be given  a
+liberal-that  is  to  say,  expansive-construction.  Federal
+

@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "547US1",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "United States v. Loew’s Inc.,  371  U. S.",
+      "reasoning": "Application of the per se rule focuses on the probability of anticompetitive consequences.",
+      "citation": "United States v. Loew’s Inc.,  371  U. S.,  at  45–47"
+    },
+    {
+      "@id": "547US2",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "United States v. Loew’s Inc.,  371  U. S.",
+      "reasoning": "Any effort to enlarge the scope of the patent monopoly by using the market power it confers to restrain competition in the market for a second product will undermine competition on the merits in that second market.",
+      "citation": "United States v. Loew’s Inc.,  371  U. S.,  at  13–16"
+    },
+    {
+      "@id": "547US3",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "Jefferson Parish, 466 U. S.",
+      "reasoning": "Justice O’Connor questioned not only the propriety of treating any tying arrangement as a per se violation of the Sherman Act, but also the validity of the presumption that a patent always gives the patentee significant market power.",
+      "citation": "Jefferson Parish, 466 U. S., at 35, 37–38, n. 7"
+    },
+    {
+      "@id": "547US4",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "Motion Picture Patents Co. v. Universal Film Mfg. Co., 243 U. S. 502",
+      "reasoning": "The patent misuse doctrine had its origins in Motion Picture Patents Co. v. Universal Film Mfg. Co., which found no support in the patent laws for the proposition that a patentee may “prescribe by notice attached to a patented machine the conditions of its use and the supplies which must be used in the operation of it, under pain of infringement of the patent.”",
+      "citation": "Motion Picture Patents Co. v. Universal Film Mfg. Co., 243 U. S. 502, at 509"
+    },
+    {
+      "@id": "547US5",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "Morton Salt Co. v. G. S. Suppiger Co., 314 U. S. 488",
+      "reasoning": "The Court’s subsequent decisions creating a patent misuse defense to infringement claims when a patentee uses its patent “as the effective means of restraining competition with its sale of an unpatented article.”",
+      "citation": "Morton Salt Co. v. G. S. Suppiger Co., 314 U. S. 488, at 490"
+    },
+    {
+      "@id": "547US6",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "Carbice Corp. of America v. American Patents Development Corp., 283 U. S. 27",
+      "reasoning": "The Court’s patent misuse decisions assumed that, by tying the purchase of unpatented goods to the sale of the patented good, the patentee was “restraining competition” or “secur[ing] a limited monopoly of an unpatented material.”",
+      "citation": "Carbice Corp. of America v. American Patents Development Corp., 283 U. S. 27, at 31–32"
+    },
+    {
+      "@id": "547US7",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "International Salt Co. v. United States, 332 U. S. 392",
+      "reasoning": "The assumption that tying contracts “ten[d] . . . to accomplishment of monopoly” can be traced to the Government’s brief in International Salt, which relied heavily on our earlier patent misuse decision in Morton Salt.",
+      "citation": "International Salt Co. v. United States, 332 U. S. 392, at 396"
+    }
+  ]
+}

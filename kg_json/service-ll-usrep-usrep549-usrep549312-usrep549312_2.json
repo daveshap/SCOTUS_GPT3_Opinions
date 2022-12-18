@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "549 U. S. 312 (2007)",
+      "date": "03-28-1012:12:49",
+      "caseNumber": "549US2",
+      "involvedParties": ["Ross-Simmons", "Weyerhaeuser"],
+      "reasoning": "This antitrust case concerns the acquisition of red alder sawlogs by the mills that process those logs in the Pacific Northwest."
+    },
+    {
+      "@id": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "We hold that the test we applied to claims of predatory pricing in Brooke Group Ltd. v. Brown & Williamson Tobacco Corp. also applies to claims of predatory bidding."
+    },
+    {
+      "@id": "Confederated Tribes of Siletz Indians of Ore. v. Weyerhaeuser Co., 411 F. 3d 1030 (2005)",
+      "date": "2005",
+      "caseNumber": "411 F. 3d 1030",
+      "involvedParties": ["Confederated Tribes of Siletz Indians of Ore.", "Weyerhaeuser Co."],
+      "reasoning": "The Court of Appeals reasoned that 'buy-side predatory bidding' and 'sell-side predatory pricing,' though similar, are materially different in that predatory bidding does not necessarily benefit consumers or stimulate competition in the way that predatory pricing does."
+    }
+  ]
+}

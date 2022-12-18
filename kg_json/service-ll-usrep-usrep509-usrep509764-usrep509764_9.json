@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/name"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/HartfordFireInsCoVCalifornia",
+      "citation": "Hartford Fire Ins. Co. v. California",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "Hartford Fire Ins. Co.",
+        "California",
+        "Allstate",
+        "Aetna",
+        "CIGNA",
+        "ISO",
+        "South-Eastern Underwriters Court"
+      ],
+      "reasoning": "The four primary insurers solicited refusals to deal from outside the primary insurance industry as a means of forcing their fellow primary insurers to agree to their terms; the outsiders, acting at the behest of the four, in fact refused to deal with primary insurers until they capitulated, which, in part at least, they did."
+    },
+    {
+      "@id": "http://example.org/SouthEasternUnderwritersCourt",
+      "citation": "South-Eastern Underwriters Court",
+      "date": "1943",
+      "caseNumber": "O. T. 1943, No. 354",
+      "involvedParties": [
+        "South-Eastern Underwriters Court"
+      ],
+      "reasoning": "The defendants could have done so by prompting reinsurance companies to refuse to deal with nonmembers, just as is alleged here."
+    },
+    {
+      "@id": "http://example.org/Barry",
+      "citation": "Barry v. St. Paul Fire & Marine Ins. Co.",
+      "date": "1978",
+      "caseNumber": "438 U. S. 531",
+      "involvedParties": [
+        "St. Paul Fire & Marine Ins. Co.",
+        "Justice Stewart"
+      ],
+      "reasoning": "The § 3(b) exception should be limited to 'attempts by members of the insurance business to force other members to follow the industry's private rules and practices.'"
+    },
+    {
+      "@id": "http://example.org/McCarranFergusonAct",
+      "citation": "McCarran-Ferguson Act",
+      "date": "1945",
+      "caseNumber": "59 Stat. 33",
+      "involvedParties": [
+        "Congress",
+        "Edward L. Williams"
+      ],
+      "reasoning": "Congress intended to delegate regulatory power only to the States; nothing in the McCarran-Ferguson Act suggests that Congress wanted one insurer, or a group of insurers, to be able to formulate and enforce policy for other insurers."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInThisOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "551US2",
+      "@type": "cite",
+      "date": "09-20-1121:22:06",
+      "caseNumber": "551 U. S. 877 (2007)",
+      "parties": "Breyer, J., dissenting",
+      "reasoning": "I can ﬁnd no change in circumstances in the past several decades that helps the majority’s position."
+    },
+    {
+      "@id": "McGuireMillerTydingsActs",
+      "@type": "cite",
+      "date": "1975",
+      "caseNumber": "Consumer Goods Pricing Act of 1975, 89 Stat. 801",
+      "parties": "Department of Justice and the FTC",
+      "reasoning": "Congress consciously extended Dr. Miles’ per se rule."
+    },
+    {
+      "@id": "IppolitoStudy",
+      "@type": "cite",
+      "date": "1991",
+      "caseNumber": "34 J. Law & Econ. 263",
+      "parties": "Ippolito",
+      "reasoning": "This study equates the failure of plaintiffs to allege collusion with the absence of collusion."
+    },
+    {
+      "@id": "MarvelMcCaffertyStudy",
+      "@type": "cite",
+      "date": "1986",
+      "caseNumber": "94 J. Pol. Econ. 1074",
+      "parties": "Marvel & McCafferty",
+      "reasoning": "This study develops a theoretical model “under the assumption that [resale price maintenance] is efﬁciency-enhancing.”"
+    },
+    {
+      "@id": "OverstreetStudy",
+      "@type": "cite",
+      "date": "119-129",
+      "caseNumber": "Overstreet",
+      "parties": "Overstreet",
+      "reasoning": "Newer studies that show that resale price maintenance sometimes brings consumer beneﬁts."
+    }
+  ]
+}

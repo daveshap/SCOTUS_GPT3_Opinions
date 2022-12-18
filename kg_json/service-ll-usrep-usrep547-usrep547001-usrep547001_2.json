@@ -1,0 +1,83 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "TEXACO INC. v. DAGHER",
+  "datePublished": "2006-06-19",
+  "caseNumber": "547 U.S. 1",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Texaco Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "Shell Oil"
+    },
+    {
+      "@type": "Organization",
+      "name": "Equilon"
+    },
+    {
+      "@type": "Organization",
+      "name": "Federal Trade Commission"
+    },
+    {
+      "@type": "Organization",
+      "name": "State Attorneys General of California, Hawaii, Oregon, and Washington"
+    },
+    {
+      "@type": "Organization",
+      "name": "Respondents"
+    }
+  ],
+  "reasoningForIncludingInOpinion": [
+    {
+      "@type": "LegalCase",
+      "name": "Catalano, Inc. v. Target Sales, Inc.",
+      "datePublished": "1980-06-02",
+      "caseNumber": "446 U.S. 643"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "In re Shell Oil Co.",
+      "datePublished": "1998-07-01",
+      "caseNumber": "125 F.T.C. 769"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "State Oil Co. v. Khan",
+      "datePublished": "1997-06-23",
+      "caseNumber": "522 U.S. 3"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "National Soc. of Professional Engineers v. United States",
+      "datePublished": "1978-06-19",
+      "caseNumber": "435 U.S. 679"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "FTC v. Indiana Federation of Dentists",
+      "datePublished": "1986-06-23",
+      "caseNumber": "476 U.S. 447"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Arizona v. Maricopa County Medical Soc.",
+      "datePublished": "1982-06-21",
+      "caseNumber": "457 U.S. 332"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Broadcast Music, Inc. v. Columbia Broadcasting System, Inc.",
+      "datePublished": "1979-06-18",
+      "caseNumber": "441 U.S. 1"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Copperweld Corp. v. Independence Tube Corp.",
+      "datePublished": "1984-06-25",
+      "caseNumber": "467 U.S. 752"
+    }
+  ]
+}

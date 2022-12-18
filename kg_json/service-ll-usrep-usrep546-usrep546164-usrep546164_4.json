@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForIncludingInThisOpinion",
+    "damages": "http://schema.org/damagesAwarded"
+  },
+  "@graph": [
+    {
+      "@id": "546US1",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "546 U. S. 164 (2006)",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Robinson-Patman Act violation"
+    },
+    {
+      "@id": "546US2",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "374 F. 3d, at 708",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Reeder had to show it was a 'purchaser' within the meaning of the Act"
+    },
+    {
+      "@id": "546US3",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "374 F. 3d, at 709",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Reeder was more than an unsuccessful bidder"
+    },
+    {
+      "@id": "546US4",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "374 F. 3d, at 711-712",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Reeder had proved competitive injury from price discrimination"
+    },
+    {
+      "@id": "546US5",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "374 F. 3d, at 712-714",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Award of treble damages to Reeder"
+    },
+    {
+      "@id": "546US6",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "544 U. S. 903 (2005)",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Question of whether manufacturer can be held liable for secondary-line price discrimination"
+    },
+    {
+      "@id": "546US7",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "363 U. S. 536, 543",
+      "parties": ["FTC", "Anheuser-Busch, Inc."],
+      "reasoning": "Congress sought to target the perceived harm to competition occasioned by powerful buyers"
+    },
+    {
+      "@id": "546US8",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "14 H. Hovenkamp, Antitrust Law ¶ 2302, p. 11",
+      "parties": ["Hovenkamp", "Areeda & Kaplow"],
+      "reasoning": "Congress responded to the advent of large chainstores"
+    },
+    {
+      "@id": "546US9",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "App. 480-486",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Jury found that there was a reasonable possibility that discriminatory pricing may have harmed competition between Reeder and other Volvo truck dealers",
+      "damages": "$1.3 million"
+    },
+    {
+      "@id": "546US10",
+      "@type": "cite",
+      "date": "08-22-0815:43:12",
+      "caseNumber": "Id., at 486",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "Jury also awarded Reeder damages of $513,750 on Reeder’s state-law claim under the Arkansas Franchise Practices Act"
+    }
+  ]
+}

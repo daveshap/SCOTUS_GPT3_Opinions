@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "551US2",
+      "@type": "cite",
+      "date": "09-20-1121:22:06",
+      "caseNumber": "U74",
+      "parties": "Dr. Miles",
+      "reasoning": "Justify a per se rule"
+    },
+    {
+      "@id": "BusinessElectronics",
+      "@type": "cite",
+      "date": "485U.S.",
+      "caseNumber": "726",
+      "parties": "Economists as Amici Curiae",
+      "reasoning": "Examine economic effects of vertical agreements"
+    },
+    {
+      "@id": "BriefForUnitedStates",
+      "@type": "cite",
+      "date": "BriefForUnitedStates",
+      "caseNumber": "9",
+      "parties": "United States as Amicus Curiae",
+      "reasoning": "Consensus that permitting a manufacturer to control the price at which its goods are sold may promote interbrand competition and consumer welfare"
+    },
+    {
+      "@id": "ABA",
+      "@type": "cite",
+      "date": "2006",
+      "caseNumber": "76",
+      "parties": "ABA Section of Antitrust Law",
+      "reasoning": "Bulk of economic literature suggests that resale price maintenance is more likely to be used to enhance efficiency than for anticompetitive purposes"
+    },
+    {
+      "@id": "Hovenkamp",
+      "@type": "cite",
+      "date": "2005",
+      "caseNumber": "184-191",
+      "parties": "H. Hovenkamp",
+      "reasoning": "The Antitrust Enterprise: Principle and Execution"
+    },
+    {
+      "@id": "Bork",
+      "@type": "cite",
+      "date": "1978",
+      "caseNumber": "288-291",
+      "parties": "R. Bork",
+      "reasoning": "The Antitrust Paradox"
+    },
+    {
+      "@id": "SchererAndRoss",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "558",
+      "parties": "F. Scherer & D. Ross",
+      "reasoning": "Industrial Market Structure and Economic Performance"
+    },
+    {
+      "@id": "Overstreet",
+      "@type": "cite",
+      "date": "1983",
+      "caseNumber": "170",
+      "parties": "Bureau of Economics Staff Report to the FTC",
+      "reasoning": "Efficient uses of resale price maintenance are evidently not unusual or rare"
+    },
+    {
+      "@id": "Ippolito",
+      "@type": "cite",
+      "date": "1991",
+      "caseNumber": "263, 292-293",
+      "parties": "R. Ippolito",
+      "reasoning": "Resale Price Maintenance: Empirical Evidence From Litigation"
+    },
+    {
+      "@id": "GTE",
+      "@type": "cite",
+      "date": "433U.S.",
+      "caseNumber": "54-57",
+      "parties": "GTE Sylvania",
+      "reasoning": "Justifications for vertical price restraints are similar to those for other vertical restraints"
+    },
+    {
+      "@id": "Khan",
+      "@type": "cite",
+      "date": "522U.S.",
+      "caseNumber": "15",
+      "parties": "Khan",
+      "reasoning": "Primary purpose of the antitrust laws is to protect interbrand competition"
+    },
+    {
+      "@id": "Posner",
+      "@type": "cite",
+      "date": "2001",
+      "caseNumber": "172-173",
+      "parties": "R. Posner",
+      "reasoning": "Antitrust Law"
+    },
+    {
+      "@id": "MarvelAndMcCafferty",
+      "@type": "cite",
+      "date": "1984",
+      "caseNumber": "346, 347-349",
+      "parties": "Marvel & McCafferty",
+      "reasoning": "Resale Price Maintenance and Quality Certification"
+    }
+  ]
+}

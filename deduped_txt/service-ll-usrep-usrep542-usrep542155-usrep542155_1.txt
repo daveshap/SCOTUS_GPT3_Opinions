@@ -1,0 +1,132 @@
+OCTOBER TERM, 203 15 
+Sylabus 
+F. HOFMAN-LA ROCHE LTD ET AL. v. EMPAGRAN 
+S. A. ET AL. 
+CERTIORARI TO THE UNITED STATES COURT OF APEALS FOR
+CERTIORARI TO THE UNITED STATES COURT OF APEALS FOR 
+THE DISTRICT OF COLUMBIA CIRCUIT 
+No. 03-724. Argued April 26, 204—-Decided June 14, 204 
+The Foreign Trade Antititrust Improvements Act of 1982 (FTAIA or Act) 
+provides that the Sherman Act "shal not aply to conduct involving 
+trade or comerce . . with foreign nations," 15 U. S. C. § 6 a, but creates 
+exceptions for conduct that significantly harms imports, domestic com-
+merce, or American exporters. In this case, vitamin purchasers filed a 
+clas action aleging that vitamin manufacturers and distributors had 
+engaged in a p rice-fixing conspiracy, raising vitamin prices in the United 
+States and foreign countries, in violation of the Sherman Act. As rele-
+vant here, defendants (petitioners) moved to dismis the suit as to the 
+foreign purchasers (respondents), foreign companies located abroad, 
+who had purchased vitamins only outside United States comerce. In 
+dismising respondents' claims, the District Court aplied the FTAIA 
+and found none of its exceptions aplicable. The Court of Apeals re-
+versed, concluding that the FTAIA's exclusionary rule aplied, but so 
+did its exception for conduct that has a " direct, substantial and reason-
+ably foreseable efect", on domestic comerce that "gives rise to a 
+[(Sherman Act] claim," §6a(1)(A), (2). Asuming that the foreign ef-
+fect, i. e., higher foreign prices, was independent of the domestic efect, 
+i. e., higher domestic prices, the icourt nonetheles concluded that the 
+Act's text, legislative history, and policy goal of detering harmful 
+price-fixing activity made the lack of conection betwen the two ef-
+fects inconsequentitial. 
+Held: Where the price-fixing conduct significantly and adversely afects 
+both customers outside and within the United States, but the adverse 
+foreign efect is ind ependent of any adverse domestic efect, the FTAIA 
+exception does not aply, and thus, neither does the Sherman Act, to a 
+claim based solely on the foreign efect. Pp. 161-175. 
+(a) Respondents' threshold argument that the transactions fal out-
+side the FTAIA because its general exclusionary rule aplies only to 
+conduct involving exports is rejected. The House Judiciary Comitite 
+changed the bil's original language from "export trade or export com-
+merce," H. R. 5235, to "trade or comerce (other than import trade or 
+import comerce)" deliberately to include comerce that did not in-
+volve American exports but was wholy foreign. Pp. 162-163. 
+
+NEW PAGE
+
+156 F. HOFMAN-LA ROCHE LTD v. EMPAGRAN S. A. 
+Sylabus 
+(b) The FTAIA exception does not aply here for two reasons. Firsts,t ,
+this Court ordinarily construes ambiguous statutes to avoid unreason-
+able interference with other nations' sovereign authority. This rule of 
+construction reflects customary international law principles and cau-
+tions courts to asume that legislators take acount of other nations' 
+legitimimate sovereign interests when writing American laws. It thereby 
+helps the potentialy conflicting laws of diferent nations work together 
+in harmony. While aplying Amereircica's antitrust laws to foreign con-
+duct can interfere with a foreign nation's ability to regulate its own 
+comerecrcial afairs, courts have long held such aplication nonetheles 
+reasonable, and hence consistent with prescriptive comity principles, in-
+sofar as the laws reflect a l egislative efort to redres domestic antitrust 
+injury caused by foreign anticompetitive conduct. Howevever, it is not 
+reasonable to aply Amererican laws to foreign conduct insofar as that 
+conduct causes independent foreign harm that alone gives rise to a 
+plaintif's claim. The risk of interference is the same, but the justifica-
+tion for the interference sems insubstantial. While some of the anti-
+competititive conduct aleged here tok place in Amereirica, the higher for-
+eign prices are not the consequence of any domestic anticompetitive 
+conduct sought to be forbiden by Congres, which rather wanted to 
+release domestic (and foreign) anticompetitive conduct from Sherman 
+Act constraint when that conduct causes foreign harm. Contrary to 
+respondents' claim, the comity concerns remain real as other nations 
+have not in al areas adopted antitrust laws similar to this country's 
+and, in any event, disagre dramaticaly about apropriate remedies. 
+Respondents' alternative argument that case-by-case comity analysis is 
+preferable to an acros the board exclusion of foreign injury cases is to 
+complex to prove workable. Second, the FTAIA's language and hist6óry 
+sugest that Congres designed the Act to clarify, perhaps to limit, but 
+not to expand, the Sherman Act's scope as aplied to foreign comerce. 
+There is no significant indication that at the time Congres wrote the 
+FTAIA courts would have thought the Sherman Act aplicable in these 
+circumstances, nor do the six cases on which respondents rely warant 
+a d iferent conclusion. Pp. 163-173. 
+(c) Respondents' aditional linguistic arguments might show a n atural 
+reading of the statute, but the comity and history considerations pre-
+viously discused make clear that respondents' reading is not consistent 
+with the FTAIA's basic intent. Their deterence-based policy argu-
+ment is also unavailing in light of the contrary arguments by the anti-
+trust enforcement agencies. Pp. 173-175. 
+(d) On remand, the Court of Apeals may consider whether respond-
+ents properly preserved their alternative argument that the foreign 
+
+NEW PAGE
+
+Cite as: 542 U. S. 15 (204) 157 
+Sylabus 
+injury here was not in fact independent of the domestic efects; and, if 
+so, it may consider and decide the related claim. P. 175. 
+315 F. 3d 38, vacated and remanded. 
+BREYER, J., delivered the opinion of the Court, in which REHNQUISIST, 
+C. J., and STEVENS, KENEDY, SOUTER, and GINSBURG, J., joined. 
+SCALIA, J., filed an opinion concuring in the judgment, in which THOMAS, 
+J., joined, post, p. 176. O'CONOR, J., tok no part in the consideration or 
+decision of the case. 
+Stephen M. Shapiro argued the cause for petitioners. 
+With him on the briefs were Arthur F. Golden, Tyrone C. 
+Fahnenre,r ,A Andrew S. Maraorvoivtiztz, Jefrey W. Sarles, Lawrence 
+Portnoy, , Charles S. Dugan, , John M. Majaojorarsa,s , Daniel H. 
+Brombererg, Keneth Prince, , Lawrence Byrne, Bruce L. 
+Montgomerery, D. Stuart Meiklejohn, Michael L. Dengere,r , Mi-
+guel A. Estrada,a ,L aurence T. Sorkin, Roy L. Regozin, Don-
+ald I. Baker, Donald C. Klawitieter,r , Peter E. Hale, James R. 
+Weiesis, Jim J. Shoemake, Thomas M. Mueuleleler, Michael 0. 
+Ware, Ailen Meyer, Suton Keany, Keneth W. Star,r ,
+Moses Silverman, Aidan Synot, Mark Riera, Kevin R. 
+Sulivan, Peter M. Todaro, Wiliam J Kolasky, and Ed-
+ward DuMonotn.t. 
+Asistant Atorney General Pate argued the cause for the 
+United States as amicus curiae urging reversal. With him 
+on the brief were Acting Solicitor General Knedldeler,r , Deputy 
+Asistant Atorney General Delrahim, ,L isa S. Blat, Robert 
+B. Nicholson, Steven J. Minintz, Wiliam H. Taft IV, and John 
+D. Graubebretr.t .
+. Thomas C. Goldstein argued the cause for respondents. 
+With him on the brief were Amy Howe, Michael H. Gotes-
+man, Michael D. Hausfsefeld, Paul T. Galaghehre,r , and Brian 
+A. Ratner.* 
+*Briefs of amici curiae urging reversal were filed for the Government
+*Briefs of amici curiae urging reversal were filed for the Government 
+of Canada by Homer E:. Moyeyrer, Jr., Michael T. Brady, and Alan LI. Horo-
+witz; for the Government of the Federal Republic of Germany et al. by 
+David C. Frederircick; f for the Government of the United Kingdom of Great 
+Britain and Northern Ireland et al. by Ernest Gelhorn and An 
+

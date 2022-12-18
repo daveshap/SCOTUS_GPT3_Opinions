@@ -1,0 +1,91 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion",
+    "court": "http://schema.org/court"
+  },
+  "@graph": [
+    {
+      "@id": "549US2",
+      "@type": "cite",
+      "date": "03-28-1012:12:49",
+      "caseNumber": "549 U. S. 312 (2007)",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@id": "Salop",
+      "@type": "cite",
+      "date": "2005",
+      "caseNumber": "72 Antitrust L. J. 669",
+      "reasoning": "describes anticompetitive overbuying by power buyers",
+      "court": "Antitrust Law Journal"
+    },
+    {
+      "@id": "Kirkwood",
+      "@type": "cite",
+      "date": "unknown",
+      "caseNumber": "653",
+      "reasoning": "describes monopsony as the mirror image of monopoly",
+      "court": "unknown"
+    },
+    {
+      "@id": "Khan",
+      "@type": "cite",
+      "date": "1996",
+      "caseNumber": "93 F. 3d 1358",
+      "reasoning": "analytically the same as monopoly or cartel pricing",
+      "court": "Seventh Circuit Court of Appeals"
+    },
+    {
+      "@id": "Vogel",
+      "@type": "cite",
+      "date": "1984",
+      "caseNumber": "744 F. 2d 598",
+      "reasoning": "monopoly and monopsony are symmetrical distortions of competition from an economic standpoint",
+      "court": "Seventh Circuit Court of Appeals"
+    },
+    {
+      "@id": "Hovenkamp",
+      "@type": "cite",
+      "date": "2006",
+      "caseNumber": "2 Competition Policy Int’l, No. 1",
+      "reasoning": "analytically similar between monopoly and monopsony",
+      "court": "Competition Policy International"
+    },
+    {
+      "@id": "Noll",
+      "@type": "cite",
+      "date": "2005",
+      "caseNumber": "72 Antitrust L. J. 589",
+      "reasoning": "asymmetric treatment of monopoly and monopsony has no basis in economic analysis",
+      "court": "Antitrust Law Journal"
+    },
+    {
+      "@id": "BrookeGroup",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "reasoning": "predatory pricing schemes are rarely tried, and even more rarely successful",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@id": "Matsushita",
+      "@type": "cite",
+      "date": "1986",
+      "caseNumber": "475 U. S. 574",
+      "reasoning": "predatory pricing requires a firm to suffer certain losses in the short term on the chance of reaping supracompetitive profits in the future",
+      "court": "Supreme Court of the United States"
+    },
+    {
+      "@id": "Cargill",
+      "@type": "cite",
+      "date": "1987",
+      "caseNumber": "479 U. S. 104",
+      "reasoning": "actions taken in a predatory-bidding scheme are often the very essence of competition",
+      "court": "Supreme Court of the United States"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  315 
+Opinion of the Court 
+business by bidding up the price of sawlogs to a level that 
+prevented Ross-Simmons from being proﬁtable.  A jury re­
+turned a verdict in favor of Ross-Simmons on its monopo­
+lization claim, and the Ninth Circuit afﬁrmed.  We granted 
+certiorari to decide whether the test we applied to claims of 
+predatory pricing in Brooke Group Ltd. v.  Brown & Wil­
+liamson Tobacco Corp., 509 U. S. 209 (1993), also applies to 
+claims of predatory bidding.  We hold that it does.  Accord­
+ingly, we vacate the judgment of the Court of Appeals. 
+I 
+This antitrust case concerns the acquisition of red alder 
+sawlogs by the mills that process those logs in the Paciﬁc 
+Northwest.  These hardwood-lumber mills usually acquire 
+logs in one of three ways.  Some logs are purchased on the 
+open bidding market.  Some come to the mill through stand­
+ing short- and long-term agreements with timberland own­
+ers.  And others are harvested from timberland owned by 
+the sawmills themselves.  The allegations relevant to our 
+decision in this case relate to the bidding market. 
+Ross-Simmons began operating a hardwood-lumber saw­
+mill in Longview, Washington, in 1962.  Weyerhaeuser en­
+tered the Northwestern hardwood-lumber market in 1980 by 
+acquiring an existing lumber company.  Weyerhaeuser grad­
+ually increased the scope of its hardwood-lumber operation, 
+and it now owns six hardwood sawmills in the region.  By 
+2001, Weyerhaeuser’s mills were acquiring approximately 65 
+percent of the alder logs available for sale in the region. 
+App. 754a, 341a. 
+From 1990 to 2000, Weyerhaeuser made more than $75 
+million in capital investments in its hardwood mills in the 
+Paciﬁc Northwest.  Id., at 159a.  During this period, pro­
+duction increased at every Northwestern hardwood mill that 
+Weyerhaeuser owned.  Id., at 160a.  In addition to increas­
+ing  production,  Weyerhaeuser  used  “state-of-the-art  tech­
+nology,” id., at 500a, including sawing equipment, to increase 
+the amount of lumber recovered from every log, id., at 500a, 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+316  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+549a.  By contrast, Ross-Simmons appears to have engaged 
+in little efﬁciency-enhancing investment.  See id., at 438a– 
+441a. 
+Logs represent up to 75 percent of a sawmill’s total costs. 
+See id., at 169a.  And from 1998 to 2001, the price of alder 
+sawlogs increased while prices for ﬁnished hardwood lumber 
+fell.  These divergent trends in input and output prices cut 
+into the mills’ proﬁt margins, and Ross-Simmons suffered 
+heavy losses during this time.  See id., at 155a (showing a 
+negative net income from 1998 to 2000).  Saddled with sev­
+eral million dollars in debt, Ross-Simmons shut down its mill 
+completely in May 2001.  Id., at 156a. 
+Ross-Simmons blamed Weyerhaeuser for driving it out of 
+business by bidding up input costs, and it ﬁled an antitrust 
+suit against Weyerhaeuser for monopolization and attempted 
+monopolization under § 2 of the Sherman Act.  See 26 Stat. 
+209, as amended, 15 U. S. C. § 2 (2000 ed., Supp. IV).  Ross-
+Simmons  alleged  that,  among  other  anticompetitive  acts, 
+Weyerhaeuser had used “its dominant position in the alder 
+sawlog market to drive up the prices for alder sawlogs to 
+levels that severely reduced or eliminated the proﬁt margins 
+of Weyerhaeuser’s alder sawmill competition.”  App. 135a. 
+Proceeding  in  part  on  this  “predatory-bidding”  theory, 
+Ross-Simmons argued that Weyerhaeuser had overpaid for 
+alder sawlogs to cause sawlog prices to rise to artiﬁcially 
+high levels as part of a plan to drive Ross-Simmons out of 
+business.  As proof that this practice had occurred, Ross-
+Simmons pointed to Weyerhaeuser’s large share of the alder 
+purchasing market, rising alder sawlog prices during the al­
+leged predation period, and Weyerhaeuser’s declining proﬁts 
+during that same period. 
+Prior to  trial, Weyerhaeuser  moved for summary  judg­
+ment on Ross-Simmons’ predatory-bidding theory.  Id., at 
+6a–24a.  The District Court denied the motion.  Id., at 58a– 
+69a.  At the close of the 9-day trial, Weyerhaeuser moved 
+for judgment as a matter of law, or alternatively, for a new 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  317 
+Opinion of the Court 
+trial.  The motions were based in part on Weyerhaeuser’s 
+argument that Ross-Simmons had not satisﬁed the standard 
+this Court set forth in Brooke Group, supra.  App. 940a– 
+942a.  The  District  Court  denied  Weyerhaeuser’s  motion. 
+Id., at 720a, App. to Pet. for Cert. 46a.  The District Court 
+also rejected proposed predatory-bidding jury instructions 
+that incorporated elements of the Brooke Group test.  App. 
+725a–730a, 978a.  Ultimately, the District Court instructed 
+the jury that Ross-Simmons could prove that Weyerhaeus­
+er’s bidding practices were anticompetitive acts if the jury 
+concluded that Weyerhaeuser “purchased more logs than it 
+needed, or paid a higher price for logs than necessary, in 
+order  to  prevent  [Ross-Simmons]  from  obtaining  the  logs 
+they needed  at a  fair price.”  Id., at  978a.  Finding that 
+Ross-Simmons had proved its claim for monopolization, the 
+jury returned a $26 million verdict against Weyerhaeuser. 
+Id., at 967a.  The verdict was trebled to approximately $79 
+million. 
+Weyerhaeuser appealed to the Court of Appeals for the 
+Ninth  Circuit.  There,  Weyerhaeuser  argued  that  Brooke 
+Group’s standard for claims of predatory pricing should also 
+apply  to  claims  of  predatory  bidding.  The  Ninth  Circuit 
+disagreed and afﬁrmed the verdict against Weyerhaeuser. 
+Confederated  Tribes  of  Siletz  Indians  of  Ore.  v.  Weyer­
+haeuser Co., 411 F. 3d 1030, 1035–1036 (2005). 
+The Court of Appeals reasoned that “buy-side predatory 
+bidding” and “sell-side predatory pricing,” though similar, 
+are materially different in that predatory bidding does not 
+necessarily beneﬁt consumers or stimulate competition in the 
+way that predatory pricing does.  Id., at 1037.  Concluding 
+that “the concerns that led the Brooke Group Court to estab­
+lish a high standard of liability in the predatory pricing con­
+text do not carry over to this predatory bidding context with 
+the  same  force,”  the  Court  of  Appeals  declined  to  apply 
+Brooke Group to Ross-Simmons’ claims of predatory bidding. 
+411 F. 3d, at 1038.  The Court of Appeals went on to con­
+

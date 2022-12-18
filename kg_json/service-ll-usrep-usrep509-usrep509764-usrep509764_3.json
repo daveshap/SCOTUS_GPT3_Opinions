@@ -1,0 +1,57 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/HartfordFireInsCoVCalifornia",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "Hartford Fire Insurance Company",
+        "Allstate Insurance Company",
+        "CIGNA Corporation",
+        "Aetna Casualty and Surety Company",
+        "Insurance Services Office, Inc.",
+        "19 States",
+        "Private Plaintiffs"
+      ],
+      "reasoning": "The two petitions before us stem from consolidated litigation comprising the complaints of 19 States and many private plaintiffs alleging that the defendants, members of the insurance industry, conspired in violation of § 1 of the Sherman Act to restrict the terms of coverage of commercial general liability (CGL) insurance available in the United States.",
+      "cite": "509 U. S. 764 (1993)"
+    },
+    {
+      "@id": "http://schema.org/McCarranFergusonAct",
+      "date": "1945",
+      "caseNumber": "59 Stat. 33",
+      "involvedParties": [
+        "Congress"
+      ],
+      "reasoning": "The defendants argued that their conduct was immunized from antitrust liability by the McCarran-Ferguson Act.",
+      "cite": "59 Stat. 33 (1945)"
+    },
+    {
+      "@id": "http://schema.org/ShermanAct",
+      "date": "1890",
+      "caseNumber": "26 Stat. 209",
+      "involvedParties": [
+        "Congress"
+      ],
+      "reasoning": "The defendants conspired in violation of § 1 of the Sherman Act to restrict the terms of coverage of commercial general liability (CGL) insurance available in the United States.",
+      "cite": "26 Stat. 209 (1890)"
+    },
+    {
+      "@id": "http://schema.org/InsuranceAntitrustLitigation",
+      "date": "1991",
+      "caseNumber": "938 F. 2d 919",
+      "involvedParties": [
+        "In re Insurance Antitrust Litigation"
+      ],
+      "reasoning": "Following the lower courts and the parties, we will treat the complaint filed by California as representative of the claims of Alabama, Arizona, California, Massachusetts, New York, West Virginia, and Wisconsin, and the complaint filed by Connecticut as representative of the claims of Alaska, Colorado, Connecticut, Louisiana, Maryland, Michigan, Minnesota, Montana, New Jersey, Ohio, Pennsylvania, and Washington.",
+      "cite": "938 F. 2d 919 (1991)"
+    }
+  ]
+}

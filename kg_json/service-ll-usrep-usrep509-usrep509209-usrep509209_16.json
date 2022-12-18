@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/BrookeGroupLtdvBrownWilliamsonTobaccoCorp",
+      "caseNumber": "509 U. S. 209 (1993)",
+      "date": "1993",
+      "involvedParties": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "reasoning": "The jury, of course, was so instructed, see n. 2, supra, and no one questions that proposition here."
+    },
+    {
+      "@id": "http://schema.org/RobinsonPatmanAct",
+      "caseNumber": "Robinson-Patman Act",
+      "date": "1936",
+      "involvedParties": "U.S. Congress",
+      "reasoning": "For that reason, predatory price cutting is not unlawful unless the predator has a reasonable prospect of recouping his investment from supracompetitive profits."
+    },
+    {
+      "@id": "http://schema.org/AtlanticRichfieldCo",
+      "caseNumber": "Atlantic Richfield Co. v. USA Petroleum Co.",
+      "date": "1990",
+      "involvedParties": "Atlantic Richfield Co. v. USA Petroleum Co.",
+      "reasoning": "In Atlantic Richfield Co. v. USA Petroleum Co., 495 U. S. 328,339-340 (1990), for example, we noted that low prices benefit consumers \"so long as they are above predatory levels.\""
+    },
+    {
+      "@id": "http://schema.org/CargillInc",
+      "caseNumber": "Cargill, Inc. v. Monfort of Colorado, Inc.",
+      "date": "1986",
+      "involvedParties": "Cargill, Inc. v. Monfort of Colorado, Inc.",
+      "reasoning": "In Cargill, Inc. v. Monfort of Colorado, Inc., 479 U. S. 104, 118 (1986), we recognized that price cutting of a predatory nature is \"inimical\" to competition, and limited our approving comments to pricing that is \"above some measure of incremental costs.\""
+    }
+  ]
+}

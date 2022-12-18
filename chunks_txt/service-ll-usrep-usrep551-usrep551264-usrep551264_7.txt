@@ -1,0 +1,126 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+282  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+courts will evaluate similar factual circumstances differently. 
+See Hovenkamp, Antitrust Violations in Securities Markets, 
+28 J. Corp. L. 607, 629 (2003) (“Once regulation of an industry 
+is entrusted to jury trials, the outcomes of antitrust proceed­
+ings will be inconsistent with one another . . . ”).  
+Now consider these factors together—the ﬁne securities­
+related lines separating the permissible from the impermissi­
+ble; the need for securities-related expertise (particularly to 
+determine whether an SEC rule is likely permanent); the 
+overlapping evidence from which reasonable but contradic­
+tory inferences may be drawn; and the risk of inconsistent 
+court results.  Together these factors mean there is no prac­
+tical way to conﬁne antitrust suits so that they challenge 
+only activity of the kind the investors seek to target, activity 
+that is presently unlawful and will likely remain unlawful 
+under the securities law.  Rather, these factors suggest that 
+antitrust courts are likely to make unusually serious mis­
+takes in this respect.  And the threat of antitrust mistakes, 
+i. e., results that stray outside the narrow bounds that plain­
+tiffs seek to set, means that underwriters must act in ways 
+that will avoid not simply conduct that the securities law 
+forbids (and will likely continue to forbid), but also a wide 
+range of joint conduct that the securities law permits or en­
+courages (but which they fear could lead to an antitrust law­
+suit and the risk of treble damages).  And therein lies the 
+problem. 
+This kind of problem exists to some degree in respect to 
+other antitrust lawsuits.  But here the factors we have men­
+tioned make mistakes unusually likely (a matter relevant to 
+Congress’ determination of which institution should regulate 
+a particular set of market activities).  And the role that joint 
+conduct plays in respect to the marketing of IPOs, along with 
+the important role IPOs themselves play in relation to the 
+effective  functioning  of  capital  markets,  means  that  the 
+securities-related costs of mistakes is unusually high.  It is 
+no wonder, then, that the SEC told the District Court (con­
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  283 
+Opinion of the Court 
+sistent with what the Government tells us here) that a “fail­
+ure to hold that the alleged conduct was immunized would 
+threaten to disrupt the full range of the Commission’s ability 
+to exercise its regulatory authority,” adding that it would 
+have a “chilling effect” on “lawful joint activities . . . of tre­
+mendous importance to the economy of the country.”  Brief 
+for SEC 39–40, App. D to Pet. for Cert. 157a. 
+We believe it fair to conclude that, where conduct at the 
+core of the marketing of new securities is at issue; where 
+securities regulators proceed with great care to distinguish 
+the encouraged and permissible from the forbidden; where 
+the  threat  of  antitrust  lawsuits,  through  error  and  disin­
+centive, could seriously alter underwriter conduct in unde­
+sirable ways, to allow an antitrust lawsuit would threaten 
+serious harm to the  efﬁcient functioning of the securities 
+markets. 
+Second, any enforcement-related need for an antitrust law­
+suit is unusually small.  For one thing, the SEC actively en­
+forces the rules and regulations that forbid the conduct in 
+question.  For another, as we have said, investors harmed 
+by underwriters’ unlawful practices may bring lawsuits and 
+obtain damages under the securities law.  See supra, at 276– 
+277.  Finally, the SEC is itself required to take account of 
+competitive considerations when it creates securities-related 
+policy and embodies it in rules and regulations.  And that 
+fact makes it somewhat less necessary to rely upon antitrust 
+actions to address anticompetitive behavior.  See 15 U. S. C. 
+§ 77b(b) (instructing the SEC to consider, “in addition to the 
+protection of investors, whether the action will promote efﬁ­
+ciency, competition, and capital formation”); § 78w(a)(2) (the 
+SEC “shall consider among other matters the impact any 
+such rule or regulation would have on competition”); Trinko, 
+540 U. S., at 412 (“[T]he additional beneﬁt to competition pro­
+vided by antitrust enforcement will tend to be small” where 
+other laws and regulatory structures are “designed to deter 
+and remedy anticompetitive harm”). 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+284  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+We also note that Congress, in an effort to weed out un­
+meritorious securities lawsuits, has recently tightened the 
+procedural requirements that plaintiffs must satisfy when 
+they ﬁle those suits.  To permit an antitrust lawsuit risks 
+circumventing these requirements by permitting plaintiffs to 
+dress what is essentially a securities complaint in antitrust 
+clothing.  See  generally  Private  Securities  Litigation  Re­
+form Act of 1995, 109 Stat. 737; Securities Litigation Uniform 
+Standards Act of 1998, 112 Stat. 3227. 
+In sum, an antitrust action in this context is accompanied 
+by a substantial risk of injury to the securities markets and 
+by a diminished need for antitrust enforcement to address 
+anticompetitive conduct.  Together these considerations in­
+dicate a serious conﬂict between, on the one hand, application 
+of the antitrust laws and, on the other, proper enforcement 
+of the securities law. 
+We are aware that the Solicitor General, while recognizing 
+the conﬂict, suggests a procedural device that he believes 
+will avoid it (in effect, a compromise between the differing 
+positions that the SEC and Antitrust Division of the Depart­
+ment of Justice took in the courts below).  Compare Brief 
+for Dept. of Justice, Antitrust Division, as Amicus Curiae in 
+Case No. 01 CIV 2014, p. 23 (seeking no preclusion of the 
+antitrust laws), with Brief for SEC 39–40, App. D to Pet. 
+for Cert. 155a–157a (seeking total preclusion of the antitrust 
+laws).  He asks us to remand this case to the District Court 
+so that it can determine “whether respondents’ allegations 
+of prohibited conduct can, as a practical matter, be separated 
+from conduct that is permitted by the regulatory scheme,” 
+and in doing so, the lower court should decide whether SEC­
+permitted and SEC-prohibited conduct are “inextricably in­
+tertwined.”  See Brief for United States as Amicus Curiae 
+9, 26.  The Solicitor General fears that otherwise, we might 
+read the law as totally precluding application of the antitrust 
+law to underwriting syndicate behavior, even were under­
+writers, say, overtly to divide markets. 
+

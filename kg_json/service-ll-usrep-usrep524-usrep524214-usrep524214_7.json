@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "AmericanTelephone&TelegraphCo.v.CentralOfficeTelephoneInc.",
+      "caseNumber": "524 U. S. 214 (1998)",
+      "date": "1998",
+      "involvedParties": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "reasoning": "The jury found that petitioner acted intentionally and willfully in interfering with respondents business relations.",
+      "citation": "Stevens, J., dissenting"
+    },
+    {
+      "@id": "Keoghv.Chicago&NorthwesternR.Co.",
+      "caseNumber": "260 U. S. 156 (1922)",
+      "date": "1922",
+      "involvedParties": "Keogh v. Chicago & Northwestern R. Co.",
+      "reasoning": "The filed rate doctrine will pre-empt some tort claims.",
+      "citation": "Stevens, J., dissenting"
+    },
+    {
+      "@id": "Chicago&AltonR.Co.v.Kirby",
+      "caseNumber": "225 U. S. 155 (1912)",
+      "date": "1912",
+      "involvedParties": "Chicago & Alton R. Co. v. Kirby",
+      "reasoning": "The Court correctly states that the filed rate doctrine will pre-empt some tort claims.",
+      "citation": "Stevens, J., dissenting"
+    },
+    {
+      "@id": "Davisv.Cornwell",
+      "caseNumber": "264 U. S. 560 (1924)",
+      "date": "1924",
+      "involvedParties": "Davis v. Cornwell",
+      "reasoning": "The Court correctly states that the filed rate doctrine will pre-empt some tort claims.",
+      "citation": "Stevens, J., dissenting"
+    },
+    {
+      "@id": "Naderv.AlleghenyAirlinesInc.",
+      "caseNumber": "426 U. S. 290 (1976)",
+      "date": "1976",
+      "involvedParties": "Nader v. Allegheny Airlines, Inc.",
+      "reasoning": "A common-law tort action for fraudulent misrepresentation against a federally regulated air carrier could co-exist with the Federal Aviation Act.",
+      "citation": "Stevens, J., dissenting"
+    }
+  ]
+}

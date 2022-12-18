@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "551US2",
+      "date": "09-20-1121:22:06",
+      "caseNumber": "551US2",
+      "involvedParties": ["Leegin Creative Leather Products, Inc.", "PSKS, Inc."],
+      "reasoning": "The Dr. Miles rule is inconsistent with a principled framework, for it makes little economic sense when analyzed with the Court’s other vertical restraint cases.",
+      "opinion": "The Court has abandoned the rule of per se illegality for other vertical restraints a manufacturer imposes on its distributors. Respected economic analysts, furthermore, conclude that vertical price restraints can have procompetitive effects. We now hold that Dr. Miles should be overruled and that vertical price restraints are to be judged by the rule of reason."
+    },
+    {
+      "@id": "Dr. Miles Medical Co. v. John D. Park & Sons Co.",
+      "date": "220 U.S. 373 (1911)",
+      "caseNumber": "220 U.S. 373",
+      "involvedParties": ["Dr. Miles Medical Co.", "John D. Park & Sons Co."],
+      "reasoning": "The Court established the rule that it is per se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, for a manufacturer to agree with its distributor to set the minimum price the distributor can charge for the manufacturer’s goods.",
+      "opinion": "It is per se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, for a manufacturer to agree with its distributor to set the minimum price the distributor can charge for the manufacturer’s goods."
+    }
+  ]
+}

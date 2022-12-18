@@ -1,0 +1,127 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+898  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+for a vertical price restraint, there is a greater likelihood 
+that the restraint facilitates a retailer cartel or supports a 
+dominant, inefﬁcient retailer.  See Brief for William S. Com­
+anor et al. as Amici Curiae 7–8.  If, by contrast, a manufac­
+turer adopted the policy independent of retailer pressure, 
+the restraint is less likely to promote anticompetitive con­
+duct.  Cf. Posner 177 (“It makes all the difference whether 
+minimum retail prices are imposed by the manufacturer in 
+order to evoke point-of-sale services or by the dealers in 
+order to obtain monopoly proﬁts”).  A manufacturer also has 
+an incentive to protest inefﬁcient retailer-induced price re­
+straints because they can harm its competitive position. 
+As a ﬁnal matter, that a dominant manufacturer or retailer 
+can abuse resale price maintenance for anticompetitive pur­
+poses may not be a serious concern unless the relevant entity 
+has market power.  If a retailer lacks market power, manu­
+facturers likely can sell their goods through rival retailers. 
+See also Business Electronics, supra, at 727, n. 2 (noting 
+“[r]etail market power is rare, because of the usual presence 
+of  interbrand  competition  and  other  dealers”).  And  if  a 
+manufacturer lacks market power, there is less likelihood it 
+can use the practice to keep competitors away from distribu­
+tion outlets. 
+The rule of reason is designed and used to eliminate anti­
+competitive transactions from  the market.  This standard 
+principle applies to vertical price restraints.  A party alleg­
+ing injury from a vertical agreement setting minimum resale 
+prices will have, as a general matter, the information and 
+resources available to show the existence of the agreement 
+and its scope of operation.  As courts gain experience con­
+sidering the effects of these restraints by applying the rule 
+of reason over the course of decisions, they can establish the 
+litigation structure to ensure the rule operates to eliminate 
+anticompetitive restraints from the market and to provide 
+more guidance to businesses.  Courts can, for example, de­
+vise rules over time for offering proof, or even presumptions 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  899 
+Opinion of the Court 
+where justiﬁed, to make the rule of reason a fair and efﬁcient 
+way to prohibit anticompetitive restraints and to promote 
+procompetitive ones. 
+For all of the foregoing reasons, we think that were the 
+Court considering the issue as an original matter, the rule 
+of reason, not a per se rule of unlawfulness, would be the 
+appropriate standard to judge vertical price restraints. 
+IV 
+We do not write on a clean slate, for the decision in Dr. 
+Miles is almost a century old.  So there is an argument for 
+its retention on the basis of stare decisis alone.  Even if Dr. 
+Miles established an erroneous rule, “[s]tare decisis reﬂects 
+a policy judgment that in most matters it is more important 
+that the applicable rule of law be settled than that it be set­
+tled right.”  Khan, 522 U. S., at 20 (internal quotation marks 
+omitted).  And concerns about maintaining settled law are 
+strong when the question is one of statutory interpretation. 
+See, e. g., Hohn v. United States, 524 U. S. 236, 251 (1998). 
+Stare decisis is not as signiﬁcant in this case, however, 
+because the issue before us is the scope of the Sherman Act. 
+Khan, supra, at 20 (“[T]he general presumption that legisla­
+tive changes should be left to Congress has less force with 
+respect  to  the  Sherman  Act”).  From  the  beginning  the 
+Court has treated the Sherman Act as a common-law statute. 
+See  National  Soc.  of  Professional  Engineers  v.  United 
+States, 435 U. S. 679, 688 (1978); see also Northwest Airlines, 
+Inc. v. Transport Workers, 451 U. S. 77, 98, n. 42 (1981) (“In 
+antitrust, the federal courts . . . act more as common-law 
+courts than  in other  areas governed  by federal  statute”). 
+Just as the common law adapts to modern understanding and 
+greater experience, so too does the Sherman Act’s prohibi­
+tion on “restraint[s] of trade” evolve to meet the dynamics of 
+present economic conditions.  The case-by-case adjudication 
+contemplated by the rule of reason has implemented this 
+common-law approach.  See National Soc. of Professional 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+900  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+Engineers, supra, at 688.  Likewise, the boundaries of the 
+doctrine of per se illegality should not be immovable.  For 
+“[i]t would make no sense to create out of the single term 
+‘restraint  of  trade’  a  chronologically  schizoid  statute,  in 
+which a ‘rule of reason’ evolves with new circumstances and 
+new wisdom, but a line of per se illegality remains forever 
+ﬁxed where it was.”  Business Electronics, 485 U. S., at 732. 
+A 
+Stare decisis, we conclude, does not compel our continued 
+adherence to the per se rule against vertical price restraints. 
+As discussed earlier, respected authorities in the economics 
+literature suggest the per se rule is inappropriate, and there 
+is now widespread agreement that resale price maintenance 
+can have procompetitive effects.  See, e. g., Brief for Econo­
+mists as Amici Curiae 16.  It is also signiﬁcant that both 
+the Department of Justice and the Federal Trade Commis­
+sion—the antitrust enforcement agencies with the ability to 
+assess the long-term impacts of resale price maintenance— 
+have recommended that this Court replace the per se rule 
+with the traditional rule of reason.  See Brief for United 
+States as Amicus Curiae 6.  In the antitrust context the 
+fact that a decision has been “called into serious question” 
+justiﬁes our reevaluation of it.  Khan, supra, at 21. 
+Other  considerations  reinforce  the  conclusion  that  Dr. 
+Miles should be overturned.  Of most relevance, “we have 
+overruled our precedents when subsequent cases have un­
+dermined  their  doctrinal  underpinnings.”  Dickerson  v. 
+United States, 530 U. S. 428, 443 (2000).  The Court’s treat­
+ment of vertical restraints has progressed away from Dr. 
+Miles’ strict approach.  We have distanced ourselves from 
+the  opinion’s  rationales.  See  supra,  at  887–889;  see  also 
+Khan, supra, at 21 (overruling a case when “the views un­
+derlying [it had been] eroded by this Court’s precedent”); 
+Rodriguez de Quijas v.  Shearson/American Express, Inc., 
+490 U. S. 477, 480–481 (1989) (same).  This is unsurprising, 
+for the case was decided not long after enactment of the 
+

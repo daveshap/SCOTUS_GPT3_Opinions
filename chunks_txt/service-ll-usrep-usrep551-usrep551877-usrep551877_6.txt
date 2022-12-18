@@ -1,0 +1,127 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+892  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+be provided even absent free riding.  It may be difﬁcult and 
+inefﬁcient for a manufacturer to make and enforce a contract 
+with a retailer specifying the different services the retailer 
+must perform.  Offering the retailer a guaranteed margin 
+and threatening termination if it does not live up to expecta­
+tions may be the most efﬁcient way to expand the manufac­
+turer’s market share by inducing the retailer’s performance 
+and allowing it to use its own initiative and experience in 
+providing valuable services.  See Mathewson & Winter, The 
+Law and Economics of Resale Price Maintenance, 13 Rev. 
+Indus. Org. 57, 74–75 (1998) (hereinafter Mathewson & Win­
+ter); Klein & Murphy, Vertical Restraints as Contract En­
+forcement Mechanisms, 31 J. Law & Econ. 265, 295 (1988); 
+see also Deneckere, Marvel, & Peck, Demand Uncertainty, 
+Inventories, and Resale Price Maintenance, 111 Q. J. Econ. 
+885, 911 (1996) (noting that resale price maintenance may be 
+beneﬁcial to motivate retailers to stock adequate inventories 
+of a manufacturer’s goods in the face of uncertain consumer 
+demand). 
+B 
+While vertical agreements setting minimum resale prices 
+can have procompetitive justiﬁcations, they may have anti­
+competitive effects in other cases; and unlawful price ﬁxing, 
+designed solely to obtain monopoly proﬁts, is an ever-present 
+temptation.  Resale price maintenance may, for example, fa­
+cilitate  a  manufacturer  cartel.  See  Business  Electronics, 
+485 U. S., at 725.  An unlawful cartel will seek to discover 
+if  some  manufacturers  are  undercutting  the  cartel’s  ﬁxed 
+prices.  Resale price maintenance could assist the cartel in 
+identifying price-cutting manufacturers who beneﬁt from the 
+lower prices they offer.  Resale price maintenance, further­
+more, could discourage a manufacturer from cutting prices 
+to retailers with the concomitant beneﬁt of cheaper prices 
+to consumers.  See ibid.; see also Posner 172; Overstreet 
+19–23. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  893 
+Opinion of the Court 
+Vertical price restraints also “might be used to organize 
+cartels at the retailer level.”  Business Electronics, supra, 
+at 725–726.  A group of retailers might collude to ﬁx prices 
+to consumers and then compel a manufacturer to aid the un­
+lawful arrangement with resale price maintenance.  In that 
+instance the manufacturer does not establish the practice to 
+stimulate services or to promote its brand but to give inefﬁ­
+cient retailers higher proﬁts.  Retailers with better distri­
+bution  systems  and  lower  cost  structures  would  be  pre­
+vented from charging lower prices by the agreement.  See 
+Posner 172; Overstreet 13–19.  Historical examples suggest 
+this possibility is a legitimate concern.  See, e. g., Marvel & 
+McCafferty,  The  Welfare  Effects  of  Resale  Price  Mainte­
+nance, 28 J. Law & Econ. 363, 373 (1985) (hereinafter Marvel) 
+(providing an example of the power of the National Associa­
+tion of Retail Druggists to compel manufacturers to use re­
+sale price maintenance); Hovenkamp 186 (suggesting that the 
+retail druggists in Dr. Miles formed a cartel and used manu­
+facturers to enforce it). 
+A  horizontal  cartel  among  competing  manufacturers  or 
+competing retailers that decreases output or reduces compe­
+tition in order to increase price is, and ought to be, per se 
+unlawful.  See Texaco, 547 U. S., at 5; GTE Sylvania, 433 
+U. S., at 58, n. 28.  To the extent a vertical agreement set­
+ting  minimum  resale  prices  is  entered  upon  to  facilitate 
+either type of cartel, it, too, would need to be held unlawful 
+under the rule of reason.  This type of agreement may also 
+be useful evidence for a plaintiff attempting to prove the 
+existence of a horizontal cartel. 
+Resale price maintenance, furthermore, can be abused by 
+a powerful manufacturer or retailer.  A dominant retailer, 
+for example, might request resale price maintenance to fore­
+stall innovation in distribution that decreases costs.  A man­
+ufacturer might consider it has little choice but to accommo­
+date the retailer’s demands for vertical price restraints if 
+the manufacturer believes it needs access to the retailer’s 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+894  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+distribution network.  See Overstreet 31; 8 P. Areeda & H. 
+Hovenkamp,  Antitrust  Law  47  (2d  ed.  2004)  (hereinafter 
+Areeda & Hovenkamp); cf. Toys “R” Us, Inc. v.  FTC, 221 
+F. 3d 928, 937–938 (CA7 2000).  A manufacturer with market 
+power, by comparison, might use resale price maintenance to 
+give retailers an incentive not to sell the products of smaller 
+rivals  or  new  entrants.  See,  e. g.,  Marvel  366–368.  As 
+should be evident, the potential anticompetitive conse­
+quences of vertical price restraints must not be ignored or 
+underestimated. 
+C 
+Notwithstanding the risks of unlawful conduct, it cannot 
+be stated with any degree of conﬁdence that resale price 
+maintenance  “always  or  almost  always  tend[s]  to  restrict 
+competition  and  decrease  output.”  Business  Electronics, 
+supra, at 723 (internal quotation marks omitted).  Vertical 
+agreements  establishing  minimum  resale  prices  can  have 
+either procompetitive or anticompetitive effects, depending 
+upon the circumstances in which they are formed.  And al­
+though the empirical evidence on the topic is limited, it does 
+not suggest efﬁcient uses of the agreements are infrequent 
+or hypothetical.  See Overstreet 170; see also id., at 80 (not­
+ing that for the majority of enforcement actions brought by 
+the Federal Trade Commission between 1965 and 1982, “the 
+use of [resale price maintenance] was not likely motivated by 
+collusive dealers who had successfully coerced their suppli­
+ers”); Ippolito 292 (reaching a similar conclusion).  As the 
+rule  would  proscribe  a  signiﬁcant  amount  of  procompeti­
+tive conduct, these agreements appear ill suited for per se 
+condemnation. 
+Respondent contends, nonetheless, that vertical price re­
+straints should be per se unlawful because of the administra­
+tive convenience of per se rules.  See, e. g., GTE Sylvania, 
+supra, at 50, n. 16 (noting “per se rules tend to provide guid­
+ance to the business community and to minimize the burdens 
+on litigants and the judicial system”).  That argument sug­
+

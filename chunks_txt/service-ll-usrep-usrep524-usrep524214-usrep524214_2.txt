@@ -1,0 +1,124 @@
+
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+observe  certain  substantive  requirements  imposed by that
+law.  Section 203 of the Act requires that common carriers
+file "schedules" (also known as "tariffs") containing all their
+"charges" for interstate services and all "classifications, prac-
+tices,  and  regulations  affecting  such  charges."  §203(a).
+The Federal Communications  Commission  (FCC), which is
+the agency responsible for enforcing the Act, requires carri-
+ers to sell long-distance services to resellers such as respond-
+ent under the same rates, terms, and conditions as apply to
+other customers.
+Prior to  1989, petitioner  had  developed  a  type  of long-
+distance service known as Software Defined Network (SDN),
+designed to meet the needs of large companies with offices
+in multiple  locations.  SDN  established  a  "virtual  private
+network" that allowed  employees  in different  locations  to
+communicate  easily.  For example, an employee in Washing-
+ton  could  call  a  co-worker  in Denver  simply  by dialing a
+four-digit  extension.  SDN  customers,  in  exchange  for  a
+commitment to purchase large volumes of long-distance  com-
+munication time, received this service at a rate much below
+what it would otherwise cost.
+Several  changes  to  SDN  in  1989  made  the  service  ex-
+tremely attractive to resellers, such as respondent, who ag-
+gregate  smaller customers.  Petitioner developed the capa-
+bility to allow customers to use ordinary ("switched access")
+telephone lines to connect locations to their SDN networks.
+Previously, locations had to be connected  over special "dedi-
+cated access" lines, which  are direct lines from a location's
+telephone system to petitioner's long-distance  network, by-
+passing  the switches  of the local  exchange  carrier.  Dedi-
+cated access involves large fixed costs, so it is cost effective
+only  when  a location  originates  a  large  volume  of  calls.
+Switched access, in contrast, does not entail additional high
+fixed costs, so it is better suited to small users and hence to
+resellers.  Petitioner also instituted two pricing promotions
+for SDN in 1989:  additional discounts  from the basic SDN
+
+NEW PAGE
+
+218  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+rates for customers  making large usage and duration com-
+mitments, and waiver  of installation  charges  for customers
+making  multiyear  commitments  (subject  to  penalties  for
+early termination).  Petitioner also added a new billing op-
+tion.  In addition to network billing, whereby petitioner pre-
+pares a single bill that applies the tariffed rate to all usage at
+all locations, petitioner started to offer multilocation billing
+(MLB), which allows the SDN volume discounts to be appor-
+tioned between an SDN customer and individual locations on
+its network, with  the proportion being chosen  by the cus-
+tomer.  Under this option, petitioner sends bills directly to
+the customer's individual locations (which, in the case of re-
+sellers, means to the reseller's customers) but the customer
+(or reseller) remains responsible for all payments.  The tar-
+iff provides, however, that petitioner is not responsible for
+the  allocation  of  charges.  See  AT&T  Tariff FCC  No.  1,
+§ 6.2.4 (1986), App. to Brief for Petitioner 24a.
+Attracted  by these changes, in October 1989, respondent
+approached  petitioner  regarding  its  possible  purchase  of
+SDN.  LaDonna Kisor, a sales representative in petitioner's
+Portland, Oregon, office, described the service and gave re-
+spondent literature on SDN.  She predicted that petitioner
+could establish an initial SDN network for respondent in four
+to five months, and could thereafter add new locations within
+30 days of receiving an order.  Respondent subscribed to a
+tariffed switched-access  SDN plan under which the up-front
+installation charges would be waived and respondent would
+receive a  17% to 20% discount  off basic SDN rates in ex-
+change for a 4-year commitment to purchase two million min-
+utes of service annually.  Respondent  also requested MLB.
+Petitioner  confirmed  respondent's  order,  stating  that  re-
+spondent would obtain SDN  "'pursuant to the rates, terms
+and conditions in AT&T's [FCC Tariff No. 1],"  and that the
+provisions  of the tariff, "'including  limitations  on AT&T's
+liabilities, shall govern your and AT&T's obligations and lia-
+bilities  with  respect  to the  service  and  options you  have
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+selected."'  Brief for Petitioner  14.  Respondent  accepted
+these terms in writing on October 30, 1989.
+By February  1990, it had become apparent  that the de-
+mand for SDN exceeded  petitioner's  expectations-largely
+because of the switchless resellers attracted to the service.
+Petitioner could not fill the volumes of switched-access  or-
+ders  as  rapidly  as  dedicated  access  orders,  or  as  quickly
+as  petitioner's  personnel  had  predicted.  Accordingly,  Ms.
+Kisor notified respondent that it would take up to 90 days to
+add  new  locations  after  the initial  SDN  was  established.
+She suggested placing respondent's customers with another
+AT&T service, the Multilocation Calling Plan (MLCP), until
+they could be placed on SDN.  Respondent agreed to this,
+and ordered MLCP.  Again, respondent signed a letter con-
+firming that MLCP "'is  provided under the terms and condi-
+tions stated in AT&T's Tariff F. C. C. Nos. 1 and 2."'  Brief
+for Appellant in Nos. 94-36116, 94-36156 (CA9), p. 15.
+Ms. Kisor informed respondent that its initial SDN net-
+work was functioning in April 1990.  At that point, respond-
+ent elected to increase to a larger SDN volume commitment
+in order to  qualify for  a larger discount.  In  placing this
+order, respondent signed a form stating that the SDN serv-
+ice  "'WILL  BE  GOVERNED  BY  THE  RATES  AND
+TERMS  AND  CONDITIONS  IN  THE  APPROPRIATE
+AT&T TARIFFS."'  Brief for Petitioner 14-15.  Respond-
+ent then began reselling SDN to its own customers and plac-
+ing orders with petitioner that required petitioner to treat
+respondent's  customers  as if they were new locations  on a
+corporate SDN.
+Almost from the outset, respondent experienced problems
+with the network, including delays in provisioning (the filling
+of orders) and in billing.  An additional billing problem was
+especially damaging  to respondent:  respondent's customers
+received bills reflecting 100% of the discount instead of the
+50% respondent selected.  These problems continued, and in
+October 1990, they led respondent to switch to network bill-
+

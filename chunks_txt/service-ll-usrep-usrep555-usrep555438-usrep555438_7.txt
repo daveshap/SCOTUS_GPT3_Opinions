@@ -1,0 +1,135 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+456  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+Court of Appeals addressed only AT&T’s motion for judg­
+ment on the pleadings on the plaintiffs’ original complaint.4 
+For the reasons stated, we hold that the price-squeeze claims 
+set  forth  in  that  complaint  are  not  cognizable  under  the 
+Sherman Act. 
+Plaintiffs have also ﬁled an amended complaint, and the 
+District Court concluded that this complaint, generously con­
+strued,  could  be  read  as  alleging  conduct  that  met  the 
+Brooke Group requirements for predatory pricing.  App. to 
+Pet. for Cert. 47a–52a, 56a.  That order, however, applied 
+the “no set of facts” pleading standard that we have since 
+rejected as too lenient.  See Bell Atlantic Corp. v. Twombly, 
+550 U. S. 544, 561–563 (2007).  It is for the District Court on 
+remand to consider whether the amended complaint states a 
+claim upon which relief may be granted in light of the new 
+pleading standard we articulated in Twombly, whether plain­
+tiffs should be given leave to amend their complaint to bring 
+a claim under Brooke Group, and such other matters prop­
+erly before it.  Even if the amended complaint is further 
+amended to add a Brooke Group claim, it may not survive a 
+motion to dismiss.  For if AT&T can bankrupt the plaintiffs 
+by refusing to deal altogether, the plaintiffs must demon­
+strate why the law prevents AT&T from putting them out of 
+4 We note a procedural irregularity with this case: Normally, an amended 
+complaint  supersedes  the  original  complaint.  See  6  C.  Wright  &  A. 
+Miller, Federal Practice & Procedure §1476, pp. 556–557 (2d ed. 1990). 
+Here, the District Court addressed the amended complaint in its 2005 
+order, App. to Pet. for Cert. 36a–52a, but the court only certiﬁed its 2004 
+order—addressing the original complaint—for interlocutory appeal, id., 
+at 56a–57a.  Both parties, as well as the Solicitor General, have expressed 
+confusion about whether the amended complaint and the 2005 order are 
+properly before this Court.  See Brief for Petitioners 9, n. 6 (noting “some 
+ambiguity” about which order was certiﬁed); Brief for United States as 
+Amicus Curiae  17 (“[I]t is unclear  whether the 2005 Order  and the 
+amended complaint are properly at issue in this interlocutory appeal”); 
+Brief for Respondents 8–10.  The Court of Appeals majority did not ad­
+dress any of the District Court’s holdings from the 2005 order, so we de­
+cline to consider those issues at this time. 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  457 
+Breyer, J., concurring in judgment 
+business by pricing them out of the market.  Nevertheless, 
+such questions are for the District Court to decide in the 
+ﬁrst instance.  We do not address these issues here, as they 
+are outside the scope of the question presented and were not 
+addressed by the Court of Appeals in the decision below. 
+See Cutter v. Wilkinson, 544 U. S. 709, 718, n. 7 (2005) (“[W]e 
+are a court of review, not of ﬁrst view”). 
+* * * 
+Trinko holds that a defendant with no antitrust duty to 
+deal with its rivals has no duty to deal under the terms and 
+conditions preferred by those rivals.  540 U. S., at 409–410. 
+Brooke  Group  holds  that  low  prices  are  only  actionable 
+under the Sherman Act when the prices are below cost and 
+there is a dangerous probability that the predator will be 
+able to recoup the proﬁts it loses from the low prices.  509 
+U. S., at 222–224.  In this case, plaintiffs have not stated a 
+duty-to-deal claim under Trinko and have not stated a preda­
+tory pricing claim under Brooke Group.  They have none­
+theless tried to join a wholesale claim that cannot succeed 
+with a retail claim that cannot succeed, and alchemize them 
+into a new form of antitrust liability never before recognized 
+by this Court.  We decline the invitation to recognize such 
+claims.  Two wrong claims do not make one that is right. 
+The judgment of the Court of Appeals is reversed, and 
+the case is remanded for further proceedings consistent with 
+this opinion. 
+It is so ordered. 
+Justice Breyer, with whom Justice Stevens, Justice 
+Souter,  and  Justice  Ginsburg  join,  concurring  in  the 
+judgment. 
+I would accept respondents’ concession that the Ninth Cir­
+cuit majority’s “price squeeze” holding is wrong, I would va­
+cate the Circuit’s decision, and I would remand the case in 
+order to allow the District Court to determine whether re­
+spondents may proceed with their “predatory pricing” claim 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+458  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Breyer, J., concurring in judgment
+ 
+as set forth in Judge Gould’s dissenting Ninth Circuit opin­
+ion.  linkLine  Communications,  Inc.  v.  SBC  California, 
+Inc., 503 F. 3d 876, 887 (2007). 
+A “price squeeze” claim ﬁnds its natural home in a Sher­
+man Act § 2 monopolization case where the Government as 
+plaintiff seeks to show that a defendant’s monopoly power 
+rests, not upon “skill, foresight and industry,” United States 
+v. Aluminum Co. of America, 148 F. 2d 416, 430 (CA2 1945) 
+(Alcoa),  but  upon  exclusionary  conduct,  United  States  v. 
+Grinnell  Corp.,  384  U. S.  563,  576  (1966).  As  this  Court 
+pointed out in Verizon Communications Inc. v. Law Ofﬁces 
+of Curtis V. Trinko, LLP, 540 U. S. 398 (2004), the “ ‘means 
+of illicit exclusion, like the means of legitimate competition, 
+are myriad.’ ”  Id., at 414 (quoting United States v. Micro­
+soft Corp., 253 F. 3d 34, 58 (CADC 2001) (en banc) (per cu­
+riam)).  They may involve a “course of dealing” that, even 
+if proﬁtable, indicates a “willingness to forsake short-term 
+proﬁts to achieve an anticompetitive end.”  Trinko, supra, 
+at 409.  See, e. g., Aspen Skiing Co. v. Aspen Highlands Ski­
+ing Corp., 472 U. S. 585, 610–611 (1985); Complaint in United 
+States v. International Business Machines Corp., Civil Ac­
+tion No. 69 Civ. 200 (SDNY, ﬁled Jan. 17, 1969), ¶ 20(c), re­
+printed in F. Fisher, J. McGowan, & J. Greenwood, Folded, 
+Spindled,  and  Mutilated:  Economic  Analysis  and  U.  S.  v. 
+IBM, App.  357 (1983).  And,  as Judge  Hand wrote  many 
+years ago, a “price squeeze” may fall within that latter cate­
+gory.  Alcoa, supra, at 437–438.  As a matter of logic, it 
+may be that a particular price squeeze can only be exclusion­
+ary if a refusal by the monopolist to sell to the “squeezed 
+customer” would also be exclusionary.  But a court, faced 
+with a price squeeze rather than a refusal to deal, is unlikely 
+to ﬁnd the latter (hypothetical) question any easier to answer 
+than the former. 
+I would try neither to answer these hypothetical questions 
+here nor to foreshadow their answer.  We have before us a 
+regulated ﬁrm.  During the time covered by the complaint, 
+

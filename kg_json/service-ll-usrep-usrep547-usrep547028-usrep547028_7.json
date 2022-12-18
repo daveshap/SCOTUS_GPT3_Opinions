@@ -1,0 +1,27 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC.",
+    "datePublished": "03-16-0914:11:53",
+    "court": "Supreme Court of the United States",
+    "opinion": "Today, we reach the same conclusion, and therefore hold that, in all cases involving a tying arrangement, the plaintiff must prove that the defendant has market power in the tying product.",
+    "judgement": "The judgment of the Court of Appeals is vacated, and the case is remanded for further proceedings consistent with this opinion."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC.",
+    "datePublished": "03-16-0914:11:53",
+    "court": "Supreme Court of the United States",
+    "opinion": "When the case returns to the District Court, respondent should therefore be given a fair opportunity to develop and introduce evidence on that issue, as well as any other issues that are relevant to its remaining § 1 claims.",
+    "judgement": "The judgment of the Court of Appeals is vacated, and the case is remanded for further proceedings consistent with this opinion."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Justice Alito",
+    "role": "Justice",
+    "opinion": "Took no part in the consideration or decision of this case."
+  }
+]

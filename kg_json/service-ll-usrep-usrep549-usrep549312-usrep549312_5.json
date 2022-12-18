@@ -1,0 +1,44 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co.",
+    "datePublished": "2007-03-28",
+    "caseNumber": "549 U.S. 312",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Weyerhaeuser Co."
+      },
+      {
+        "@type": "Organization",
+        "name": "Ross-Simmons Hardwood Lumber Co."
+      }
+    ],
+    "opinion": {
+      "@type": "LegalOpinion",
+      "reasoning": "The general theoretical similarities of monopoly and monopsony combined with the theoretical and practical similarities of predatory pricing and predatory bidding convince us that our two-pronged Brooke Group test should apply to predatory-bidding claims.",
+      "precedent": [
+        {
+          "@type": "LegalCase",
+          "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+          "datePublished": "1993-06-07",
+          "caseNumber": "509 U.S. 209"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Salop, Steven C., Monopsony, Mergers, and Antitrust",
+          "datePublished": "1982-01-01",
+          "caseNumber": "6 Harvard Journal of Law & Public Policy 675"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Blair, Roger D., and Harrison, William T., Predatory Pricing: Strategic Theory and Legal Policy",
+          "datePublished": "1991-01-01",
+          "caseNumber": "63 Antitrust Law Journal 51"
+        }
+      ]
+    },
+    "outcome": "Vacated the judgment of the Court of Appeals and remanded the case for further proceedings consistent with this opinion."
+  }
+]

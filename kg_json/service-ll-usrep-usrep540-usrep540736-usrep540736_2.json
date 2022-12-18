@@ -1,0 +1,54 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:540_U_S_736_2004",
+      "cite": "540 U. S. 736 (2004)",
+      "date": "2004",
+      "caseNumber": "540 U. S. 736",
+      "involvedParties": [
+        "Postal Service",
+        "Flamingo Industries (USA) Ltd."
+      ],
+      "reasoning": "The United States Postal Service is not subject to antitrust liability."
+    },
+    {
+      "@id": "cite:Postal_Service_v_Council_of_Greenburgh_Civic_Assns_453_U_S_114_1981",
+      "cite": "Postal Service v. Council of Greenburgh Civic Assns., 453 U. S. 114 (1981)",
+      "date": "1981",
+      "caseNumber": "453 U. S. 114",
+      "involvedParties": [
+        "Postal Service",
+        "Council of Greenburgh Civic Assns."
+      ],
+      "reasoning": "Account of the origins and mission of the postal system."
+    },
+    {
+      "@id": "cite:Postal_Reorganization_Act_of_1970_39_U_S_C_101_et_seq",
+      "cite": "Postal Reorganization Act of 1970, 39 U. S. C. § 101 et seq.",
+      "date": "1970",
+      "caseNumber": "39 U. S. C. § 101 et seq.",
+      "involvedParties": [
+        "Postal Service",
+        "Postal Rate Commission"
+      ],
+      "reasoning": "Created to increase the efficiency of the Postal Service and reduce political influences on its operations."
+    },
+    {
+      "@id": "cite:Sherman_Act_ch_647_26_Stat_209_as_amended_15_U_S_C_1_et_seq",
+      "cite": "Sherman Act, ch. 647, 26 Stat. 209, as amended, 15 U. S. C. § 1 et seq.",
+      "date": "1890",
+      "caseNumber": "15 U. S. C. § 1 et seq.",
+      "involvedParties": [
+        "Postal Service"
+      ],
+      "reasoning": "The Postal Reorganization Act of 1970 does not exempt the Postal Service from liability under the Sherman Act."
+    }
+  ]
+}

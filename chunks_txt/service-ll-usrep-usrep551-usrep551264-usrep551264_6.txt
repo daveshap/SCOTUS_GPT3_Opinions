@@ -1,0 +1,125 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  279 
+Opinion of the Court 
+conﬂict, they add, there is no “repugnance” or “incompatibil­
+ity,” and this Court may not imply that securities law pre­
+cludes an antitrust suit. 
+B 
+We accept the premises of respondents’ argument—that 
+the SEC has full regulatory authority over these practices, 
+that it has actively exercised that authority, but that the 
+SEC has disapproved (and, for argument’s sake, we assume 
+that it will continue to disapprove) the conduct that the anti­
+trust complaints attack.  Nonetheless, we cannot accept re­
+spondents’ conclusion.  Rather, several considerations taken 
+together lead us to ﬁnd that, even on these prorespondent 
+assumptions,  securities  law  and  antitrust  law  are  clearly 
+incompatible. 
+First, to permit antitrust actions such as the present one 
+still  threatens  serious  securities-related  harm.  For  one 
+thing, an unusually serious legal line-drawing problem re­
+mains unabated.  In the present context only a ﬁne, com­
+plex, detailed line separates activity that the SEC permits 
+or encourages (for which respondents must concede antitrust 
+immunity) from activity that the SEC must (and inevitably 
+will) forbid (and which, on respondents’ theory, should be 
+open to antitrust attack). 
+For example, in respect to “laddering” the SEC forbids an 
+underwriter to “[s]olici[t] customers prior to the completion 
+of the distribution regarding whether and at what price and 
+in what quantity they intend to place immediate aftermarket 
+orders for IPO stock,” 70 Fed. Reg. 19675–19676 (emphasis 
+deleted); 17 CFR §§ 242.100–242.105.  But at the same time 
+the SEC permits, indeed encourages, underwriters (as part 
+of the “bookbuilding” process) to “inquir[e] as to a customer’s 
+desired future position in the longer term (for example, three 
+to six months), and the price or prices at which the customer 
+might accumulate that position without reference to immedi­
+ate aftermarket activity.”  70 Fed. Reg. 19676. 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+280  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+It will often be difﬁcult for someone who is not familiar 
+with accepted syndicate practices to determine with conﬁ­
+dence whether an underwriter has insisted that an investor 
+buy more shares in the immediate aftermarket (forbidden), 
+or has simply allocated more shares to an investor willing 
+to purchase additional shares of that issue in the long run 
+(permitted).  And  who  but  a  securities  expert  could  say 
+whether the present SEC rules set forth a virtually perma­
+nent line, unlikely to change in ways that would permit the 
+sorts of “laddering-like” conduct that it now seems to forbid? 
+Cf. Gordon, supra, at 690–691. 
+Similarly, in respect to “tying” and other efforts to obtain 
+an  increased  commission  from  future  sales,  the  SEC  has 
+sought to prohibit an underwriter “from demanding . . . an 
+offer from [its] customers of any payment or other consider­
+ation [such as the purchase of a different security] in addition 
+to the security’s stated consideration.”  69 Fed. Reg. 75785 
+(2004).  But the SEC would permit a ﬁrm to “allocat[e] IPO 
+shares to a customer because the customer has separately 
+retained the ﬁrm for other services, when the customer has 
+not paid excessive compensation in relation to those serv­
+ices.”  Ibid., and n. 108.  The National Association of Secu­
+rities Dealers (NASD), over which the SEC exercises super­
+visory authority, has also proposed a rule that would prohibit 
+a member underwriter from “offering or threatening to with­
+hold” IPO shares “as consideration or inducement for the 
+receipt of compensation that is excessive in relation to the 
+services provided.”  Id., at 77810.  The NASD would allow, 
+however, a customer legitimately to compete for IPO shares 
+by increasing the level and quantity of compensation it pays 
+to the underwriter.  See ibid. (describing NASD Proposed 
+Rule 2712(a)). 
+Under these standards, to distinguish what is forbidden 
+from what is allowed requires an understanding of just when, 
+in relation to services provided, a commission is “excessive,” 
+indeed, so “excessive” that it will remain permanently for­
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  281 
+Opinion of the Court 
+bidden, see Gordon, 422 U. S., at 690–691.  And who but the 
+SEC itself could do so with conﬁdence? 
+For another thing, evidence tending to show unlawful anti­
+trust activity and evidence tending to show lawful securities 
+marketing activity may overlap, or prove identical.  Con­
+sider, for instance, a conversation between an underwriter 
+and an investor about how long an investor intends to hold 
+the new shares (and at what price), say, a conversation that 
+elicits comments concerning both the investor’s short and 
+longer term plans.  That exchange might, as a plaintiff sees 
+it, provide evidence of an underwriter’s insistence upon “lad­
+dering”  or,  as  a  defendant  sees  it,  provide  evidence  of  a 
+lawful effort to allocate shares to those who will hold them 
+for a longer time.  See Brief for United States as Amicus 
+Curiae 27. 
+Similarly, the same somewhat ambiguous conversation 
+might help to establish an effort to collect an unlawfully high 
+commission  through  atypically  high  commissions  on  later 
+sales or through the sales of less popular stocks.  Or it might 
+prove  only  that  the  underwriter  allocates  more  popular 
+shares to investors who will help stabilize the aftermarket 
+share price.  See, e. g., Department of Enforcement v.  Re­
+spondent, Disciplinary Proc. No. CAF030014 (NASD Hear­
+ing Panel, Mar. 3, 2006), pp. 12–13 (redacted decision), called 
+for review, Complaint No. CAF030014 (NASD Nat. Adjudica­
+tory Council, Apr. 11, 2006). 
+Further, antitrust plaintiffs may bring lawsuits through­
+out the Nation in dozens of different courts with different 
+nonexpert judges and different nonexpert juries.  In light 
+of the nuanced nature of the evidentiary evaluations neces­
+sary to separate the permissible from the impermissible, it 
+will prove difﬁcult for those many different courts to reach 
+consistent  results.  And,  given  the  fact-related  nature  of 
+many such evaluations, it will also prove difﬁcult to ensure 
+that the different courts evaluate similar fact patterns con­
+sistently.  The result is an unusually high risk that different 
+

@@ -1,0 +1,41 @@
+{
+  "@context": {
+    "name": "http://schema.org/name",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "preJuly1984Evidence": "http://schema.org/preJuly1984Evidence",
+    "18MonthPriceWar": "http://schema.org/18MonthPriceWar",
+    "aftermath": "http://schema.org/aftermath"
+  },
+  "@graph": [
+    {
+      "@id": "BrookeGroupLtdvBrownWilliamsonTobaccoCorp",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "Stevens, J., dissenting",
+      "preJuly1984Evidence": {
+        "documentaryEvidence": "more voluminous and detailed than any other reported case",
+        "indicatesB&WWantedToInjureLiggett": true
+      },
+      "18MonthPriceWar": {
+        "volumeRebates": true,
+        "coveredByClaytonAct": true,
+        "justifiedByStatutoryOrAffirmativeDefense": false,
+        "costJustified": false,
+        "goodFaithEffortToMeetCompetitor": false,
+        "mereIntroductoryOrPromotionalDiscounts": false
+      },
+      "aftermath": {
+        "listPriceBrandedCigarettes": "$33.15 per carton",
+        "listPriceBlackAndWhites": "$19.75 per carton",
+        "priceIncreasesTwiceAYear": true,
+        "priceDifferentialNarrowed": true,
+        "priceIncreasesUnwarrantedByCosts": true
+      }
+    }
+  ]
+}

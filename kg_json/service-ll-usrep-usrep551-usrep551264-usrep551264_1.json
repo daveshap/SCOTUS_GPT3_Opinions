@@ -1,0 +1,63 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Credit Suisse Securities (USA) LLC, fka Credit Suisse First Boston LLC, et al. v. Billing et al.",
+  "datePublished": "2007-06-18",
+  "caseNumber": "05–1157",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Credit Suisse Securities (USA) LLC, fka Credit Suisse First Boston LLC"
+    },
+    {
+      "@type": "Person",
+      "name": "Billing et al."
+    }
+  ],
+  "reasoningForIncluding": [
+    {
+      "@type": "LegalCase",
+      "name": "Silver v. New York Stock Exchange",
+      "datePublished": "1962-06-18",
+      "caseNumber": "373 U. S. 341"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Gordon v. New York Stock Exchange, Inc.",
+      "datePublished": "1975-06-02",
+      "caseNumber": "422 U. S. 659"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. National Assn. of Securities Dealers, Inc.",
+      "datePublished": "1975-06-02",
+      "caseNumber": "422 U. S. 694"
+    }
+  ],
+  "allegedUnlawfulAgreement": [
+    {
+      "@type": "Agreement",
+      "name": "Not sell newly issued securities to a buyer unless the buyer committed (1) to buy additional shares of that security later at escalating prices (known as “laddering”), (2) to pay unusually high commissions on subsequent security purchases from the underwriters, or (3) to purchase from the underwriters other less desirable securities (known as “tying”)."
+    }
+  ],
+  "regulatoryStatutes": [
+    {
+      "@type": "Legislation",
+      "name": "Securities Law"
+    },
+    {
+      "@type": "Legislation",
+      "name": "Antitrust Laws"
+    }
+  ],
+  "regulatoryAuthority": {
+    "@type": "Organization",
+    "name": "Securities and Exchange Commission (SEC)"
+  },
+  "enforcementNeed": {
+    "@type": "Organization",
+    "name": "Antitrust Courts"
+  },
+  "decision": "Reversed"
+}

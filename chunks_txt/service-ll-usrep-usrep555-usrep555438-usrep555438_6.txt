@@ -1,0 +1,125 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  453 
+Opinion of the Court 
+explain or adequately and reasonably supervise.  The prob­
+lem should be deemed irremedia[ble] by antitrust law when 
+compulsory access requires the court to assume the day-to­
+day controls characteristic of a regulatory agency.’ ”  Id., at 
+415  (quoting  Areeda,  Essential  Facilities:  An  Epithet  in 
+Need  of  Limiting  Principles,  58  Antitrust  L.  J.  841,  853 
+(1989)); see also Concord v. Boston Edison Co., 915 F. 2d 17, 
+25 (CA1 1990) (Breyer, C. J.) (“[A]ntitrust courts normally 
+avoid direct price administration, relying on rules and rem­
+edies . . . that are easier to administer”). 
+It is difﬁcult enough for courts to identify and remedy an 
+alleged anticompetitive practice at one level, such as preda­
+tory pricing in retail markets or a violation of the duty-to­
+deal  doctrine  at  the  wholesale  level.  See  Brooke  Group, 
+supra, at 225 (predation claims “requir[e] an understanding 
+of the extent and duration of the alleged predation, the rel­
+ative  ﬁnancial  strength  of  the  predator  and  its  intended 
+victim, and their respective incentives and will”); Trinko, 
+supra, at 408.  Recognizing price-squeeze claims would re­
+quire courts simultaneously to police both the wholesale and 
+retail  prices  to  ensure  that  rival  ﬁrms  are  not  being 
+squeezed.  And courts would be aiming at a moving target, 
+since it is the interaction between these two prices that may 
+result in a squeeze. 
+Perhaps most troubling, ﬁrms that seek to avoid price­
+squeeze liability will have no safe harbor for their pricing 
+practices.  See Concord, supra, at 22 (antitrust rules “must 
+be clear enough for lawyers to explain them to clients”).  At 
+least in the predatory pricing context, ﬁrms know they will 
+not incur liability as long as their retail prices are above cost. 
+Brooke Group, supra, at 223.  No such guidance is available 
+for price-squeeze claims.  See, e. g., 3B P. Areeda & H. Ho­
+venkamp, Antitrust Law ¶ 767c, p. 138 (3d ed. 2008) (“[A]nti­
+trust faces a severe problem not only in recognizing any § 2 
+[price-squeeze]  offense,  but  also  in  formulating  a  suitable 
+remedy”). 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+454  PACIFIC BELL TELEPHONE CO. v. LINKLINE 
+COMMUNICATIONS, INC. 
+Opinion of the Court 
+The most commonly articulated standard for price 
+squeezes is that the defendant must leave its rivals a “fair” 
+or “adequate” margin between the wholesale price and the 
+retail price.  See Concord, supra, at 23–25; Alcoa, 148 F. 2d 
+416, 437–438 (CA2 1945).  One of our colleagues has high­
+lighted the ﬂaws of this test in Socratic fashion: 
+“[H]ow is a judge or jury to determine a ‘fair price?’  Is 
+it the price charged by other suppliers of the primary 
+product?  None exist.  Is it the price that competition 
+‘would have set’ were the primary level not monopo­
+lized?  How can the court determine this price without 
+examining  costs  and  demands,  indeed  without  acting 
+like a rate-setting regulatory agency, the rate-setting 
+proceedings of which often last for several years?  Fur­
+ther, how is the court to decide the proper size of the 
+price ‘gap?’  Must it be large enough for all independent 
+competing ﬁrms to make a ‘living proﬁt,’ no matter how 
+inefﬁcient they may be? . . . And how should the court 
+respond when costs or demands change over time, as 
+they inevitably will?”  Concord, supra, at 25. 
+Some  amici  respond  to  these  concerns  by  proposing  a 
+“transfer  price  test”  for  identifying  an  unlawful  price 
+squeeze: A price squeeze should be presumed if the upstream 
+monopolist could not have made a proﬁt by selling at its re­
+tail rates if it purchased inputs at its own wholesale rates. 
+Brief for American Antitrust Institute (AAI) 30; Brief for 
+COMPTEL 16–19; see Ray v. Indiana & Mich. Elec. Co., 606 
+F. Supp. 757, 776–777 (ND Ill. 1984).  Whether or not that 
+test is administrable, it lacks any grounding in our antitrust 
+jurisprudence.  An  upstream  monopolist  with  no  duty  to 
+deal is free to charge whatever wholesale price it would like; 
+antitrust law does not prohibit lawfully obtained monopolies 
+from  charging  monopoly  prices.  Trinko,  supra,  at  407 
+(“The mere possession of monopoly power, and the concomi­
+tant charging of monopoly prices, is not only not unlawful; it 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  455 
+Opinion of the Court 
+is an important element of the free-market system”).  Simi­
+larly, the Sherman Act does not forbid—indeed, it encour­
+ages—aggressive price competition at the retail level, as long 
+as  the  prices  being  charged  are  not  predatory.  Brooke 
+Group, 509 U. S., at 223–224.  If both the wholesale price 
+and the retail price are independently lawful, there is no 
+basis for imposing antitrust liability simply because a verti­
+cally integrated ﬁrm’s wholesale price happens to be greater 
+than or equal to its retail price. 
+2. Amici  assert  that  there  are  circumstances  in  which 
+price squeezes may harm competition.  For example, they 
+assert that price squeezes may raise entry barriers that for­
+tify the upstream monopolist’s position; they also contend 
+that price squeezes may impair nonprice competition and in­
+novation in the downstream market by driving independent 
+ﬁrms out of business.  See Brief for AAI 11–15; Concord, 
+supra, at 23–24. 
+The problem, however, is that amici have not identiﬁed 
+any independent competitive harm caused by price squeezes 
+above and beyond the harm that would result from a duty­
+to-deal violation at the wholesale level or predatory pricing 
+at the retail level.  See 3A P. Areeda & H. Hovenkamp, An­
+titrust Law ¶ 767c, p. 126 (2d ed. 2002) (“[I]t is difﬁcult to 
+see any competitive signiﬁcance [of a price squeeze] apart 
+from the consequences of vertical integration itself”).  To 
+the extent a monopolist violates one of these doctrines, the 
+plaintiffs have a remedy under existing law.  We do not need 
+to endorse a new theory of liability to prevent such harm. 
+IV 
+Lastly, as mentioned above, plaintiffs have asked us for 
+leave to amend  their complaint to bring  a Brooke Group 
+predatory pricing claim.  We need not decide whether leave 
+to amend should be granted.  Our grant of certiorari was 
+limited to the question whether price-squeeze claims are cog­
+nizable in  the absence  of an  antitrust duty  to deal.  The 
+

@@ -1,0 +1,123 @@
+
+
+Cite as: 540 U. S. 398 (2004)
+Opinion of the Court
+the provision  of OSS.  In  re Application by Bell Atlantic
+New York for Authorization Under Section 271 of the Com-
+munications Act To Provide In-Region, InterLATA Service
+in  the  State of New  York,  15  FCC  Rcd.  3953,  3989-4077,
+82-228 (1999) (Memorandum  Opinion and Order) (herein-
+after In  re Application).  Those commitments are  enforce-
+able by the FCC through continuing  oversight; a failure  to
+meet an  authorization condition  can result in an order that
+the deficiency be corrected, in the imposition of penalties, or
+in  the  suspension  or  revocation  of long-distance  approval.
+See  47 U. S. C. §271(d)(6)(A).  Verizon also subjected itself
+to  oversight  by  the  PSC  under  a  so-called  "Performance
+Assurance  Plan"  (PAP).  See  In  re New  York  Telephone
+Co.,  197 P. U. R. 4th 266, 280-281  (N. Y. PSC, 1999)  (Order
+Adopting the Amended PAP).  The PAP, which by its terms
+became binding upon FCC approval, provides specific finan-
+cial penalties in the event of Verizon's failure to achieve  de-
+tailed performance requirements.  The FCC described Veri-
+zon's having entered into a PAP as a significant factor in its
+§ 271 authorization, because that provided "a strong financial
+incentive  for  post-entry  compliance  with  the  section  271
+checklist,"  and  prevented  "'backsliding."'  In  re Applica-
+tion 3958-3959,  8, 12.
+The regulatory response to the OSS failure complained of
+in respondent's suit provides a vivid example of how the reg-
+ulatory  regime operates.  When several competitive  LECs
+complained  about  deficiencies  in  Verizon's  servicing  of or-
+ders,  the  FCC  and  PSC  responded.  The  FCC  soon  con-
+cluded that Verizon was in breach of its sharing duties under
+§ 25 1(c), imposed a substantial fine, and set up sophisticated
+measurements to gauge remediation, with weekly reporting
+requirements  and  specific  penalties  for  failure.  The  PSC
+found Verizon in violation of the PAP even earlier, and im-
+posed additional financial penalties and  measurements with
+daily reporting requirements.  In short, the regime was an
+effective steward of the antitrust function.
+
+NEW PAGE
+
+414  VERIZON COMMUNICATIONS  INC. v. LAW  OFFICES
+OF CURTIS  V. TRINKO,  LLP
+Opinion of the Court
+Against the slight benefits  of antitrust intervention here,
+we must  weigh  a realistic  assessment of its cost§.  Under
+the best of circumstances,  applying the requirements  of § 2
+"can be difficult" because "the means of illicit exclusion, like
+the  means of legitimate  competition,  are myriad."  United
+States v. Microsoft Corp., 253 F. 3d 34, 58 (CADC 2001)  (en
+banc) (per curiam).  Mistaken inferences and the resulting
+false condemnations  "are especially costly, because they chill
+the very conduct the antitrust laws are designed to protect."
+Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475
+U. S.  574,  594  (1986).  The  cost  of false  positives  counsels
+against  an  undue  expansion  of  § 2  liability.  One  false-
+positive risk is that an incumbent LEC's failure to provide a
+service with sufficient alacrity might have nothing to do with
+exclusion.  Allegations  of violations of § 251(c)(3)  duties are
+difficult  for  antitrust  courts  to evaluate,  not only  because
+they are highly technical, but also because they are likely to
+be  extremely  numerous,  given  the incessant,  complex, .and
+constantly  changing  interaction  of competitive  and  incum-
+bent  LECs implementing  the  sharing  and  interconnection
+obligations.  Amici States have filed  a brief asserting that
+competitive LECs are threatened with "death by a thousand
+cuts," Brief for New York et al. as Amici Curiae 10 (internal
+quotation marks omitted)-the identification of which would
+surely  be  a daunting task for a  generalist  antitrust  court.
+Judicial oversight under the Sherman  Act would seem des-
+tined to distort investment  and  lead to  a new layer of in-
+terminable  litigation,  atop  the  variety  of litigation  routes
+already  available  to  and  actively  pursued  by  competitive
+LECs.
+Even if the problem of false positives did not exist, conduct
+consisting of anticompetitive  violations of § 251  may be,  as
+we  have  concluded  with  respect  to  above-cost  predatory
+pricing schemes,  "beyond  the practical  ability  of a judicial
+tribunal to control."  Brooke Group Ltd. v. Brown & Wil-
+liamson Tobacco Corp., 509 U. S. 209, 223 (1993).  Effective
+
+NEW PAGE
+
+Cite as: 540 U. S. 398 (2004)
+Opinion of the Court
+remediation of violations of regulatory sharing requirements
+will ordinarily require continuing supervision of a highly de-
+tailed decree.  We  think that  Professor Areeda  got it ex-
+actly  right: "No  court should impose  a duty to deal that it
+cannot explain or adequately and reasonably supervise.  The
+problem  should be deemed  irremedia[ble]  by antitrust  law
+when  compulsory  access  requires  the court  to assume  the
+day-to-day  controls  characteristic  of a regulatory  agency."
+Areeda, 58 Antitrust L. J., at 853.  In this case, respondent
+has  requested  an  equitable  decree  to  "[p]reliminarily  and
+permanently enjoiln]  [Verizon] from providing access to the
+local loop market ...  to [rivals] on terms and conditions that
+are  not as  favorable"  as  those  that  Verizon  enjoys.  App.
+49*-50.  An antitrust court is unlikely to be an effective day-
+to-day enforcer of these detailed sharing obligations.4
+*  *  *
+The  1996 Act is, in an important respect, much more ambi-
+tious than the antitrust laws.  It attempts "to eliminate the
+monopolies enjoyed by the inheritors of AT&T's local fran-
+chises."  Verizon Communications Inc. v. FCC, 535  U. S.,
+at 476 (emphasis added).  Section 2 of the Sherman Act, by
+contrast, seeks merely to prevent unlawful monopolization.
+It would be a serious mistake to conflate the two goals.  The
+Sherman Act is indeed the "Magna Carta of free enterprise,"
+United States v.  Topco Associates, Inc., 405  U. S.  596, 610
+(1972), but it does not give judges carte blanche to insist that
+a monopolist alter its way of doing business whenever some
+I The Court of Appeals also thought that respondent's complaint might
+state a claim under a "monopoly leveraging" theory (a theory barely dis-
+cussed by respondent, see Brief for Respondent 24, n. 10).  We disagree.
+To the extent the Court of Appeals dispensed with a requirement that
+there be a "dangerous probability of success" in monopolizing  a second
+market, it erred, Spectrum Sports, Inc. v. McQuillan, 506 U. S. 447, 459
+(1993).  In any event,  leveraging presupposes  anticompetitive  conduct,
+which in this case could only be the refusal-to-deal claim we have rejected.
+

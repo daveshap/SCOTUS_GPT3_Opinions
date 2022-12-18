@@ -1,0 +1,123 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "Brown v. Pro Football, Inc.",
+      "@type": "CaseCitation",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": [
+        "football players",
+        "football club owners",
+        "National Football League",
+        "NFL Players Association",
+        "235 developmental squad players"
+      ],
+      "reasoning": "The question before us is whether federal labor laws shield such an agreement from antitrust attack."
+    },
+    {
+      "@id": "Connell Constr. Co. v. Plumbers",
+      "@type": "CaseCitation",
+      "date": "1975",
+      "caseNumber": "421 U. S. 616",
+      "involvedParties": [
+        "Connell Construction Company",
+        "Plumbers"
+      ],
+      "reasoning": "The immunity before us rests upon what this Court has called the 'nonstatutory' labor exemption from the antitrust laws."
+    },
+    {
+      "@id": "Meat Cutters v. Jewel Tea Co.",
+      "@type": "CaseCitation",
+      "date": "1965",
+      "caseNumber": "381 U. S. 676",
+      "involvedParties": [
+        "Meat Cutters",
+        "Jewel Tea Co."
+      ],
+      "reasoning": "The Court has implied this exemption from federal labor statutes, which set forth a national labor policy favoring free and private collective bargaining."
+    },
+    {
+      "@id": "Mine Workers v. Pennington",
+      "@type": "CaseCitation",
+      "date": "1965",
+      "caseNumber": "381 U. S. 657",
+      "involvedParties": [
+        "Mine Workers",
+        "Pennington"
+      ],
+      "reasoning": "The Court has implied this exemption from federal labor statutes, which set forth a national labor policy favoring free and private collective bargaining."
+    },
+    {
+      "@id": "Tedmsters v. Oliver",
+      "@type": "CaseCitation",
+      "date": "1959",
+      "caseNumber": "858 U. S. 283",
+      "involvedParties": [
+        "Tedmsters",
+        "Oliver"
+      ],
+      "reasoning": "The Court has implied this exemption from federal labor statutes, which set forth a national labor policy favoring free and private collective bargaining."
+    },
+    {
+      "@id": "NLRB v. Wooster Div. of Borg-Warner Corp.",
+      "@type": "CaseCitation",
+      "date": "1958",
+      "caseNumber": "356 U. S. 342",
+      "involvedParties": [
+        "National Labor Relations Board",
+        "Wooster Division of Borg-Warner Corp."
+      ],
+      "reasoning": "The Court has implied this exemption from federal labor statutes, which set forth a national labor policy favoring free and private collective bargaining."
+    },
+    {
+      "@id": "San Diego Building Trades Council v. Garmon",
+      "@type": "CaseCitation",
+      "date": "1959",
+      "caseNumber": "359 U. S. 236",
+      "involvedParties": [
+        "San Diego Building Trades Council",
+        "Garmon"
+      ],
+      "reasoning": "The Court has implied this exemption from federal labor statutes, which set forth a national labor policy favoring free and private collective bargaining."
+    },
+    {
+      "@id": "Duplex Printing Press Co. v. Deering",
+      "@type": "CaseCitation",
+      "date": "1921",
+      "caseNumber": "254 U. S. 443",
+      "involvedParties": [
+        "Duplex Printing Press Co.",
+        "Deering"
+      ],
+      "reasoning": "As a matter of history, Congress intended the labor statutes (from which the Court has implied the exemption) in part to adopt the views of dissenting Justices in Duplex Printing Press Co. v. Deering."
+    },
+    {
+      "@id": "United States v. Hutcheson",
+      "@type": "CaseCitation",
+      "date": "1941",
+      "caseNumber": "312 U. S. 219",
+      "involvedParties": [
+        "United States",
+        "Hutcheson"
+      ],
+      "reasoning": "Congress, as in 1914, hoped to prevent judicial use of antitrust law to resolve labor disputes-a kind of dispute normally inappropriate for antitrust law resolution."
+    },
+    {
+      "@id": "Marine Cooks v. PanamaS . S. Co.",
+      "@type": "CaseCitation",
+      "date": "1960",
+      "caseNumber": "362 U. S. 365",
+      "involvedParties": [
+        "Marine Cooks",
+        "PanamaS . S. Co."
+      ],
+      "reasoning": "The implicit ('nonstatutory') exemption interprets the labor statutes in light of Congress' intent to leave labor disputes to the processes of collective bargaining and to the National Labor Relations Board."
+    }
+  ]
+}

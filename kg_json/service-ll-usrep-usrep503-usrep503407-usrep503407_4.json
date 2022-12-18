@@ -1,0 +1,78 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "National Railroad Passenger Corporation v. Boston & Maine Corp.",
+    "caseNumber": "416",
+    "datePublished": "1992",
+    "court": "Supreme Court of the United States",
+    "decision": "Reversed",
+    "involvedParty": [
+      {
+        "@type": "Organization",
+        "name": "National Railroad Passenger Corporation"
+      },
+      {
+        "@type": "Organization",
+        "name": "Boston & Maine Corp."
+      }
+    ],
+    "citation": {
+      "@type": "LegalCitation",
+      "name": "503 U. S. 407 (1992)"
+    },
+    "amendment": {
+      "@type": "Legislation",
+      "name": "Independent Safety Board Act Amendments of 1990",
+      "number": "Pub. L. 101-641",
+      "datePublished": "1990"
+    },
+    "statute": {
+      "@type": "Legislation",
+      "name": "§ 562(d)(1)",
+      "description": "The Corporation may subsequently convey title or other interest in such property to a third party, if such reconveyance is found by the Commission to further the purposes of this Act."
+    },
+    "priorOpinion": [
+      {
+        "@type": "LegalCase",
+        "name": "National Railroad Passenger Corp. v. Two Parcels of Land",
+        "caseNumber": "822 F. 2d 1261",
+        "datePublished": "1987",
+        "court": "Second Circuit",
+        "decision": "Cert. denied, 484 U. S. 954"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Chevron U S. A. Inc. v. Natural Resources Defense Council, Inc.",
+        "caseNumber": "467 U. S. 837",
+        "datePublished": "1984",
+        "court": "Supreme Court of the United States",
+        "decision": "Affirmed"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "K mart Corp. v. Cartier, Inc.",
+        "caseNumber": "486 U. S. 281",
+        "datePublished": "1988",
+        "court": "Supreme Court of the United States",
+        "decision": "Affirmed"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Pauley v. BethEnergy Mines, Inc.",
+        "caseNumber": "501 U. S. 680",
+        "datePublished": "1991",
+        "court": "Supreme Court of the United States",
+        "decision": "Affirmed"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Sullivan v. Everhart",
+        "caseNumber": "494 U. S. 83",
+        "datePublished": "1990",
+        "court": "Supreme Court of the United States",
+        "decision": "Affirmed"
+      }
+    ]
+  }
+]

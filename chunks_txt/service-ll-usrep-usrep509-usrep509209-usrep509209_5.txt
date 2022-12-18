@@ -1,0 +1,124 @@
+
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+386  U. S.  685 (1967).  In  Utah Pie, we reviewed  the suffi-
+ciency of the evidence supporting jury verdicts against three
+national pie companies that had engaged in a variety of pred-
+atory practices  in  the market  for frozen  pies  in Salt Lake
+City, with the intent to drive a local pie manufacturer out of
+business.  We reversed the Court of Appeals and held that
+the evidence presented was adequate to permit a jury to find
+a likelihood of injury to competition.  Id., at 703.
+Utah Pie has often been interpreted to permit liability for
+primary-line price discrimination on a mere showing that the
+defendant  intended to harm  competition  or produced  a de-
+clining price structure.  The case has been criticized on the
+ground that such low standards of competitive injury are at
+odds  with  the  antitrust  laws'  traditional  concern  for  con-
+sumer  welfare  and  price  competition.  See  Bowman,  Re-
+straint of Trade by the Supreme  Court: The Utah Pie Case,
+77 Yale  L. J. 70 (1967);  R. Posner, Antitrust Law:  An Eco-
+nomic Perspective 193-194 (1976);  L. Sullivan, Antitrust 687
+(1977); 3 P. Areeda & D. Turner, Antitrust Law  720c (1978)
+(hereinafter Areeda & Turner); R. Bork, The Antitrust Para-
+dox 386-387  (1978);  H. Hovenkamp,  Economics and Federal
+Antitrust Law 188-189 (1985).  We do not regard the  Utah
+Pie case  itself as having the full  significance  attributed to
+it by its detractors.  Utah Pie was an early judicial inquiry
+in this  area and did  not purport to set forth  explicit, gen-
+eral standards for establishing a violation of the Robinson-
+Patman Act.  As the law has been explored  since Utah Pie,
+it has become evident that primary-line  competitive  injury
+under the Robinson-Patman Act is of the same general char-
+acter as the injury  inflicted  by predatory  pricing schemes
+actionable under § 2 of the Sherman Act.  See, e. g., Henry v.
+Chloride, Inc., 809 F. 2d 1334, 1345 (CA8 1987); D. E. Rogers
+Associates, Inc. v. Gardner-Denver Co., 718 F. 2d 1431, 1439
+(CA6 1983), cert. denied, 467 U. S.  1242 (1984);  William In-
+glis & Sons Baking Co. v. ITT Continental Baking Co., 668
+F. 2d 1014,1041 (CA9 1981), cert. denied, 459 U. S. 825 (1982);
+
+NEW PAGE
+
+222  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+Malcolm v. Marathon Oil Co., 642 F. 2d 845, 853, n. 16 (CA5),
+cert. denied,  454  U. S.  1125  (1981);  Pacific Engineering &
+Production Co. of Nevada v. Kerr-McGee Corp., 551  F. 2d
+790,  798 (CA10),  cert. denied, 434 U. S. 879 (1977);  Interna-
+tional Telephone & Telegraph Corp., 104 F. T. C. 280,401-402
+(1984); Hovenkamp, supra, at 189; 3 Areeda & Turner  720c;
+P. Areeda  & H.  Hovenkamp,  Antitrust  Law  720c  (Supp.
+1992) (hereinafter Areeda & Hovenkamp).  There are, to be
+sure, differences  between  the  two statutes.  For example,
+we interpret  § 2 of the Sherman Act to condemn  predatory
+pricing when it poses "a dangerous probability of actual mo-
+nopolization,"  Spectrum Sports, Inc. v. McQuillan, 506 U. S.
+447, 455 (1993),  whereas the Robinson-Patman  Act requires
+only  that  there  be  "a  reasonable  possibility"  of  substan-
+tial  injury  to  competition  before  its  protections  are  trig-
+gered,  Falls City Industries, Inc. v. Vanco Beverage, Inc.,
+460 U. S. 428, 434 (1983).  But whatever additional flexibility
+the Robinson-Patman  Act standard  may imply, the essence
+of the claim  under either  statute is  the same:  A business
+rival  has priced, its  products  in an  unfair manner  with an
+object to eliminate  or retard competition  and  thereby gain
+and exercise control over prices in the relevant market.
+Accordingly, whether the claim alleges  predatory pricing
+under § 2 of the Sherman Act or primary-line price discrimi-
+nation under the Robinson-Patman Act, two prerequisites to
+recovery  remain the same.  First, a plaintiff seeking to es-
+tablish competitive injury resulting from a rival's low prices
+must prove that the prices complained of are below an appro-
+priate measure  of its rival's costs.1  See, e. g.,  Cargill, Inc.
+v. Monfort of Colorado, Inc., 479 U. S.  104, 117 (1986); Mat-
+1 Because the parties in this case agree that the relevant measure of cost
+is average variable cost, however, we again decline to resolve the conflict
+among the lower courts over the appropriate measure of cost.  See Car-
+gill, Inc. v. Monfort of Colorado, Inc., 479 U. S. 104, 117-118, n. 12 (1986);
+Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 585,
+n. 8 (1986).
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+sushita Elec. IndustrialC  o. v. Zenith Radio Corp., 475 U. S.
+574, 585, n. 8 (1986);  Utah Pie, 386 U. S., at 698, 701, 702-703,
+n. 14; In re E. I. DuPont de Nemours & Co., 96 F. T. C. 653,
+749 (1980).  Cf. United States v. National Dairy Products
+Corp., 372 U. S. 29 (1963)  (holding that below-cost prices may
+constitute "unreasonably  low"  prices  for purposes  of § 3  of
+the Robinson-Patman Act, 15 U. S. C. § 13a).  Although Car-
+gill and Matsushita reserved  as a formal matter the ques-
+tion "'whether  recovery  should ever be available  ...  when
+the pricing in question is above some measure of incremental
+cost,"' Cargill,s upra, at 117-118, n. 12 (quoting Matsushita,
+supra, at 585, n. 9), the reasoning in both opinions suggests
+that only below-cost prices  should suffice,  and we have re-
+jected  elsewhere  the notion that above-cost prices that are
+below general market levels or the costs of a firm's competi-
+tors inflict injury to competition  cognizable  under the anti-
+trust laws.  See Atlantic Richfield Co. v. USA  Petroleum
+Co., 495 U. S. 328, 340  (1990).  "Low prices benefit consum-
+ers regardless  of how  those prices are  set, and  so long  as
+they  are  above  predatory  levels,  they  do  not  threaten
+competition....  We have adhered to this principle regardless
+of the type of antitrust claim involved."  Ibid.  As a general
+rule, the exclusionary effect of prices above a relevant meas-
+ure  of cost  either reflects  the lower  cost  structure  of the
+alleged predator, and so represents  competition on the mer-
+its, or is beyond the practical ability of a judicial tribunal to
+control  without courting intolerable  risks of chilling legiti-
+mate  price  cutting.  See  Areeda  & Hovenkamp  714.2,
+714.3.  "To  hold that the antitrust laws protect competitors
+from the loss of profits due to such price competition would,
+in effect, render illegal any decision by a firm to cut prices
+in order to increase  market share.  The  antitrust  laws re-
+quire no such perverse result."  Cargill,s upra, at 116.
+Even  in  an  oligopolistic  market,  when  a firm  drops  its
+prices to a competitive  level  to demonstrate  to a maverick
+the unprofitability  of straying from the group, it would  be
+

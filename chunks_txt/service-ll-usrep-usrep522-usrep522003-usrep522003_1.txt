@@ -1,0 +1,129 @@
+OCTOBER TERM, 1997
+Syllabus
+STATE  OIL  CO. v. KHAN  ET  AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SEVENTH CIRCUIT
+No. 96-871.  Argued October 7, 1997-Decided November 4, 1997
+Respondents' agreement to lease and operate a gas station obligated them
+to buy gasoline from petitioner State Oil Company at a price equal to a
+suggested retail price set by State Oil, less a specified profit margin;
+required them to rebate any excess to State Oil if they charged custom-
+ers more than the suggested price; and provided that any decrease due
+to sales below the suggested price would reduce their margin.  After
+they fell behind in their lease payments and State Oil commenced evic-
+tion proceedings, respondents brought this suit in federal court, alleging
+in part that, by preventing them from raising or lowering retail gas
+prices, State Oil had violated § 1 of the Sherman Act.  The District
+Court entered summary judgment for State Oil on this claim, but the
+Seventh Circuit reversed on the basis of Albrecht v. Herald Co., 390
+U. S. 145, 152-154, in which this Court held that vertical maximum price
+fixing is a per se antitrust violation.  Although the Court of Appeals
+characterized Albrecht as "unsound  when decided"  and "inconsistent
+with later decisions," it felt constrained to follow that decision.
+Held: Albrecht is overruled.  Pp. 10-22.
+(a) Although most antitrust claims are analyzed under a "rule of rea-
+son," under which the court reviews a number of relevant factors, see,
+e. g., Arizona v. Maricopa County Medical Soc., 457 U. S. 332, 342-343,
+some types of restraints on trade have such predictable and pernicious
+anticompetitive  effect,  and such  limited  potential for procompetitive
+benefit, that they are deemed unlawful per se, see, e. g., Northern Pacific
+R. Co. v. United States, 356 U. S. 1, 5.  A review of this Court's perti-
+nent decisions is relevant in assessing the continuing validity of the
+Albrecht per se rule.  See, e. g., Kiefer-Stewart Co. v. Joseph E. Sea-
+gram & Sons, Inc., 340 U. S.2 11, 213 (maximum resale price fixing ille-
+gal per se); United States v. Arnold, Schwinn & Co., 388 U. S. 365, 379-
+380 (vertical nonprice restrictions illegal per se); Continental T V, Inc.
+v. GTE Sylvania Inc., 433 U. S. 36, 47-49, 58-59 (overruling Schwinn).
+A number of this Court's later decisions have hinted that Albrecht's
+analytical underpinnings  were  substantially weakened  by  GTE Syl-
+vania-see, e. g., Maricopa County, supra, at 348, n. 18; 324 Liquor
+Corp. v. Duffy, 479 U.S. 335, 341-342; Atlantic Richfield Co. v.  USA
+Petroleum Co., 495 U. S.3 28, 335, n. 5, 343, n. 13-and there is a consid-
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Syllabus
+erable body of scholarship discussing the procompetitive effects of verti-
+cal maximum price fixing.  Pp. 10-15.
+(b) Informed by the foregoing decisions and scholarship, and guided
+by the general view that the antitrust laws' primary purpose is to pro-
+tect interbrand  competition, see, e. g.,  Business Electronics Corp. v.
+Sharp Electronics Corp., 485 U. S. 717, 726, and that condemnation of
+practices resulting in lower consumer prices is disfavored, Matsushita
+Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574,594, this Court
+finds it difficult to maintain that vertically imposed maximum  prices
+could harm consumers or competition to the extent necessary to justify
+their per se invalidation.  Albrecht's theoretical justifications for its per
+se rule-that vertical maximum price fixing could interfere with dealer
+freedom, restrict dealers' ability to offer consumers essential or desired
+services,  channel  distribution  through large  or specially  advantaged
+dealers,  or disguise  minimum price fixing schemes-have been abun-
+dantly  criticized  and  can  be  appropriately  recognized  and  punished
+under the rule of reason.  Not only are they less serious than the Al-
+brecht Court imagined, but other courts and antitrust scholars  have
+noted that the per se rule could in fact exacerbate problems related to
+the unrestrained exercise of market power by monopolist-dealers.  For
+these reasons, and because Albrecht is irrelevant to ongoing Sherman
+Act enforcement, see Copperweld Corp.v . Independence Tube Corp., 467
+U. S.  752, 777, and n. 25, and there are apparently no cases in which
+enforcement efforts have been directed solely against the conduct con-
+demned in Albrecht, there is insufficient economic justification for the
+per se rule.  Respondents' arguments in favor of the rule-that its elim-
+ination should require persuasive, expert testimony establishing that it
+has distorted the market, and that its retention is compelled by Toolson
+v. New York Yankees, Inc., 346 U. S. 356, and Flood v. Kuhn, 407 U. S.
+258-are unavailing.  Pp. 15-19.
+(c) Albrecht does not deserve continuing respect under the doctrine
+of stare decisis.  Stare decisis is not an inexorable command, particu-
+larly in the area of antitrust law, where there is a competing interest in
+recognizing and adapting to changed circumstances  and the lessons of
+accumulated experience.  See, e. g., National Soc. of ProfessionalE  n-
+gineers v. United States, 435 U.S. 679, 688.  Accordingly, this Court has
+reconsidered its decisions construing the Sherman Act where, as here,
+the theoretical underpinnings of those decisions are called into serious
+question.  See, e. g., GTE Sylvania, supra.  Because Albrecht has been
+widely criticized  since its inception, and the views underlying it have
+been eroded by this Court's precedent, there is not much of that decision
+to salvage.  See, e. g.,  Neal v.  United States, 516  U. S.  284, 295.  In
+
+NEW PAGE
+
+Cite as: 522 U. S. 3 (1997)
+Syllabus
+overruling Albrecht, the Court does not hold that all vertical maximum
+price fixing is per se lawful, but simply that it should be evaluated under
+the rule  of reason, which  can effectively identify those situations in
+which it amounts to anticompetitive  conduct.  The question  whether
+respondents  are entitled  to recover damages in light of this Court's
+overruling of Albrecht should be reviewed by the Court of Appeals in
+the first instance.  Pp. 20-22.
+93 F. 3d 1358, vacated and remanded.
+O'CoNNoR, J., delivered the opinion for a unanimous Court.
+John Baumgartnera rgued the cause for petitioner.  With
+him on the briefs was Paul Kalinich.
+Acting  Assistant Attorney  General Klein argued  the
+cause  for the United  States  et al. as amici curiae urging
+reversal.  With him on the brief were Acting Solicitor Gen-
+eral Dellinger, Deputy Solicitor General Wallace, Deputy
+Assistant Attorney General Melamed, Edward C. DuMont,
+Catherine G. O'Sullivan, and David Seidman.
+Anthony S. DiVincenzo argued the cause and filed a brief
+for respondents.
+Pamela Jones Harbour,D  eputy Attorney General of New
+York, argued the cause for the state parties as amici curiae
+urging affirmance.  With her on  the brief were Dennis C.
+Vacco, Attorney General of New York, Barbara Gott Billet,
+Solicitor General, and Stephen D. Houck, Robert L. Hubbard,
+Darrell M. Joseph, and  John A. Ioannou, Assistant Attor-
+neys General, Bruce M. Botelho, Attorney General of Alaska,
+and Daveed A. Schwartz, Assistant Attorney General, Grant
+Woods, Attorney General  of Arizona,  Winston Bryant, At-
+torney General of Arkansas, and J Jordan Abbott, Assistant
+Attorney General, Richard Blumenthal, Attorney General of
+Connecticut, M. Jane Brady, Attorney General of Delaware,
+Robert A  Butterworth, Attorney  General  of Florida,  and
+PatriciaA . Conners, Assistant Attorney General, Calvin E.
+Halloway, Sr., Attorney General of Guam, Margery S. Bron-
+ster, Attorney General  of Hawaii, Alan G. Lance, Attorney
+

@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "citation": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "citation:Minneapolis_&_St._Louis_R._Co._v._U.S._191_173",
+      "citation": "Minneapolis & St. Louis R. Co. v. U.S. 191 173",
+      "date": "OCTOBER TERM, 1959",
+      "caseNumber": "525554 0-60-18",
+      "involvedParties": "Minneapolis & St. Louis R. Co., U.S.",
+      "reasoning": "The Commission approved the acquisition of a 50% interest in the Western stock and all other factors bearing on that matter and, after doing so, approved them. That action by the Commission did not exceed the statutory limits within which Congress has confined its discretion."
+    },
+    {
+      "@id": "citation:Riss_&_Co._v._United_States_341_U._S._907",
+      "citation": "Riss & Co. v. United States 341 U. S. 907",
+      "date": "OCTOBER TERM, 1959",
+      "caseNumber": "525554 0-60-18",
+      "involvedParties": "Riss & Co., United States",
+      "reasoning": "The Administrative Procedure Act applies to proceedings before the Commission."
+    },
+    {
+      "@id": "citation:Chicago_&_Eastern_Illinois_R._Co._v._United_States_344_U._S._917",
+      "citation": "Chicago & Eastern Illinois R. Co. v. United States 344 U. S. 917",
+      "date": "OCTOBER TERM, 1959",
+      "caseNumber": "525554 0-60-18",
+      "involvedParties": "Chicago & Eastern Illinois R. Co., United States",
+      "reasoning": "The Administrative Procedure Act applies to proceedings before the Commission."
+    },
+    {
+      "@id": "citation:McLean_Trucking_Co._v._United_States_86_F._2d_81",
+      "citation": "McLean Trucking Co. v. United States 86 F. 2d 81",
+      "date": "OCTOBER TERM, 1959",
+      "caseNumber": "525554 0-60-18",
+      "involvedParties": "McLean Trucking Co., United States",
+      "reasoning": "A contrary view would, in effect, permit the Commission to authorize only those stock purchases which would not, in the absence of § 5 (11), offend the antitrust laws."
+    }
+  ]
+}

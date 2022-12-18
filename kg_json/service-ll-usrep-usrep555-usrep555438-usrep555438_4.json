@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "555US2",
+      "date": "01-28-1417:16:35",
+      "caseNumber": "555 U. S. 438 (2009)",
+      "involvedParties": "Pacific Bell Telephone Co. v. Linkline Communications, Inc.",
+      "reasoning": "Opinion of the Court",
+      "cite": "555 U. S. 438 (2009)"
+    },
+    {
+      "@id": "GrinnellCorp",
+      "date": "1966",
+      "caseNumber": "United States v. Grinnell Corp.",
+      "involvedParties": "United States v. Grinnell Corp.",
+      "reasoning": "Willful acquisition or maintenance of monopoly power",
+      "cite": "384 U. S. 563"
+    },
+    {
+      "@id": "ColgateCo",
+      "date": "1919",
+      "caseNumber": "United States v. Colgate & Co.",
+      "involvedParties": "United States v. Colgate & Co.",
+      "reasoning": "Businesses are free to choose the parties with whom they will deal",
+      "cite": "250 U. S. 300"
+    },
+    {
+      "@id": "BrookeGroup",
+      "date": "1993",
+      "caseNumber": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "involvedParties": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "reasoning": "Predatory pricing below-cost prices that drive rivals out of the market",
+      "cite": "509 U. S. 209"
+    },
+    {
+      "@id": "AspenSkiingCo",
+      "date": "1985",
+      "caseNumber": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "involvedParties": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "reasoning": "Unilateral refusal to deal with its rivals can give rise to antitrust liability",
+      "cite": "472 U. S. 585"
+    },
+    {
+      "@id": "Trinko",
+      "date": "2004",
+      "caseNumber": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "involvedParties": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "No antitrust duty to deal with its competitors",
+      "cite": "540 U. S. 398"
+    }
+  ]
+}

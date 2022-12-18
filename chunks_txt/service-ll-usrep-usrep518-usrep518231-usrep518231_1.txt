@@ -1,0 +1,131 @@
+OCTOBER TERM, 1995
+Syllabus
+BROWN  ET  AL.  V. PRO  FOOTBALL,  INC., DBA
+WASHINGTON  REDSKINS,  ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE DISTRICT OF COLUMBIA CIRCUIT
+No. 95-388.  Argued March 27, 1996-Decided June 20, 1996
+After their collective-bargaining agreement expired, the National Football
+League (NFL), a group of football clubs, and the NFL Players Associa-
+tion, a labor union, began to negotiate a new contract.  The NFL pre-
+sented a plan that would permit each club to establish a "developmental
+squad" of substitute  players, each of whom would  be paid the same
+$1,000  weekly  salary.  The union disagreed, insisting that individual
+squad members should be free to negotiate their own salaries.  When
+negotiations reached an impasse, the NFL unilaterally implemented the
+plan.  A number of squad players brought this antitrust suit, claiming
+that the employers' agreement to pay them $1,000 per week restrained
+trade in  violation of the Sherman Act.  The District  Court entered
+judgment for the players on a jury treble-damages award, but the Court
+of Appeals reversed, holding that the owners were immune from anti-
+trust liability under the federal labor laws.
+Held  Federal labor laws shield from antitrust attack an agreement among
+several employers bargaining together to implement after impasse the
+terms of their last best good-faith wage offer.  Pp. 235-250.
+(a) This Court has previously found in the labor laws  an implicit,
+"nonstatutory" antitrust exemption that applies where needed to make
+the collective-bargaining process work.  See, e. g., Connell Constr. Co.
+v. Plumbers,4 21 U. S. 616, 622.  The practice here at issue-the postim-
+passe imposition of a proposed employment term concerning a manda-
+tory subject of bargaining-is unobjectionable as a matter of labor law
+and policy, and, indeed, plays a significant role in the multiemployer
+collective-bargaining process that itself comprises an important part of
+the Nation's industrial relations system.  Subjecting it to antitrust law
+would  threaten  to  introduce  instability  and  uncertainty  into  the
+collective-bargaining process, for antitrust often forbids or discourages
+the kinds of joint discussions and behavior that collective bargaining
+invites or requires.  Moreover, if antitrust courts tried to evaluate par-
+ticular kinds of employer understandings, there would be created a web
+of detailed rules spun by many different nonexpert antitrust judges and
+juries, not a set of labor rules enforced by a single expert body, the
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+Syllabus
+National Labor Relations Board, to which the labor laws give primary
+responsibility  for  policing  collective  bargaining.  Thus,  the  implicit
+exemption applies in this case.  Pp. 235-242.
+(b) Petitioners'  claim  that  the  exemption  applies  only  to  labor-
+management  agreements is  rejected, since  it is based on inapposite
+authority, and an exemption limited by petitioners' labor-management-
+consent principle could not work.  Pp. 243-244.
+(c) Also rejected is the Government's  argument that the exemption
+should terminate at the point of impasse.  Its rationale, that employers
+are thereafter free as a matter of labor law to negotiate individual ar-
+rangements on an interim basis with the union, is not completely accu-
+rate.  More importantly, the simple "impasse" line would not solve the
+basic problem that labor law permits employers, after impasse, to en-
+gage in considerable joint behavior, while uniform employer conduct-
+at  least when  accompanied  by  discussion-invites  antitrust  attack.
+Pp. 244-247.
+(d) Petitioners' alternative rule, which would exempt from antitrust's
+reach postimpasse agreements about bargaining "tactics," but not those
+about substantive "terms," is unsatisfactory because it would require
+antitrust courts, insulated from the bargaining process, to delve into the
+amorphous subject of employers' subjective motives in order to deter-
+mine whether the exemption applied.  Pp. 247-248.
+(e) Petitioners'  arguments relating to general  "backdrop"  statutes
+and  the  "special"  nature  of professional  sports  are  also  rejected.
+Pp. 248-250.
+(f) The antitrust exemption applies to the employer conduct at issue
+here,  which  took  place  during  and  immediately  after  a  collective-
+bargaining negotiation; grew out of, and was a directly related to, the
+lawful operation of the bargaining process; involved a matter that the
+parties were required to negotiate collectively; and concerned only the
+parties to the collective-bargaining relationship.  The Court's holding is
+not intended to insulate from antitrust review every joint imposition of
+terms by employers, for an employer agreement could be sufficiently
+distant in time and in circumstances from the bargaining process that a
+rule permitting antitrust intervention would not significantly interfere
+with that process.  The, Court need not decide in this ease whether, or
+where, to draw the line, particularly since it does not have the detailed
+views of the Board on the matter.  P. 250.
+50 F. 3d 1041, affirmed.
+BREYER, J.,  delivered the opinion of the Court, in which REHNQUIST,
+C. J.,  and O'CoNNoR,  ScALIA,  KENNEDY, SOUTER,  THOMAS,  and GINS-
+BURG, JJ., joined.  STEvENS, J., filed a dissenting opinion, post, p. 252.
+
+NEW PAGE
+
+Cite as: 518 U. S. 231 (1996)
+Opinion of the Court
+Kenneth W.S tarr argued the cause for petitioners.  With
+him on the briefs were Paul T Cappuccio, Steven G. Brad-
+bury, Joseph A. Yablonski, and Daniel B. Edelman.
+Deputy Solicitor General Wallace argued the cause  for
+the United States  et al. as amicus curiae urging reversal.
+With him on the brief were Solicitor General Days, Assist-
+ant Attorney General Bingaman, Deputy Assistant Attor-
+ney General Klein, Paul R. Q. Wolfson, Robert J. Nicholson,
+Robert J Wiggers, and David C. Shonka.
+Gregg H. Levy  argued the cause for respondents.  With
+him on the brief were Herbert Dym, Sonya D. Winner, and
+Robert A. Long, Jr.*
+JUSTICE BREYER delivered the opinion of the Court.
+The question in this case arises at the intersection  of the
+Nation's labor and antitrust laws.  A group of professional
+*Briefs  of amici curiae urging reversal  were filed' for the National
+Hockey League Players Association et al. by Simon P. Gourdine, Lau-
+rence Gold, Virginia A.  Seitz, James W. Quinn, and Jeffrey L. Kessler;
+and for the Screen Actors Guild, Inc., et al. by David Alter.
+Briefs of amici curiae urging affirmance were ified for the Alliance of
+Motion Picture and Television Producers by Richard M. Cooper; for the
+American Trucking Associations by Mark I. Levy and Daniel R. Barney;
+for the Associated General  Contractors of America,  Inc., by .Charles E.
+Murphy, John G. Roberts, Jr., and Michael E. Kennedy; for the Bitumi-
+nous Coal Operators' Association, Inc., by Charles P O'Connor,P  eterB  us-
+cemi, and Stanley F. Lechner; for the Carriers Container Council, Inc.,
+et al. by C. PeterL ambos, Robert J Attaway, Donato Caruso,a nd Robert
+S. Zuckerman; for the Chamber of Commerce of the United States et al.
+by Zachary D. Fasman,N  eal D.M ollen, Jenny C. Wu, Stephen A Bokar,
+Robin S. Conrad, Jan S. Amundson, and Quentin Riegel; for the League
+of Voluntary Hospitals and Homes of New York et al. by Howard L. Ganz
+and Steven C. Krane; for the National Basketball Association by Jeffrey
+A Michkin and Richard W. Buchanan; for the National Electrical Con-
+tractors  Association,  Inc., by Gary L. Lieber; for the National Hockey
+League by Frank Rothman; for the National Railway Labor Conference
+by Richard T Conway, Ralph J Moore, Jr., David P.L ee, and Joanna
+Moorhead; and for the Office of the Commissioner  of Baseball et al. by
+Randy L. Levine and Thomas J Ostertag.
+

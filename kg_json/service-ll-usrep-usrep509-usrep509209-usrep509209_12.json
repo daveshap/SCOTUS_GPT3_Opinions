@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "name": "http://schema.org/name",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "1",
+      "@type": "Case",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "The evidence cannot support a finding that Brown & Williamson's alleged scheme was likely to result in oligopolistic price coordination and sustained supracompetitive pricing in the generic segment of the national cigarette market.",
+      "citation": "509 U. S. 209 (1993)"
+    },
+    {
+      "@id": "2",
+      "@type": "Case",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "The evidence is plainly sufficient to support the jury's finding that B&W's price discrimination had a reasonable possibility of injuring competition in the cigarette market as a whole.",
+      "citation": "509 U. S. 209 (1993)"
+    }
+  ]
+}

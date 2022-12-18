@@ -1,0 +1,126 @@
+OCTOBER  TERM, 2000
+Syllabus
+MAJOR  LEAGUE  BASEBALL  PLAYERS
+ASSOCIATION  v. GARVEY
+ON  PETITION  FOR  WRIT  OF  CERTIORARI  TO  THE  UNITED
+STATES COURT OF APPEALS FOR THE NINTH CIRCUIT
+No. 00-1210.  Decided May 14, 2001
+After arbitrators found that the Major League Baseball Clubs (Clubs) col-
+luded in the market for free-agent services after the 1985, 1986, and
+1987 baseball seasons, the Clubs and petitioner agreed that the Clubs
+would  establish  a fund  to  be  distributed  to injured  players.  The
+'"Framework"  that petitioner designed to evaluate individual claims pro-
+vided, inter alia, that players could seek an arbitrator's review of a
+distribution plan, but the arbitrator could determine only whether the
+Framework and its criteria were properly applied.  Respondent Garvey
+sought arbitration after his damages claim was rejected.  At his hear-
+ing, he produced a letter from San Diego Padres president and CEO
+Smith, stating that Smith had offered to extend Garvey's contract, but
+the Padres refused to negotiate thereafter due to collusion.  The arbi-
+trator denied  the claim because the letter contradicted  Smith's testi-
+mony denying collusion in earlier arbitration proceedings.  The Federal
+District Court denied Garvey's motion to vacate the arbitrator's award.
+In Garvey I, the Ninth Circuit reversed.  It found that review of the
+award's merits was warranted because the arbitrator's refusal to credit
+Smith's letter was inexplicable and bordered on irrational since arbitra-
+tors had previously concluded that the owners' testimony denying collu-
+sion was false, and that there was strong support for the letter's truth-
+fulness.  On remand, the District Court remanded the case for further
+arbitration, and Garvey appealed.  Finding that Garvey I left only one
+possible result, the Ninth Circuit in Garvey I  reversed and directed
+the District Court to remand the case to arbitration with instructions
+to enter an award for Garvey.
+Held  The Ninth Circuit's decision to resolve the dispute and bar further
+proceedings is at odds with governing law.  Judicial review of a labor-
+arbitration  decision pursuant to a collective-bargaining  agreement is
+very limited.  Courts are not authorized to review an arbitrator's de-
+cision on the merits despite allegations that the decision rests on fac-
+tual errors or misinterprets the parties' agreement.  Paperworkersv .
+Misco, Inc., 484 U. S. 29, 36. Only when the arbitrator effectively dis-
+penses his own brand of industrial justice may his decision be unenforce-
+able.  Steelworkers v. EnterpriseW  heel & Car Corp., 363 U.S.5 93,597.
+
+NEW PAGE
+
+Cite as: 532 U. S. 504 (2001)
+Per Curiam
+When the judiciary weighs a particular claim's merits, it usurps a func-
+tion entrusted to the arbitrator.  As a rule a court must not foreclose
+further proceedings by settling the merits according to its own judg-
+ment of the appropriate result.  It should simply vacate the award,
+leaving open the possibility of further proceedings if the agreement per-
+mits them.  The Ninth  Circuit recited these principles but erred in
+applying them.  In Garvey I, it overturned the arbitrator's decision be-
+cause it disagreed with his factual findings with respect to credibility,
+but even serious error on the arbitrator's part does not justify overturn-
+ing his decision where, as here, he is construing a contract and acting
+within the scope of his authority, Misco, supra, at 38.  And in Garvey
+II, the court resolved the dispute's merits based on its assessment of
+the record before the arbitrator, which it ordinarily cannot do, no matter
+how erroneous  the arbitrator's  decision, Misco, supra, at 40, n.  10.
+Even when the arbitrator's award may properly be vacated, the appro-
+priate remedy is to remand the case for further arbitration proceedings.
+Certiorari granted; 243 F. 3d 547, reversed and remanded.
+PER CURIAM.
+The Court of Appeals for the Ninth Circuit here rejected
+an arbitrator's factual findings and then resolved the merits
+of the parties' dispute instead of remanding the case for fur-
+ther arbitration proceedings.  Because the court's determi-
+nation conflicts with our cases limiting review of an arbitra-
+tor's award entered pursuant to an agreement between  an
+employer and a labor organization and prescribing the appro-
+priate remedy where vacation of the award is warranted, we
+grant the petition for a writ of certiorari and reverse.  The
+motions for leave to file briefs amicus curiae of the National
+Academy of Arbitrators and the Office of the Commissioner
+of Baseball are granted.
+In the late 1980's, petitioner Major League Baseball Play-
+ers  Association  (Association)  filed  grievances  against  the
+Major League Baseball Clubs (Clubs), claiming the Clubs had
+colluded in the market for free-agent services after the 1985,
+1986, and 1987 baseball seasons, in violation of the industry's
+collective-bargaining  agreement.  A free  agent is a  player
+who  may  contract  with  any  Club, rather  than  one  whose
+right to  contract  is  restricted  to a particular  Club.  In a
+
+NEW PAGE
+
+506  MAJOR  LEAGUE  BASEBALL PLAYERS ASSN. v. GARVEY
+Per Curiam
+series of decisions, arbitrators found collusion by the Clubs
+and  damage  to  the  players.  The  Association  and  Clubs
+subsequently  entered  into a  Global  Settlement  Agreement
+(Agreement), pursuant to which the Clubs established a $280
+million fund to be distributed to injured players.  The Asso-
+ciation also designed a "Framework" to evaluate the individ-
+ual player's  claims, and, applying that Framework,  recom-
+mended distribution plans for claims relating to a particular
+season or seasons.
+The  Framework provided that players  could seek an ar-
+bitrator's  review  of the  distribution  plan.  The  arbitrator
+would  determine  "'only  whether the approved  Framework
+and the criteria set forth therein have been properly applied
+in the proposed Distribution Plan."'  Garvey v. Roberts,2 03
+F. 3d 580, 583 (CA9 2000)  (Garvey I).  The Framework set
+forth factors to be considered in evaluating players' claims,
+as well  as specific requirements  for lost contract-extension
+claims.  Such claims were cognizable  "'only  in those cases
+where  evidence  exists that  a specific offer  of an extension
+was made by a club prior to collusion only to thereafter be
+withdrawn when the collusion scheme was initiated."'  Id.,
+at 584.
+Respondent Steve Garvey, a retired, highly regarded first
+baseman, submitted a claim for damages of approximately $3
+million.  He alleged that his contract  with the San Diego
+Padres was not extended to the 1988 and  1989 seasons  due
+to  collusion.  The  Association  rejected  Garvey's  claim  in
+February  1996, because he presented  no evidence that the
+Padres actually  offered to extend his contract.  Garvey ob-
+jected, and  an arbitration hearing was  held.  He testified
+that the Padres offered to extend his contract for the 1988
+and  1989  seasons  and then  withdrew  the offer  after they
+began  colluding  with  other  teams.  He  presented  a  June
+1996 letter from Ballard Smith, Padres' President and CEO
+from  1979 to 1987, stating that, before the end  of the 1985
+season,  Smith offered to  extend Garvey's contract through
+

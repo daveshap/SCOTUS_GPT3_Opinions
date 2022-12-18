@@ -1,0 +1,125 @@
+
+
+410  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF CURTIS V. TRINKO, LLP
+Opinion of the Court
+way.  In Aspen Skiing, what the defendant refused  to pro-
+vide to its competitor was a product  that it already sold at
+retail-to  oversimplify  slightly, lift  tickets  representing  a
+bundle of services  to skiers.  Similarly, in Otter Tail Power
+Co. v. United States, 410 U. S. 366 (1973),  another case relied
+upon by respondent, the defendant was already in the busi-
+ness  of  providing  a  service  to  certain  customers  (power
+transmission  over its network),  and refused  to provide  the
+same  service  to certain  other  customers.  Id.,  at  370-371,
+377-378.  In the present case, by contrast, the  services  al-
+legedly withheld are not otherwise marketed or available to
+the public.  The sharing obligation imposed by the 1996 Act
+created  "something brand new"--"the wholesale market for
+leasing network elements."  Verizon Communications Inc.
+v. FCC, 535  U. S., at 528.  The unbundled  elements  offered
+pursuant  to §251(c)(3)  exist only deep within the bowels of
+Verizon; they are brought out on compulsion of the 1996 Act
+and offered not to consumers but to rivals, and at consider-
+able  expense  and  effort.  New systems  must  be  designed
+and implemented  simply  to make  that access  possible-in-
+deed, it is the failure of one of those systems that prompted
+the present complaint.3
+We conclude that Verizon's alleged  insufficient assistance
+in the provision of service to rivals is not a recognized  anti-
+trust claim under this Court's  existing refusal-to-deal  prec-
+edents.  This  conclusion  would  be  unchanged  even  if  we
+considered to be established law the "essential facilities" doc-
+trine crafted by some lower courts, under which the Court
+of Appeals concluded  respondent's allegations might state a
+claim.  See generally  Areeda,  Essential Facilities:  An Epi-
+3Respondent also relies upon United States v. Terminal Railroad Assn.
+of St. Louis, 224 U. S. 383 (1912), and Associated Press v. United States,
+326 U. S. 1 (1945).  These cases involved concerted action, which presents
+greater anticompetitive  concerns and is amenable to a remedy that does
+not require judicial estimation of free-market forces: simply requiring that
+the outsider be granted nondiscriminatory admission to the club.
+
+NEW PAGE
+
+Cite as: 540 U. S. 398 (2004)
+Opinion of the Court
+thet in Need  of Limiting  Principles, 58 Antitrust  L. J. 841
+(1989).  We  have  never  recognized  such  a  doctrine,  see
+Aspen Skiing Co.,  472  U. S.,  at 611,  n. 44;  AT&T  Corp. v.
+Iowa Utilities Bd., 525 U. S., at 428 (opinion of BREYER, J.),
+and  we find no  need either  to  recognize  it or to  repudiate
+it  here.  It suffices  for  present  purposes  to  note  that  the
+indispensable  requirement  for invoking  the doctrine  is the
+unavailability of access to the "essential facilities"; where ac-
+cess exists, the doctrine serves no purpose.  Thus, it is said
+that "essential facility claims  should ...  be denied where a
+state or federal agency has effective power to compel sharing
+and to regulate its scope  and terms."  P. Areeda  & H. Ho-
+venkamp,  Antitrust  Law, p.  150,  773e  (2003  Supp.).  Re-
+spondent believes that the existence of sharing duties under
+the 1996 Act supports its case.  We think the opposite:  The
+1996  Act's extensive  provision for access  makes it unneces-
+sary to impose a judicial  doctrine of forced access.  To the
+extent respondent's "essential facilities" argument is distinct
+from its general § 2 argument, we reject it.
+IV
+Finally, we do not believe that traditional antitrust princi-
+ples justify adding the present case  to the few existing ex-
+ceptions  from the proposition  that  there is  no  duty to aid
+competitors.  Antitrust analysis must always be attuned to
+the particular  structure  and  circumstances  of the  industry
+at issue.  Part of that attention  to economic context  is an
+awareness  of the  significance  of regulation.  As  we  have
+noted, "careful account must be taken of the pervasive  fed-
+eral  and  state  regulation  characteristic  of the  industry."
+United States v. Citizens & Southern Nat. Bank, 422 U. S.
+86, 91 (1975);  see also IA P. Areeda & H. Hovenkamp, Anti-
+trust Law, p. 12,  240c3 (2d ed. 2000).  "[Alntitrust analysis
+must  sensitively  recognize  and  reflect  the  distinctive  eco-
+nomic  and legal setting  of the regulated industry  to which
+it applies."  Concord v. Boston Edison Co.,  915  F. 2d  17,
+
+NEW PAGE
+
+412  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF CURTIS V. TRINKO,  LLP
+Opinion of the Court
+22  (CA1  1990)  (Breyer,  C.  J.)  (internal  quotation  marks
+omitted).
+One  factor of particular importance is  the existence  of a
+regulatory structure designed to deter and remedy anticom-
+petitive  harm.  Where  such  a  structure  exists,  the  addi-
+tional benefit to competition provided  by antitrust enforce-
+ment  will  tend  to  be  small,  and  it  will  be  less  plausible
+that the antitrust laws contemplate such additional scrutiny.
+Where, by contrast, "[t]here  is nothing built into the regula-
+tory scheme which performs the antitrust function," Silver
+v. New  York  Stock  Exchange, 373 U. S. 341,  358 (1963),  the
+benefits  of antitrust are  worth  its  sometimes  considerable
+disadvantages.  Just  as  regulatory  context  may  in  other
+cases serve as a basis for implied immunity, see, e. g.,  United
+States v. National Assn.  of Securities Dealers, Inc.,  422
+U. S., at 730-735, it may also be a consideration in deciding
+whether to recognize an expansion of the contours of § 2.
+The regulatory  framework  that  exists in  this  case dem-
+onstrates how, in certain  circumstances,  "regulation  signif-
+icantly  diminishes  the likelihood of major  antitrust harm."
+Concord v. Boston Edison Co., supra, at 25.  Consider, for
+example, the statutory restrictions upon Verizon's entry into
+the  potentially  lucrative  market  for  long-distance  service.
+To be allowed to enter the long-distance  market in the first
+place, an incumbent  LEC  must be on  good behavior  in its
+local market.  Authorization by the FCC requires state-by-
+state  satisfaction  of § 271's  competitive  checklist,  which  as
+we have  noted includes  the nondiscriminatory  provision  of
+access  to UNEs.  Section 271  applications  to provide long-
+distance  service  have  now  been  approved  for  incumbent
+LECs in 47 States and the District of Columbia.  See FCC
+Authorizes SBC to Provide Long Distance Service in Illinois,
+Indiana, Ohio and Wisconsin (Oct. 15, 2003), http://hraunfoss.
+fcc.gov/edocs_  public/attachmatch/DOC-239978Al.pdf.
+The FCC's § 271 authorization order for Verizon to provide
+long-distance service in New York discussed at great length
+Verizon's commitments to provide access to UNEs, including
+

@@ -1,0 +1,134 @@
+
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  167 
+Syllabus 
+did Reeder even attempt to show that the compared dealers were con­
+sistently favored over it.  Reeder simply paired occasions on which it 
+competed with non-Volvo dealers for a sale to Customer A with in­
+stances in which other Volvo dealers competed with non-Volvo dealers 
+for a sale to Customer B.  The compared incidents were tied to no sys­
+tematic study and were separated in time by as many as seven months. 
+This Court declines to permit an inference of competitive injury from 
+evidence of such a mix-and-match, manipulable quality.  No similar risk 
+of manipulation occurs in cases kin to the chainstore paradigm.  Here, 
+there is no discrete “favored” dealer comparable to a chainstore or a 
+large independent department store—at least, Reeder’s evidence is in­
+sufﬁcient to support an inference that such a dealer exists.  For all that 
+appears, Reeder, on occasion, might have gotten a better deal vis-a`-vis 
+one or more of the dealers in its comparisons.  While Reeder may have 
+competed with other Volvo dealers for the opportunity to bid on poten­
+tial sales in a broad geographic area, competition at that initial stage is 
+based on a variety of factors, including the existence vel non of a rela­
+tionship between the potential bidder and the customer, geography, and 
+reputation.  Once the customer has chosen the particular dealers from 
+which it will solicit bids, the relevant market becomes limited to the 
+needs and demands of the particular end user, with only a handful of 
+dealers competing for the sale.  Volvo dealers’ bidding for sales in the 
+same geographic area does not import that they in fact competed for 
+the same customer-tailored sales.  Pp. 178–179. 
+(b) Nor is a Robinson-Patman violation established by Reeder’s ev­
+idence of two instances in which it competed head to head with another 
+Volvo dealer.  When multiple dealers bid for the business of the same 
+customer, only one dealer will win the business and thereafter purchase 
+the supplier’s product to fulﬁll its contractual commitment.  Even as­
+suming the Act applies to head-to-head transactions, Reeder did not 
+establish that it was disfavored vis-a`-vis other Volvo dealers in the rare 
+instances in which they competed for the same sale—let alone that the 
+alleged discrimination was substantial.  Reeder’s evidence showed loss 
+of only one sale to another Volvo dealer, a sale of 12 trucks that would 
+have generated $30,000 in gross proﬁts for Reeder.  Per its policy, Volvo 
+initially offered Reeder and the other dealer the same concession, but 
+ultimately granted a larger concession to the other dealer after it had 
+won the bid.  In the only other instance of head-to-head competition, 
+Volvo increased Reeder’s initial discount to match the discount offered 
+the other competing Volvo dealer, but neither dealer won the bid.  If 
+price discrimination between two purchasers existed at all, it was not 
+of such magnitude as to affect substantially competition between Reeder 
+and the “favored” Volvo dealer.  Pp. 179–180. 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+168  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Syllabus 
+3. The Robinson-Patman Act signals no large departure from antitrust 
+law’s primary concern, interbrand competition.  Even if the Act’s text 
+could be construed as Reeder urges and the Eighth Circuit held, this 
+Court would resist interpretation geared more to the protection of ex­
+isting competitors than to the stimulation of competition.  There is no 
+evidence here that any favored purchaser possesses market power, the 
+allegedly favored purchasers are dealers with little resemblance to large 
+independent department stores or chain operations, and the supplier’s 
+selective price discounting fosters competition among suppliers of differ­
+ent brands.  By declining to extend Robinson-Patman’s governance to 
+such cases, the Court continues to construe the Act consistently with 
+antitrust law’s broader policies.  Pp. 180–181. 
+374 F. 3d 701, reversed and remanded. 
+Ginsburg, J., delivered the opinion of the Court, in which Roberts, 
+C. J., and O’Connor, Scalia, Kennedy, Souter, and Breyer, JJ., joined. 
+Stevens, J., ﬁled a dissenting opinion, in which Thomas, J., joined, post, 
+p. 182. 
+Roy T. Englert, Jr.,  argued the cause for petitioner.  With 
+him on the briefs were Donald J. Russell, Max Huffman, 
+and David L. Williams. 
+Deputy Solicitor General Hungar argued the cause for 
+the United States as amicus curiae urging reversal.  With 
+him on the brief were Solicitor General Clement, Assistant 
+Attorney General Pate, Deputy Assistant Attorney General 
+Delrahim, Jonathan  L. Marcus, Catherine  G. O’Sullivan, 
+and David Seidman. 
+Carter G. Phillips argued the cause for respondent.  With 
+him on the briefs were Richard D. Bernstein, Stephen B. 
+Kinnaird, and Joe D. Byars, Jr.* 
+*Briefs of amici curiae urging reversal were ﬁled for the American 
+Petroleum Institute by Carolyn F. Corwin, Harry M. Ng, and Douglas W. 
+Morris; for the National Electrical Manufacturers Association by Clark 
+R. Silcox; for the Truck Manufacturers Association et al. by G. Michael 
+Halfenger; and for the Washington Legal Foundation by Daniel J. Popeo 
+and David Price. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the National 
+Automobile  Dealers  Association  by  Paul  R.  Norman  and  Catherine 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  169 
+Opinion of the Court 
+Justice Ginsburg delivered the opinion of the Court. 
+This  case  concerns  specially  ordered  products—heavy­
+duty trucks supplied by Volvo Trucks North America, Inc. 
+(Volvo), and sold by franchised dealers through a competitive 
+bidding process.  In this process, the retail customer states 
+its  speciﬁcations  and  invites  bids,  generally  from  dealers 
+franchised by different manufacturers.  Only when a Volvo 
+dealer’s bid proves successful does the dealer arrange to pur­
+chase the trucks, which Volvo then builds to meet the cus­
+tomer’s speciﬁcations. 
+Reeder-Simco GMC, Inc. (Reeder), a Volvo dealer located 
+in Fort Smith, Arkansas, commenced suit against Volvo al­
+leging that Reeder’s sales and proﬁts declined because Volvo 
+offered other dealers more favorable price concessions than 
+those offered to Reeder.  Reeder sought redress for its al­
+leged losses under § 2 of the Clayton Act, 38 Stat. 730, as 
+amended by the Robinson-Patman Price Discrimination Act, 
+49 Stat. 1526, 15 U. S. C. § 13 (Robinson-Patman Act or Act), 
+and the Arkansas Franchise Practices Act, Ark. Code Ann. 
+§ 4–72–201 et seq. (2001).  Reeder prevailed at trial and on 
+appeal on both claims. 
+We  granted  review  on  the  federal  claim  to  resolve  the 
+question whether a manufacturer offering its dealers differ­
+ent wholesale prices may be held liable for price discrimina­
+tion proscribed by Robinson-Patman, absent a showing that 
+the manufacturer discriminated between dealers contempo­
+raneously competing to resell to the same retail customer. 
+While state law designed to protect franchisees may provide, 
+and in this case has provided, a remedy for the dealer ex­
+posed to conduct of the kind Reeder alleged, the Robinson-
+Patman Act, we hold, does not reach the case Reeder pre­
+sents.  The Act centrally addresses price discrimination in 
+cases involving competition between different purchasers for 
+Cetrangolo; and for the North American Equipment Dealers Association 
+et al. by Wayne A. Mack. 
+

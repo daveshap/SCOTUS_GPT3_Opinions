@@ -1,0 +1,134 @@
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+264  OCTOBER TERM, 2006 
+Syllabus 
+CREDIT SUISSE SECURITIES (USA) LLC, fka CREDIT 
+SUISSE FIRST BOSTON LLC, et al. v. BILLING et al. 
+certiorari to the united states court of appeals for 
+the second circuit 
+No. 05–1157.  Argued March 27, 2007—Decided June 18, 2007 
+Respondent investors ﬁled suit, alleging that petitioner investment banks, 
+acting as underwriters, violated antitrust laws when they formed syn­
+dicates  to  help  execute  initial  public  offerings  for  several  hundred 
+technology-related companies.  Respondents claim that the underwrit­
+ers unlawfully agreed that they would not sell newly issued securities 
+to a buyer unless the buyer committed (1) to buy additional shares of 
+that security later at escalating prices (known as “laddering”), (2) to 
+pay unusually high commissions on subsequent security purchases from 
+the underwriters, or (3) to purchase from the underwriters other less 
+desirable securities (known as “tying”).  The underwriters moved to 
+dismiss, claiming that federal securities law impliedly precludes applica­
+tion of antitrust laws to the conduct in question.  The District Court 
+dismissed the complaints, but the Second Circuit reversed. 
+Held: The securities law implicitly precludes the application of the anti­
+trust laws to the conduct alleged in this case.  Pp. 270–285. 
+(a) Where regulatory statutes are silent in respect to antitrust, courts 
+must determine whether, and in what respects, they implicitly preclude 
+the antitrust laws’ application.  Taken together, Silver v.  New York 
+Stock Exchange, 373 U. S. 341; Gordon v. New York Stock Exchange, 
+Inc., 422 U. S. 659; and United States v. National Assn. of Securities 
+Dealers, Inc., 422 U. S. 694 (NASD), make clear that a court deciding 
+this preclusion issue is deciding whether, given context and likely conse­
+quences, there is a “clear repugnancy” between the securities law and 
+the antitrust complaint, i. e., whether the two are “clearly incompatible.” 
+Moreover, Gordon and NASD, in ﬁnding sufﬁcient incompatibility to 
+warrant an implication of preclusion, treated as critical: (1) the existence 
+of regulatory authority under the securities law to supervise the activi­
+ties in question; (2) evidence that the responsible regulatory entities 
+exercise that authority; and (3) a resulting risk that the securities and 
+antitrust laws, if both applicable, would produce conﬂicting guidance, 
+requirements, duties, privileges, or standards of conduct.  In addition, 
+(4) in Gordon and NASD the possible conﬂict affected practices that lie 
+squarely within an area of ﬁnancial market activity that securities law 
+seeks to regulate.  Pp. 270–276. 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  265 
+Syllabus 
+(b) Several considerations—the underwriters’ efforts jointly to pro­
+mote and sell newly issued securities is central to the proper functioning 
+of well-regulated capital markets; the law grants the Securities and Ex­
+change Commission (SEC) authority to supervise such activities; and 
+the SEC has continuously exercised its legal authority to regulate this 
+type of conduct—show that the ﬁrst, second, and fourth conditions are 
+satisﬁed in this case.  This leaves the third condition: whether there is 
+a conﬂict rising to the level of incompatibility.  Pp. 276–277. 
+(c) The complaints here can be read as attacking the manner in which 
+the underwriters jointly seek to collect “excessive” commissions 
+through the practices of laddering, tying, and collecting excessive com­
+missions, which according to respondents the SEC itself has already 
+disapproved and, in all likelihood, will not approve in the foreseeable 
+future.  Nonetheless, certain considerations, taken together, lead to the 
+conclusion that securities law and antitrust law are clearly incompatible 
+in this context.  Pp. 278–285. 
+(1) First, to permit antitrust actions such as this threatens serious 
+securities-related harm.  For one thing, a ﬁne, complex, detailed line 
+separates activity that the SEC permits or encourages from activity 
+that it forbids.  And the SEC has the expertise to distinguish what 
+is forbidden from what is allowed.  For another thing, reasonable but 
+contradictory inferences may be drawn from overlapping evidence that 
+shows both unlawful antitrust activity and lawful securities marketing 
+activity.  Further, there is a serious risk that antitrust courts, with 
+different nonexpert judges and different nonexpert juries, will produce 
+inconsistent results.  Together these factors mean there is no practical 
+way to conﬁne antitrust suits so that they challenge only the kind of 
+activity the investors seek to target, which is presently unlawful and 
+will likely remain unlawful under the securities law.  Rather, these con­
+siderations suggest that antitrust courts are likely to make unusually 
+serious mistakes in this respect.  And that threat means that under­
+writers must act to avoid not simply conduct that the securities law 
+forbids, but also joint conduct that the securities law permits or encour­
+ages.  Thus, allowing an antitrust lawsuit would threaten serious harm 
+to the efﬁcient functioning of the securities market.  Pp. 279–283. 
+(2) Second, any enforcement-related need for an antitrust lawsuit 
+is unusually small.  For one thing, the SEC actively enforces the rules 
+and regulations that forbid the conduct in question.  For another, inves­
+tors harmed by underwriters’ unlawful practices may sue and obtain 
+damages under the securities law.  Finally, the fact that the SEC is 
+itself required to take account of competitive considerations when it cre­
+ates securities-related policy and embodies it in rules and regulations 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+266  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Syllabus 
+makes it somewhat less necessary to rely on antitrust actions to address 
+anticompetitive behavior.  Pp. 283–284. 
+(3) In sum, an antitrust action in this context is accompanied by a 
+substantial risk of injury to the securities markets and by a diminished 
+need for antitrust enforcement to address anticompetitive conduct.  To­
+gether these considerations indicate a serious conﬂict between applica­
+tion of the antitrust laws and proper enforcement of the securities law. 
+The Solicitor General’s proposal to avoid this conﬂict does not convinc­
+ingly address these concerns.  Pp. 284–285. 
+426 F. 3d 130, reversed. 
+Breyer, J., delivered the opinion of the Court, in which Roberts, C. J., 
+and Scalia, Souter, Ginsburg, and Alito, JJ., joined.  Stevens, J., 
+ﬁled an opinion concurring in the judgment, post, p. 285.  Thomas, J., 
+ﬁled a dissenting opinion, post, p. 287.  Kennedy, J., took no part in the 
+consideration or decision of the case. 
+Stephen M. Shapiro argued the cause for petitioners. 
+With him on the briefs were Kenneth S. Geller, Timothy S. 
+Bishop, John P. Schmitz, Robert B. McCaw, Louis R. Cohen, 
+Ali M. Stoeppelwerth, Noah A. Levine, Andrew J. Frack­
+man, Timothy J. Muris, Richard G. Parker, Carter G. Phil­
+lips,  A.  Robert  Pietrzak,  Andrew  B.  Clubok,  Brant  W. 
+Bishop, Bradley J. Bondi, Shepard Goldfein, Preeta D. Ban­
+sal, Richard A. Cirillo, Moses Silverman, Jon R. Roellke, 
+Jeffrey H. Drichta, Paul Gonson, Glenn R. Reichardt, Gan­
+dolfo V. DiBlasi, Penny Shane, David M. J. Rein, Randy M. 
+Mastro, John A. Herfort, Steven Wolowitz, Gerald J. Fields, 
+David W. Ichel, Jayma M. Meyer, John D. Donovan, Jr., and 
+Robert G. Jones. 
+Solicitor General Clement argued the cause for the 
+United  States  as  amicus  curiae.  With  him  on  the  brief 
+were Assistant Attorney General Barnett, Deputy Solici­
+tor  General  Hungar,  Deputy  Assistant  Attorney  General 
+Meyer, Douglas Hallward-Driemeier, Catherine G. O’Sulli­
+van, Nancy C. Garrison, and Richard M. Humes. 
+Christopher  Lovell  argued  the  cause  for  respondents. 
+With him on the brief for respondent Billing et al. were Gary 
+S. Jacobson, Melvyn I. Weiss, Howard B. Sirota, Fred Tay­
+

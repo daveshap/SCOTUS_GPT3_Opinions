@@ -1,0 +1,121 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+SCAUA, J., dissenting
+ought never to be construed to violate the law of nations if
+any other possible construction remains."  Murray v. Schoo-
+ner Charming Betsy, 2  Cranch  64,  118  (1804)  (Marshall,
+C. J.).  This canon is "wholly independent" of the presump-
+tion  against  extraterritoriality.  Aramco,  supra,  at  264
+(Marshall, J., dissenting).  It is relevant to determining the
+substantive reach of a statute because  "the law of nations,"
+or customary international law, includes limitations on a na-
+tion's exercise of its jurisdiction to prescribe.  See Restate-
+ment  (Third)  §§ 401-416.  Though  it  clearly  has  constitu-
+tional authority to do so, Congress is generally presumed not
+to have  exceeded  those  customary  international-law  limits
+on jurisdiction to prescribe.
+Consistent with that presumption,  this  and other  courts
+have frequently recognized  that, even  where the presump-
+tion  against  extraterritoriality  does  not  apply,  statutes
+should not be interpreted to regulate foreign persons or con-
+duct if that regulation would conflict with principles of inter-
+national law.  For example, in Romero v. InternationalT er-
+minal Operating Co.,  358  U. S.  354  (1959),  the  plaintiff, a
+Spanish sailor who had been injured while working aboard a
+Spanish-flag  and  Spanish-owned  vessel,  filed  a  Jones  Act
+claim  against  his  Spanish  employer.  The  presumption
+against  extraterritorial application  of federal  statutes  was
+inapplicable to the case, as the actionable tort had occurred
+in American  waters.  See id., at 383.  The Court nonethe-
+less stated that, "in the absence  of a contrary congressional
+direction,"  it would apply  "principles  of choice  of law  that
+are consonant with the needs of a general federal maritime
+law and  with due recognition  of our self-regarding respect
+for the relevant interests of foreign nations in the regulation
+of maritime  commerce  as part of the legitimate  concern of
+the international  community."  Id., at 382-383.  "The  con-
+trolling  considerations"  in  this  choice-of-law  analysis  were
+"the interacting interests of the United States and of foreign
+countries."  Id., at 383.
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+SCALIA, J., dissenting
+Romero referred to, and followed, the choice-of-law analy-
+sis set forth in Lauritzen v. Larsen, 345 U. S. 571 (1953).  As
+previously mentioned, Lauritzen also involved  a Jones Act
+claim brought by a foreign sailor against a foreign employer.
+The Lauritzen Court recognized the basic  problem: "If [the
+Jones  Act  were] read  literally, Congress  has  conferred  an
+American right of action which requires nothing more than
+that plaintiff be 'any seaman who shall suffer personal injury
+in the course of his employment."'  Id., at, 576.  The  solu-
+tion it adopted  was to construe  the statute  "to  apply  only
+to areas and transactions in which American law would be
+considered operative under prevalent doctrines of interna-
+tional law."  Id., at 577 (emphasis added).  To support ap-
+plication of international  law to limit the facial  breadth  of
+the statute, the Court relied upon-of course-Chief Justice
+Marshall's  statement in Schooner Charming Betsy, quoted
+supra,a t 814-815.  It then set forth "several factors which,
+alone or in combination, are generally  conceded to influence
+choice of law to govern a tort claim."  345 U. S., at 583;  see
+id., at 583-593  (discussing factors).  See also McCulloch v.
+Sociedad Nacional de Marineros de Honduras, 372 U. S. 10,
+21-22  (1963)  (applying Schooner Charming Betsy principle
+to  restrict application  of National  Labor  Relations  Act  to
+foreign-flag  vessels).
+Lauritzen, Romero, and McCulloch were maritime cases,
+but we have recognized the principle that the scope of gener-
+ally worded statutes must be construed in  light of interna-
+tional law in other areas as well.  See, e. g., Sale v. Haitian
+Centers Council, Inc.,  ante, at  178,  n.  35;  Weinberger v.
+Rossi, 456 U. S.  25, 32 (1982).  More  specifically, the princi-
+ple  was  expressed  in  United States  v. Aluminum  Co.  of
+America, 148 F. 2d 416 (CA2 1945), the decision that estab-
+lished the extraterritorial reach of the Sherman Act.  In his
+opinion  for the  court, Judge  Learned  Hand  cautioned  "we
+are not to read general words, such as those in [the Sherman]
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SCALIA, J., dissenting
+Act, without regard to the limitations customarily observed
+by  nations  upon  the  exercise  of their  powers;  limitations
+which generally correspond to those fixed by the 'Conflict of
+Laws."'  Id., at 443.
+More recent lower court precedent has also tempered the
+extraterritorial application  of the Sherman Act with consid-
+erations of "international comity."  See Timberlane Lumber
+Co. v. Bank of America, N. T & S. A., 549 F. 2d 597, 608-615
+(CA9 1976); Mannington Mills, Inc. v. Congo leum Corp., 595
+F. 2d 1287,  1294-1298 (CA3 1979); Montreal Trading Ltd. v.
+Amax  Inc., 661 F. 2d 864, 869-871 (CA10 1981); Laker Air-
+ways Limited v. Sabena, Belgian World Airlines, 235 U. S.
+App. D. C. 207, 236, and n. 109, 731 F. 2d 909, 938, and n. 109
+(1984);  see  also Pacific Seafarers, Inc. v. Pacific Far East
+Line, Inc., 131  U. S. App. D. C. 226, 236, and n. 31, 404 F. 2d
+804, 814,  and  n.  31  (1968).  The  "comity"  they  refer  to is
+not the comity of courts, whereby judges decline to exercise
+jurisdiction over matters more appropriately adjudged  else-
+where, but rather what might be termed "prescriptive com-
+ity": the respect sovereign nations afford each other by limit-
+ing the  reach  of their laws.  That  comity  is  exercised  by
+legislatures when they enact laws, and courts assume it has
+been  exercised  when  they  come  to interpreting  the  scope
+of laws  their legislatures  have enacted.  It is a traditional
+component  of choice-of-law  theory.  See J. Story, Commen-
+taries on the Conflict of Laws § 38 (1834)  (distinguishing be-
+tween the "comity of the courts" and the "comity of nations,"
+and defining the latter as "the true foundation and extent of
+the obligation of the laws of one nation within the territories
+of another").  Comity in  this  sense  includes  the choice-of-
+law principles that, "in the absence of contrary congressional
+direction,"  are assumed to be incorporated into our substan-
+tive laws  having extraterritorial reach.  Romero, supra, at
+382-383;  see  also  Lauritzen, supra, at  578-579;  Hilton v.
+Guyot, 159 U. S.1 13, 162-166 (1895).  Considering comity in
+

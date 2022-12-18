@@ -1,0 +1,135 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+450  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+insufﬁcient assistance in the provision of service to rivals” 
+did not violate the Sherman Act.  Id., at 410.  Trinko thus 
+makes clear that if a ﬁrm has no antitrust duty to deal with 
+its competitors at wholesale, it certainly has no duty to deal 
+under  terms  and  conditions  that  the  rivals  ﬁnd  commer­
+cially advantageous. 
+In this case, as in Trinko, the defendant has no antitrust 
+duty to deal with its rivals at wholesale; any such duty arises 
+only from FCC regulations, not from the Sherman Act.  See 
+supra, at 448.  There is no meaningful distinction between 
+the “insufﬁcient assistance” claims  we rejected in Trinko 
+and the plaintiffs’ price-squeeze claims in the instant case. 
+The Trinko plaintiff challenged the quality of Verizon’s inter­
+connection service, while this case involves a challenge to 
+AT&T’s pricing structure.  But for antitrust purposes, there 
+is no reason to distinguish between price and nonprice com­
+ponents of a transaction.  See, e. g., American Telephone & 
+Telegraph Co. v. Central Ofﬁce Telephone, Inc., 524 U. S. 214, 
+223 (1998) (“Any claim for excessive rates can be couched as 
+a claim for inadequate services and vice versa”).  The nub 
+of the complaint in both Trinko and this case is identical— 
+the plaintiffs alleged that the defendants (upstream monopo­
+lists) abused their power in the wholesale market to prevent 
+rival ﬁrms from competing effectively in the retail market. 
+Trinko holds that such claims are not cognizable under the 
+Sherman Act in the absence of an antitrust duty to deal. 
+The District Court and the Court of Appeals did not re­
+gard Trinko as controlling because that case did not directly 
+address price-squeeze claims.  503 F. 3d, at 883; App. to Pet. 
+for Cert. 86a; see also Brief for COMPTEL as Amicus Cu­
+riae 27–30.  This is technically true, but the reasoning of 
+Trinko  applies  with  equal  force  to  price-squeeze  claims. 
+AT&T could have squeezed its competitors’ proﬁts just as 
+effectively by providing poor-quality interconnection service 
+to the plaintiffs, as Verizon allegedly did in Trinko.  But a 
+ﬁrm with no duty to deal in the wholesale market has no 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  451 
+Opinion of the Court 
+obligation to deal under terms and conditions favorable to its 
+competitors.  If AT&T had simply stopped providing DSL 
+transport service to the plaintiffs, it would not have run afoul 
+of the Sherman Act.  Under these circumstances, AT&T was 
+not required to offer this service at the wholesale prices the 
+plaintiffs would have preferred. 
+2. The other component of a price-squeeze claim is the as­
+sertion  that  the  defendant’s  retail  prices  are  “too  low.” 
+Here too plaintiffs’ claims ﬁnd no support in our existing an­
+titrust doctrine. 
+“[C]utting prices in order to increase business often is the 
+very essence of competition.”  Matsushita Elec. Industrial 
+Co. v. Zenith Radio Corp., 475 U. S. 574, 594 (1986).  In cases 
+seeking to impose antitrust liability for prices that are too 
+low, mistaken inferences are “especially costly, because they 
+chill the very conduct the antitrust laws are designed to pro­
+tect.”  Ibid.; see also Brooke Group, 509 U. S., at 226; Car­
+gill, Inc. v.  Monfort of Colo., Inc., 479 U. S. 104, 121–122, 
+n. 17 (1986).  To avoid chilling aggressive price competition, 
+we  have  carefully  limited  the  circumstances  under  which 
+plaintiffs can state a Sherman Act claim by alleging that 
+prices are too low.  Speciﬁcally, to prevail on a predatory 
+pricing  claim,  a  plaintiff  must  demonstrate  that:  (1)  “the 
+prices complained of are below an appropriate measure of its 
+rival’s costs”; and (2) there is a “dangerous probability” that 
+the  defendant  will  be  able  to  recoup  its  “investment”  in 
+below-cost prices.  Brooke Group, supra, at 222–224.  “Low 
+prices beneﬁt consumers regardless of how those prices are 
+set, and so long as they are above predatory levels, they do 
+not threaten competition.”  Atlantic Richﬁeld Co. v.  USA 
+Petroleum Co., 495 U. S. 328, 340 (1990). 
+In the complaint at issue in this interlocutory appeal, App. 
+10–24, there is no allegation that AT&T’s conduct met either 
+of the Brooke Group requirements.  Recognizing a price­
+squeeze  claim  where  the  defendant’s  retail  price  remains 
+above cost would invite the precise harm we sought to avoid 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+452  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+in Brooke Group: Firms might raise their retail prices or 
+refrain from aggressive price competition to avoid potential 
+antitrust liability.  See 509 U. S., at 223 (“As a general rule, 
+the exclusionary effect of prices above a relevant measure of 
+cost either reﬂects the lower cost structure of the alleged 
+predator, and so represents competition on the merits, or is 
+beyond the practical ability of a judicial tribunal to control 
+without  courting  intolerable  risks  of  chilling  legitimate 
+price cutting”). 
+3. Plaintiffs’ price-squeeze claim, looking to the relation 
+between retail and wholesale prices, is thus nothing more 
+than an amalgamation of a meritless claim at the retail level 
+and a meritless claim at the wholesale level.  If there is no 
+duty to deal at the wholesale level and no predatory pricing 
+at the retail level, then a ﬁrm is certainly not required to 
+price both of these services in a manner that preserves its 
+rivals’ proﬁt margins.3 
+C 
+1. Institutional concerns also counsel against recognition 
+of such claims.  We have repeatedly emphasized the impor­
+tance of clear rules in antitrust law.  Courts are ill suited 
+“to  act  as  central  planners,  identifying  the  proper  price, 
+quantity, and other terms of dealing.”  Trinko, 540 U. S., at 
+408.  “ ‘No court should impose a duty to deal that it cannot 
+3 Like the Court of Appeals, 503 F. 3d, at 880, amici argue that price­
+squeeze claims have been recognized by Courts of Appeals for many years, 
+beginning with Judge Hand’s opinion in United States v. Aluminum Co. of 
+America, 148 F. 2d 416 (CA2 1945) (Alcoa).  In that case, the Government 
+alleged that Alcoa was using its monopoly power in the upstream alumi­
+num ingot market to squeeze the proﬁts of downstream aluminum sheet 
+fabricators.  The court concluded: “That it was unlawful to set the price 
+of ‘sheet’ so low and hold the price of ingot so high, seems to us unques­
+tionable, provided, as we have held, that on this record the price of ingot 
+must be regarded as higher than a ‘fair price.’ ”  Id., at 438.  Given devel­
+opments in economic theory and antitrust jurisprudence since Alcoa, we 
+ﬁnd our recent decisions in Trinko and Brooke Group more pertinent to 
+the question before us. 
+

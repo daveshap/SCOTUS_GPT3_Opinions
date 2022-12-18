@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": {
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Hartford Fire Ins. Co.", "California"],
+      "reasoning": "Opinion of the Court"
+    },
+    "St. Paul Fire & Marine Jins. Co. v. Barry": {
+      "@type": "CaseCitation",
+      "date": "1978",
+      "caseNumber": "438 U. S. 531",
+      "involvedParties": ["St. Paul Fire & Marine Jins. Co.", "Barry"],
+      "reasoning": "The one case in which we have found an activity to con- stitute  a  \"boycott\"  within  the meaning  of the  McCarran- Ferguson Act"
+    },
+    "United States v. South-Eastern Underwriters Assn.": {
+      "@type": "CaseCitation",
+      "date": "1944",
+      "caseNumber": "322 U. S. 533",
+      "involvedParties": ["United States", "South-Eastern Underwriters Assn."],
+      "reasoning": "A classic boycott, by primary insurers, of competitors who refused to join their price-fixing conspiracy"
+    },
+    "L. Sullivan, Law of Antitrust": {
+      "@type": "CaseCitation",
+      "date": "1977",
+      "caseNumber": "257",
+      "involvedParties": ["L. Sullivan"],
+      "reasoning": "Such concerted agreements do \"not coerc[e] anyone, at least in the usual sense of that word\""
+    }
+  }
+}

@@ -1,0 +1,123 @@
+
+
+Cite as: 533 U. S. 158 (2001)
+Opinion of the Court
+cate  crimes.  The  District Court,  citing Court  of Appeals
+precedent, dismissed the complaint.  Civ. No. 98-6859, 1999
+WL 771366, *3-4 (SDNY, Sept. 28, 1999).  And the Court of
+Appeals  affirmed that dismissal.  219 F. 3d  115 (CA2 2000)
+(per curiam).  In the appellate court's view, § 1962(c) applies
+only  where a plaintiff shows the existence  of two separate
+entities, a "person" and a distinct "enterprise," the affairs of
+which  that "person" improperly conducts.  Id.,  at 116.  In
+this instance, "it is undisputed that King was  an employee"
+of the corporation  Don  King Productions  and  also "acting
+within the scope of his authority."  Id., at 117.  Under the
+Court of Appeals'  analysis, King, in a legal sense, was part
+of, not separate from, the corporation.  There was no "per-
+son,"  distinct from  the "enterprise,"  who  improperly  con-
+ducted the "enterprise's affairs."  And thus § 1962(c)  did not
+apply.  Ibid.
+Other  Circuits, applying  § 1962(c)  in roughly  similar cir-
+cumstances,  have reached  a contrary conclusion.  See, e. g.,
+Brannon v. Boatmen's First Nat. Bank of Okla., 153 F. 3d
+1144,1148, n. 4 (CA10 1998); Richmond v. Nationwide Cassel
+L. P., 52 F. 3d 640, 647 (CA7 1995); JaguarC  ars, Inc. v. Royal
+Oaks Motor Car Co., 46 F. 3d 258, 265, 269 (CA3 1995); Sever
+v. Alaska Pulp Corp., 978 F. 2d 1529, 1534 (CA9 1992).  We
+granted  certiorari  to  resolve  the conflict.  We  now  agree
+with these Circuits and hold that the Second Circuit's inter-
+pretation of § 1962(c) is erroneous.
+We do not quarrel with the basic principle that to establish
+liability under § 1962(c) one must allege and prove the exist-
+ence of two distinct entities: (1) a "person"; and (2) an "enter-
+prise" that is not simply the same "person" referred  to by
+a different name.  The statute's language, read as ordinary
+English,  suggests  that  principle.  The  Act  says  that  it
+applies to  "person[s]"  who are  "employed  by  or associated
+with" the "enterprise."  § 1962(c).  In ordinary English one
+speaks of employing, being employed by, or associating with
+others, not oneself.  See Webster's Third New International
+Dictionary 132 (1993) (defining "associate"); id., at 743 (defin-
+
+NEW PAGE
+
+162  CEDRIC  KUSHNER  PROMOTIONS,  LTD. v. KING
+Opinion of the Court
+ing "employ").  In addition, the Act's purposes are consist-
+ent with that principle.  Whether the Act seeks to prevent
+a  person  from  victimizing, say, a  small  business,  S.  Rep.
+No. 91-617, p. 77 (1969),  or to prevent a person from using a
+corporation  for  criminal  purposes,  National Organization
+for Women, Inc. v. Scheidler, 510 U. S. 249, 259 (1994),  the
+person and the victim, or the person and the tool, are differ-
+ent entities, not the same.
+The Government reads § 1962(c) "to require some distinct-
+ness  between  the  RICO  defendant  and  the  RICO  enter-
+prise."  Brief for United States as Amicus Curiae 11.  And
+it says  that  this  requirement  is  "legally  sound  and  work-
+able."  Ibid.  We  agree  with  its  assessment,  particularly
+in light of the  fact that  12  Courts of Appeals have  inter-
+preted the statute as embodying some such distinctness re-
+quirement without  creating  discernible  mischief in the  ad-
+ministration  of RICO.  See  St.  Paul Mercury Ins. Co. v.
+Williamson, 224 F. 3d 425, 445 (CA5 2000);  United States v.
+Goldin Industries, Inc., 219  F. 3d  1268,  1270  (CAll) (en
+banc), cert.  denied,  531  U. S.  1102  (2000);  Begala v. PNC
+Bank, 214 F. 3d 776, 781  (CA6 2000), cert. denied, 531  U. S.
+1145 (2001); Doyle v. Hasbro, Inc., 103  F. 3d  186, 190 (CA1
+1996); Richmond, supra, at 646-647;  Gasoline Sales, Inc. v.
+Aero Oil Co.,  39 F. 3d 70,  72-73  (CA3  1994);  Confederate
+Memorial Assn.,  Inc.  v.  Hines, 995  F. 2d  295,  299-300
+(CADC 1993); Board of Cty. Comm'rs, San Juan Cty. v. Lib-
+erty Group, 965 F. 2d 879, 885 (CA10), cert. denied, 506 U. S.
+918 (1992); River City Markets, Inc. v. Fleming Foods West,
+Inc., 960 F. 2d 1458,  1461 (CA9 1992);  Busby v. Crown Sup-
+ply, Inc., 896 F. 2d 833, 840 (CA4 1990); Atlas Pile Driving
+Co. v. DiCon Financial Co., 886 F. 2d 986,  995 (CA8 1989);
+Bennett v. United States Trust Co. of New York,  770 F. 2d
+308, 315,  and n. 2  (CA2  1985),  cert.  denied, 474  U. S.  1058
+(1986);  see  also  Semiconductor Energy Laboratory Co. v.
+Samsung Electronics Co., 204 F. 3d 1368, 1383, n. 7 (CA Fed.
+2000) (approving of distinctness requirement in dicta), cert.
+
+NEW PAGE
+
+Cite as: 533 U. S. 158 (2001)
+Opinion of the Court
+denied, 531 U. S. 1050 (2001).  Indeed, this Court previously
+has said that liability "depends on showing that the defend-
+ants conducted or participated in the conduct of the 'enter-
+prise's affairs,' not just their own affairs."  Reves v. Ernst &
+Young, 507 U. S. 170, 185 (1993).
+While accepting  the "distinctness" principle, we nonethe-
+less disagree  with  the  appellate  court's  application  of that
+principle  to  the  present  circumstances-circumstances  in
+which  a  corporate  employee,  "acting  within  the  scope  of
+his authority," 219 F. 3d, at 117, allegedly conducts  the cor-
+poration's affairs  in a RICO-forbidden  way.  The corporate
+owner/employee, a natural person, is distinct from the corpo-
+ration itself, a legally different entity with different  rights
+and  responsibilities  due  to  its different  legal  status.  And
+we can find nothing in the statute that requires more "sepa-
+rateness" than that.  Cf. McCullough v. Suter, 757 F. 2d 142,
+144 (CA7 1985) (finding either formal or practical  separate-
+ness sufficient to be distinct under § 1962(c)).
+Linguistically speaking, an employee who conducts the af-
+fairs of a corporation  through illegal acts comes within the
+terms  of a statute that forbids  any  "person" unlawfully  to
+conduct  an "enterprise,"  particularly when the  statute  ex-
+plicitly defines "person" to include "any individual...  capa-
+ble of holding a legal or beneficial interest in property," and
+defines "enterprise" to include a "corporation."  18 U. S. C.
+§§ 1961(3),  (4).  And, linguistically  speaking, the employee
+and the corporation are different "persons," even where the
+employee is the corporation's sole owner.  After all, incorpo-
+ration's basic purpose is to create a distinct legal entity, with
+legal  rights,  obligations,  powers,  and  privileges  different
+from those of the natural individuals who created it, who own
+it, or whom it employs.  See United States v. Bestfoods, 524
+U. S.  51,  61-62  (1998);  Burnet v.  Clark, 287  U. S.  410, 415
+(1932);  1 W. Fletcher, Cyclopedia of the Law of Private Cor-
+porations  §§ 7, 14 (rev. ed. 1999).
+

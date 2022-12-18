@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "VerizonCommunicationsIncvLawOfficesofCurtisVTrinkoLLP",
+      "caseNumber": "404",
+      "date": "2004",
+      "involvedParties": [
+        "Verizon Communications Inc.",
+        "Law Offices of Curtis V. Trinko, LLP"
+      ],
+      "reasoning": "The District Court dismissed the complaint in its entirety. As to the antitrust portion, it concluded that respondent's allegations of deficient assistance to rivals failed to satisfy the requirements of § 2. The Court of Appeals for the Second Circuit reinstated the complaint in part, including the antitrust claim.",
+      "citation": "540 U.S. 398 (2004)"
+    },
+    {
+      "@id": "FCCConsentDecree",
+      "caseNumber": "404",
+      "date": "2000",
+      "involvedParties": [
+        "Verizon Communications Inc.",
+        "FCC"
+      ],
+      "reasoning": "Verizon entered its consent decree with the FCC.",
+      "citation": "15 FCC Red. 5415, 5421, 16 (2000)"
+    },
+    {
+      "@id": "PSCOrders",
+      "caseNumber": "404",
+      "date": "2000",
+      "involvedParties": [
+        "Verizon Communications Inc.",
+        "PSC"
+      ],
+      "reasoning": "Verizon incurred liability to the competitive LECs in the amount of $10 million. Under the consent decree and orders, Verizon was subjected to new performance measurements and new reporting requirements to the FCC and PSC, with additional penalties for continued noncompliance.",
+      "citation": "Order Addressing OSS Issues, MCI WorldCom, Inc. v. Bell Atlantic-New York, Nos. 00-C-0008, 00-C-0009, 99-C-0949, 2000 WL 1531916 (N. Y. PSC, July 27, 2000)"
+    },
+    {
+      "@id": "ShermanAct",
+      "caseNumber": "404",
+      "date": "1890",
+      "involvedParties": [
+        "U.S. Congress"
+      ],
+      "reasoning": "The complaint sought damages and injunctive relief for violation of § 2 of the Sherman Act, 15 U. S. C. § 2, pursuant to the remedy provisions of §§ 4 and 16 of the Clayton Act, 38 Stat. 731, as amended, 15 U. S. C. §§ 15, 26.",
+      "citation": "15 U.S.C. § 2"
+    },
+    {
+      "@id": "CommunicationsActof1934",
+      "caseNumber": "404",
+      "date": "1934",
+      "involvedParties": [
+        "U.S. Congress"
+      ],
+      "reasoning": "The complaint also alleged violations of the 1996 Act, § 202(a) of the Communications Act of 1934, 48 Stat. 1064, as amended, 47 U. S. C. § 151 et seq., and state law.",
+      "citation": "48 Stat. 1064, as amended, 47 U. S. C. § 151 et seq."
+    },
+    {
+      "@id": "1996Act",
+      "caseNumber": "404",
+      "date": "1996",
+      "involvedParties": [
+        "U.S. Congress"
+      ],
+      "reasoning": "The Act imposes a large number of duties upon incumbent LECs-above and beyond those basic responsibilities it imposes upon all carriers, such as assuring number portability and providing access to rights-of-way, see 47 U. S. C. §§ 251(b)(2), (4).",
+      "citation": "110 Stat. 143, 47 U. S. C. § 152, note"
+    }
+  ]
+}

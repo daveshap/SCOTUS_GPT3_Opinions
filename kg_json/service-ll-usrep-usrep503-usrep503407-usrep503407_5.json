@@ -1,0 +1,34 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "National Railroad Passenger Corporation v. Boston & Maine Corp.",
+  "caseNumber": "503 U. S. 407 (1992)",
+  "court": "Supreme Court of the United States",
+  "decisionDate": "1992",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "National Railroad Passenger Corporation"
+    },
+    {
+      "@type": "Organization",
+      "name": "Boston & Maine Corp."
+    }
+  ],
+  "reasoningForIncludingInOpinion": [
+    {
+      "@type": "LegalCase",
+      "name": "McCulloch v. Maryland",
+      "caseNumber": "4 Wheat. 316 (1819)",
+      "court": "Supreme Court of the United States",
+      "decisionDate": "1819"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "SEC v. Chenery Corp.",
+      "caseNumber": "318 U. S. 80 (1943)",
+      "court": "Supreme Court of the United States",
+      "decisionDate": "1943"
+    }
+  ]
+}

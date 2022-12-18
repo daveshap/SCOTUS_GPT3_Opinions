@@ -1,0 +1,127 @@
+
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  397 
+Opinion of the Court 
+I 
+The genesis of the underlying litigation in this case was 
+ConAgra’s attempt to enforce its patent for “A Method for 
+Browning Precooked Whole Muscle Meat Products,” U. S. 
+Patent No. 5,952,027 (’027 patent).  In early 2000, ConAgra 
+issued a general warning to companies who sold equipment 
+and processes for browning precooked meats explaining that 
+it intended to “ ‘aggressively protect all of [its] rights under 
+[the ’027] patent.’ ”  375 F. 3d 1341, 1344 (CA Fed. 2004). 
+Petitioner Unitherm sold such processes, but did not receive 
+ConAgra’s warning.  ConAgra also contacted its direct com­
+petitors in the precooked meat business, announcing that it 
+was “ ‘making the ’027 Patent and corresponding patents that 
+may issue available for license at a royalty rate of 10¢ per 
+pound.’ ”  Id.,  at  1345.  Jennie-O,  a direct  competitor,  re­
+ceived ConAgra’s correspondence and undertook an inves­
+tigation  to  determine  its  rights  and  responsibilities  with 
+regard  to  the  ’027  patent.  Jennie-O  determined  that  the 
+browning process it had purchased from Unitherm was the 
+same as the process described in the ’027 patent.  Jennie-O 
+further determined that the ’027 patent was invalid because 
+Unitherm’s  president  had  invented  the  process  described 
+in  that  patent  six  years  before  ConAgra  ﬁled  its  patent 
+application. 
+Consistent with these determinations, Jennie-O and Uni­
+therm jointly sued ConAgra in the Western District of Okla­
+homa.  As relevant here, Jennie-O and Unitherm sought a 
+declaration that the ’027 patent was invalid and unenforce­
+able, and alleged that ConAgra had violated § 2 of the Sher­
+man Act, ch. 647, 26 Stat. 209, as amended, 15 U. S. C. § 2, by 
+attempting to enforce a patent that was obtained by commit­
+ting fraud on the Patent and Trademark Ofﬁce (PTO).  See 
+Walker  Process  Equipment,  Inc.  v.  Food  Machinery  & 
+Chemical Corp., 382 U. S. 172, 174 (1965) (holding that “the 
+enforcement of a patent procured by fraud on the Patent 
+Ofﬁce may be violative of § 2 of the Sherman Act provided 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+398  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+the  other  elements  necessary  to  a  § 2  case  are  present”). 
+The District Court construed the ’027 patent and determined 
+that it was invalid based on Unitherm’s prior public use and 
+sale of the process described therein.  35 U. S. C. § 102(b). 
+After dismissing Jennie-O for lack of antitrust standing, the 
+District Court allowed Unitherm’s Walker Process claim to 
+proceed to trial.  Prior to the court’s submission of the case 
+to the jury, ConAgra moved for a directed verdict under 
+Rule 50(a) based on legal insufﬁciency of the evidence.  The 
+District Court denied that motion.1  The jury returned a 
+verdict for Unitherm, and ConAgra neither renewed its mo­
+tion for judgment as a matter of law pursuant to Rule 50(b), 
+nor moved for a new trial on antitrust liability pursuant to 
+Rule 59.2 
+On  appeal  to  the  Federal  Circuit,  ConAgra  maintained 
+that  there  was  insufﬁcient  evidence  to  sustain  the  jury’s 
+Walker Process verdict.  Although the Federal Circuit has 
+concluded that a party’s “failure to present the district court 
+with a post-verdict motion precludes appellate review of suf­
+ﬁciency of the evidence,” Biodex Corp. v. Loredan Biomedi­
+cal, Inc., 946 F. 2d 850, 862 (1991), in the instant case it was 
+bound to apply the law of the Tenth Circuit, 375 F. 3d, at 
+1365, n. 7 (“On most issues related to Rule 50 motions . . . 
+we generally apply regional circuit law unless the precise 
+1 Petitioner contends that respondent’s Rule 50(a) motion pertained only 
+to the fraud element of petitioner’s Walker Process claim, and that it did 
+not encompass the remaining antitrust elements of that claim.  Because 
+we conclude that petitioner is entitled to prevail irrespective of the scope 
+of respondent’s Rule 50(a) motion, we assume without deciding that that 
+motion pertained to all aspects of petitioner’s § 2 claim.  But see Amend­
+ments to Federal Rules of Civil Procedure, 134 F. R. D. 525, 687 (1991) 
+(“A post-trial motion for judgment can be granted only on grounds ad­
+vanced in the pre-verdict motion”). 
+2 While ConAgra did ﬁle a postverdict motion seeking a new trial on 
+antitrust damages, that motion did not seek to challenge the sufﬁciency of 
+the evidence establishing antitrust liability and thus has no bearing on the 
+instant case. 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  399 
+Opinion of the Court 
+issue  being  appealed  pertains  uniquely  to  patent  law”). 
+Under Tenth Circuit law, a party that has failed to ﬁle a 
+postverdict  motion  challenging  the  sufﬁciency  of  the  evi­
+dence may nonetheless raise such a claim on appeal, so long 
+as that party ﬁled a Rule 50(a) motion prior to submission of 
+the case to the jury.  Cummings v. General Motors Corp., 
+365 F. 3d 944, 950–951 (2004).  Notably, the only available 
+relief in such a circumstance is a new trial.  Id., at 951. 
+Freed to examine the sufﬁciency of the evidence, the Fed­
+eral  Circuit  concluded  that,  although  Unitherm  had  pre­
+sented sufﬁcient evidence to support a determination that 
+ConAgra had attempted to enforce a patent that it had ob­
+tained through fraud on the PTO, 375 F. 3d, at 1362, Uni­
+therm had failed to present evidence sufﬁcient to support 
+the remaining elements of its antitrust claim.  Id., at 1365 
+(“Unitherm failed to present any economic evidence capable 
+of  sustaining  its  asserted  relevant  antitrust  market,  and 
+little to support any other aspect of its Section 2 claim”). 
+Accordingly, it vacated the jury’s judgment in favor of Uni­
+therm and remanded for a new trial.  We granted certiorari, 
+543 U. S. 1186 (2005), and now reverse. 
+II 
+Federal Rule of Civil Procedure 50 sets forth the proce­
+dural requirements for challenging the sufﬁciency of the evi­
+dence in a civil jury trial and establishes two stages for such 
+challenges—prior to submission of the case to the jury, and 
+after the verdict and entry of judgment.  Rule 50(a) allows 
+a party to challenge the sufﬁciency of the evidence prior to 
+submission of the case to the jury, and authorizes the district 
+court to grant such motions at the court’s discretion: 
+“(a) Judgment as a Matter of Law. 
+“(1) If during a trial by jury a party has been fully 
+heard on an issue and there is no legally sufﬁcient evi­
+dentiary basis for a reasonable jury to ﬁnd for that party 
+on that issue, the court may determine the issue against 
+

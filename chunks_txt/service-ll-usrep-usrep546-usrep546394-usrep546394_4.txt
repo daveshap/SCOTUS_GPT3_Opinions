@@ -1,0 +1,131 @@
+
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  403 
+Opinion of the Court 
+Despite the straightforward language employed in Cone, 
+Globe Liquor, and Johnson, respondent maintains that those 
+cases dictate afﬁrmance here, because in each of those cases 
+the litigants secured a new trial.  But in each of those cases 
+the appellants moved for a new trial postverdict in the Dis­
+trict Court, and did not seek to establish their entitlement 
+to a  new trial  solely on  the basis  of a  denied Rule  50(a) 
+motion.  See Cone, supra, at 213 (noting that respondent 
+moved for a new trial); 5 Globe Liquor, supra, at 572 (“The 
+50(b),” 386 U. S., at 325.  Contrary to the dissent’s suggestion, Neely con­
+ﬁrms that the broad grant of authority to the courts of appeals in § 2106 
+must be exercised consistent with the requirements of the Federal Rules 
+of Civil Procedure as interpreted by this Court. 
+The dissent’s approach is not only foreclosed by authority of this Court, 
+it also may present Seventh Amendment concerns.  The implication of the 
+dissent’s interpretation of § 2106 is that a court of appeals would be free 
+to examine the sufﬁciency of the evidence regardless of whether the appel­
+lant had ﬁled a Rule 50(a) motion in the district court and, in the event 
+the appellant had ﬁled a Rule 50(a) motion, regardless of whether the 
+district court had ever ruled on that motion.  The former is squarely fore­
+closed by Slocum v. New York Life Ins. Co.,  228 U. S. 364 (1913), and the 
+latter is inconsistent with this Court’s explanation of the requirements of 
+the Seventh Amendment in Baltimore & Carolina Line, Inc. v. Redman, 
+295 U. S. 654, 658 (1935) (explaining that “under the pertinent rules of the 
+common law the court of appeals could set aside the verdict for error of 
+law, such as the trial court’s ruling respecting the sufﬁciency of the evi­
+dence, and direct a new trial, but could not itself determine the issues of 
+fact and direct a judgment for the defendant, for this would cut off the 
+plaintiff’s unwaived right to have the issues of fact determined by a jury” 
+(emphasis added)).  Indeed, Rule 50 was drafted with such concerns in 
+mind.  See 9A C. Wright & A. Miller, Federal Practice and Procedure 
+§ 2522, pp. 244–246 (2d ed. 1995) (hereinafter Federal Practice). 
+5 While the precise nature of the new trial motion at issue in Cone is 
+difﬁcult to ascertain from this Court’s description of that motion, the 
+Court of Appeals opinion in that case conﬁrms that the movant had prop­
+erly objected to the admission of certain evidence, and then moved post­
+verdict “for a new trial [on the basis of the inadmissible evidence] and 
+later renewed this motion upon the basis of newly-discovered evidence.” 
+West Virginia Pulp & Paper Co. v. Cone, 153 F. 2d 576, 580 (CA4 1946). 
+This Court did not disturb the Court of Appeals’ holding that formed the 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+404  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+respondents . . . moved for a new trial on the ground . . . that 
+there were many contested issues of fact”).  Indeed, John­
+son concluded that respondent was only entitled to a new 
+trial by virtue of its motion for such “within the time re­
+quired by Rule 50(b).”  344 U. S., at 54.  Accordingly, these 
+outcomes merely underscore our holding today—a party is 
+not entitled to pursue a new trial on appeal unless that party 
+makes  an  appropriate  postverdict  motion  in  the  district 
+court. 
+Our  determination  that  respondent’s  failure  to  comply 
+with Rule 50(b) forecloses its challenge to the sufﬁciency of 
+the evidence is further validated by the purported basis of 
+respondent’s appeal, namely, the District Court’s denial of 
+respondent’s  preverdict  Rule  50(a)  motion.  As  an  initial 
+matter, Cone, Globe Liquor, and Johnson unequivocally es­
+tablish that the precise subject matter of a party’s Rule 50(a) 
+motion—namely, its entitlement to judgment as a matter of 
+law—cannot be appealed unless that motion is renewed pur­
+suant to Rule 50(b).  Here, respondent does not seek to pur­
+sue on appeal the precise claim it raised in its Rule 50(a) 
+motion before the District Court—namely, its entitlement to 
+judgment as a matter of law.  Rather, it seeks a new trial 
+based on the legal insufﬁciency of the evidence.  But if, as 
+in Cone, Globe Liquor, and Johnson, a litigant that has failed 
+to ﬁle a Rule 50(b) motion is foreclosed from seeking the 
+relief it sought in its Rule 50(a) motion—i. e., the entry of 
+judgment—then surely respondent is foreclosed from seek­
+ing a new trial, relief it did not and could not seek in its 
+preverdict motion.  In short, respondent never sought a new 
+trial before the District Court, and thus forfeited its right to 
+do so on appeal.  Yakus v. United States, 321 U. S. 414, 444 
+(1944)  (“No  procedural  principle  is  more  familiar  to  this 
+Court than that a . . .  right may be forfeited . . . by the 
+basis of the movant’s entitlement to a new trial, namely, “the Circuit Court 
+of Appeals’ holding that there was prejudicial error in the admission of 
+evidence.”  330 U. S., at 215. 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  405 
+Opinion of the Court 
+failure to make timely assertion of the right before a tribunal 
+having jurisdiction to determine it”). 
+The text of Rule 50(b) conﬁrms that respondent’s prever­
+dict Rule 50(a) motion did not present the District Court 
+with the option of ordering a new trial.  That text provides 
+that a district court may only order a new trial on the basis 
+of issues raised in a preverdict Rule 50(a) motion when “rul­
+ing on a renewed motion” under Rule 50(b).  Accordingly, 
+even if the District Court was inclined to grant a new trial 
+on the basis of arguments raised in respondent’s preverdict 
+motion, it was without the power to do so under Rule 50(b) 
+absent a postverdict motion pursuant to that Rule.  Conse­
+quently, the Court of Appeals was similarly powerless. 
+Similarly, the text and application of Rule 50(a) support 
+our determination that respondent may not challenge the 
+sufﬁciency of the evidence on appeal on the basis of the Dis­
+trict Court’s denial of its Rule 50(a) motion.  The Rule pro­
+vides that “the court may determine” that “there is no le­
+gally sufﬁcient evidentiary basis for a reasonable jury to ﬁnd 
+for [a] party on [a given] issue,” and “may grant a motion for 
+judgment as a matter of law against that party . . . .”  (Em­
+phasis added.)  Thus, while a district court is permitted to 
+enter judgment as a matter of law when it concludes that 
+the evidence is legally insufﬁcient, it is not required to do so. 
+To the contrary, the district courts are, if anything, encour­
+aged to submit the case to the jury, rather than granting 
+such motions.  As Wright and Miller explain: 
+“Even at the close of all the evidence it may be desir­
+able to refrain from granting a motion for judgment as 
+a matter of law despite the fact that it would be possible 
+for the district court to do so.  If judgment as a matter 
+of law is granted and the appellate court holds that the 
+evidence in fact was sufﬁcient to go to the jury, an entire 
+new trial must be had.  If, on the other hand, the trial 
+court submits the case to the jury, though it thinks the 
+evidence insufﬁcient, ﬁnal determination of the case is 
+

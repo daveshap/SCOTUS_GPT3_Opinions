@@ -1,0 +1,125 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+270  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+tional charges  took the form  of (1) investor  promises “to 
+place bids . . . in the aftermarket at prices above the IPO 
+price” (i. e., “laddering” agreements); (2) investor “commit­
+ments  to  purchase  other,  less  attractive  securities”  (i. e., 
+“tying” arrangements); and (3) investor payment of “non­
+competitively  determined”  (i. e.,  excessive)  “commissions,” 
+including the “purchas[e] of an issuer’s shares in follow-up or 
+‘secondary’  public  offerings  (for  which  the  underwriters 
+would earn underwriting discounts).”  Id., at 12–13.  The 
+complaint added that the underwriters’ agreement to engage 
+in some or all of these practices artiﬁcially inﬂated the share 
+prices of the securities in question.  Id., at 32. 
+The underwriters moved to dismiss the investors’ com­
+plaints on the ground that federal securities law impliedly 
+precludes  application  of  antitrust  laws  to  the  conduct  in 
+question.  (The antitrust laws at issue include the commer­
+cial bribery provisions of the Robinson-Patman Act.)  The 
+District  Court  agreed  with  petitioners  and  dismissed  the 
+complaints against them.  See In re Initial Public Offering 
+Antitrust Litigation, 287 F. Supp. 2d 497, 524–525 (SDNY 
+2003) (IPO Antitrust).  The Court of Appeals for the Sec­
+ond  Circuit  reversed,  however,  and  reinstated  the  com­
+plaints.  426 F. 3d 130, 170, 172 (2005).  We granted the un­
+derwriters’ petition for certiorari.  And we now reverse the 
+judgment of the Court of Appeals. 
+II 
+A 
+Sometimes  regulatory  statutes  explicitly  state  whether 
+they preclude application of the antitrust laws.  Compare, 
+e. g., Webb-Pomerene Act, 15 U. S. C. § 62 (expressly provid­
+ing antitrust immunity), with § 601(b)(1) of the Telecommuni­
+cations Act of 1996, 47 U. S. C. § 152 (stating that antitrust 
+laws remain applicable).  See also Verizon Communications 
+Inc. v. Law Ofﬁces of Curtis V. Trinko, LLP, 540 U. S. 398, 
+406–407 (2004) (analyzing the antitrust saving clause of the 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  271 
+Opinion of the Court 
+Telecommunications  Act).  Where  regulatory  statutes  are 
+silent in respect to antitrust, however, courts must deter­
+mine whether, and in what respects, they implicitly preclude 
+application of the antitrust laws.  Those determinations may 
+vary from statute to statute, depending upon the relation 
+between the antitrust laws and the regulatory program set 
+forth in the particular statute, and the relation of the speciﬁc 
+conduct at issue to both sets of laws.  Compare Gordon, 422 
+U. S., at 689 (ﬁnding implied preclusion of antitrust laws); 
+and  NASD,  422  U. S.,  at  729–730  (same),  with  Otter  Tail 
+Power  Co.  v.  United States, 410 U. S. 366, 374–375 (1973) 
+(ﬁnding no implied immunity); Philadelphia Nat. Bank, 374 
+U. S., at 352 (same); and Silver, 373 U. S., at 360 (same).  See 
+also Phonetele, Inc. v. American Tel. & Tel. Co., 664 F. 2d 
+716, 727 (CA9 1981). 
+Three decisions from this Court speciﬁcally address the 
+relation  of  securities  law  to  antitrust  law.  In  Silver  the 
+Court considered a dealer’s claim that, by expelling him from 
+the New York Stock Exchange, the exchange had violated 
+the  antitrust  prohibition  against  group  “boycott[s].”  373 
+U. S., at 347.  The Court wrote that, where possible, courts 
+should “reconcil[e] the operation of both [i. e., antitrust and 
+securities] statutory schemes . . . rather than holding one 
+completely ousted.”  Id., at 357.  It also set forth a stand­
+ard, namely, that “[r]epeal [of the antitrust laws] is to be re­
+garded as implied only if necessary to make the Securities 
+Exchange Act work, and even then only to the minimum ex­
+tent necessary.”  Ibid.  And it held that the securities law 
+did  not  preclude  application  of  the  antitrust  laws  to  the 
+claimed boycott insofar as the exchange denied the expelled 
+dealer a right to fair procedures.  Id., at 359–360. 
+In reaching this conclusion, the Court noted that the SEC 
+lacked jurisdiction under the securities law “to review par­
+ticular  instances  of  enforcement  of  exchange  rules”;  that 
+“nothing [was] built into the regulatory scheme which per­
+forms the antitrust function of insuring” that rules that in­
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+272  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+jure competition are nonetheless “justiﬁed as furthering” le­
+gitimate regulatory “ends”; that the expulsion “would 
+clearly” violate “the Sherman Act unless justiﬁed by refer­
+ence to the purposes of the Securities Exchange Act”; and 
+that it could ﬁnd no such justifying purpose where the ex­
+change took “anticompetitive collective action . . .  without 
+according fair procedures.”  Id., at 357–358, 364 (emphasis 
+added). 
+In Gordon  the Court considered an  antitrust complaint 
+that essentially alleged “price ﬁxing” among stockbrokers. 
+It charged that members of the New York Stock Exchange 
+had agreed to ﬁx their commissions on sales under $500,000. 
+And it sought damages and an injunction forbidding future 
+agreements.  422 U. S., at 661, and n. 3.  The lawsuit was 
+ﬁled at a time when regulatory attitudes toward ﬁxed stock­
+broker commissions were changing.  The ﬁxed commissions 
+challenged in the complaint were applied during a period 
+when the SEC approved of the practice of ﬁxing broker­
+commission rates.  But Congress and the SEC had both sub­
+sequently disapproved for the future the ﬁxing of some of 
+those rates.  See id., at 690–691. 
+In deciding whether antitrust liability could lie, the Court 
+repeated  Silver’s  general  standard  in  somewhat  different 
+terms: It said that an “implied repeal” of the antitrust laws 
+would be found only “where there is a ‘plain repugnancy be­
+tween the antitrust and regulatory provisions.’ ”  422 U. S., 
+at 682 (quoting Philadelphia Nat. Bank, supra, at 350–351). 
+It then held that the securities laws impliedly precluded ap­
+plication  of  the  antitrust  laws  in  the  case  at  hand.  The 
+Court rested this conclusion on three sets of considerations. 
+For one thing, the securities law “gave the SEC direct regu­
+latory power over exchange rules and practices with respect 
+to the ﬁxing of reasonable rates of commission.”  422 U. S., 
+at 685 (internal quotation marks omitted).  For another, the 
+SEC had “taken an active role in review of proposed rate 
+changes during the last 15 years,” and had engaged in “con­
+

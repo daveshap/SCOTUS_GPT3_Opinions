@@ -1,0 +1,141 @@
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+164  OCTOBER TERM, 2005 
+Syllabus 
+VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+certiorari to the united states court of appeals for 
+the eighth circuit 
+No. 04–905.  Argued October 31, 2005—Decided January 10, 2006 
+Reeder-Simco GMC, Inc. (Reeder), an authorized dealer of heavy-duty 
+trucks manufactured by Volvo Trucks North America, Inc. (Volvo), gen­
+erally sold those trucks through an industry-wide competitive bidding 
+process, whereby the retail customer describes its speciﬁc product re­
+quirements and invites bids from dealers it selects based on such factors 
+as an existing relationship, geography, and reputation.  Once a Volvo 
+dealer receives the customer’s speciﬁcations, it requests from Volvo a 
+discount or “concession” off the wholesale price.  Volvo decides on a 
+case-by-case basis whether to offer a concession.  The dealer then uses 
+its Volvo discount in preparing its bid; it purchases trucks from Volvo 
+only if and when the retail customer accepts its bid.  Reeder was one 
+of many regional Volvo dealers.  Although nothing prohibits a Volvo 
+dealer from bidding outside its territory, Reeder rarely bid against an­
+other Volvo dealer.  In the atypical case in which a retail customer so­
+licited a bid from more than one Volvo dealer, Volvo’s stated policy was 
+to provide the same price concession to each dealer.  In 1997, after 
+Volvo announced plans to enlarge the size of its dealers’ markets and to 
+reduce by almost half the number of its dealers, Reeder learned that 
+Volvo had given another dealer a price concession greater than the dis­
+counts Reeder typically received. 
+Reeder, suspecting it was one of the dealers Volvo sought to elimi­
+nate, ﬁled this suit under, inter alia, § 2 of the Clayton Act, as amended 
+by the Robinson-Patman Act, 15 U. S. C. § 13, alleging that its sales and 
+proﬁts declined because Volvo offered other dealers more favorable 
+price concessions.  At trial, Reeder presented evidence of two instances 
+when it bid against another Volvo dealer for a particular sale.  In the 
+ﬁrst, although Volvo initially offered Reeder a lower concession, Volvo 
+ultimately  matched  the concession  offered  to  the competing  dealer. 
+Neither dealer won the bid.  In the second, Volvo initially offered the 
+two dealers the same concession, but increased the other dealer’s dis­
+count after it, rather than Reeder, was selected.  Reeder dominantly 
+relied on comparisons between concessions it received on four occasions 
+when it bid successfully against non-Volvo dealers (and thus purchased 
+Volvo trucks), with more favorable concessions other successful Volvo 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  165 
+Syllabus 
+dealers received in bidding processes in which Reeder did not partici­
+pate.  Reeder also compared concessions Volvo offered it on several oc­
+casions when it bid unsuccessfully against non-Volvo dealers (and there­
+fore did not purchase Volvo trucks), with more favorable concessions 
+accorded other Volvo dealers who gained contracts on which Reeder did 
+not bid.  Reeder did not look for instances in which it received a larger 
+concession than another Volvo dealer, but acknowledged it was “quite 
+possible” that such instances occurred.  Nor did Reeder offer any sta­
+tistical analysis revealing whether it was disfavored on average as com­
+pared to other dealers.  The jury found a reasonable possibility that 
+discriminatory pricing may have harmed competition between Reeder 
+and other Volvo dealers, that Volvo’s discriminatory pricing injured 
+Reeder, and that Reeder’s damages from Volvo’s Robinson-Patman vio­
+lation exceeded $1.3 million.  The District Court awarded treble dam­
+ages on the Robinson-Patman Act claim, and entered judgment. 
+Afﬁrming, the Eighth Circuit, among other things, noted the thresh­
+old requirement that Reeder show it was a “purchaser” within the Act’s 
+meaning; rejected Volvo’s contention that competitive bidding situations 
+do not give rise to Robinson-Patman claims; held that the four instances 
+in which Reeder purchased trucks following successful bids rendered it 
+a purchaser under the Act; determined that a jury could reasonably 
+decide Reeder was in actual competition with favored dealers at the 
+time price differentials were imposed; and held that the jury could prop­
+erly ﬁnd Reeder had proved competitive injury based on evidence that 
+(1) Volvo intended to reduce the number of its dealers, (2) Reeder 
+lost one contract for which it competed with another Volvo dealer, 
+(3) Reeder would have earned more proﬁts, had it received the conces­
+sions given other dealers, and (4) Reeder’s sales declined over time. 
+Held:	A manufacturer may not be held liable for secondary-line price dis­
+crimination under the Robinson-Patman Act in the absence of a showing 
+that the manufacturer discriminated between dealers competing to re­
+sell its product to the same retail customer.  The Act does not reach 
+the case Reeder presents.  It centrally addresses price discrimination 
+in cases involving competition between different purchasers for resale 
+of the purchased product.  Competition of that character ordinarily is 
+not involved when a product subject to special order is sold through a 
+customer-speciﬁc competitive bidding process.  Pp. 175–182. 
+1. Section 2 was enacted to curb ﬁnancially powerful corporations’ 
+use of localized price-cutting tactics that gravely impaired other sellers’ 
+competitive position.  FTC v. Anheuser-Busch, Inc., 363 U. S. 536, 543, 
+and n. 6.  Augmenting § 2, the Robinson-Patman Act targeted the per­
+ceived harm to competition occasioned by the advent of large chain­
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+166  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Syllabus 
+stores able to obtain lower prices for goods than smaller buyers could 
+demand.  Robinson-Patman does not ban all price differences charged 
+to  different  purchasers  of  similar  commodities,  but  proscribes  only 
+“price discrimination [that] threatens to injure competition,” Brooke 
+Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209, 220. 
+Of the three categories of competitive injury that may give rise to a 
+Robinson-Patman claim, secondary-line cases, like this one, involve price 
+discrimination that injures competition among the discriminating sell­
+er’s customers (here, Volvo’s dealerships).  Reeder has satisﬁed the 
+Act’s  ﬁrst  two  requirements  for  establishing  secondary-line  injury: 
+(1) The relevant Volvo truck sales were made in interstate commerce, 
+and (2) the trucks were of “like grade and quality,” 15 U. S. C. §13(a). 
+Because Reeder has not identiﬁed any differentially priced transaction 
+in which it was both a “purchaser” under the Act and “in actual competi­
+tion” with a favored purchaser for the same customer, see, e. g., FTC v. 
+Sun Oil Co., 371 U. S. 505, 518–519, Volvo and amicus United States 
+maintain that Reeder cannot satisfy the Act’s third and fourth require­
+ments—that (3) Volvo “discriminate[d] in price between” Reeder and 
+another purchaser of Volvo trucks, and (4) “the effect of such discrimina­
+tion may be . . . to injure, destroy, or prevent competition” to the advan­
+tage of a favored purchaser, i. e., one who “receive[d] the beneﬁt of such 
+discrimination,” 15 U. S. C. § 13(a).  Absent actual competition with a 
+favored Volvo dealer, Reeder cannot establish the competitive injury 
+the Act requires.  Pp. 175–177. 
+2. The injury to competition targeted by the Robinson-Patman Act is 
+not established by the selective comparisons Reeder presented at trial: 
+(1) comparisons of concessions Reeder received for four successful bids 
+against  non-Volvo  dealers,  with  larger  concessions  other  successful 
+Volvo dealers received for different sales on which Reeder did not bid 
+(purchase-to-purchase comparisons); (2) comparisons of concessions of­
+fered to Reeder in connection with several unsuccessful bids against 
+non-Volvo dealers, with greater concessions accorded other Volvo deal­
+ers who competed successfully for different sales on which Reeder did 
+not bid (offer-to-purchase comparisons); and (3) comparisons of two occa­
+sions on which Reeder bid against another Volvo dealer (head-to-head 
+comparisons).  Pp. 177–180. 
+(a) Because the purchase-to-purchase and offer-to-purchase com­
+parisons fail to show that Volvo sold at a lower price to Reeder’s “com­
+petitors,” those comparisons do not support an inference of competitive 
+injury.  See Falls City Industries, Inc. v. Vanco Beverage, Inc., 460 
+U. S. 428, 435.  Both types of comparisons fall short because in none 
+of the discrete instances on which Reeder relied did it compete with 
+beneﬁciaries of the alleged discrimination for the same customer.  Nor 
+

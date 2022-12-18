@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "549US2",
+      "date": "03-28-1012:12:49",
+      "caseNumber": "U15",
+      "involvedParties": "Weyerhaeuser Co. v. Ross-Simmons Hardwood Lumber Co.",
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "BrookeGroup",
+      "date": "509 U. S.",
+      "caseNumber": "222",
+      "involvedParties": "Plaintiff seeking to establish competitive injury resulting from a rival's low prices",
+      "reasoning": "Must prove that prices complained of are below an appropriate measure of its rival's costs"
+    },
+    {
+      "@id": "Matsushita",
+      "date": "475 U. S.",
+      "caseNumber": "574",
+      "involvedParties": "Predatory pricing scheme",
+      "reasoning": "Recognizing the centrality of recoupment to a predatory-pricing scheme"
+    },
+    {
+      "@id": "Cargill",
+      "date": "479 U. S.",
+      "caseNumber": "104",
+      "involvedParties": "Robinson-Patman Act",
+      "reasoning": "Primary-line competitive injury under the Robinson-Patman Act is of the same general character as the injury inflicted by predatory pricing schemes actionable under § 2 of the Sherman Act"
+    },
+    {
+      "@id": "AtlanticRichfield",
+      "date": "495 U. S.",
+      "caseNumber": "328",
+      "involvedParties": "Low prices benefit consumers regardless of how those prices are set",
+      "reasoning": "Discouraging a price cut and depriving consumers of the benefits of lower prices does not constitute sound antitrust policy"
+    },
+    {
+      "@id": "Kirkwood",
+      "date": "72 Antitrust L. J.",
+      "caseNumber": "625",
+      "involvedParties": "Predatory bidding scheme",
+      "reasoning": "Bids up the market price of a critical input to such high levels that rival buyers cannot survive"
+    },
+    {
+      "@id": "BlairHarrison",
+      "date": "76 Cornell L. Rev.",
+      "caseNumber": "297",
+      "involvedParties": "Monopsony power",
+      "reasoning": "Market power on the buy side of the market"
+    },
+    {
+      "@id": "Piraino",
+      "date": "56 Hastings L. J.",
+      "caseNumber": "1121",
+      "involvedParties": "Buyers' competitive conduct",
+      "reasoning": "A proposed antitrust approach to buyers' competitive conduct"
+    }
+  ]
+}

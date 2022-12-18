@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Volvo Trucks North America, Inc. v. Reeder-Simco GMC, Inc.",
+  "datePublished": "2006-06-19",
+  "caseNumber": "546 U.S. 164",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Volvo Trucks North America, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "Reeder-Simco GMC, Inc."
+    }
+  ],
+  "reasoningForIncluding": "The case involved a dispute between Volvo Trucks North America, Inc. and Reeder-Simco GMC, Inc. over the pricing of Volvo trucks.",
+  "details": {
+    "@type": "LegalCase",
+    "description": "Volvo manufactures heavy-duty trucks. Reeder sells new and used trucks, including heavy-duty trucks. Reeder became an authorized dealer of Volvo trucks in 1995, pursuant to a five-year franchise agreement that provided for automatic one-year extensions if Reeder met sales objectives set by Volvo. In 1997, Volvo announced a program it called “Volvo Vision,” in which the company addressed problems it faced in the market for heavy trucks, among them, the company’s assessment that it had too many dealers. Reeder filed suit against Volvo in February 2000, alleging losses attributable to Volvo’s violation of the Arkansas Franchise Practices Act and the Robinson-Patman Act."
+  }
+}

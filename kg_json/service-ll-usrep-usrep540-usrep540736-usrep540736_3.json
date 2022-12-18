@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/postal-service-v-flamingo-industries-usa-ltd",
+      "date": "2004",
+      "caseNumber": "540 U. S. 736",
+      "involvedParties": "Postal Service v. Flamingo Industries (USA) Ltd.",
+      "reasoning": "Opinion of the Court",
+      "citation": "Housing Administration v. Burr, 309 U. S. 242 (1940)"
+    },
+    {
+      "@id": "http://example.org/franchise-tax-bd-of-cal-v-postal-service",
+      "date": "1984",
+      "caseNumber": "467 U. S. 512",
+      "involvedParties": "Franchise Tax Bd. of Cal. v. Postal Service",
+      "reasoning": "The sue-and-be-sued clause must be given broad effect, and the Postal Service was required to respond to the administrative order even though it had not been issued by a judicial body.",
+      "citation": "Id., at 519-521"
+    },
+    {
+      "@id": "http://example.org/loeffler-v-frank",
+      "date": "1988",
+      "caseNumber": "486 U. S. 549",
+      "involvedParties": "Loeffler v. Frank",
+      "reasoning": "The Court allowed the interest, and in the course of its decision asserted, or repeated, formulations which indicate that the sue-and-be-sued clause effects a broad waiver of immunity.",
+      "citation": "Id., at 554-555"
+    },
+    {
+      "@id": "http://example.org/fdic-v-meyer",
+      "date": "1994",
+      "caseNumber": "510 U. S. 471",
+      "involvedParties": "FDIC v. Meyer",
+      "reasoning": "The Court explained that the interpretation of the waiver statute was just the initial part of a two-part inquiry. Even though sovereign immunity had been waived, there was the further, separate question whether the agency was subject to the substantive liability recognized in Bivens.",
+      "citation": "Id., at 483"
+    },
+    {
+      "@id": "http://example.org/sea-land-serv-inc-v-alaska-r-co",
+      "date": "1981",
+      "caseNumber": "659 F. 2d 243",
+      "involvedParties": "Sea-Land Serv., Inc. v. Alaska R. Co.",
+      "reasoning": "The Court of Appeals for the District of Columbia Circuit recognized the two distinct inquiries required when the question is whether the Government, or an entity it owns, is named as a defendant in a suit under the antitrust laws.",
+      "citation": "Id., at 245"
+    }
+  ]
+}

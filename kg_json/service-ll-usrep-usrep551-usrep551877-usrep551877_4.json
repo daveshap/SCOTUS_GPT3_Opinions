@@ -1,0 +1,73 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/LeeginCreativeLeatherProductsIncvPSKSInc",
+      "date": "09-20-1121:22:06",
+      "caseNumber": "551US2",
+      "involvedParties": ["Leegin Creative Leather Products, Inc.", "PSKS, Inc."],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "http://schema.org/CopperweldCorpvIndependenceTubeCorp",
+      "date": "1984",
+      "caseNumber": "467U.S.752",
+      "involvedParties": ["Copperweld Corp.", "Independence Tube Corp."],
+      "reasoning": "Equating the rule of reason with an inquiry into market power and market structure designed to assess a restraint’s actual effect"
+    },
+    {
+      "@id": "http://schema.org/IllinoisToolWorksIncvIndependentInkInc",
+      "date": "2006",
+      "caseNumber": "547U.S.28",
+      "involvedParties": ["Illinois Tool Works Inc.", "Independent Ink, Inc."],
+      "reasoning": "Distinguishing between restraints with anticompetitive effect that are harmful to the consumer and restraints stimulating competition that are in the consumer’s best interest"
+    },
+    {
+      "@id": "http://schema.org/TexacoIncvDagher",
+      "date": "2005",
+      "caseNumber": "547U.S.1",
+      "involvedParties": ["Texaco, Inc.", "Dagher"],
+      "reasoning": "Horizontal agreements among competitors to fix prices"
+    },
+    {
+      "@id": "http://schema.org/PalmervBRGofGaInc",
+      "date": "1990",
+      "caseNumber": "498U.S.46",
+      "involvedParties": ["Palmer", "BRG of Ga., Inc."],
+      "reasoning": "Horizontal agreements among competitors to divide markets"
+    },
+    {
+      "@id": "http://schema.org/BusinessElectronicsCorpvSharpElectronicsCorp",
+      "date": "1988",
+      "caseNumber": "485U.S.717",
+      "involvedParties": ["Business Electronics Corp.", "Sharp Electronics Corp."],
+      "reasoning": "Resort to per se rules is conﬁned to restraints, like those mentioned, “that would always or almost always tend to restrict competition and decrease output"
+    },
+    {
+      "@id": "http://schema.org/NorthwestWholesaleStationersIncvPaciﬁcStationery&PrintingCo",
+      "date": "1985",
+      "caseNumber": "472U.S.284",
+      "involvedParties": ["Northwest Wholesale Stationers, Inc.", "Paciﬁc Stationery & Printing Co."],
+      "reasoning": "Restraints that are per se unlawful include horizontal agreements among competitors to ﬁx prices, or to divide markets"
+    },
+    {
+      "@id": "http://schema.org/DrMilesMedicalCovJohnDPark&SonsCo",
+      "date": "1911",
+      "caseNumber": "220U.S.373",
+      "involvedParties": ["Dr. Miles Medical Co.", "John D. Park & Sons Co."],
+      "reasoning": "Establishing a per se rule against a vertical agreement between a manufacturer and its distributor to set minimum resale prices"
+    },
+    {
+      "@id": "http://schema.org/MonsantoCovSpray-RiteServiceCorp",
+      "date": "1984",
+      "caseNumber": "465U.S.752",
+      "involvedParties": ["Monsanto Co.", "Spray-Rite Service Corp."],
+      "reasoning": "Relying on the common-law rule that “a general restraint upon alienation is ordinarily invalid"
+    },
+    {
+      "@id": "http://schema.org/GTE

@@ -1,0 +1,128 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+910  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+would make minimum resale price maintenance always (or 
+almost always) unlawful?  Should they apply a “rule of rea­
+son”?  Were the Court writing on a blank slate, I would ﬁnd 
+these questions difﬁcult.  But, of course, the Court is not 
+writing on a blank slate, and that fact makes a considerable 
+legal difference. 
+To best explain why the question would be difﬁcult were 
+we deciding it afresh, I brieﬂy summarize several classical 
+arguments for and against the use of a per se rule.  The 
+arguments focus on three sets of considerations, those in­
+volving:  (1)  potential  anticompetitive  effects,  (2)  potential 
+beneﬁts, and (3) administration.  The difﬁculty arises out of 
+the fact that the different sets of considerations point in dif­
+ferent  directions.  See,  e. g.,  8  P.  Areeda,  Antitrust  Law 
+¶¶ 1628–1633,  pp.  330–392  (1st  ed.  1989)  (hereinafter 
+Areeda);  8  P.  Areeda  &  H.  Hovenkamp,  Antitrust  Law 
+¶¶ 1628–1633,  pp.  288–339  (2d  ed.  2004)  (hereinafter 
+Areeda & Hovenkamp); Easterbrook, Vertical Arrangements 
+and the Rule of Reason, 53 Antitrust L. J. 135, 146–152 (1984) 
+(hereinafter Easterbrook); Pitofsky, In Defense of Discount­
+ers: The No-Frills Case for a Per Se Rule Against Vertical 
+Price Fixing, 71 Geo. L. J. 1487 (1983) (hereinafter Pitofsky); 
+Scherer, The Economics of Vertical Restraints, 52 Antitrust 
+L. J. 687, 706–707 (1983) (hereinafter Scherer); Posner, The 
+Next Step in the Antitrust Treatment of Restricted Distri­
+bution: Per Se Legality, 48 U. Chi. L. Rev. 6, 22–26 (1981); 
+Brief for William S. Comanor et al. as Amici Curiae 7–10. 
+On  the  one  hand,  agreements  setting  minimum  resale 
+prices may have serious anticompetitive consequences.  In 
+respect  to  dealers:  Resale  price  maintenance  agreements, 
+rather  like  horizontal  price  agreements,  can  diminish  or 
+eliminate price competition among dealers of a single brand 
+or (if practiced generally by manufacturers) among multi­
+brand dealers.  In doing so, they can prevent dealers from 
+offering  customers  the  lower  prices  that  many  customers 
+prefer; they can prevent dealers from responding to changes 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  911 
+Breyer, J., dissenting 
+in demand, say, falling demand, by cutting prices; they can 
+encourage dealers to substitute service, for price, competi­
+tion, thereby threatening wastefully to attract too many re­
+sources into that portion of the industry; they can inhibit 
+expansion  by  more  efﬁcient  dealers  whose  lower  prices 
+might otherwise attract more customers, stiﬂing the devel­
+opment  of  new,  more  efﬁcient  modes  of  retailing;  and  so 
+forth.  See, e. g., 8 Areeda & Hovenkamp ¶ 1632c, at 319– 
+321; Steiner, The Evolution and Applications of Dual-Stage 
+Thinking,  49  The  Antitrust  Bulletin  877,  899–900  (2004); 
+Comanor,  Vertical  Price-Fixing,  Vertical  Market  Restric­
+tions, and the New Antitrust Policy, 98 Harv. L. Rev. 983, 
+990–1000 (1985). 
+In respect to producers: Resale price maintenance agree­
+ments can help to reinforce the competition-inhibiting behav­
+ior of ﬁrms in concentrated industries.  In such industries 
+ﬁrms may tacitly collude, i. e., observe each other’s pricing 
+behavior, each understanding that price cutting by one ﬁrm 
+is likely to trigger price competition by all.  See 8 Areeda & 
+Hovenkamp  ¶ 1632d,  at  321–323;  P.  Areeda  &  L.  Kaplow, 
+Antitrust  Analysis  ¶¶ 231–233,  pp.  276–283  (4th  ed.  1988) 
+(hereinafter Areeda & Kaplow).  Cf. United States v. Con­
+tainer  Corp.  of  America,  393  U. S.  333  (1969);  Areeda  & 
+Kaplow  ¶¶ 247–253,  at  327–348.  Where  that  is  so,  resale 
+price maintenance can make it easier for each producer to 
+identify (by observing retail markets) when a competitor has 
+begun to cut prices.  And a producer who cuts wholesale 
+prices without lowering the minimum resale price will stand 
+to gain little, if anything, in increased proﬁts, because the 
+dealer will be unable to stimulate increased consumer de­
+mand by passing along the producer’s price cut to consumers. 
+In  either  case,  resale  price  maintenance  agreements  will 
+tend to prevent price competition from “breaking out”; and 
+they  will  thereby  tend  to  stabilize  producer  prices.  See 
+Pitofsky  1490–1491.  Cf.,  e. g.,  Container  Corp.,  supra,  at 
+336–337. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+912  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+Those who express concern about the potential anticom­
+petitive  effects  ﬁnd  empirical  support  in  the  behavior  of 
+prices before, and then after, Congress in 1975 repealed the 
+Miller-Tydings Fair Trade Act, 50 Stat. 693, and the McGuire 
+Act, 66 Stat. 631.  Those Acts had permitted (but not re­
+quired) individual States to enact “fair trade” laws author­
+izing  minimum  resale  price  maintenance.  At  the  time  of 
+repeal minimum resale price maintenance was lawful in 36 
+States; it was unlawful in 14 States.  See Hearings on S. 408 
+before the Subcommittee on Antitrust and Monopoly of the 
+Senate Committee on the Judiciary, 94th Cong., 1st Sess., 173 
+(1975) (hereinafter Hearings on S. 408) (statement of Thomas 
+E. Kauper, Assistant Attorney General, Antitrust Division). 
+Comparing prices in the former States with prices in the 
+latter States, the Department of Justice argued that mini­
+mum resale price maintenance had raised prices by 19% to 
+27%.  See Hearings on H. R. 2384 before the Subcommittee 
+on Monopolies and Commercial Law of the House Committee 
+on the Judiciary, 94th Cong., 1st Sess., 122 (1975) (hereinafter 
+Hearings on H. R. 2384) (statement of Keith I. Clearwaters, 
+Deputy Assistant Attorney General, Antitrust Division). 
+After repeal, minimum resale  price maintenance agree­
+ments were unlawful per se in every State.  The Federal 
+Trade  Commission  (FTC)  staff,  after  studying  numerous 
+price  surveys,  wrote  that  collectively  the  surveys  “indi­
+cate[d]  that  [resale  price  maintenance]  in  most  cases  in­
+creased the prices of products sold with [resale price mainte­
+nance].”  Bureau  of  Economics  Staff  Report  to  the  FTC, 
+T. Overstreet, Resale Price Maintenance: Economic Theories 
+and Empirical Evidence 160 (1983) (hereinafter Overstreet). 
+Most economists today agree that, in the words of a promi­
+nent antitrust treatise, “resale price maintenance tends to 
+produce higher consumer prices than would otherwise be the 
+case.”  8 Areeda & Hovenkamp ¶ 1604b, at 40 (ﬁnding “[t]he 
+evidence . . . persuasive on this point”).  See also Brief for 
+William S. Comanor et al. as Amici Curiae 4 (“It is uni­
+

@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "POSTAL SERVICE v. FLAMINGO INDUSTRIES (USA) LTD.",
+    "datePublished": "Jan. 23, 2004",
+    "caseNumber": "748",
+    "involvedParties": ["POSTAL SERVICE", "FLAMINGO INDUSTRIES (USA) LTD."],
+    "reasoning": "The Postal Service, in both form and function, is not a separate antitrust person from the United States. It is part of the Government of the United States and so is not controlled by the antitrust laws."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Cullinan",
+    "datePublished": "84-85, 107",
+    "involvedParties": ["Post Office Department"],
+    "reasoning": "The Post Office Department had nonpostal lines of business, such as money orders and postal savings accounts."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Revenue, Pieces, and Weight by Classes of Mail and Special Services for Government Fiscal Year 2003",
+    "datePublished": "http://www.usps.com/financials/_pdf/GFY03.pdf",
+    "involvedParties": ["Postal Service"],
+    "reasoning": "The great majority of the organization's business, however, consists of postal services."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "§ 403(a)",
+    "involvedParties": ["Postal Service"],
+    "reasoning": "In which it may seek profits to offset losses in the postal business."
+  }
+]

@@ -1,0 +1,127 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  267 
+Opinion of the Court 
+lor Isquith, J. Douglas Richards, Einer Elhauge, and Jona­
+than R. Macey.  Russel H. Beatie ﬁled a brief for respond­
+ent Pfeiffer.* 
+Justice Breyer delivered the opinion of the Court. 
+A group of buyers of newly issued securities have ﬁled an 
+antitrust lawsuit against underwriting ﬁrms that market and 
+distribute those issues.  The buyers claim that the under­
+writers unlawfully agreed with one another that they would 
+not sell shares of a popular new issue to a buyer unless that 
+buyer committed (1) to buy additional shares of that security 
+later  at  escalating  prices  (a  practice  called  “laddering”), 
+(2) to pay unusually high commissions on subsequent secu­
+rity  purchases  from  the  underwriters,  or  (3)  to  purchase 
+from the underwriters other less desirable securities (a prac­
+tice  called  “tying”).  The  question  before  us  is  whether 
+there  is  a  “ ‘plain  repugnancy’ ”  between  these  antitrust 
+claims and the federal securities law.  See Gordon v.  New 
+York Stock Exchange, Inc., 422 U. S. 659, 682 (1975) (quoting 
+United States v. Philadelphia Nat. Bank, 374 U. S. 321, 350– 
+351 (1963)).  We conclude that there is.  Consequently we 
+must interpret the securities laws as implicitly precluding 
+the application of the antitrust laws to the conduct alleged 
+*Briefs of amici curiae urging reversal were ﬁled for the National Asso­
+ciation of Securities Dealers, Inc., by Theodore B. Olson, F. Joseph Warin, 
+Douglas R. Cox, and Amir C. Tayrani; for NYSE Group, Inc., by Jay N. 
+Fastow; for the Securities Industry and Financial Markets Association 
+et al. by Roy T. Englert, Jr., Gary A. Orseck, Robin S. Conrad, Amar D. 
+Sarwal, and Robert H. Bork; for the Washington Legal Foundation by 
+James A. Meyers, Garret G. Rasmussen, Daniel J. Popeo, and Richard A. 
+Samp; and for W. R. Hambrecht + Co., LLC, by Paul Michael Kaplan. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the State of New 
+York by Andrew M. Cuomo, Attorney General, Barbara D. Underwood, 
+Solicitor General, Daniel Smirlock, Deputy Solicitor General, Andrew D. 
+Bing, Assistant Solicitor General, Richard E. Grimm, and Sarah M. Hub­
+bard, Assistant Attorney General; and for the American Antitrust Insti­
+tute by Joseph Goldberg and Daniel E. Gustafson. 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+268  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+in this case.  See 422 U. S., at 682, 689, 691; see also United 
+States v. National Assn. of Securities Dealers, Inc., 422 U. S. 
+694 (1975) (NASD); Silver v. New York Stock Exchange, 373 
+U. S. 341 (1963). 
+I
+ 
+A
+ 
+The underwriting practices at issue take place during the 
+course of an initial public offering (IPO) of shares in a com­
+pany.  An IPO presents an opportunity to raise capital for a 
+new enterprise by selling shares to the investing public.  A 
+group of underwriters will typically form a syndicate to help 
+market the shares.  The syndicate will investigate and esti­
+mate likely market demand for the shares at various prices. 
+It will then recommend to the ﬁrm a price and the number 
+of shares it believes the ﬁrm should offer.  Ultimately, the 
+syndicate will promise to buy from the ﬁrm all the newly 
+issued  shares  on  a  speciﬁed  date  at  a  ﬁxed,  agreed-upon 
+price, which price the syndicate will then charge investors 
+when it resells the shares.  When the syndicate buys the 
+shares from the issuing ﬁrm, however, the ﬁrm gives the 
+syndicate a price discount, which amounts to the syndicate’s 
+commission.  See generally L. Loss & J. Seligman, Funda­
+mentals of Securities Regulation 66–72 (4th ed. 2001). 
+At the heart of the syndicate’s IPO marketing activity lie 
+its efforts to determine suitable initial share prices and quan­
+tities.  At ﬁrst, the syndicate makes a preliminary estimate 
+that it submits in a registration statement to the Securities 
+and Exchange Commission (SEC).  It then conducts a “road 
+show” during which syndicate underwriters and representa­
+tives of the offering ﬁrm meet potential investors and engage 
+in a process that the industry calls “bookbuilding.”  During 
+this time, the underwriters and ﬁrm representatives present 
+information to investors about the company and the stock. 
+And they attempt to gauge the strength of the investors’ 
+interest in purchasing the stock.  For this purpose, under­
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  269 
+Opinion of the Court 
+writers  might  well  ask  the  investors  how  their  interest 
+would vary depending upon price and the number of shares 
+that  are  offered.  They  will  learn,  among  other  things, 
+which  investors  might  buy  shares,  in  what  quantities,  at 
+what prices, and for how long each is likely to hold purchased 
+shares before selling them to others. 
+On the basis of this kind of information, the members of 
+the  underwriting  syndicate  work  out  ﬁnal  arrangements 
+with the issuing ﬁrm, ﬁxing the price per share and specify­
+ing the number of shares for which the underwriters will be 
+jointly  responsible.  As  we  have  said,  after  buying  the 
+shares at a discounted price, the syndicate resells the shares 
+to investors at the ﬁxed price, in effect earning its commis­
+sion in the process. 
+B 
+In January 2002, respondents, a group of 60 investors, ﬁled 
+two  antitrust  class-action  lawsuits  against  petitioners,  10 
+leading investment banks.  They sought relief under § 1 of 
+the  Sherman  Act,  ch.  647,  26  Stat.  209,  as  amended,  15 
+U. S. C. § 1; § 2(c) of the Clayton Act, 38 Stat. 730, as amended 
+by  the  Robinson-Patman  Act,  49  Stat.  1527,  15  U. S. C. 
+§ 13(c); and state antitrust laws.  App. 1, 14.  The investors 
+stated  that  between  March  1997  and  December  2000  the 
+banks had acted as underwriters, forming syndicates that 
+helped  execute  the  IPOs  of  several  hundred  technology­
+related companies.  Id., at 22.  Respondents’ antitrust com­
+plaints allege that the underwriters “abused the . . . practice 
+of  combining  into  underwriting  syndicates”  by  agreeing 
+among themselves to impose harmful conditions upon poten­
+tial investors—conditions that the investors apparently were 
+willing  to accept  in  order  to  obtain  an  allocation  of  new 
+shares that were in high demand.  Id., at 12. 
+These conditions, according to respondents, consist of a re­
+quirement that the investors pay “additional anticompetitive 
+charges” over and above the agreed-upon IPO share price 
+plus  underwriting  commission.  In  particular,  these  addi­
+

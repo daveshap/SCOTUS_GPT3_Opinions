@@ -1,0 +1,51 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "cite:540_U_S_398_2004",
+      "cite": "540 U. S. 398 (2004)",
+      "date": "2004",
+      "caseNumber": "02-7057",
+      "parties": "Covad Communications Co. v. Bell Atlantic Corp. (CADC)",
+      "reasoning": "The complaint alleges that Verizon denied interconnection services to rivals in order to limit entry."
+    },
+    {
+      "@id": "cite:15_U_S_C_2",
+      "cite": "15 U. S. C. § 2",
+      "date": "1890",
+      "caseNumber": "Sherman Act",
+      "parties": "United States v. Grinnell Corp.",
+      "reasoning": "The offense requires, in addition to the possession of monopoly power in the relevant market, 'the willful acquisition or maintenance of that power as distinguished from growth or development as a consequence of a superior product, business acumen, or historic accident.'"
+    },
+    {
+      "@id": "cite:250_U_S_300",
+      "cite": "250 U. S. 300 (1919)",
+      "date": "1919",
+      "caseNumber": "United States v. Colgate & Co.",
+      "parties": "United States v. Colgate & Co.",
+      "reasoning": "Firms may acquire monopoly power by establishing an infrastructure that renders them uniquely suited to serve their customers."
+    },
+    {
+      "@id": "cite:472_U_S_585",
+      "cite": "472 U. S. 585 (1985)",
+      "date": "1985",
+      "caseNumber": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "parties": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "reasoning": "Under certain circumstances, a refusal to cooperate with rivals can constitute anticompetitive conduct and violate § 2."
+    },
+    {
+      "@id": "cite:540_U_S_398_2004_2",
+      "cite": "540 U. S. 398 (2004)",
+      "date": "2004",
+      "caseNumber": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "parties": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "The refusal to deal alleged in the present case does not fit within the limited exception recognized in Aspen Skiing."
+    }
+  ]
+}

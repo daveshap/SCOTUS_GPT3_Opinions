@@ -1,0 +1,124 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  919 
+Breyer, J., dissenting 
+A 
+I can ﬁnd no change in circumstances in the past several 
+decades that helps the majority’s position.  In fact, there has 
+been one important change that argues strongly to the con­
+trary.  In 1975, Congress repealed the McGuire and Miller-
+Tydings Acts.  See Consumer Goods Pricing Act of 1975, 89 
+Stat. 801.  And it thereby consciously extended Dr. Miles’ 
+per se rule.  Indeed, at that time the Department of Justice 
+and the FTC, then urging application of the per se rule, dis­
+cussed  virtually  every  argument  presented  now  to  this 
+Court as well as others not here presented.  And they ex­
+plained to Congress why Congress should reject them.  See 
+Hearings  on  S.  408,  at  176–177  (statement  of  Thomas  E. 
+Kauper, Assistant Attorney General, Antitrust Division); id., 
+at 170–172 (testimony of Lewis A. Engman, Chairman of the 
+FTC); Hearings on H. R. 2384, at 113–114 (testimony of Keith 
+I. Clearwaters, Deputy Assistant Attorney General, Anti­
+trust  Division).  Congress  fully  understood,  and  conse­
+quently intended, that the result of its repeal of McGuire 
+and Miller-Tydings would be to make minimum resale price 
+maintenance per se unlawful.  See, e. g., S. Rep. No. 94–466, 
+pp. 1–3 (1975) (“Without [the exemptions authorized by the 
+Miller-Tydings and McGuire Acts,] the agreements they au­
+thorize would violate the antitrust laws. . . . [R]epeal of the 
+fair trade laws generally will prohibit manufacturers from 
+enforcing resale prices”).  See also Sylvania, supra, at 51, 
+n. 18 (“Congress recently has expressed its approval of a per 
+se analysis of vertical price restrictions by repealing those 
+provisions of the Miller-Tydings and McGuire Acts allowing 
+fair-trade pricing at the option of the individual States”). 
+Congress did not prohibit this Court from reconsidering 
+the per se rule.  But enacting major legislation premised 
+upon the existence of that rule constitutes important public 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+920  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+reliance upon that rule.  And doing so aware of the relevant 
+arguments  constitutes  even  stronger  reliance  upon  the 
+Court’s keeping the rule, at least in the absence of some sig­
+niﬁcant change in respect to those arguments. 
+Have there been any such changes?  There have been a 
+few economic studies, described in some of the briefs, that 
+argue, contrary to the testimony of the Justice Department 
+and the FTC to Congress in 1975, that resale price mainte­
+nance is not harmful.  One study, relying on an analysis of 
+litigated resale price maintenance cases from 1975 to 1982, 
+concludes that resale price maintenance does not ordinarily 
+involve producer or dealer collusion.  See Ippolito, Resale 
+Price Maintenance: Empirical Evidence from Litigation, 34 
+J. Law & Econ. 263, 281–282, 292 (1991).  But this study 
+equates the failure of plaintiffs to allege collusion with the 
+absence of collusion—an equation that overlooks the super­
+ﬂuous nature of allegations of horizontal collusion in a resale 
+price maintenance case and the tacit form that such collusion 
+might take.  See H. Hovenkamp, Federal Antitrust Policy 
+§ 11.3c, p. 464, n. 19 (3d ed. 2005); supra, at 911. 
+The other study provides a theoretical basis for concluding 
+that resale price maintenance “need not lead to higher retail 
+prices.”  Marvel  &  McCafferty,  The  Political  Economy  of 
+Resale Price Maintenance, 94 J. Pol. Econ. 1074, 1075 (1986). 
+But  this  study  develops  a  theoretical  model  “under  the 
+assumption  that  [resale  price  maintenance]  is  efﬁciency­
+enhancing.”  Ibid.  Its  only  empirical  support  is  a  1940 
+study that the authors acknowledge is much criticized.  See 
+id., at 1091.  And many other economists take a different 
+view.  See Brief for  William S. Comanor et  al. as Amici 
+Curiae 4. 
+Regardless,  taken  together,  these  studies  at  most  may 
+offer  some  mild  support  for  the  majority’s  position.  But 
+they cannot constitute a major change in circumstances. 
+Petitioner and some amici have also presented us with 
+newer studies that show that resale price maintenance some­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  921 
+Breyer, J., dissenting 
+times  brings  consumer  beneﬁts.  Overstreet  119–129  (de­
+scribing numerous case studies).  But the proponents of a 
+per se rule have always conceded as much.  What is remark­
+able about the majority’s arguments is that nothing in this 
+respect is new.  See supra, at 910, 919 (citing articles and 
+congressional testimony going back several decades).  The 
+only new feature of these arguments lies in the fact that the 
+most current advocates of overruling Dr. Miles have aban­
+doned a host of other not-very-persuasive arguments upon 
+which  prior  resale  price  maintenance  proponents  used  to 
+rely.  See, e. g., 8 Areeda ¶ 1631a, at 350–352 (listing “ ‘[t]ra­
+ditional’ justiﬁcations” for resale price maintenance). 
+The one arguable exception consists of the majority’s claim 
+that  “even  absent  free  riding,”  resale  price  maintenance 
+“may be the most efﬁcient way to expand the manufacturer’s 
+market  share  by  inducing  the  retailer’s  performance  and 
+allowing it to use its own initiative and experience in provid­
+ing valuable services.”  Ante, at 892.  I cannot count this 
+as an exception, however, because I do not understand how, 
+in the absence of free riding (and assuming competitiveness), 
+an  established  producer  would  need  resale  price  mainte­
+nance.  Why, on these assumptions, would a dealer not “ex­
+pand” its “market share” as best that dealer sees ﬁt, obtain­
+ing  appropriate  payment  from  consumers  in  the  process? 
+There may be an answer to this question.  But I have not 
+seen it.  And I do not think that we should place signiﬁcant 
+weight upon  justiﬁcations that  the parties do  not explain 
+with sufﬁcient clarity for a generalist judge to understand. 
+No one claims that the American economy has changed 
+in ways that might support the majority.  Concentration in 
+retailing has increased.  See, e. g., Brief for Respondent 18 
+(since minimum resale price maintenance was banned nation­
+wide in 1975, the total number of retailers has dropped while 
+the growth in sales per store has risen); Brief for American 
+Antitrust Institute as Amicus Curiae 17, n. 20 (citing private 
+study reporting that the combined sales of the 10 largest 
+

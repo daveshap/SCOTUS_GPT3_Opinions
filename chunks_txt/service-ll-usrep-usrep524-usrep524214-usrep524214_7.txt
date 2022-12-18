@@ -1,0 +1,125 @@
+
+
+232  AMERICAN TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+STEVENS, J., dissenting
+allegation of slamming in respondents amended complaint;'
+in the District Court, AT&T's trial counsel took issue with
+respondent's  effort  to make  slamming  "a big part of this
+case,"  id., at 2170, and said in closing argument that slam-
+ming "is the basis for  this intentional  interference"  claim,
+id., at 2921;  and nothing in the jury instructions  remotely
+suggested that the tort claim required proof of broken prom-
+ises by AT&T to provide additional services.  Respondents
+evidence easily fits within the definition of intentional inter-
+ference set forth in the jury charge:
+"COT asserts  that AT&T intentionally interfered  with
+its business  relations  and  expectations  of future  busi-
+ness relations  with its customers,  the end users  of its
+SDN  service.  In order to prevail on this claim,  COT
+must prove by a  preponderance  of the  evidence, one,
+that COT had business relations with the probability of
+future  economic  benefit.  Two,  that AT&T  was  aware
+of the relationships  and expectation  of future benefits.
+Three,  that AT&T intentionally interfered with  COT's
+business relations.  Four, that AT&T interfered for an
+improper  motive  or by using  improper means.  And,
+five, that COT suffered  economic  injury as  a result of
+the interference."  App. 71.
+It may be the fact that the billing disclosures  and  slam-
+ming were the consequence of negligence rather than a delib-
+erate plan to take over a network of customers that respond-
+ent  had  developed, but  the jury concluded  otherwise.  It
+found that petitioner acted intentionally and willfully in in-
+terfering  with  respondents  business  relations.  See ibid.2
+That finding is doubly significant.
+I" [D]espite repeated requests by COT to AT&T, AT&T failed to rectify
+incidents of unauthorized changes made in the designated carriers ('slam-
+ming') of COT's customers."  App. 28.
+2 The jury's $13  million  damages  award,  reduced by the Magistrate
+Judge to $1.154  million, did not differentiate between the contract and
+tort claims.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+STEVENS, J., dissenting
+First, as the Court acknowledges,  ante, at 228, the jury's
+finding precludes  a defense based on the provisions of the
+tariff that purport to limit petitioner's liability.  Second, and
+of greater importance, it determines that the most egregious
+tortious conduct was  not merely derivative  of the contract
+violations.  Enforcement  of respondent's state-law right to
+be free  from tortious  interference  with  business  relations
+does not somehow award respondent an unlawful preference
+that should have been specified in the tariff (presumably in
+return for an added fee or higher rate); it instead gives effect
+to a generally applicable right that petitioner is required, by
+state law, to respect in dealing with  all others, customers
+and noncustomers alike.  Thus, at least some of the tortious
+interference occurred independently  of the customer-carrier
+relationship and would have been actionable even if respond-
+ent had never entered into a contract with AT&T.
+The Court correctly states that the filed rate doctrine will
+pre-empt some tort claims, but we have never before applied
+that harsh doctrine to bar relief for tortious conduct with so
+little connection to, or effect upon, the relationship governed
+by the tariff.  To the extent respondent's tort claim is based
+on petitioner's billing disclosures and slamming practices, it
+neither  challenges the carrier's filed rates, as did the anti-
+trust claim in Keogh v. Chicago & Northwestern R. Co., 260
+U. S.  156  (1922),  nor seeks a  special service  or privilege  of
+the sort requested in cases such as Chicago & Alton R. Co.
+v. Kirby, 225  U. S.  155  (1912),  and  Davis v. Cornwell, 264
+U. S.  560 (1924).  More akin to this case is Nader v. Alle-
+gheny Airlines, Inc., 426  U. S. 290, 300 (1976),  in which we
+held that a common-law tort action for fraudulent misrepre-
+sentation against a federally regulated air carrier could "co-
+exist" with the Federal Aviation Act.  To a limited degree
+it may be said that here, as in Nader, "any impact on rates
+that may result from the imposition of tort liability or from
+practices adopted by a carrier to avoid such liability would
+be merely incidental."  Ibid.  If the Communications Act's
+
+NEW PAGE
+
+234  AMERICAN  TELEPHONE  & TELEGRAPH CO.
+v. CENTRAL OFFICE TELEPHONE,  INC.
+STEVENS, J., dissenting
+saving clause 3 means anything, it preserves state-law reme-
+dies against carriers on facts such as these.
+The District Court and the Court of Appeals never consid-
+ered whether respondent's tort claim is wholly derivative of
+its contract  claim  for purposes  of the filed  rate  doctrine,
+because those courts mistakenly believed that even the con-
+tract claim was not covered by the doctrine.  On my own
+reading of the record, I think it clear that a portion of the
+tort claim is not pre-empted.  The Court should therefore
+remand the case for a new trial rather than ordering judg-
+ment outright for AT&T.4
+Although  the Court holds broadly that respondent's  tort
+claim is totally barred, it declines to consider whether a por-
+tion of the claim might survive on remand because this issue
+was  not part of the question presented in the petition for
+certiorari  and  was  not  specifically  raised  by  respondent.
+Ante, at 226-227, n. 2.  The latter point is wholly irrelevant,
+precisely  because  of the scope  of the  question  presented.
+The only question that we agreed to decide was whether the
+filed rate  doctrine  pre-empts  "state-law contract  and  tort
+claims  based  on  a  common  carrier's  failure  to  honor  an
+alleged side agreement  to give its customer better service
+than called for by the carrier's tariff."  Pet. for Cert. i.  The
+Court  answers  that  legal  question,  and  then  decides  an
+additional, factual  one:  whether respondent's tort claim  is
+"based on" AT&T's "failure to honor an alleged side agree-
+ment,"  and  thus is  "wholly  derivative"  of the  pre-empted
+contract  claim.  In resolving that issue,  the Court cannot
+3 "Nothing in this chapter contained shall in any way abridge or alter
+the remedies now existing at common law or by statute, but the provisions
+of this chapter are in addition to such remedies."  47 U. S. C. §414.
+4 Beyond the billing disclosures and slamming, respondent asserts that
+AT&T also misappropriated customer information from respondents con-
+fidential data base.  Brief for Respondent 4.  That basis for a tort remedy,
+if supported by sufficient evidence, would also appear not to be pre-empted
+by the filed rate doctrine.
+

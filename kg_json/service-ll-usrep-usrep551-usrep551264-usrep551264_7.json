@@ -1,0 +1,49 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Credit Suisse Securities (USA) LLC v. Billing",
+    "datePublished": "2007-05-21",
+    "caseNumber": "551 U.S. 264 (2007)",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Credit Suisse Securities (USA) LLC"
+      },
+      {
+        "@type": "Person",
+        "name": "Billing"
+      }
+    ],
+    "reasoningForIncluding": "The Court considered the factors of the fine securities-related lines separating the permissible from the impermissible; the need for securities-related expertise; the overlapping evidence from which reasonable but contradictory inferences may be drawn; and the risk of inconsistent court results.",
+    "relatedOpinions": [
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Hovenkamp, Antitrust Violations in Securities Markets",
+        "datePublished": "2003",
+        "publisher": "Journal of Corporate Law"
+      }
+    ]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Private Securities Litigation Reform Act of 1995",
+    "datePublished": "1995",
+    "caseNumber": "109 Stat. 737"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Securities Litigation Uniform Standards Act of 1998",
+    "datePublished": "1998",
+    "caseNumber": "112 Stat. 3227"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Trinko",
+    "datePublished": "2004",
+    "caseNumber": "540 U.S. 398 (2004)"
+  }
+]

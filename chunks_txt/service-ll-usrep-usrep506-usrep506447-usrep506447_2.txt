@@ -1,0 +1,122 @@
+
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+was  selected  as  distributor  for  another  region.  Id.,  at
+A4-A5.
+In January 1982, Hamilton-Kent shifted responsibility for
+selling medical products from five regional distributors to a
+single  national  distributor.  In  April  1982,  Hamilton-Kent
+told respondents  that it wanted them to relinquish their ath-
+letic  shoe  distributorship  as  a  condition  for  retaining  the
+right to develop  and distribute  equestrian products.  As of
+May  1982,  BTR  had  moved  the  sorbothane  business  from
+Hamilton-Kent  to S. I.  Id., at A6.  In May, the marketing
+manager  of S.  I.  again made clear that respondents  had to
+sell  their  athletic  distributorship  to  keep  their equestrian
+distribution  rights.  At a meeting scheduled to discuss  the
+sale  of  respondents'  athletic  distributorship  to  petitioner
+Leighton, Jr., Leighton, Jr., informed Shirley McQuillan  that
+if she did  not come  to  agreement  with  him she  would  be
+"'looking  for work."'  Id., at A6.  Respondents  refused  to
+sell and continued to distribute athletic shoe inserts.
+In  the fall  of  1982,  Leighton,  Sr.,  informed  respondents
+that  another  concern  had  been  appointed  as  the  national
+equestrian  distributor,  and  that  they  were  "no  longer in-
+volved  in  equestrian  products."  Id.,  at  A7.  In  January
+1983, S.  I. began marketing through a national distributor a
+sorbothane  horseshoe  pad  allegedly  indistinguishable  from
+the  one  designed  by  respondents.  Ibid.  In  August  1983,
+S.  I.  informed  respondents  that  it would  no  longer  accept
+their orders.  Ibid.  Spectrum  thereupon  became  national
+distributor  of  sorbothane  athletic  shoe  inserts.  Pet.  for
+Cert. 6.  Respondents  sought to obtain sorbothane from the
+BTR's British subsidiary, but were informed by that subsid-
+iary that it would not sell sorbothane in the United States.
+Respondents'  business failed.  App. to Pet. for Cert. A8.
+Respondents sued petitioners seeking damages for alleged
+violations of §§ 1 and 2 of the Sherman Act, 15 U. S. C. §§ 1
+
+NEW PAGE
+
+Cite as: 506 U. S. 447 (1993)
+Opinion of the Court
+and 2,2  § 3 of the Clayton Act, 38 Stat. 731,  15 U. S. C. § 14,
+the  Racketeer  Influenced  and  Corrupt  Organizations  Act
+(RICO),  18  U. S. C.  § 1962, and  two provisions  of California
+business law.  Respondents also alleged fraud, breach of oral
+contract, interference  with prospective business advantage,
+bad-faith  denial  of the  existence  of an  oral  contract,  and
+conversion.
+The  case  was  tried to  a jury, which  returned  a  verdict
+against one or more of the defendants  on each of the 11  al-
+leged violations on which it was to return a verdict.  All of
+the defendants  were  found  to have  violated  §2 by, in  the
+words of the verdict sheet, "monopolizing, attempting to mo-
+nopolize, and/or conspiring to monopolize."  App. 410.  Peti-
+tioners were also found to have violated civil RICO and the
+California  unfair practices  law, but not  § 1 of the Sherman
+Act.  The jury awarded $1,743,000  in compensatory damages
+on  each  of  the  violations  found  to  have  occurred.3   This
+amount was trebled under § 4 of the Clayton Act.  The Dis-
+trict Court also awarded nearly $1 million in attorney's fees
+and denied  motions  for judgment notwithstanding  the ver-
+dict and for a new trial.
+2 Two violations of § 1 were alleged, resale price maintenance and divi-
+sion of territories.  Attempted monopolization, monopolization,  and con-
+spiracy to  monopolize  were charged under  § 2.  All in  all, four alleged
+violations of federal  law and seven alleged violations of state law were
+sent to the jury.
+' The special verdict form advised the jury as follows:
+"The following pages identify the name of each defendant and the claims
+for which plaintiffs contend that the defendant is liable.  If you find that
+any of the defendants  are liable  on any of the  claims, you may  award
+damages to the plaintiffs against those defendants.  Should you decide to
+award damages, please assess damages for each defendant and each claim
+separately and without regard to whether you have already awarded the
+same damages on another claim or against another defendant.  The court
+will insure that there is no double recovery.  The verdict will not be to-
+taled."  App. 416.
+
+NEW PAGE
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+The  Court of Appeals for the  Ninth Circuit affirmed  the
+judgment in an unpublished opinion.  Judgt. order reported
+at 907 F. 2d  154 (1990).  The court expressly ruled that the
+trial court had properly instructed the jury on the Sherman
+Act claims and found that the evidence supported the liabil-
+ity verdicts as well as the damages  awards on these claims.
+The court then affirmed the judgment of the District Court,
+finding  it unnecessary  to rule on challenges  to other viola-
+tions found by the jury.  App. to Pet. for Cert. A28.  On the
+§ 2 issue that petitioners present here, the Court of Appeals,
+noting that the jury had found that petitioners had violated
+§ 2  without  specifying  whether  they  had  monopolized,  at-
+tempted to monopolize, or conspired to monopolize, held that
+the verdict would stand if the evidence supported any one of
+the three possible violations of § 2.  Id., at A15.  The court
+went on to conclude that a case of attempted monopolization
+had been established.4   The court rejected petitioners' argu-
+ment  that  attempted  monopolization  had  not  been  estab-
+lished because respondents had failed to prove that petition-
+ers had  a specific  intent  to  monopolize  a relevant  market.
+The court also held that in order to show that respondents'
+4T he District Court's jury instructions were transcribed as follows:
+"In order to win on the claim of attempted monopoly, the Plaintiff must
+prove each of the following elements by a preponderance of the evidence:
+first, that the Defendants had a specific intent to achieve monopoly power
+in the relevant market; second, that the Defendants engaged in exclusion-
+ary or restrictive conduct in furtherance of its specific intent; third, that
+there was a dangerous probability that Defendants could sooner or later
+achieve [their] goal of monopoly power in the relevant market; fourth, that
+the Defendants' conduct occurred in or affected interstate commerce; and,
+fifth, that the  Plaintiff was injured  in the business or property by the
+Defendants' exclusionary or restrictive conduct.
+"If the Plaintiff has shown  that the  Defendant engaged  in predatory
+conduct, you may infer from that evidence the specific intent and the dan-
+gerous probability element of the offense without any proof of the relevant
+market or the Defendants' marketing [sic] power."  Id., at 251-252.  See
+also App. to Pet. for Cert. A16, A20.
+

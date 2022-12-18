@@ -1,0 +1,121 @@
+
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+procompetitive  potential  of a  vertical  maximum  price  re-
+straint is more evident..,  than it was when Albrecht was
+decided,  because  exclusive  territorial  arrangements  and
+other nonprice  restrictions were  unlawful per se in  1968."
+495 U. S., at 343, n. 13 (citing several commentators identify-
+ing procompetitive effects of vertical maximum price fixing,
+including, e. g.,  P. Areeda  & H. Hovenkamp,  Antitrust Law
+340.30b, p. 378, n. 24  (1988  Supp.); Blair & Harrison, Re-
+thinking Antitrust Injury, 42 Vand. L. Rev. 1539, 1553 (1989);
+Easterbrook, Maximum Price Fixing, 48 U. Chi. L. Rev. 886,
+887-890  (1981)) (hereinafter Easterbrook).
+B
+Thus, our reconsideration of Albrecht's continuing validity
+is informed by several of our decisions, as well as a consider-
+able body of scholarship discussing the effects of vertical re-
+straints.  Our  analysis  is also guided by our general  view
+that the primary purpose of the antitrust laws is to protect
+interbrand  competition.  See,  e. g.,  Business  Electronics
+Corp. v. Sharp Electronics Corp., 485 U. S. 717, 726 (1988).
+"Low prices," we have explained, "benefit consumers regard-
+less of how those prices are set, and so long as they are above
+predatory levels, they do not threaten competition."  ARCO,
+supra, at 340.  Our interpretation of the Sherman Act also
+incorporates  the notion that  condemnation  of practices  re-
+sulting in lower  prices  to consumers  is  "especially  costly"
+because "cutting prices in order to increase business often is
+the very essence of competition."  Matsushita Elec. Indus-
+trial Co. v. Zenith Radio Corp., 475 U. S.5 74, 594 (1986).
+So informed, we find it difficult to maintain that vertically
+imposed maximum prices could harm consumers or competi-
+tion to the extent necessary to justify their per se invalida-
+tion.  As Chief Judge Posner wrote for the Court of Appeals
+in this case:
+"As for maximum resale price fixing, unless the supplier
+is a monopsonist he cannot squeeze his dealers' margins
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+below  a  competitive level; the attempt to do so would
+just drive the dealers into the arms of a competing sup-
+plier.  A supplier might, however, fix a maximum resale
+price in order to prevent his dealers from exploiting a
+monopoly position....  [Sluppose that State Oil, perhaps
+to encourage...  dealer services...  has spaced its deal-
+ers  sufficiently  far  apart  to  limit  competition  among
+them (or even given each of them an exclusive territory);
+and suppose further that Union 76 is a sufficiently dis-
+tinctive and popular brand to give the dealers in it at
+least  a modicum  of monopoly  power.  Then  State  Oil
+might  want  to  place  a  ceiling  on  the  dealers'  resale
+prices in order to prevent them from exploiting that mo-
+nopoly power fully.  It would do this not out of disinter-
+ested malice, but in its  commercial  self-interest.  The
+higher the price at which gasoline is resold, the smaller
+the volume sold, and so the lower the profit to the sup-
+plier if the higher profit per gallon at the higher price is
+being snared by the dealer."  93 F. 3d, at 1362.
+See  also  R.  Bork,  The  Antitrust  Paradox  281-282  (1978)
+("There could, of course, be no anticonsumer effect from [the
+type of price fixing considered in Albrech], and one suspects
+that the paper has a legitimate interest in keeping subscriber
+prices down  in order to increase  circulation  and  maximize
+revenues from advertising").
+We recognize that the Albrecht decision presented a num-
+ber of theoretical justifications for a per se rule against verti-
+cal maximum price fixing.  But criticism of those premises
+abounds.  The  Albrecht decision  was grounded  in the fear
+that maximum price fixing by suppliers could interfere with
+dealer freedom.  390 U. S., at 152.  In response, as one com-
+mentator has pointed out, "the ban on maximum resale price
+limitations declared in Albrecht in the name of 'dealer free-
+dom'  has  actually  prompted  many  suppliers  to  integrate
+forward into  distribution,  thus  eliminating the  very  inde-
+pendent  trader  for  whom  Albrecht professed  solicitude."
+
+NEW PAGE
+
+Cite as: 522 U. S. 8 (1997)
+Opinion of the Court
+8 P. Areeda, Antitrust Law  1635, p. 395 (1989)  (hereinafter
+Areeda).  For example, integration in the newspaper indus-
+try since Albrecht has given rise to litigation between inde-
+pendent distributors  and publishers.  See P. Areeda  & H.
+Hovenkamp, supra,  729.7, pp. 599-614 (1996 Supp.).
+The Albrecht Court also expressed the concern that maxi-
+mum prices may be set too low for dealers to offer consumers
+essential  or  desired  services.  390  U. S.,  at  152-153.  But
+such conduct, by driving away customers, would seem likely
+to harm  manufacturers  as  well as  dealers  and  consumers,
+making it unlikely that a supplier would set such a price as
+a matter of business judgment.  See, e. g., Lopatka, Stephen
+Breyer and Modern Antitrust: A Snug Fit, 40 Antitrust Bull.
+1, 60  (1995);  Blair  & Lang, Albrecht After  ARCO:  Maxi-
+mum Resale Price Fixing Moves  Toward the Rule of Rea-
+son, 44 Vand. L. Rev. 1007, 1034 (1991).  In addition, Albrecht
+noted  that vertical maximum  price  fixing could  effectively
+channel  distribution through large  or specially advantaged
+dealers.  390 U. S.,  at 153.  It is unclear, however, that a
+supplier  would profit from  limiting its market by  exclud-
+ing potential dealers.  See, e. g., Easterbrook 905-908.  Fur-
+ther, although vertical maximum price fixing might limit the
+viability of inefficient dealers, that consequence is not neces-
+sarily harmful to competition and consumers.  See, e. g., id.,
+at 907; Lopatka, supra, at 60.
+Finally, Albrecht reflected the Court's fear that maximum
+price fixing could  be used to disguise  arrangements  to fix
+minimum prices, 390 U. S.,  at 153, which remain illegal per
+se.  Although  we  have  acknowledged  the  possibility  that
+maximum pricing'might mask minimum pricing,  see Mari-
+copa County, 457  U. S.,  at 348, we believe  that such  con-
+duct-as with the other concerns  articulated in Albrecht--
+can be appropriately recognized and punished under the rule
+of reason.  See, e. g., Easterbrook 901-904; see also Pitofsky,
+In Defense  of Discounters: The No-Frills Case for a Per Se
+

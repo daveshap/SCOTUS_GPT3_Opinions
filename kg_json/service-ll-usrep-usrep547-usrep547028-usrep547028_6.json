@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/name"
+  },
+  "@graph": [
+    {
+      "@id": "547US1",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "United States v. Paramount Pictures, Inc.",
+      "reasoning": "Imposition of requirement that conclusion must be supported by proof of power in the relevant market rather than by a mere presumption thereof.",
+      "citation": "Opinion of the Court"
+    },
+    {
+      "@id": "547US2",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "Respondent",
+      "reasoning": "Endorsement of a rebuttable presumption that patentees possess market power when they condition the purchase of the patented product on an agreement to buy unpatented goods exclusively from the patentee.",
+      "citation": "Opinion of the Court"
+    },
+    {
+      "@id": "547US3",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "International Salt",
+      "reasoning": "Existence of the patent on the tying product, rather than the use of a requirements tie, led the Court to presume market power.",
+      "citation": "Opinion of the Court"
+    },
+    {
+      "@id": "547US4",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547 U. S. 28 (2006)",
+      "involvedParties": "U. S. Dept. of Justice and FTC",
+      "reasoning": "In antitrust guidelines issued jointly by the Department of Justice and the Federal Trade Commission in 1995, the enforcement agencies stated that in the exercise of their prosecutorial discretion they “will not presume that a patent, copyright, or trade secret necessarily confers market power upon its owner.”",
+      "citation": "Opinion of the Court"
+    }
+  ]
+}

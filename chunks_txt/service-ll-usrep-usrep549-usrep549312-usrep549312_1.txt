@@ -1,0 +1,139 @@
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+312  OCTOBER TERM, 2006 
+Syllabus 
+WEYERHAEUSER CO. v. ROSS-SIMMONS HARD- 
+
+WOOD LUMBER CO., INC. 
+
+certiorari to the united states court of appeals for 
+the ninth circuit 
+No. 05–381.  Argued November 28, 2006—Decided February 20, 2007 
+Respondent Ross-Simmons, a sawmill, ﬁled suit under § 2 of the Sherman 
+Act, alleging that petitioner Weyerhaeuser drove it out of business by 
+bidding up the price of sawlogs to a level that prevented Ross-Simmons 
+from being proﬁtable.  The District Court, inter alia, rejected Weyer­
+haeuser’s proposed predatory-bidding jury instructions that incorpo­
+rated elements of the test applied to predatory-pricing claims in Brooke 
+Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209.  The 
+jury returned a verdict against Weyerhaeuser.  The Ninth Circuit af­
+ﬁrmed, rejecting Weyerhaeuser’s argument that Brooke Group’s stand­
+ard should apply to predatory-bidding claims. 
+Held: The test this Court applied to predatory-pricing claims in Brooke 
+Group also applies to predatory-bidding claims.  Pp. 318–326. 
+(a) Predatory pricing is a scheme in which the predator reduces the 
+sale price of its product hoping to drive competitors out of business and, 
+once competition has been vanquished, raises prices to a supracompeti­
+tive level.  Brooke Group established two prerequisites to recovery on 
+a predatory-pricing claim: First, a plaintiff must show that the prices 
+complained of are below cost, 509 U. S., at 222, because allowing recov­
+ery for above-cost price cutting could chill conduct—price cutting—that 
+directly beneﬁts consumers.  Second, a plaintiff must show that the al­
+leged predator had “a dangerous probabilit[y] of recouping its invest­
+ment in below-cost pric[ing],” id., at 224, because without such a proba­
+bility, it is highly unlikely that a ﬁrm would engage in predatory pricing. 
+The costs of erroneous ﬁndings of predatory-pricing liability are quite 
+high because “ ‘[t]he mechanism by which a ﬁrm engages in predatory 
+pricing—lowering prices—is the same mechanism by which a ﬁrm stim­
+ulates competition,’ ” and, therefore, mistaken liability ﬁndings would 
+“ ‘ “chill the very conduct the antitrust laws are designed to protect.” ’ ” 
+Id., at 226.  Pp. 318–320. 
+(b) Predatory bidding involves the exercise of market power on the 
+market’s buy, or input, side.  To engage in predatory bidding, a pur­
+chaser bids up the market price of an input so high that rival buyers 
+cannot  survive,  thus  acquiring  monopsony  power,  which  is  market 
+power on the buy side of the market.  Once a predatory bidder causes 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  313 
+Syllabus 
+competing buyers to exit the market, it will attempt to drive down input 
+prices to reap supracompetitive proﬁts that will at least offset the losses 
+it suffered in bidding up input prices.  Pp. 320–321. 
+(c) Predatory-pricing and predatory-bidding claims are analytically 
+similar.  And the close theoretical connection between monopoly and 
+monopsony suggests that similar legal standards should apply to both 
+sorts of claims.  Both involve the deliberate use of unilateral pricing 
+measures for anticompetitive purposes and both require ﬁrms to incur 
+certain short-term losses on the chance that they might later make su­
+pracompetitive proﬁts.  More importantly, predatory bidding mirrors 
+predatory pricing in respects deemed signiﬁcant in Brooke Group.  Be­
+cause rational businesses will rarely suffer short-term losses in hopes 
+of  reaping  supracompetitive  proﬁts,  Brooke  Group’s  conclusion  that 
+“ ‘predatory pricing schemes are rarely tried, and even more rarely suc­
+cessful,’” 509 U. S., at 226, applies with equal force to predatory-bidding 
+schemes.  And like the predatory conduct in Brooke Group, actions 
+taken in a predatory-bidding scheme are often “ ‘ “the very essence of 
+competition,” ’ ” ibid., because a failed predatory-bidding scheme can be 
+a “boon to consumers,” see id., at 224.  Predatory bidding also presents 
+less of a direct threat of consumer harm than predatory pricing, which 
+achieves ultimate success by charging higher prices to consumers, be­
+cause a predatory bidder does not necessarily rely on raising prices in 
+the output market to recoup its losses.  Pp. 321–325. 
+(d) Given these similarities, Brooke Group’s two-pronged test should 
+apply to predatory-bidding claims.  A predatory-bidding plaintiff must 
+prove that the predator’s bidding on the buy side caused the cost of the 
+relevant output to rise above the revenues generated in the sale of those 
+outputs.  Because the risk of chilling procompetitive behavior with too 
+lax a liability standard is as serious here as it was in Brooke Group, 
+only higher bidding that leads to below-cost pricing in the relevant out­
+put market will sufﬁce as a basis for predatory-bidding liability.  A 
+predatory-bidding plaintiff also must prove that the defendant has a 
+dangerous probability of recouping the losses incurred in bidding up 
+input prices through the exercise of monopsony power.  Making such a 
+showing will require “a close analysis of both the scheme alleged by the 
+plaintiff and the [relevant market’s] structure and conditions,” 509 U. S., 
+at 226.  Pp. 325–326. 
+(e) Because Ross-Simmons has conceded that it has not satisﬁed the 
+Brooke Group standard, its predatory-bidding theory of liability cannot 
+support the jury’s verdict.  P. 326. 
+411 F. 3d 1030, vacated and remanded. 
+Thomas, J., delivered the opinion for a unanimous Court. 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+314  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+Andrew J. Pincus argued the cause for petitioner.  With 
+him on the briefs were Charles A. Rothfeld, Guy C. Stephen­
+son, Stephen V. Bomse, M. Laurence Popofsky, Kevin J. Ar­
+quit, and Joseph F. Tringali. 
+Kannon K. Shanmugam argued the cause for the United 
+States as amicus curiae urging reversal.  With him on the 
+brief were Solicitor General Clement, Assistant Attorney 
+General Barnett, Deputy Solicitor General Hungar, Deputy 
+Assistant Attorney General Masoudi, Catherine G. O’Sulli­
+van, and Adam D. Hirsh. 
+Michael  E.  Haglund  argued  the  cause  for  respondent. 
+With  him  on  the  brief  were  Michael  K.  Kelley  and  Roy 
+Pulvers.* 
+Justice Thomas delivered the opinion of the Court. 
+Respondent Ross-Simmons, a sawmill, sued petitioner 
+Weyerhaeuser, alleging that Weyerhaeuser drove it out of 
+*Briefs of amici curiae urging reversal were ﬁled for AT&T Inc. et al. 
+by A. Douglas Melamed, Jonathan Nuechterlein, William M. Schur, Ron­
+ald A. Stern, John Thorne, and Paul J. Larkin, Jr.; for the Business 
+Roundtable et al. by Janet L. McDavid, Catherine E. Stetson, Jessica L. 
+Ellsworth, Jan S. Amundson, and Quentin Riegel; for the Chamber of 
+Commerce of the United States of America et al. by Roy T. Englert, Jr., 
+Donald J. Russell, Mark T. Stancil, Stephen A. Bokat, Robin S. Conrad, 
+Amar D. Sarwal, and Richard S. Wasserstrom; for Economists by Joe 
+Sims and Beth Heifetz; for Law Professors by Joseph J. Simons and Moses 
+Silverman; and for Timberland Owners and Managers by Jeffrey A. Lam­
+ken and Barnes H. Ellis. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the State of 
+California et al. by Hardy Myers, Attorney General of Oregon, and Tim 
+D. Nord, Senior Assistant Attorney General, by Bill Lockyer, Attorney 
+General of California, Thomas Greene, Chief Assistant Attorney General, 
+Kathleen E. Foote, Senior Assistant Attorney General, and Emilio E. Var­
+anini IV, Deputy Attorney General, and by the Attorneys General for 
+their respective States as follows: Terry Goddard of Arizona, Thomas J. 
+Miller of Iowa, Charles C. Foti, Jr., of Louisiana, Mike McGrath of Mon­
+tana, Darrell V. McGraw, Jr., of West Virginia, and Peggy A. Lauten­
+schlager of Wisconsin; for the American Antitrust Institute by Jonathan 
+L. Rubin, Jonathan W. Cuneo, and Robert H. Lande; and for Forest Indus­
+try Participants by R. Daniel Lindahl. 
+

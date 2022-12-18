@@ -1,0 +1,124 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+not  claim  McCarran-Ferguson  Act  antitrust  immunity  for
+two  independent  reasons.  First, it held, the foreign  rein-
+surers were beyond the regulatory jurisdiction of the States;
+because  their activities  could  not  be  "regulated  by  State
+Law" within the meaning of § 2(b), they did not fall within
+that section's grant of immunity.  Although the domestic in-
+surers were "regulated by State Law,"  the court held, they
+forfeited their § 2(b) exemption when they conspired with the
+nonexempt  foreign  reinsurers.  Second,  the  Court  of Ap-
+peals held  that, even if the conduct alleged fell within the
+scope  of § 2(b),  it also  fell  within  the  § 3(b) exception  for
+"act[s]  of boycott, coercion,  or intimidation."  Finally, as to
+the three claims brought solely against foreign defendants,
+the court applied its Timberlane analysis, but concluded that
+the principle of international comity was no bar to exercising
+Sherman Act jurisdiction.
+We granted certiorari in No. 91-1111 to address two nar-
+row questions  about the  scope  of McCarran-Ferguson  Act
+antitrust immunity,8 and in No. 91-1128 to address the appli-
+cation  of the Sherman Act to the foreign conduct at issue.9
+506 U. S. 814 (1992).  We now affirm in part, reverse in part,
+and remand.
+8We limited our grant of certiorari in No. 91-1111 to these questions:
+"1. Whether  domestic  insurance  companies  whose  conduct  otherwise
+would  be exempt from the federal antitrust laws under the McCarran-
+Ferguson Act lose that exemption because they participate with foreign
+reinsurers  in the  business of insurance,"  and "2.  Whether agreements
+among primary insurers and reinsurers on such matters as standardized
+advisory insurance policy forms and terms of insurance coverage consti-
+tute a 'boycott' outside the exemption of the McCarran-Ferguson  Act."
+Pet. for Cert. in No. 91-1111, p. i; see 506 U. S. 814 (1992).
+'The  question presented in No. 91-1128 is: "Did the court of appeals
+properly assess the  extraterritorial reach  of the  U. S. antitrust laws in
+light of this Court's teachings and contemporary understanding of interna-
+tional law when it held that a U. S. district court may apply U. S. law to
+the conduct  of a foreign insurance  market regulated abroad?"  Pet. for
+Cert. in No. 91-1128, p. i.
+
+NEW PAGE
+
+780  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+II
+The petition in No. 91-1111 touches  on the interaction of
+two important pieces of economic legislation.  The Sherman
+Act  declares  "[e]very  contract, combination  in the form  of
+trust or otherwise,  or conspiracy, in  restraint  of trade  or
+commerce among the several States, or with foreign nations,
+...  to be illegal."  15 U. S. C. § 1.  The McCarran-Ferguson
+Act  provides  that  regulation  of the  insurance  industry  is
+generally  a  matter  for  the  States,  15  U. S.C.  § 1012(a),
+and  (again, generally)  that "[n]o  Act of Congress  shall be
+construed  to  invalidate,  impair, or  supersede  any  law  en-
+acted  by any State for the purpose  of regulating  the busi-
+ness of insurance,"  § 1012(b).  Section 2(b) of the McCarran-
+Ferguson Act makes  it clear nonetheless  that the Sherman
+Act applies "to the business of insurance  to the extent that
+such business is not regulated by State Law,"  § 1012(b), and
+§ 3(b) provides  that nothing in the McCarran-Ferguson  Act
+"shall render the... Sherman Act inapplicable to any agree-
+ment to boycott, coerce, or intimidate, or act of boycott, coer-
+cion, or intimidation,"  § 1013(b).
+Petitioners in No. 91-1111 are all of the domestic defend-
+ants in the consolidated cases: the four domestic primary in-
+surers, the  domestic reinsurers,  the trade associations  ISO
+and RAA, and the  domestic reinsurance  broker Thomas  A.
+Greene & Company, Inc.  They argue that the Court of Ap-
+peals  erred  in holding, first, that  their conduct,  otherwise
+immune from antitrust liability under § 2(b) of the McCarran-
+Ferguson Act, lost its immunity  when they  conspired with
+the  foreign  defendants,  and,  second,  that  their  conduct
+amounted to "act[s]  of boycott" falling within the exception
+to  antitrust immunity  set out in  § 3(b).  We  conclude  that
+the Court of Appeals did err about the effect of conspiring
+with foreign defendants,  but correctly  decided  that all but
+one of the complaints'  relevant  Claims for *Relief are fairly
+read to allege conduct falling within the "boycott" exception
+to  McCarran-Ferguson  Act antitrust  immunity.  We  there-
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+fore affirm the Court of Appeals's judgment that it was error
+for the District Court to dismiss the complaints on grounds
+of McCarran-Ferguson  Act immunity, except as to the one
+claim for relief that the Court of Appeals correctly found to
+allege no boycott.
+A
+By  its  terms,  the  antitrust  exemption  of  § 2(b)  of  the
+McCarran-Ferguson  Act  applies to  "the business  of insur-
+ance" to the extent that such business is regulated by state
+law.  While "business" may mean "[a]  commercial  or indus-
+trial establishment or enterprise,"  Webster's New  Interna-
+tional Dictionary 362 (2d ed. 1942), the definite article before
+"business" in § 2(b) shows that the word is not used in that
+sense, the phrase "the business of insurance"  obviously not
+being meant to refer to a single entity.  Rather, "business"
+as used in § 2(b) is most naturally read to refer to "[miercan-
+tile transactions; buying and selling; [and'] traffic."  Ibid.
+The cases confirm that "the business of insurance" should
+be read to single out one activity from others, not to distin-
+guish one entity from another.  In Group Life & Health Ins.
+Co. v. Royal Drug Co., 440 U. S. 205 (1979), for example, we
+held that § 2(b) did not exempt an insurance  company from
+antitrust liability for making an agreement  fixing the price
+of prescription drugs to be sold to Blue Shield policyholders.
+Such  activity, we  said,  "would  be  exempt  from  the  anti-
+trust laws  if Congress  had  extended  the  coverage  of the
+McCarran-Ferguson Act to the 'business of insurance compa-
+nies.'  But that is precisely what Congress did not do."  Id.,
+at 233  (footnote omitted);  see SEC v. National Securities,
+Inc., 393 U. S. 453, 459 (1969)  (the McCarran-Ferguson  Act's
+"language  refers not to  the persons  or companies  who are
+subject to state regulation, but to laws 'regulating the busi-
+ness of insurance'")  (emphasis in  original).  And  in  Union
+Labor Life Ins. Co. v. Pireno, 458 U. S. 119 (1982), we explic-
+itly framed the question as whether "a particular practice is
+part of the 'business of insurance'  exempted from the anti-
+

@@ -1,0 +1,120 @@
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+CASES ADJUDGED 
+IN THE 
+SUPREME COURT OF THE UNITED STATES 
+AT
+
+OCTOBER TERM, 2005
+
+TEXACO INC. v. DAGHER et al. 
+certiorari to the united states court of appeals for 
+the ninth circuit 
+No. 04–805.  Argued January 10, 2006—Decided February 28, 2006* 
+Petitioners, Texaco Inc. and Shell Oil Co., collaborated in a joint venture, 
+Equilon Enterprises, to reﬁne and sell gasoline in the western United 
+States under the two companies’ original brand names.  After Equilon 
+set a single price for both brands, respondents, Texaco and Shell Oil 
+service station owners, brought suit alleging that, by unifying gas prices 
+under the two brands, petitioners had violated the per se rule against 
+price ﬁxing long recognized under § 1 of the Sherman Act, see, e. g., 
+Catalano, Inc. v. Target Sales, Inc., 446 U. S. 643, 647.  Granting peti­
+tioners summary judgment, the District Court determined that the rule 
+of reason, rather than a per se rule, governs respondents’ claim, and 
+that, by eschewing rule of reason analysis, respondents had failed to 
+raise a triable issue of fact.  The Ninth Circuit reversed, characterizing 
+petitioners’ position as a request for an exception to the per se price­
+ﬁxing prohibition, and rejecting that request. 
+Held: It is not per se illegal under § 1 of the Sherman Act for a lawful, 
+economically integrated  joint venture to set  the prices at  which it 
+sells its products.  Although § 1 prohibits “[e]very contract [or] com­
+bination . . . i n  restraint  of  trade,”  15  U. S. C.  § 1, this  Court  has 
+not taken a literal approach to that language, recognizing, instead, that 
+*Together with No. 04–814, Shell Oil Co. v. Dagher et al., also on certio­
+rari to the same court. 
+1 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+2  TEXACO INC. v. DAGHER 
+Syllabus 
+Congress intended to outlaw only unreasonable restraints, e. g., State 
+Oil Co. v. Khan, 522 U. S. 3, 10.  Under rule of reason analysis, antitrust 
+plaintiffs must demonstrate that a particular contract or combination is 
+in fact unreasonable and anticompetitive.  See, e. g., id., at 10–19.  Per 
+se liability is reserved for “plainly anticompetitive” agreements.  Na­
+tional Soc. of Professional Engineers v. United States, 435 U. S. 679, 
+692.  While “horizontal” price-ﬁxing agreements between two or more 
+competitors are per se unlawful, see, e. g., Catalano, supra, at 647, this 
+litigation does not present such an agreement, because Texaco and Shell 
+Oil did not compete with one another in the relevant market—i. e., gaso­
+line sales to western service stations—but instead participated in that 
+market jointly through Equilon.  When those who would otherwise be 
+competitors pool their capital and share the risks of loss and opportuni­
+ties for proﬁt, they are regarded as a single ﬁrm competing with other 
+sellers in the market.  Arizona v. Maricopa County Medical Soc., 457 
+U. S. 332, 356.  As such, Equilon’s pricing policy may be price ﬁxing in 
+a literal sense, but it is not price ﬁxing in the antitrust sense.  The 
+court below erred in reaching the opposite conclusion under the ancil­
+lary restraints doctrine, which governs the validity of restrictions im­
+posed by a legitimate joint venture on nonventure activities.  That doc­
+trine has no application here, where the challenged business practice 
+involves the core activity of the joint venture itself—the pricing of the 
+very goods produced and sold by Equilon.  Pp. 5–8. 
+369 F. 3d 1108, reversed. 
+Thomas, J., delivered the opinion of the Court, in which all other Mem­
+bers joined, except Alito, J., who took no part in the consideration or 
+decision of the cases. 
+Glen D. Nager argued the cause for petitioners in both 
+cases.  With him on the briefs for petitioner in No. 04–805 
+were Craig E. Stewart, Joe Sims, and Louis K. Fisher.  On 
+the briefs for petitioner in No. 04–814 were Ronald L. Olson, 
+Bradley S. Phillips, Stuart N. Senator, and Paul J. Watford. 
+Jeffrey P. Minear argued the cause for the United States 
+as amicus curiae urging reversal in both cases.  With him 
+on the brief were Solicitor General Clement, Acting Assist­
+ant Attorney General  Barnett,  Deputy  Solicitor  General 
+Hungar, Catherine G. O’Sullivan, and Adam D. Hirsh. 
+
+NEW PAGE
+
+547US1 Unit:$U36 [03-16-0914:05:44] PAGES PGT:OPIN
+Cite as: 547 U. S. 1 (2006)  3 
+Opinion of the Court 
+Joseph M. Alioto argued the cause for respondents in both 
+cases.  With him on the brief were Daniel R. Shulman and 
+Gregory Merz.† 
+Justice Thomas delivered the opinion of the Court. 
+From 1998 until 2002, petitioners Texaco Inc. and Shell Oil 
+Co. collaborated in a joint venture, Equilon Enterprises, to 
+reﬁne and sell gasoline in the western United States under 
+the original Texaco and Shell Oil brand names.  Respond­
+ents, a class of Texaco and Shell Oil service station owners, 
+allege that petitioners engaged in unlawful price ﬁxing when 
+Equilon set a single price for both Texaco and Shell Oil brand 
+gasoline.  We granted certiorari to determine whether it is 
+per se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, 
+for a lawful, economically integrated joint venture to set the 
+prices at which the joint venture sells its products.  We con­
+clude that it is not, and accordingly we reverse the contrary 
+judgment of the Court of Appeals. 
+I 
+Historically, Texaco and Shell Oil have competed with one 
+another in the national and international oil and gasoline 
+†Briefs of amici curiae urging reversal in both cases were ﬁled for the 
+American Bankers Association et al. by W. Stephen Smith and Beth S. 
+Brinkmann; for the American Petroleum Institute by Robert A. Long, Jr., 
+Harry M. Ng, and Douglas W. Morris; for the Chamber of Commerce of 
+the United States of America by Raymond A. Jacobsen, Jr., Stephen A. 
+Bokat, Robin S. Conrad, and Amar D. Sarwal; for Verizon Communica­
+tions Inc. by Roy T. Englert, Jr., Donald J. Russell, John Thorne, and 
+Paul J. Larkin, Jr.; and for Visa U. S. A. Inc. et al. by M. Laurence Popof­
+sky and Stephen V. Bomse. 
+Stephen F. Ross ﬁled a brief for the American Antitrust Institute as 
+amicus curiae urging afﬁrmance in both cases. 
+Briefs of amici curiae were ﬁled in both cases for the Northwest Ohio 
+Physician Specialists Cooperative, LLC, by Charles D. Weller and Freder­
+ick Byers; and for the Retail Industry Leaders Association et al. by Lloyd 
+Constantine and Michelle A. Peters.  Steve C. Vaughn ﬁled a brief for the 
+Parker Hanniﬁn Corp. as amicus curiae in No. 04–805. 
+

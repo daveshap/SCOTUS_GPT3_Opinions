@@ -1,0 +1,129 @@
+
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  321 
+Opinion of the Court 
+to exit the market for purchasing inputs, it will seek to “re­
+strict its input purchases below the competitive level,” thus 
+“reduc[ing] the unit price for the remaining input[s] it pur­
+chases.”  Salop, Anticompetitive Overbuying by Power 
+Buyers, 72 Antitrust L. J. 669, 672 (2005) (hereinafter Salop). 
+The reduction in input prices will lead to “a signiﬁcant cost 
+saving that more than offsets the proﬁt[s] that would have 
+been earned on the output.”  Ibid.  If all goes as planned, 
+the predatory bidder will reap monopsonistic proﬁts that will 
+offset any losses suffered in bidding up input prices.2  (In 
+this case, the plaintiff was the defendant’s competitor in the 
+input-purchasing market.  Thus, this case does not present 
+a situation of suppliers suing a monopsonist buyer under § 2 
+of the Sherman Act, nor does it present a risk of signiﬁcantly 
+increased concentration in the market in which the monopso­
+nist sells, i. e., the market for ﬁnished lumber.) 
+IV 
+
+A 
+
+Predatory-pricing and predatory-bidding claims are ana­
+lytically similar.  See Hovenkamp, The Law of Exclusionary 
+Pricing, 2 Competition Policy Int’l, No. 1, pp. 21, 35 (Spring 
+2006).  This similarity results from the close theoretical con­
+nection between monopoly and monopsony.  See Kirkwood 
+653 (describing monopsony as the “mirror image” of monop­
+oly); Khan v. State Oil Co., 93 F. 3d 1358, 1361 (CA7 1996) 
+(“[M]onopsony pricing . . . is a nalytically the same as monop­
+oly or cartel pricing and [is] so treated by the law”), vacated 
+and remanded on other grounds, 522 U. S. 3 (1997); Vogel v. 
+2 If the predatory ﬁrm’s competitors in the input market and the output 
+market are the same, then predatory bidding can also lead to the bidder’s 
+acquisition of monopoly power in the output market.  In that case, which 
+does not appear to be present here, the monopsonist could, under certain 
+market conditions, also recoup its losses by raising output prices to monop­
+olistic levels.  See Salop 679–682 (describing a monopsonist’s predatory 
+strategy that depends upon raising prices in the output market). 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+322  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+American Soc. of Appraisers, 744 F. 2d 598, 601 (CA7 1984) 
+(“[M]onopoly and monopsony are symmetrical distortions of 
+competition from an economic standpoint”); see also Hearing 
+on Monopsony Issues in Agriculture: Buying Power of Proc­
+essors in Our Nation’s Agricultural Markets before the Sen­
+ate Committee on the Judiciary, 108th Cong., 1st Sess., 13 
+(2004).  The kinship between monopoly and monopsony sug­
+gests that similar legal standards should apply to claims of 
+monopolization and to claims of monopsonization.  Cf. Noll, 
+“Buyer Power” and Economic Policy, 72 Antitrust L. J. 589, 
+591 (2005) (“[A]symmetric treatment of monopoly and mo­
+nopsony has no basis in economic analysis”). 
+Tracking the economic similarity between monopoly and 
+monopsony, predatory-pricing plaintiffs and predatory­
+bidding  plaintiffs  make  strikingly  similar  allegations.  A 
+predatory-pricing plaintiff alleges that a predator cut prices 
+to drive the plaintiff out of business and, thereby, to reap 
+monopoly proﬁts from the output market.  In parallel fash­
+ion,  a  predatory-bidding  plaintiff  alleges  that  a  predator 
+raised prices for a key input to drive the plaintiff out of busi­
+ness and, thereby, to reap monopsony proﬁts in the input 
+market.  Both claims involve the deliberate use of unilateral 
+pricing measures for anticompetitive purposes.3  And both 
+claims logically require ﬁrms to incur short-term losses on 
+the chance that they might reap supracompetitive proﬁts in 
+the future. 
+3 Predatory bidding on inputs is not analytically different from preda­
+tory overbuying of inputs.  Both practices fall under the rubric of monop­
+sony predation and involve an input purchaser’s use of input prices in an 
+attempt to exclude rival input purchasers.  The economic effect of the 
+practices is identical: Input prices rise.  In a predatory-bidding scheme, 
+the purchaser causes prices to rise by offering to pay more for inputs.  In 
+a predatory-overbuying scheme, the purchaser causes prices to rise by 
+demanding more of the input.  Either way, input prices increase.  Our 
+use of the term “predatory bidding” is not meant to suggest that different 
+legal treatment is appropriate for the economically identical practice of 
+“predatory overbuying.” 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  323 
+Opinion of the Court 
+B 
+More  importantly,  predatory  bidding  mirrors  predatory 
+pricing in respects that we deemed signiﬁcant to our analysis 
+in Brooke Group.  In Brooke Group, we noted that “ ‘preda­
+tory pricing schemes are rarely tried, and even more rarely 
+successful.’ ”  509  U. S.,  at  226  (quoting  Matsushita,  475 
+U. S., at 589).  Predatory pricing requires a ﬁrm to suffer 
+certain losses in the short term on the chance of reaping 
+supracompetitive proﬁts in the future.  Id., at 588–589.  A 
+rational business will rarely make this sacriﬁce.  Ibid.  The 
+same reasoning applies to predatory bidding.  A predatory­
+bidding scheme requires a buyer of inputs to suffer losses 
+today on the chance that it will reap supracompetitive proﬁts 
+in the future.  For this reason, “[s]uccessful monopsony pre­
+dation is probably as unlikely as successful monopoly preda­
+tion.”  R. Blair & J. Harrison, Monopsony 66 (1993). 
+And like the predatory conduct alleged in Brooke Group, 
+actions taken in a predatory-bidding scheme are often “‘“the 
+very essence of competition.” ’ ”  509 U. S., at 226 (quoting 
+Cargill, 479 U. S., at 122, n. 17, in turn quoting Matsushita, 
+supra, at 594).  Just as sellers use output prices to compete 
+for purchasers, buyers use bid prices to compete for scarce 
+inputs.  There are myriad legitimate reasons—ranging from 
+benign to afﬁrmatively procompetitive—why a buyer might 
+bid up input prices.  A ﬁrm might bid up inputs as a result 
+of miscalculation of its input needs or as a response to in­
+creased consumer demand for its outputs.  A more efﬁcient 
+ﬁrm might bid up input prices to acquire more inputs as a 
+part of a procompetitive strategy to gain market share in the 
+output market.  A ﬁrm that has adopted an input-intensive 
+production process might bid up inputs to acquire the inputs 
+necessary  for  its  process.  Or  a  ﬁrm  might  bid  up  input 
+prices to acquire excess inputs as a hedge against the risk of 
+future rises in input costs or future input shortages.  See 
+Salop 682–683; Kirkwood 655.  There is nothing illicit about 
+these bidding decisions.  Indeed, this sort of high bidding is 
+

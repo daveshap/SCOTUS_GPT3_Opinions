@@ -1,0 +1,58 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "parties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "OCTOBER_TERM_1959",
+      "date": "1959-10-01",
+      "caseNumber": "361_U_S",
+      "parties": [
+        "MR_JUSTICE_WHITTAKER",
+        "State_of_Illinois",
+        "Atchison_Topeka_Santa_Fe_Railway_Co",
+        "Robert_H_Walker",
+        "certain_municipalities_and_shippers"
+      ],
+      "reasoning": "These appeals present questions arising out of rival applications by several rail carriers to the Interstate Commerce Commission under § 5 (2) of the Interstate Commerce Act for authority to acquire control of Toledo, Peoria & Western Railroad Company."
+    },
+    {
+      "@id": "MINNEAPOLIS_ST_LOUIS_R_CO_v_U_S_177",
+      "date": "1959-10-01",
+      "caseNumber": "361_U_S",
+      "parties": [
+        "MINNEAPOLIS_ST_LOUIS_R_CO",
+        "U_S",
+        "George_P_McNear_Wilmington_Trust_Company",
+        "Guy_Gladson",
+        "McNear_family",
+        "bank",
+        "president_of_Western",
+        "Pennsylvania_Railroad_Company",
+        "Atchison_Topeka_Santa_Fe_Railway_Company",
+        "New_York_Chicago_St_Louis_Railroad_Company",
+        "Illinois_Terminal_Railroad_Company",
+        "Chicago_Burlington_Quincy_Railroad_Company"
+      ],
+      "reasoning": "Western has outstanding 90,000 shares of common capital stock, 82% of which is owned by the testamentary trustees of the estate of George P. McNear-Wilmington Trust Company and Guy Gladson-and the remaining 18% is owned by members of the McNear family, a bank and the president of Western."
+    },
+    {
+      "@id": "Section_5_2_of_the_Interstate_Commerce_Act",
+      "date": "1954-05-26",
+      "caseNumber": "24_Stat_380_as_amended_54_Stat_905_49_U_S_C_§_5_2",
+      "parties": [
+        "Interstate_Commerce_Commission",
+        "carrier_seeking_authority",
+        "interested_parties",
+        "carriers_by_railroad",
+        "railroad_or_railroads",
+        "petition_by_such_railroad_or_railroads",
+        "railroad_employees_affected"
+      ],
+      "reasoning": "Section 5 (2) of the Interstate Commerce Act (24 Stat. 380, as amended, 54 Stat. 905, 49 U. S. C. § 5 (2)) provides, in pertinent part, that: '(a) It shall be lawful, with the approval and authorization of the Commission, as provided in subdivision (b) of this paragraph- (i) for . . . two or more carriers jointly, to acquire control of another through ownership of its stock or otherwise .... (b) Whenever a transaction is proposed under subdivision (a) of this paragraph, the carrier . . . seeking authority therefor shall present an application to the Commission, and thereupon the Commission shall notify . . . [designated parties], and shall afford reasonable opportunity for interested parties to be heard. If the Commission shall consider it necessary in order to determine whether the findings specified below may properly be made, it shall set said application for public hearing; and a public hearing shall be held in all cases where carriers by railroad are involved unless the Commission determines that a public hearing is not necessary in the public interest. If the Commission finds that, subject to such terms and conditions and such modifications as it shall find to be just and reasonable, the proposed transaction is within the scope of subdivision (a) of this paragraph and will be consistent with the public interest, it shall enter an order approving and authorizing such transaction, upon the terms and conditions, and with the modifications, so found to be just and reasonable.'"
+    }
+  ]
+}

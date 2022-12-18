@@ -1,0 +1,122 @@
+OCTOBER TERM, 1992
+Syllabus
+SPECTRUM  SPORTS,  INC., ET  AL.  v.  McQUILLAN
+ET VIR,  DBA  SORBOTURF  ENTERPRISES
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 91-10.  Argued November 10, 1992-Decided January 25, 1993
+Shortly after the manufacturer of sorbothane-a patented elastic polymer
+with shock-absorbing  characteristics-informed  respondents,  distribu-
+tors of medical, athletic, and equestrian products made with sorbothane,
+that it would  no longer sell  them the  polymer, petitioner  Spectrum
+Sports, Inc., became the national distributor of sorbothane athletic prod-
+ucts.  Respondents' business failed, and  they filed suit in the District
+Court against petitioners and others, seeking damages for alleged viola-
+tions of, inter alia, § 2 of the Sherman Act, which makes it an offense
+for any person to "monopolize, or attempt to monopolize, or combine or
+conspire ...  to monopolize any part of the trade  or commerce among
+the several States."  A jury found that the defendants  violated §2 by,
+in the words of the verdict sheet, "monopolizing, attempting to monopo-
+lize, and/or conspiring to monopolize."  The Court of Appeals affirmed,
+noting that, although the jury had not specified which of the three possi-
+ble § 2 violations had occurred, the verdict stood because the evidence
+established a case of attempted monopolization.  Relying on its earlier
+rulings in Lessig v. Tidewater Oil Co., 327 F. 2d 459, and its progeny,
+the court held that the jury could have inferred two of the elements of
+that offense-a specific intent to achieve monopoly power and a danger-
+ous probability of monopolization of a relevant market-from evidence
+showing the defendants' unfair or predatory conduct, without any proof
+of relevant market or the defendants' market power, and that the jury
+was properly instructed that it could make such inferences.
+Held: Petitioners  may not be  liable for attempted  monopolization under
+§ 2 absent proof of a dangerous probability that they would monopolize
+a relevant market and specific intent to monopolize.  The conduct of a
+single firm, governed by § 2, is unlawful "only when it threatens actual
+monopolization."  Copperweld Corp. v. Independence Tube Corp., 467
+U. S. 752, 767.  Consistent with this approach, Courts of Appeals other
+than the court below have generally required a plaintiff in an attempted
+monopolization case to prove that (1) the defendant has engaged in pred-
+atory or anticompetitive conduct with (2) a specific intent to monopolize
+and (3) a dangerous probability of achieving monopoly power.  Unfair
+or predatory conduct may be sufficient to prove the necessary intent to
+
+NEW PAGE
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+monopolize.  However, intent alone is insufficient to establish the dan-
+gerous  probability of success, Swift & Co. v.  United States, 196 U. S.
+375,  402,  which requires  inquiry  into  the relevant  product  and geo-
+graphic  market  and  the defendant's  economic  power  in that market.
+There  is little if any  support  in the statute or case law  for Lessig's
+contrary  interpretation of §2.  Moreover, Lessig and its progeny are
+inconsistent  with the Sherman Act's  purpose of protecting the  public
+from the failure of the market.  The law directs itself only against con-
+duct that unfairly tends to destroy competition, and, thus, courts have
+been careful to avoid constructions of § 2 which might chill competition
+rather than foster it.  The concern that § 2 might be applied so as to
+further  anticompetitive  ends  is  plainly  not  met  by  inquiring  only
+whether the defendant has engaged in "unfair" or "predatory" tactics.
+Since the jury's instructions and the Court of Appeals' affirmance both
+misconstrued § 2, and since the jury's verdict did not negate the possibil-
+ity that it rested on the attempt to monopolize ground alone, the case is
+remanded for further proceedings.  Pp. 454-460.
+907 F. 2d 154, reversed and remanded.
+WHITE, J., delivered the opinion for a unanimous Court.
+James  D.  Vail  argued  the  cause  and  filed  briefs  for
+petitioners.
+Robert A.  Long, Jr., argued  the  cause  for  the  United
+States as amicus curiae in support of petitioners.  With him
+on the brief were Solicitor General Starr, Acting Assistant
+Attorney GeneralJ ames, Deputy Solicitor General Wallace,
+and Catherine G. O'Sullivan.
+Jeffrey  M.  Shohet  argued  the  cause  for  respondents.
+With him on the brief was Marcelle E. Mihaila.
+JUSTICE WHITE  delivered  the opinion of the Court.
+Section 2 of the Sherman  Act, 26  Stat. 209, as amended,
+15 U. S. C. § 2, makes it an offense for any person to "monopo-
+lize, or attempt to monopolize, or combine  or conspire with
+any other person  or persons, to monopolize any part of the
+trade or  commerce  among  the several  States  . . . ."  The
+jury in this case returned a verdict finding that petitioners
+had monopolized, attempted to monopolize, and/or conspired
+to monopolize.  The District Court entered a judgment rul-
+
+NEW PAGE
+
+Cite as: 506 U. S. 447 (1993)
+Opinion of the Court
+ing that petitioners had  violated  § 2, and  the Court of Ap-
+peals affirmed on the ground that petitioners had attempted
+to monopolize.  The issue we have before us is whether the
+District  Court and  the Court of Appeals  correctly  defined
+the elements of that offense.
+Sorbothane  is  a  patented  elastic  polymer  whose  shock-
+absorbing characteristics make it useful in a variety of medi-
+cal,  athletic,  and  equestrian  products.  BTR,  Inc.  (BTR),
+owns the patent rights to sorbothane, and its wholly owned
+subsidiaries  manufacture  the product  in  the United  States
+and Britain.  Hamilton-Kent  Manufacturing  Company
+(Hamilton-Kent) and Sorbothane, Inc. (S. I.), were at all rele-
+vant times owned by BTR.  S. I. was formed in 1982 to take
+over Hamilton-Kent's sorbothane business.'  App. to Pet. for
+Cert. A3.  Respondents Shirley and Larry McQuillan, doing
+business  as  Sorboturf Enterprises, were  regional distribu-
+tors  of sorbothane  products from  1981  to  1983.  Petitioner
+Spectrum Sports, Inc. (Spectrum), was also a distributor of
+sorbothane  products.  Petitioner Kenneth  B. Leighton, Jr.,
+is a co-owner of Spectrum.  Ibid.  Kenneth Leighton, Jr., is
+the son of Kenneth Leighton, Sr., the president of Hamilton-
+Kent and S. I. at all relevant times.
+In 1980, respondents  Shirley and Larry McQuillan  signed
+a letter of intent with Hamilton-Kent, which then owned all
+manufacturing  and  distribution  rights to sorbothane.  The
+letter of intent granted  the McQuillans  exclusive  rights to
+purchase sorbothane foruse in equestrian products.  Respond-
+ents were designing a horseshoe pad using sorbothane.
+In  1981, Hamilton-Kent  decided  to establish five regional
+distributorships for sorbothane.  Respondents were selected
+to be distributors of all sorbothane products, including medi-
+cal products and shoe inserts, in the Southwest.  Spectrum
+I Sorbothane, Inc., was formerly called Sorbo, Inc.  App. 67.
+

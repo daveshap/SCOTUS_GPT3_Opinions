@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": {
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Hartford Fire Ins. Co.", "California"],
+      "reasoning": "Dissenting opinion of Justice Scalia"
+    },
+    "Lauritzen": {
+      "@type": "CaseCitation",
+      "date": "1953",
+      "caseNumber": "345 U. S. 571",
+      "involvedParties": ["Lauritzen"],
+      "reasoning": "Relevant principles of international law"
+    },
+    "Romero": {
+      "@type": "CaseCitation",
+      "date": "1962",
+      "caseNumber": "358 U. S. 354",
+      "involvedParties": ["Romero"],
+      "reasoning": "Relevant principles of international law"
+    },
+    "McCulloch": {
+      "@type": "CaseCitation",
+      "date": "1948",
+      "caseNumber": "332 U. S. 858",
+      "involvedParties": ["McCulloch"],
+      "reasoning": "Relevant principles of international law"
+    },
+    "Timberlane": {
+      "@type": "CaseCitation",
+      "date": "1964",
+      "caseNumber": "64 Cal. 2d 772",
+      "involvedParties": ["Timberlane"],
+      "reasoning": "Relevant principles of international law"
+    },
+    "Restatement (Third)": {
+      "@type": "CaseCitation",
+      "date": "1987",
+      "caseNumber": "Restatement (Third) of the Foreign Relations Law of the United States",
+      "involvedParties": [],
+      "reasoning": "Relevant principles of international law"
+    },
+    "Mannington Mills": {
+      "@type": "CaseCitation",
+      "date": "1979",
+      "caseNumber": "595 F. 2d 1287",
+      "involvedParties": ["Mannington Mills"],
+      "reasoning": "Misunderstanding of comity"
+    },
+    "In re Insurance Antitrust Litigation": {
+      "@type": "CaseCitation",
+      "date": "1991",
+      "caseNumber": "938 F. 2d 919",
+      "involvedParties": ["In re Insurance Antitrust Litigation"],
+      "reasoning": "Misunderstanding of comity"
+    },
+    "McCarran-Ferguson Act": {
+      "@type": "CaseCitation",
+      "date": "1945",
+      "caseNumber": "15 U.S.C. §§ 1011-1015",
+      "involvedParties": [],
+      "reasoning": "Allows state regulatory statutes to override the Sherman Act in the insurance field"
+    }
+  }
+}

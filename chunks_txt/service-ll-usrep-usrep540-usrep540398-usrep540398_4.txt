@@ -1,0 +1,124 @@
+
+
+Cite as: 540 U. S. 398 (2004)
+Opinion of the Court
+Communications  Commission  as Amici  Curiae Supporting
+Neither Party in  No. 02-7057,  Covad Communications Co.
+v. Bell Atlantic Corp. (CADC), p. 8.
+But just  as  the  1996  Act  preserves  claims  that  satisfy
+existing antitrust standards, it  does  not create new claims
+that go beyond existing  antitrust standards;  that would be
+equally inconsistent  with  the saving  clause's  mandate  that
+nothing in the Act "modify, impair, or supersede the applica-
+bility" of the antitrust laws.  We turn, then, to whether the
+activity of which respondent complains violates pre-existing
+antitrust standards.
+I'
+The complaint alleges that Verizon denied interconnection
+services  to rivals in order to limit entry.  If that allegation
+states  an antitrust claim  at all, it does  so under § 2  of the
+Sherman Act, 15 U. S. C. § 2, which declares that a firm shall
+not "monopolize"  or "attempt to monopolize."  Ibid.  It is
+settled law that this offense requires, in addition to the pos-
+session of monopoly power in the relevant market, "the will-
+ful acquisition or maintenance of that power as distinguished
+from growth or development  as a consequence  of a superior
+product,  business  acumen,  or  historic  accident."  United
+States v. Grinnell Corp., 384 U. S. 563, 570-571 (1966).  The
+mere  possession  of monopoly  power,  and  the  concomitant
+charging of monopoly prices, is not only not unlawful; it is an
+important element of the free-market system.  The opportu-
+nity to charge monopoly prices-at least for a short period-
+is what  attracts "business  acumen"  in the first place; it in-
+duces  risk  taking that  produces  innovation  and  economic
+growth.  To safeguard the incentive to innovate, the posses-
+sion of monopoly  power  will not be  found  unlawful unless
+it is accompanied  by an element of anticompetitive  conduct.
+Firms may acquire monopoly power by establishing an in-
+frastructure that renders them uniquely suited to serve their
+customers.  Compelling  such  firms  to  share  the  source  of
+their advantage is in some tension with the underlying pur-
+
+NEW PAGE
+
+408  VERIZON  COMMUNICATIONS  INC. v. LAW  OFFICES
+OF CURTIS  V. TRINKO,  LLP
+Opinion of the Court
+pose of antitrust law, since it may lessen the incentive for the
+monopolist, the rival, or both to invest in those economically
+beneficial  facilities.  Enforced  sharing  also  requires  anti-
+trust courts to act as central planners, identifying the proper
+price, quantity, and other terms of dealing-a role for which
+they  are  ill  suited.  Moreover,  compelling  negotiation  be-
+tween competitors  may facilitate  the  supreme  evil of anti-
+trust: collusion.  Thus, as a general matter, the Sherman Act
+"does not restrict the long recognized  right of [a]  trader or
+manufacturer engaged in an entirely private business, freely
+to exercise his own independent discretion as to parties with
+whom  he  will  deal."  United States v. Colgate & Co., 250
+U. S. 300, 307 (1919).
+However,  "[t]he  high  value  that we  have  placed  on  the
+right to refuse to deal with other firms does not mean that
+the right is unqualified."  Aspen Skiing Co. v. Aspen High-
+lands Skiing Corp., 472 U. S. 585, 601 (1985).  Under certain
+circumstances, a refusal to cooperate with rivals can consti-
+tute anticompetitive conduct and violate § 2.  We have been
+very cautious in recognizing such exceptions, because of the
+uncertain virtue of forced sharing and the difficulty of identi-
+fying  and  remedying  anticompetitive  conduct  by  a  single
+firm.  The question before  us today is whether the allega-
+tions of respondent's complaint fit within existing exceptions
+or provide a basis, under traditional antitrust principles, for
+recognizing a new one.
+The leading case for § 2 liability based on refusal to cooper-
+ate with a rival, and the case upon which respondent under-
+standably places  greatest reliance,  is Aspen Skiing, supra.
+The Aspen ski area consisted of four mountain areas.  The
+defendant, who owned three of those areas, and the plaintiff,
+who owned the fourth, had cooperated for years in the issu-
+ance of a joint, multiple-day, all-area  ski ticket.  After  re-
+peatedly demanding  an increased share of the proceeds, the
+defendant canceled the joint ticket.  The plaintiff, concerned
+that skiers  would bypass  its mountain  without  some joint
+
+NEW PAGE
+
+Cite as: 540 U. S. 398 (2004)
+Opinion of the Court
+offering, tried a variety of increasingly desperate  measures
+to re-create  the joint ticket, even  to the point  of in  effect
+offering  to buy the defendant's  tickets at retail price.  Id.,
+at 593-594.  The defendant  refused  even  that.  We upheld
+a jury verdict for the plaintiff, reasoning that "[the jury may
+well  have  concluded  that  [the  defendant]  elected  to forgo
+these  short-run  benefits  because  it was  more interested  in
+reducing competition  ...  over the long run by harming its
+smaller competitor."  Id., at 608.
+Aspen Skiing is at or near the outer boundary of § 2 liabil-
+ity.  The Court there found significance  in  the defendant's
+decision to cease participation in a cooperative venture.  See
+id., at 608, 610-611.  The unilateral termination  of a volun-
+tary  (and thus presumably profitable) course  of  dealing
+suggested  a  willingness  to  forsake  short-term  profits  to
+achieve  an  anticompetitive  end.  Ibid.  Similarly, the  de-
+fendant's unwillingness to renew the ticket even if compen-
+sated at retail price revealed  a  distinctly  anticompetitive
+bent.
+The refusal to deal alleged in the present case does not fit
+within  the  limited  exception  recognized  in  Aspen  Skiing.
+The  complaint does  not allege that Verizon  voluntarily  en-
+gaged  in a course of dealing with its rivals, or would ever
+have done so absent statutory compulsion.  Here, therefore,
+the defendant's  prior conduct  sheds no  light upon the mo-
+tivation  of  its  refusal  to  deal-upon  whether  its  regula-
+tory lapses were  prompted  not by competitive zeal  but by
+anticompetitive  malice.  The contrast between  the cases  is
+heightened by the difference in pricing behavior.  In Aspen
+Skiing, the defendant turned down a proposal  to sell at its
+own retail price, suggesting a calculation that its future mo-
+nopoly retail price would be higher.  Verizon's reluctance to
+interconnect at the cost-based rate of compensation available
+under §251(c)(3) tells us nothing about dreams of monopoly.
+The  specific nature of what the  1996  Act compels  makes
+this case different from Aspen Skiing in a more fundamental
+

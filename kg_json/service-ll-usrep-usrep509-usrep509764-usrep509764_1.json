@@ -1,0 +1,34 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Hartford Fire Insurance Co. v. California",
+    "caseNumber": "No. 91-1111",
+    "dateDecided": "1993-06-28",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Hartford Fire Insurance Co."
+      },
+      {
+        "@type": "Organization",
+        "name": "California"
+      },
+      {
+        "@type": "Organization",
+        "name": "Merrett Underwriting Agency Management Ltd."
+      },
+      {
+        "@type": "Organization",
+        "name": "Sturge Reinsurance Syndicate Management Ltd."
+      }
+    ],
+    "opinion": {
+      "@type": "LegalOpinion",
+      "author": "Justice Souter",
+      "reasoning": "The domestic defendants did not lose their § 2(b) immunity by conspiring with the foreign defendants. The Court of Appeals's conclusion to the contrary was based in part on the statement, in Group Life & Health Ins. Co. v. Royal Drug Co., 440 U. S. 205, 231, that, '[in analogous contexts, the Court has held that an exempt entity forfeits antitrust exemption by acting in concert with nonexempt parties.' Even assuming that foreign reinsurers were 'not regulated by State Law,' the Court of Appeals's reasoning fails because the analogy drawn by the Royal Drug Court was a loose one."
+    },
+    "citation": "509 U. S. 764 (1993)"
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasonForIncludingInThisOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "509U.S.764(1993)",
+      "@type": "cite",
+      "date": "1993",
+      "parties": [
+        "Hartford Fire Ins. Co.",
+        "California"
+      ],
+      "reasoning": "Interaction of two important pieces of economic legislation: Sherman Act and McCarran-Ferguson Act"
+    },
+    {
+      "@id": "506U.S.814(1992)",
+      "@type": "cite",
+      "date": "1992",
+      "parties": [
+        "Hartford Fire Ins. Co.",
+        "California"
+      ],
+      "reasoning": "Scope of McCarran-Ferguson Act antitrust immunity"
+    },
+    {
+      "@id": "ShermanAct",
+      "@type": "cite",
+      "date": "1890",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "Declares contracts, combinations, and conspiracies in restraint of trade or commerce among the several states or with foreign nations to be illegal"
+    },
+    {
+      "@id": "McCarran-FergusonAct",
+      "@type": "cite",
+      "date": "1945",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "Provides that regulation of the insurance industry is generally a matter for the states and that the Sherman Act applies to the business of insurance to the extent that such business is not regulated by state law"
+    },
+    {
+      "@id": "Section2(b)",
+      "@type": "cite",
+      "date": "1945",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "Makes it clear that the Sherman Act applies to the business of insurance to the extent that such business is not regulated by state law"
+    },
+    {
+      "@id": "Section3(b)",
+      "@type": "cite",
+      "date": "1945",
+      "parties": [
+        "United States"
+      ],
+      "reasoning": "Provides that nothing in the McCarran-Ferguson Act shall render the Sherman Act inapplicable to any agreement to boycott, coerce, or intimidate, or act of boycott, coercion, or intimidation"
+    }
+  ]
+}

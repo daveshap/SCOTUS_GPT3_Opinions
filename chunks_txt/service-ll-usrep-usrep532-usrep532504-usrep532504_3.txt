@@ -1,0 +1,118 @@
+
+
+510  MAJOR LEAGUE BASEBALL PLAYERS ASSN. v. GARVEY
+Per Curiain
+Id., at 37 (quoting Steelworkers v. American Mfg. Co., 363
+U. S. 564, 568 (1960)).  When the judiciary does so, "it usurps
+a function which..,  is entrusted to the arbitration tribunal."
+Id., at 569; see also Enterprise Wheel & Car Corp., supra, at
+599 ("It is the  arbitrator's construction  [of the agreement]
+which was bargained for...").  Consistent with this limited
+role, we said in Misco that "[e]ven in the very rare instances
+when an arbitrator's procedural aberrations rise to the level
+of affirmative misconduct, as a rule the court must not fore-
+close further proceedings by settling the merits according to
+its own judgment of the appropriate result."  484 U. S.,  at
+40-41, n.  10.  That step, we explained,  "would improperly
+substitute a judicial  determination  for the  arbitrator's  de-
+cision  that the parties  bargained for"  in their agreement.
+Ibid.  Instead, the court should "simply vacate the award,
+thus  leaving  open  the  possibility  of  further  proceedings
+if they are permitted under the terms of the agreement."
+Ibid.
+To be sure, the Court of Appeals here recited these princi-
+ples, but its application  of them is nothing short of baffling.
+The substance of the court's discussion reveals that it over-
+turned the arbitrator's decision because it disagreed with the
+arbitrator's factual findings, particularly those with respect
+to credibility.  The Court of Appeals, it appears, would have
+credited  Smith's  1996 letter, and found the arbitrator's re-
+fusal to do  so at worst "irrational"  and  at best "bizarre."
+Garvey I, 203 F. 3d, at 590-591.  But even "serious error"
+on the arbitrator's part does not justify overturning his deci-
+sion, where, as here, he is construing a contract  and acting
+within the scope of his authority.  Misco, supra, at 38.
+In Garvey II,  the court clarified that Garvey I  both re-
+jected the arbitrator's findings  and went further, resolving
+the merits of the parties' dispute based on the court's assess-
+ment of the record before the arbitrator.  For that reason,
+the court found further arbitration proceedings  inappropri-
+
+NEW PAGE
+
+Cite as: 532 U. S. 504 (2001)
+Per Curiam
+ate.  But again, established law ordinarily precludes a court
+from resolving the merits of the parties' dispute on the basis
+of its own factual determinations, no matter how erroneous
+the arbitrator's decision.  Misco, supra, at 40, n. 10; see also
+American Mfg. Co., supra, at 568.  Even when the arbitra-
+tor's award may properly be vacated, the appropriate  rem-
+edy is to remand the case for further arbitration proceedings.
+Misco, supra, at 40, n.  10.  The dissent  suggests that the
+remedy  described  in Misco is limited to  cases  where  the
+arbitrator's errors are procedural.  Post, at 512 (opinion of
+STEVENS,  J.).  Misco did involve procedural issues, but our
+discussion  regarding  the  appropriate  remedy  was  not  so
+limited.  If a remand is appropriate even when the arbitra-
+tor's award has been set aside for "procedural aberrations"
+that constitute "affirmative misconduct," it follows that a re-
+mand ordinarily will be appropriate when the arbitrator sim-
+ply made factual findings that the reviewing court perceives
+as "irrational."  The Court of Appeals usurped the arbitra-
+tor's role by resolving the dispute and barring further pro-
+ceedings, a result at odds with this governing law.2
+For the foregoing reasons, the Court of Appeals  erred in
+reversing the order of the District Court denying the motion
+to vacate the arbitrator's award, and it erred further in di-
+recting that judgment  be entered  in Garvey's  favor.  The
+petition for a writ of certiorari is granted, the judgment of
+21n any event, no serious error on the arbitrator's part is apparent in
+this case.  The fact that an earlier panel of arbitrators rejected the own-
+ers' testimony as a whole does not compel the conclusion that the panel
+found Smith's specific statements with respect to Garvey to be false.  The
+arbitrator's  explanation for his decision indicates that he simply found
+Smith an unreliable witness and that, in the absence of corroborating evi-
+dence, he could only conclude that Garvey failed to show that the Padres
+had offered to extend his contract.  The arbitrator's analysis may have
+been unpersuasive to the Court of Appeals, but his decision hardly quali-
+fies as serious error, let alone irrational or inexplicable error.  And, as we
+have said, any such error would not justify the actions taken by the court.
+
+NEW PAGE
+
+512  MAJOR  LEAGUE BASEBALL PLAYERS ASSN. v. GARVEY
+STEVENS, J., dissenting
+the Court of Appeals is reversed, and the case is remanded
+for further proceedings consistent with this opinion.
+It is so ordered.
+JUSTICE GINSBURG,  concurring in part and concurring in
+the judgment.
+I agree with the Court that in Garvey v. Roberts, 203 F. 3d
+580 (CA9 2000), the Ninth Circuit should not have disturbed
+the arbitrator's  award.  Correction of that error  sets this
+case straight.  I see no need to say more.
+JUSTICE STEVENS,  dissenting.
+It is well settled that an  arbitrator "does  not sit to dis-
+pense his own brand of industrial justice."  Steelworkers v.
+Enterprise Wheel & Car Corp., 363  U. S. 593,  597  (1960).
+We have  also said fairly definitively, albeit in dicta, that a
+court should remedy an arbitrator's "procedural aberrations"
+by vacating the award and remanding for further proceed-
+ings.  Paperworkersv . Misco, Inc., 484 U. S. 29, 40-41, n. 10
+(1987).  Our cases, however, do not provide significant guid-
+ance  as to what standards a federal court should use in as-
+sessing whether an arbitrator's behavior is so untethered to
+either the agreement  of the parties or the factual record so
+as to  constitute an attempt to "dispense  his own brand of
+industrial justice."  Nor, more importantly, do they tell us
+how, having  made  such  a finding, courts  should deal  with
+"the  extraordinary  circumstance  in which  the  arbitrator's
+own rulings make clear that, more than being simply errone-
+ous, his finding is completely inexplicable and borders on the
+irrational."  Garvey v. Roberts, 203  F. 3d  580,  590  (CA9
+2000) (case below).  Because our case law is not sufficiently
+clear  to  allow  me  to  conclude  that  the  case  below  was
+wrongly decided-let alone to conclude that the decision was
+so wrong as to require the extraordinary remedy of a sum-
+

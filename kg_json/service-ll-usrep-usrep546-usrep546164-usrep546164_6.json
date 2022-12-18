@@ -1,0 +1,46 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Volvo Trucks North America, Inc. v. Reeder-Simco GMC, Inc.",
+  "caseNumber": "546 U.S. 164 (2006)",
+  "datePublished": "2008-22-0815:43:12",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Volvo Trucks North America, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "Reeder-Simco GMC, Inc."
+    }
+  ],
+  "reasoningForIncluding": "The case involved a dispute between Volvo Trucks North America, Inc. and Reeder-Simco GMC, Inc. over differential pricing and competitive bidding.",
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Falls City Industries, Inc. v. Vanco Beverage, Inc.",
+      "caseNumber": "460 U.S. 428 (1983)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Continental T. V., Inc. v. GTE Sylvania Inc.",
+      "caseNumber": "433 U.S. 36 (1977)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Great Atlantic & Paciﬁc Tea Co. v. FTC",
+      "caseNumber": "440 U.S. 69 (1979)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Automatic Canteen Co. of America v. FTC",
+      "caseNumber": "346 U.S. 61 (1953)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "caseNumber": "509 U.S. 209 (1993)"
+    }
+  ]
+}

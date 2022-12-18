@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "cite": "509 U. S. 764 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": "Hartford Fire Ins. Co. v. California",
+      "reasoning": "The Court of Appeals agreed that courts should look to the principle of international comity in deciding whether to exercise jurisdiction under the Sherman Act.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "H. R. Rep. No. 97-686, pp. 2-3, 9-10 (1982)",
+      "cite": "H. R. Rep. No. 97-686, pp. 2-3, 9-10 (1982)",
+      "date": "1982",
+      "caseNumber": "H. R. Rep. No. 97-686",
+      "involvedParties": "United States v. Aluminum Co. of America",
+      "reasoning": "The Court of Appeals believed that application of American antitrust laws to the London reinsurance market would lead to significant conflict with English law and policy.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "P. Areeda & H. Hovenkamp, Antitrust Law  236'a, pp. 296-297 (Supp. 1992)",
+      "cite": "P. Areeda & H. Hovenkamp, Antitrust Law  236'a, pp. 296-297 (Supp. 1992)",
+      "date": "1992",
+      "caseNumber": "Antitrust Law  236'a",
+      "involvedParties": "United States v. Aluminum Co. of America",
+      "reasoning": "The Court of Appeals believed that application of American antitrust laws to the London reinsurance market would lead to significant conflict with English law and policy.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "Timberlane Lumber Co. v. Bank of America, N T & S. A, 549 F. 2d 597, 613 (CA9 1976)",
+      "cite": "Timberlane Lumber Co. v. Bank of America, N T & S. A, 549 F. 2d 597, 613 (CA9 1976)",
+      "date": "1976",
+      "caseNumber": "549 F. 2d 597",
+      "involvedParties": "Timberlane Lumber Co. v. Bank of America, N T & S. A",
+      "reasoning": "Congress expressed no view on the question whether a court with Sherman Act jurisdiction should ever decline to exercise such jurisdiction on grounds of international comity.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "H. R. Rep. No. 97-686, supra, at 13",
+      "cite": "H. R. Rep. No. 97-686, supra, at 13",
+      "date": "1982",
+      "caseNumber": "H. R. Rep. No. 97-686",
+      "involvedParties": "United States v. Aluminum Co. of America",
+      "reasoning": "Congress expressed no view on the question whether a court with Sherman Act jurisdiction should ever decline to exercise such jurisdiction on grounds of international comity.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "Socidt6 Nationale Industriele Agrospatiale v. United States Dist. Court for Southern Dist. of Iowa, 482 U. S. 522, 555 (1987)",
+      "cite": "Socidt6 Nationale Industriele Agrospatiale v. United States Dist. Court for Southern Dist. of Iowa, 482 U. S. 522, 555 (1987)",
+      "date": "1987",
+      "caseNumber": "482 U. S. 522",
+      "involvedParties": "Socidt6 Nationale Industriele Agrospatiale v. United States Dist. Court for Southern Dist. of Iowa",
+      "reasoning": "The only substantial question in this litigation is whether there is in fact a true conflict between domestic and foreign law.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "Restatement (Third) Foreign Relations Law § 403, Comment e",
+      "cite": "Restatement (Third) Foreign Relations Law § 403, Comment e",
+      "involvedParties": "Socidt6 Nationale Industriele Agrospatiale v. United States Dist. Court for Southern Dist. of Iowa",
+      "reasoning": "No conflict exists, for these purposes, \"where a person subject to regulation by two states can comply with the laws of both.\"",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "Restatement (Third) Foreign Relations Law § 415, Comment j",
+      "cite": "Restatement (Third) Foreign Relations Law § 415, Comment j",
+      "involvedParties": "Socidt6 Nationale Industriele Agrospatiale v. United States Dist. Court for Southern Dist. of Iowa",
+      "reasoning": "\"The fact that conduct is lawful in the state in which it took place will not, of itself, bar application of the United States antitrust laws,\" even where the foreign state has a strong policy to permit or encourage such conduct.",
+      "opinion": "Opinion of the Court"
+    }
+  ]
+}

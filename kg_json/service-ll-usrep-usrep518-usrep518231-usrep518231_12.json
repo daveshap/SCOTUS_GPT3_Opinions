@@ -1,0 +1,66 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brown v. Pro Football, Inc.",
+  "author": "Stevens, J.",
+  "datePublished": "1996",
+  "caseNumber": "518 U.S. 231",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "Brown"
+    },
+    {
+      "@type": "Organization",
+      "name": "Pro Football, Inc."
+    }
+  ],
+  "reasoningForIncluding": "The labor laws do not exist, however, to ensure the perpetuation of the Board's authority. That is why we have not previously adopted the Court's position. That is also why in other contexts we have not thought the mere existence of a collective-bargaining agreement sufficient to immunize employers from background laws that are similar to the Sherman Act.",
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Flood v. Kuhn",
+      "datePublished": "1971"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Fort Halifax Packing Co. v. Coyne",
+      "datePublished": "1987"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Metropolitan Life Ins. Co. v. Massachusetts",
+      "datePublished": "1985"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Teamsters v. Oliver",
+      "datePublished": "1959"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Jewel Tea Co.",
+      "datePublished": "1965"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "H. K. Porter Co. v. NLRB",
+      "datePublished": "1967"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Women's Sportswear Mfr's Assn",
+      "datePublished": "1949"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Allen Bradley Co. v. Local No. 3",
+      "datePublished": "1945"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Radovich v. National Football League",
+      "datePublished": "1957"
+    }
+  ]
+}

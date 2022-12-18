@@ -1,0 +1,129 @@
+OCTOBER  TERM, 2002
+Syllabus
+DASTAR CORP. v. TWENTIETH  CENTURY FOX FILM
+CORP. ET  AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE  NINTH CIRCUIT
+No. 02-428.  Argued April 2, 2003-Decided June 2, 2003
+General Dwight D. Eisenhower's World War II book, Crusade in Europe,
+was published by Doubleday, which registered the work's copyright and
+granted exclusive television rights to an affiliate of respondent Twenti-
+eth Century Fox  Film Corporation  (Fox).  Fox, in turn, arranged  for
+Time, Inc., to produce a Crusade in Europe television series based on
+the book, and Time assigned its copyright in the series to Fox.  The
+series was first broadcast  in  1949.  In 1975,  Doubleday renewed  the
+book's copyright, but Fox never renewed the copyright on the television
+series, which expired in 1977, leaving the series in the public domain.
+In 1988, Fox reacquired the television rights in the book, including the
+exclusive right to distribute the Crusade television series on video and
+to sublicense  others to do so.  Respondents SFM Entertainment  and
+New  Line  Home  Video,  Inc., acquired  from Fox  the exclusive  rights
+to manufacture  and distribute  Crusade on video.  In  1995, petitioner
+Dastar released a video set, World War II Campaigns in Europe, which
+it made  from tapes  of the original  version of the Crusade  television
+series and sold as its own product for substantially less than New Line's
+video set.  Fox, SFM, and New Line brought this action alleging, inter
+alia, that Dastar's sale of Campaigns without proper credit to the Cru-
+sade television series constitutes "reverse passing off" in violation of
+§ 43(a) of the Lanham  Act.  The District  Court granted respondents
+summary judgment.  The Ninth Circuit affirmed in relevant part, hold-
+ing, among other things, that because Dastar copied substantially the
+entire  Crusade  series, labeled the resulting product  with a different
+name, and marketed  it without attribution to  Fox, Dastar  had  com-
+mitted a "bodily appropriation" of Fox's series, which was sufficient to
+establish the reverse passing off.
+Held: Section 43(a) of the Lanham Act does not prevent the unaccredited
+copying of an uncopyrighted work.  Pp. 28-38.
+(a) Respondents'  claim that Dastar has made a "false designation  of
+origin, false or misleading description of fact, or false or misleading rep-
+resentation of fact, which ...  is likely to cause confusion ...  as to the
+origin ...  of [its] goods" in violation  of § 43(a) of the Lanham Act, 15
+U. S. C. § 1125(a), would undoubtedly be sustained if Dastar had bought
+
+NEW PAGE
+
+24  DASTAR  CORP. v. TWENTIETH  CENTURY FOX
+FILM CORP.
+Syllabus
+some of New Line's Crusade videotapes  and merely repackaged them
+as its own.  However, Dastar has instead taken a creative work in the
+public  domain,  copied  it, made  modifications  (arguably  minor),  and
+produced its very own series of videotapes.  If "origin" refers only to
+the manufacturer or producer of the physical "good" that is made avail-
+able  to the public (here, the videotapes),  Dastar was the origin.  If,
+however,  "origin" includes  the creator  of the underlying  work  that
+Dastar  copied,  then  someone  else  (perhaps  Fox)  was  the  origin  of
+Dastar's product.  At bottom, the Court must decide what § 43(a) means
+by the "origin" of "goods."  Pp. 28-31.
+(b) Because Dastar was the "origin" of the physical products it sold
+as its own, respondents cannot prevail on their Lanham Act claim.  As
+dictionary definitions affirm, the most natural understanding of the "ori-
+gin" of "goods"-the source of wares-is the producer of the tangible
+product sold in the marketplace,  here Dastar's Campaigns videotape.
+The phrase "origin of goods" in the Lanham Act is incapable of connot-
+ing the person or entity that originated the ideas that "goods" embody
+or contain.  The consumer typically does not care about such origina-
+tion, and § 43(a) should not be stretched to cover matters that are of no
+consequence  to purchasers.  Although purchasers do care about ideas
+or communications contained or embodied  in a communicative  product
+such as a video, giving the Lanham Act special application to such prod-
+ucts would cause  it to conflict with copyright law, which is precisely
+directed to that subject, and which grants the public the right to copy
+without attribution once a copyright has expired, e. g., Sears, Roebuck &
+Co. v. Stiffel Co., 376 U. S. 225, 230.  Recognizing a § 43(a) cause of ac-
+tion here would render superfluous the provisions of the Visual Artists
+Rights Act that grant an artistic work's author "the right ...  to claim
+authorship,"  17  U. S. C. § 106A(a)(1)(A),  but carefully  limit and focus
+that  right, §§ 101,  106A(b),  (d)(1),  and  (e).  It would  also  pose  seri-
+ous  practical  problems.  Finally, reading  §43(a)  as creating  a  cause
+of action for, in effect, plagiarism would be hard to reconcile with, e. g.,
+Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U. S. 205,  211.
+Pp. 31-38.
+34 Fed. Appx. 312, reversed and remanded.
+SCALIA, J., delivered the opinion of the Court, in which all other Mem-
+bers joined, except BREYER, J., who took no part in the consideration or
+decision of the case.
+David A.  Gerber argued  the cause  for petitioner.  With
+him  on  the  briefs  were  Stewart A.  Baker, Bennett Evan
+Cooper, and David Nimmer.
+
+NEW PAGE
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+Gregory G. Garre argued the cause for the United States
+as amicus curiae urging reversal.  With him on the brief
+were Solicitor General Olson, Assistant Attorney General
+McCallum, Deputy Solicitor General Clement, Anthony J.
+Steinmeyer, and Mark S. Davies.
+Dale M. Cendali argued the cause for respondents.  With
+her on the briefs were Walter E. Dellinger, Pamela A. Har-
+ris, Jonathan D. Hacker, Jeremy Maltby, Pammela Quinn,
+and Gary D. Roberts.*
+JUSTICE SCALIA delivered the opinion of the Court.
+In this case, we are asked to decide whether § 43(a) of the
+Lanham Act, 15 U. S. C. § 1125(a), prevents the unaccredited
+copying of a work, and if so, whether a court may double a
+profit award under § 1117(a), in order to deter future infring-
+ing conduct.
+I
+In 1948, three and a half years after the German surrender
+at Reims, General Dwight D. Eisenhower completed Crusade
+in Europe, his written account of the allied campaign in Eu-
+rope during World War II.  Doubleday published the book,
+registered it with the Copyright Office in 1948, and granted
+exclusive television rights to an affiliate of respondent Twen-
+tieth Century Fox Film Corporation (Fox).  Fox, in turn, ar-
+ranged  for Time,  Inc.,  to produce  a  television  series,  also
+*Briefs of amici curiae urging reversal were filed for the International
+Trademark Association by Bruce R. Ewing; and for Malla Pollack et al.
+by Ms. Pollack, pro se.
+Briefs of amici curiae urging affirmance were filed for the Association
+for Competitive Technology et al. by Paul Bender and Michael R. Klipper;
+and for the Directors Guild of America et al. by Richard P. Bress.
+Briefs of amici curiae were filed for the American Intellectual Property
+Law Association by William G. Barber, Louis T Pirkey, and Ronald E.
+Myrick; for the American  Library Association et al. by JonathanB  and
+and Peter Jaszi; and for Intellectual Property Law Professors by Tyler
+T Ochoa.
+

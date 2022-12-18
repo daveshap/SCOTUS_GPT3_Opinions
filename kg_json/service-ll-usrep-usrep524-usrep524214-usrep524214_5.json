@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "caseNumber": "524 U. S. 214 (1998)",
+      "date": "1998",
+      "involvedParties": "American Telephone & Telegraph Co. and Central Office Telephone, Inc.",
+      "reasoning": "The Ninth Circuit distinguished respondents claims from those in our fied-rate cases involving special services in one other respect: according to respondent, the 'special services' that it sought were provided by petitioner, without charge, to other customers."
+    },
+    {
+      "@id": "Keogh v. Chicago & Northwestern R. Co.",
+      "caseNumber": "260 U. S. 156 (1922)",
+      "date": "1922",
+      "involvedParties": "Keogh and Chicago & Northwestern R. Co.",
+      "reasoning": "A claim for services that constitute unlawful preferences or that directly conflict with the tariff-the basis for both the tort and contract claims here-cannot be 'saved' under § 414."
+    },
+    {
+      "@id": "Adams Express Co. v. Croninger",
+      "caseNumber": "26 U. S. 491 (1913)",
+      "date": "1913",
+      "involvedParties": "Adams Express Co. and Croninger",
+      "reasoning": "Section 414 copies the saving clause of the ICA, and we have long held that the latter preserves only those rights that are not inconsistent with the statutory fied-tariff requirements."
+    }
+  ]
+}

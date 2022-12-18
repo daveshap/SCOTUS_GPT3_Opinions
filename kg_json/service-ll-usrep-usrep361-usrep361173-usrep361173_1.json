@@ -1,0 +1,55 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/MINNEAPOLIS_&_ST._LOUIS_R._CO._v._U.S._173",
+      "caseNumber": "MINNEAPOLIS & ST. LOUIS R. CO. v. U.S. 173",
+      "date": "1959-12-14",
+      "involvedParties": [
+        "MINNEAPOLIS & ST. LOUIS RAILWAY CO.",
+        "UNITED STATES ET AL."
+      ],
+      "reasoning": "Under § 5 (2) of the Interstate Commerce Act, the Commission was confronted with rival applications by several railroads for authority to acquire control of the Toledo, Peoria & Western Railroad, an independent, short-line, \"bridge carrier\" of through east-west traffic by-passing the congested Chicago and St. Louis gateways and connecting with 16 other railroads.",
+      "citation": "MINNEAPOLIS & ST. LOUIS R. CO. v. U.S. 173"
+    },
+    {
+      "@id": "http://schema.org/No._12",
+      "caseNumber": "No. 12",
+      "date": "1959-11-16-17",
+      "involvedParties": [
+        "Santa Fe",
+        "Pennsylvania Railroads"
+      ],
+      "reasoning": "The Commission found that the plan for joint control of Western by the Santa Fe and Pennsylvania Railroads contemplated that Western would continue to be operated as a separate and independent carrier with responsible local management and that all existing routes via Western would be maintained and kept open without discrimination between connecting lines of railroads; but that the plan of the Minneapolis & St. Louis Railroad to acquire sole control of Western contemplated its disappearance as an independent and neutral connection for 15 other carriers, that it would be extremely harmful to other carriers and that it would result in termination of the employment of most of Western's 24 executives and 225 other employees.",
+      "citation": "No. 12"
+    },
+    {
+      "@id": "http://schema.org/No._27",
+      "caseNumber": "No. 27",
+      "date": "1959-10-14",
+      "involvedParties": [
+        "South Dakota et al.",
+        "United States et al."
+      ],
+      "reasoning": "The District Court sustained the Commission's order.",
+      "citation": "No. 27"
+    },
+    {
+      "@id": "http://schema.org/No._28",
+      "caseNumber": "No. 28",
+      "date": "1959-10-14",
+      "involvedParties": [
+        "Minnesota et al.",
+        "United States et al."
+      ],
+      "reasoning": "The District Court sustained the Commission's order.",
+      "citation": "No. 28"
+    }
+  ]
+}

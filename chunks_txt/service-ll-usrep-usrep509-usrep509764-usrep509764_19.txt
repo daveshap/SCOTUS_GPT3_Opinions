@@ -1,0 +1,124 @@
+
+
+818  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SCALIA, J., dissenting
+this way is just part of determining whether the Sherman
+Act prohibits the conduct at issue.9
+In sum, the practice of using international law to limit the
+extraterritorial reach of statutes is firmly established in our
+jurisprudence.  In proceeding to apply that practice to the
+present cases,  I  shall  rely on  the Restatement  (Third) for
+the relevant principles  of international law.  Its standards
+appear fairly supported  in the decisions  of this  Court con-
+struing  international  choice-of-law  principles  (Lauritzen,
+Romero, and McCulloch) and in the decisions of other fed-
+eral  courts, especially  Timberlane.  Whether the Restate-
+ment precisely reflects international law in every detail mat-
+ters little here, as I believe this litigation would be resolved
+the same way under virtually any conceivable test that takes
+account of foreign regulatory interests.
+Under the Restatement, a nation having some "basis" for
+jurisdiction to prescribe law should nonetheless refrain from
+exercising that jurisdiction "with respect to a person or ac-
+tivity having connections with another state when the exer-
+cise  of  such  jurisdiction  is  unreasonable."  Restatement
+(Third) §403(1).  The  "reasonableness"  inquiry  turns  on a
+number of factors including, but not limited to: "the extent
+to which the activity takes place within the territory [of the
+regulating  state],"  id., §403(2)(a);  "the connections, such  as
+nationality, residence, or economic activity, between the reg-
+ulating state and the person principally  responsible for the
+9Some antitrust courts, including the Court of Appeals in the present
+cases, have mistaken the comity at issue for the "comity of courts," which
+has led them to characterize the question presented as one of "abstention,"
+that is, whether they should "exercise or decline jurisdiction."  Manning-
+ton Mills, Inc. v. Congo leum Corp., 595 F. 2d 1287, 1294, 1296 (CA3 1979);
+see also In re Insurance Antitrust Litigation, 938 F. 2d 919, 932 (CA9
+1991).  As I shall discuss, that seems to be the error the Court has fallen
+into today.  Because courts are generally reluctant to refuse the exercise
+of conferred jurisdiction, confusion on this seemingly theoretical point can
+have the very practical consequence of greatly expanding the extraterrito-
+rial reach of the Sherman Act.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SCALIA, J., dissenting
+activity  to be regulated,"  id.,  §403(2)(b);  "the character  of
+the activity to be regulated, the importance  of regulation to
+the regulating state, the extent to which  other states regu-
+late such activities, and the degree to which the desirability
+of such regulation is generally accepted," id., § 403(2)(c); "the
+extent to which another state may have an interest in reg-
+ulating the activity,"  id., §403(2)(g);  and  "the  likelihood  of
+conflict  with  regulation  by  another  state,"  id.,  §403(2)(h).
+Rarely would these factors point more clearly against appli-
+cation  of United  States  law.  The  activity  relevant  to the
+counts at issue here took place primarily in the United King-
+dom, and the defendants in these counts are British corpora-
+tions  and  British  subjects  having  their principal  place  of
+business  or  residence  outside  the  United  States.0  Great
+Britain has established a comprehensive  regulatory scheme
+governing the London reinsurance markets, and clearly has
+a heavy "interest in regulating the activity,"  id., § 403(2)(g).
+See 938 F. 2d, at 932-933; In re Insurance Antitrust Litiga-
+tion, 723 F. Supp. 464, 487-488  (ND Cal.  1989);  see  also J.
+Butler & R. Merkin, Reinsurance  Law A.1.1-02 (1992).  Fi-
+nally, § 2(b) of the McCarran-Ferguson Act allows state regu-
+latory statutes to override the Sherman Act in the insurance
+field, subject only to the narrow "boycott" exception set forth
+in § 3(b)-suggesting that "the  importance  of regulation  to
+the  [United  States],"  Restatement  (Third)  §403(2)(c),  is
+slight.  Considering  these factors,  I  think it unimaginable
+that  an  assertion  of legislative  jurisdiction  by  the United
+States  would  be  considered  reasonable,  and  therefore  it is
+inappropriate  to  assume, in  the  absence  of statutory  indi-
+cation  to  the  contrary,  that  Congress  has  made  such  an
+assertion.
+10S ome of the British corporations are subsidiaries of American corpora-
+tions, and the Court of Appeals held that "[t]he interests of Britain are at
+least diminished where the parties are subsidiaries of American corpora-
+tions."  Id., at 933.  In effect, the Court of Appeals pierced the corporate
+veil in weighing the interests at stake.  I do not think that was proper.
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+SCAUA, J., dissenting
+It is evident from what I have said that the Court's comity
+analysis, which proceeds as though the issue is whether the
+courts should "decline to exercise ...  jurisdiction,"  ante, at
+798, rather than whether the Sherman Act covers this con-
+duct, is simply misdirected.  I do not at all agree, moreover,
+with the Court's conclusion that the issue of the substantive
+scope of the Sherman Act is not in the cases.  See ante, at
+796, n. 22; ante, at 797, n. 24.  To be sure, the parties did not
+make  a  clear distinction  between  adjudicative jurisdiction
+and  the scope  of the statute.  Parties often  do not, as we
+have observed (and have declined to punish with procedural
+default)  before.  See  the  excerpt  from  Lauritzen quoted
+supra, at 812; see also Romero, 358 U. S.,  at 359.  It is not
+realistic, and also not helpful, to pretend that the only really
+relevant  issue  in  this  litigation  is  not  before  us.  In  any
+event, if one erroneously chooses, as the Court does, to make
+adjudicative jurisdiction (or, more precisely, abstention) the
+vehicle for taking account of the needs of prescriptive comity,
+the Court still  gets  it  wrong.  It concludes  that  no ."true
+conflict"  counseling nonapplication  of United  States law  (or
+rather, as it thinks, United States judicial jurisdiction) exists
+unless compliance with United States law would constitute a
+violation of another country's law.  Ante, at 798-799.  That
+breathtakingly  broad  proposition,  which  contradicts  the
+many  cases  discussed  earlier,  will bring  the Sherman  Act
+and other laws into sharp and unnecessary  conflict with the
+legitimate interests of other countries-particularly our clos-
+est trading partners.
+In  the  sense  in which  the term  "conflic[t]"  was  used  in
+Lauritzen, 345 U. S., at 582, 592, and is generally understood
+in the field of conflicts of laws,  there is  clearly a conflict  in
+this litigation.  The  petitioners  here, like the  defendant in
+Lauritzen, were not compelled  by any  foreign law to take
+their allegedly wrongful actions, but that no more precludes
+a conflict-of-laws  analysis here than it did there.  See id., at
+575-576  (detailing  the  differences  between  foreign  and
+

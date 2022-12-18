@@ -1,0 +1,120 @@
+
+
+Cite as: 524 U. S. 214 (1998)
+REHNQUIST, C. J., concurring
+against AT&T amount to no more than an intentional refusal
+to provide  services  to respondent in an amount or manner
+contrary to the filed tariff.
+I write separately to note that this finding is necessary to
+the conclusion that respondent's state-law tort claim may not
+proceed.  As  the majority  correctly  states, the  filed  rate
+doctrine  exists  to  protect  the  "antidiscriminatory  policy
+which lies at 'the heart of the common-carrier  section of the
+Communications Act."'  Ante, at 223.  Central to that anti-
+discriminatory  policy  is  the notion  that all  purchasers  of
+services covered by the tariff will pay the same rate.  The
+filed  rate doctrine furthers this policy by disallowing  suits
+brought to enforce agreements to provide services on terms
+different from those listed in the tariff.  This ensures that
+the tariff governs  the terms by which the common carrier
+provides those services to its customers.
+It is  crucial  to note, however,  that this is all  the tariff
+governs.  In order  for the filed rate doctrine  to serve  its
+purpose, therefore, it need pre-empt  only those  suits that
+seek to alter the terms  and conditions  provided for in the
+tariff.  This is how the doctrine has been applied in the past.
+In Chicago & Alton R. Co. v. Kirby, 225 U. S. 155 (1912), for
+example, respondent entered into a contract with petitioner
+to ship horses  from Springfield, Illinois, to New York City
+via a special fast train.  The tariff that the petitioner had
+filed "did not provide for an expedited service, nor for trans-
+portation by any particular train."  Id., at 163.  The Court
+ruled that respondents  suit to enforce the special arrange-
+ment could not proceed:
+"An advantage accorded by special agreement which af-
+fects the value of the service to the shipper and its cost
+to the carrier should be published in the tariffs, and for
+a breach of such a contract, relief will be denied, because
+its allowance without such publication is a violation of
+the act.  It is also illegal because it is an undue advan-
+
+NEW PAGE
+
+280  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+REHNQUIST, C. J., concurring
+tage in that it is not one open to all others in the same
+situation."  Id., at 165.
+In Keogh v. Chicago & Northwestern R. Co., 260 U. S. 156,
+163 (1922), the question was not whether a separate contract
+could be enforced, but rather whether petitioner could bring
+an antitrust complaint challenging the rate that respondents
+had filed in their tariff.  The Court ruled that he could not:
+"The legal rights of shipper as against carrier in respect
+to a rate are measured by the published tariff.  Unless
+and until suspended or set aside, this rate is made, for all
+purposes, the legal rate, as between carrier and shipper.
+The rights as defined by the tariff cannot be varied or
+enlarged  by  either  contract  or  tort  of  the  carrier."
+Ibid. (emphasis added).
+In this case respondent's  contract  claim seeks to enforce
+side arrangements  that it  made with petitioner.  Respond-
+ent  contends  that petitioner  promised  to  provide  it  with
+services  on terms  different from those listed in the tariff.
+As the above cases make clear, the filed rate doctrine bars
+such a claim.  Respondents tort claim is entirely derivative
+of its contractual claim, and the Court is therefore correct in
+concluding that the doctrine also bars the tort claim.
+The  tariff does not govern, however, the entirety of the
+relationship between the common carrier and its customers.
+For  example, it  does  not affect whatever  duties  state law
+might impose on petitioner to refrain from intentionally in-
+terfering with respondent's relationships with its customers
+by  means  other  than  failing  to  honor  unenforceable  side
+agreements, or to refrain from engaging in slander or libel,
+or  to satisfy other  contractual  obligations.  The fied rate
+doctrine's  purpose is to ensure that the filed rates are the
+exclusive  source of the terms and  conditions by which the
+common carrier provides to its customers the services cov-
+ered by the tariff.  It  does not serve as a shield against all
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+STEVENS, J., dissenting
+actions  based in state law.  It is with  this understanding
+that I join the Court's opinion.
+JUSTICE STEVENS,  dissenting.
+Everyone  agrees  that respondent's  tortious  interference
+claim  would  be barred  by  the filed  rate  doctrine  if it is
+"wholly derivative  of the contract  claim for additional  and
+better services."  Ante, at 226 (majority opinion);  ante, at
+228  (REHNQUIST,  C.  J.,  concurring).  Moreover,  it  is  true
+that when the Magistrate Judge ruled that respondent's case
+would not support a punitive damages award as a matter of
+state  law, he  characterized  the tort claim  as  "stem[ming]
+from the alleged failure of AT&T to comply with its contrac-
+tual relationship."  Tr. 2207.  In my opinion, however, the
+jury's verdict on respondent's tort claim is supported by evi-
+dence that went well beyond,  and  differed in nature from,
+the contract claim.
+If petitioner, in an effort to appropriate respondent's cus-
+tomers,  had  included with  each  bill  sent to  a  customer  a
+statement expressly characterizing respondent as an unethi-
+cal, profit-hungry middleman, I would think it clear that the
+filed rate  doctrine  would not  constitute a defense  to  such
+tortious conduct.  The evidence in the record indicates that
+a similar result was obtained by mailing bills to the custom-
+ers that disclosed the markup that respondent obtained  on
+their calls.
+Respondent's tort claim was also premised in part on testi-
+mony that AT&T used a telemarketer to contact respondent's
+customers and, without their authorization, convert them to
+AT&T's own long-distance  service.  Id., at 557-558.  In re-
+jecting  AT&T's  motion for  a directed  verdict  on  the tort
+claim, the Magistrate recognized that this practice of "slam-
+ming" customers could "easily be a case of intentional inter-
+ference" that would not necessarily also constitute breach of
+contract.  Id., at 2166-2167.  Slamming was clearly a part
+of the case presented in the District Court.  There was an
+

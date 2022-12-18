@@ -1,0 +1,87 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "Brown v. Pro Football, Inc.",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": ["Petitioners", "United States", "NFL Commissioner"],
+      "reasoning": "Examining the labor/antitrust exemption in the context of multiemployer collective bargaining"
+    },
+    {
+      "@id": "Fort Halifax Packing Co. v. Coyne",
+      "date": "1987",
+      "caseNumber": "482 U. S. 1",
+      "involvedParties": ["Plant-closing employer"],
+      "reasoning": "Examining the applicability of a state statute requiring a plant-closing employer to make employee severance payments in a collective-bargaining context"
+    },
+    {
+      "@id": "Metropolitan Life Ins. Co. v. Massachusetts",
+      "date": "1985",
+      "caseNumber": "471 U. S. 724",
+      "involvedParties": ["State"],
+      "reasoning": "Examining the applicability of a state statute mandating certain minimum health benefits in a collective-bargaining context"
+    },
+    {
+      "@id": "Oliver v. United States",
+      "date": "1961",
+      "caseNumber": "358 U. S. 283",
+      "involvedParties": ["State"],
+      "reasoning": "Examining the interference of state antitrust law with collective bargaining"
+    },
+    {
+      "@id": "Jewel Tea Co. v. NLRB",
+      "date": "1965",
+      "caseNumber": "381 U. S. 676",
+      "involvedParties": ["Antitrust judges"],
+      "reasoning": "Expressing concern about antitrust judges 'roaming at large' through the bargaining process"
+    },
+    {
+      "@id": "American Ship Building Co. v. NLRB",
+      "date": "1965",
+      "caseNumber": "380 U. S. 300",
+      "involvedParties": ["Employers"],
+      "reasoning": "Examining the use of 'terms' as a bargaining 'tactic'"
+    },
+    {
+      "@id": "Colorado-Ute Elec. Assn., Inc. v. NLRB",
+      "date": "1991",
+      "caseNumber": "939 F. 2d 1392",
+      "involvedParties": ["Employers"],
+      "reasoning": "Examining the use of 'terms' as a bargaining 'tactic'"
+    },
+    {
+      "@id": "Circuit-Wise, Inc.",
+      "date": "1992",
+      "caseNumber": "309 N. L. R. B. 905",
+      "involvedParties": ["Employers"],
+      "reasoning": "Examining the use of 'terms' as a bargaining 'tactic'"
+    },
+    {
+      "@id": "Hi-Way Billboards",
+      "date": "1962",
+      "caseNumber": "206 N. L. R. B.",
+      "involvedParties": ["Employers"],
+      "reasoning": "Examining the use of 'terms' as a bargaining 'tactic'"
+    },
+    {
+      "@id": "Bonanno Linen",
+      "date": "1966",
+      "caseNumber": "243 N. L. R. B.",
+      "involvedParties": ["Employers"],
+      "reasoning": "Examining the use of 'terms' as a bargaining 'tactic'"
+    },
+    {
+      "@id": "National Collegiate Athletic Assn. v. Board of Regents of Univ. of Okla.",
+      "date": "1984",
+      "caseNumber": "468 U. S. 85",
+      "involvedParties": ["Professional sports league"],
+      "reasoning": "Examining the special circumstances of professional sports in respect to labor law's antitrust exemption"
+    }
+  ]
+}

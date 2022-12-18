@@ -1,0 +1,115 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "522 U. S. 3 (1997)",
+      "@type": "cite",
+      "date": "1997",
+      "caseNumber": "522 U. S. 3",
+      "involvedParties": "Albrecht",
+      "reasoning": "Reconsideration of Albrecht's continuing validity"
+    },
+    {
+      "@id": "495 U. S.",
+      "@type": "cite",
+      "date": "1968",
+      "caseNumber": "495 U. S.",
+      "involvedParties": "Albrecht",
+      "reasoning": "Nonprice restrictions were unlawful per se"
+    },
+    {
+      "@id": "Business Electronics Corp. v. Sharp Electronics Corp.",
+      "@type": "cite",
+      "date": "1988",
+      "caseNumber": "485 U. S. 717",
+      "involvedParties": "Business Electronics Corp. v. Sharp Electronics Corp.",
+      "reasoning": "Primary purpose of antitrust laws is to protect interbrand competition"
+    },
+    {
+      "@id": "ARCO",
+      "@type": "cite",
+      "date": "1988",
+      "caseNumber": "ARCO",
+      "involvedParties": "ARCO",
+      "reasoning": "Low prices benefit consumers regardless of how they are set"
+    },
+    {
+      "@id": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+      "@type": "cite",
+      "date": "1986",
+      "caseNumber": "475 U. S. 574",
+      "involvedParties": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+      "reasoning": "Cutting prices to increase business is the essence of competition"
+    },
+    {
+      "@id": "93 F. 3d",
+      "@type": "cite",
+      "date": "1996",
+      "caseNumber": "93 F. 3d",
+      "involvedParties": "State Oil Co. v. Khan",
+      "reasoning": "Supplier cannot squeeze dealers' margins below competitive level"
+    },
+    {
+      "@id": "R. Bork, The Antitrust Paradox",
+      "@type": "cite",
+      "date": "1978",
+      "caseNumber": "R. Bork, The Antitrust Paradox",
+      "involvedParties": "R. Bork",
+      "reasoning": "Supplier may fix maximum resale price to prevent dealers from exploiting monopoly power"
+    },
+    {
+      "@id": "P. Areeda, Antitrust Law 1635",
+      "@type": "cite",
+      "date": "1989",
+      "caseNumber": "P. Areeda, Antitrust Law 1635",
+      "involvedParties": "P. Areeda",
+      "reasoning": "Ban on maximum resale price limitations has prompted many suppliers to integrate forward into distribution"
+    },
+    {
+      "@id": "P. Areeda & H. Hovenkamp, Antitrust Law 729.7",
+      "@type": "cite",
+      "date": "1996 Supp.",
+      "caseNumber": "P. Areeda & H. Hovenkamp, Antitrust Law 729.7",
+      "involvedParties": "P. Areeda & H. Hovenkamp",
+      "reasoning": "Litigation between independent distributors and publishers has arisen since Albrecht"
+    },
+    {
+      "@id": "Blair & Lang, Albrecht After ARCO: Maximum Resale Price Fixing Moves Toward the Rule of Reason",
+      "@type": "cite",
+      "date": "1991",
+      "caseNumber": "Blair & Lang, Albrecht After ARCO: Maximum Resale Price Fixing Moves Toward the Rule of Reason",
+      "involvedParties": "Blair & Lang",
+      "reasoning": "Maximum pricing may not be harmful to competition and consumers"
+    },
+    {
+      "@id": "Lopatka, Stephen Breyer and Modern Antitrust: A Snug Fit",
+      "@type": "cite",
+      "date": "1995",
+      "caseNumber": "Lopatka, Stephen Breyer and Modern Antitrust: A Snug Fit",
+      "involvedParties": "Lopatka",
+      "reasoning": "Supplier unlikely to profit from limiting market by excluding potential dealers"
+    },
+    {
+      "@id": "Easterbrook",
+      "@type": "cite",
+      "date": "1981",
+      "caseNumber": "Easterbrook",
+      "involvedParties": "Easterbrook",
+      "reasoning": "Vertical maximum price fixing can be recognized and punished under the rule of reason"
+    },
+    {
+      "@id": "Mari-copa County",
+      "@type": "cite",
+      "date": "1986",
+      "caseNumber": "Mari-copa County",
+      "involvedParties": "Mari-copa County",
+      "reasoning": "Maximum pricing may mask minimum pricing"
+    }
+  ]
+}

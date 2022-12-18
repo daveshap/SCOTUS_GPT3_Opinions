@@ -1,0 +1,26 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "532 U. S. 504 (2001)",
+    "author": "Stevens, J.",
+    "dissent": true,
+    "datePublished": "2001"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "mary reversal-I",
+    "author": "Stevens, J.",
+    "dissent": true,
+    "datePublished": "2001"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "203 F. 3d",
+    "author": "Hawkins, J.",
+    "dissent": false,
+    "datePublished": "2000"
+  }
+]

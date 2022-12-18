@@ -1,0 +1,22 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": "http://example.org/HartfordFireInsCoVCalifornia",
+    "date": "http://example.org/date",
+    "caseNumber": "http://example.org/caseNumber",
+    "involvedParties": "http://example.org/involvedParties",
+    "reasoning": "http://example.org/reasoning",
+    "precedent": "http://example.org/precedent",
+    "priorOpinion": "http://example.org/priorOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/HartfordFireInsCoVCalifornia",
+      "date": "509 U. S. 764 (1993)",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["ISO", "London Reinsurers", "Domestic Primary Insurers", "Foreign Reinsurers", "London and Domestic Retrocessional Reinsurers"],
+      "reasoning": "The Nineteen States and a number of private plaintiffs filed 36 complaints against the insurers involved in this course of events, charging that the conspiracies described above violated § 1 of the Sherman Act, 15 U. S. C. § 1.",
+      "precedent": "In re Insurance Antitrust Litigation, 23 F. Supp. 464 (1989)",
+      "priorOpinion": "The District Court granted the motions to dismiss. It held that the conduct alleged fell within the grant of antitrust immunity contained in § 2(b) of the McCarran-Ferguson Act, 15 U. S. C. § 1012(b), because it amounted to \"the business of insurance\" and was \"regulated by State Law\" within the meaning of that section; none of the conduct, in the District Court's view, amounted to a \"boycott\" within the meaning of the § 3(b) exception to that grant of immunity. 15 U. S. C. § 1013(b)."
+    }
+  ]
+}

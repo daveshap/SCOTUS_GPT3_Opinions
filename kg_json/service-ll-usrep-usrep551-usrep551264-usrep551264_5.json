@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "551US1",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "276",
+      "involvedParties": "CREDIT SUISSE SECURITIES (USA) LLC v. BILLING",
+      "reasoning": "The law grants the SEC authority to supervise all of the activities here in question.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "551US2",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "277",
+      "involvedParties": "CREDIT SUISSE SECURITIES (USA) LLC v. BILLING",
+      "reasoning": "The SEC possesses considerable power to forbid, permit, encourage, discourage, tolerate, limit, and otherwise regulate virtually every aspect of the practices in which underwriters engage.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "551US3",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "278",
+      "involvedParties": "CREDIT SUISSE SECURITIES (USA) LLC v. BILLING",
+      "reasoning": "We do not read the complaints as attacking the bare existence of IPO underwriting syndicates or any of the joint activity that the SEC considers a necessary component of IPO-related syndicate activity.",
+      "opinion": "Opinion of the Court"
+    }
+  ]
+}

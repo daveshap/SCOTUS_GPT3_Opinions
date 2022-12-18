@@ -1,0 +1,121 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  907 
+Opinion of the Court 
+in a majority of States for a large part of the past century 
+up until 1975. 
+It is also of note that during this time “when the legal 
+environment in the [United States] was most favorable for 
+[resale price maintenance], no more than a tiny fraction of 
+manufacturers ever employed [resale price maintenance] con­
+tracts.”  Overstreet 6; see also id., at 169 (noting that “no 
+more than one percent of manufacturers, accounting for no 
+more than ten percent of consumer goods purchases, ever 
+employed [resale price maintenance] in any single year in 
+the [United States]”); Scherer & Ross 549 (noting that “[t]he 
+fraction of U. S. retail sales covered by [resale price mainte­
+nance] in its heyday has been variously estimated at from 4 
+to  10  percent”).  To  the  extent  consumers  demand  cheap 
+goods, judging vertical price restraints under the rule of rea­
+son  will  not  prevent  the  market  from  providing  them. 
+Cf. Easterbrook 152–153 (noting that “S.S. Kresge (the old 
+K-Mart) ﬂourished during the days of manufacturers’ great­
+est freedom” because “discount stores offer a combination 
+of price and service that many customers value” and that 
+“[n]othing in restricted dealing threatens the ability of con­
+sumers to ﬁnd low prices”); Scherer & Ross 557 (noting that 
+“for the most part, the effects of the [Consumer Goods Pric­
+ing Act] were imperceptible because the forces of competi­
+tion had already repealed the [previous antitrust exemption] 
+in their own quiet way”). 
+For these reasons the Court’s decision in Dr. Miles Medi­
+cal Co. v. John D. Park & Sons Co., 220 U. S. 373 (1911), is 
+now overruled.  Vertical price restraints are to be judged 
+according to the rule of reason. 
+V 
+Noting that Leegin’s president has an ownership interest 
+in retail stores that sell Brighton, respondent claims Leegin 
+participated in an unlawful horizontal cartel with competing 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+908  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+retailers.  Respondent did not make this allegation in the 
+lower courts, and we do not consider it here. 
+The judgment of the Court of Appeals is reversed, and 
+the case is remanded for proceedings consistent with this 
+opinion. 
+It is so ordered. 
+Justice Breyer, with whom Justice Stevens, Justice 
+Souter, and Justice Ginsburg join, dissenting. 
+In Dr. Miles Medical Co. v. John D. Park & Sons Co., 220 
+U. S. 373, 394, 408–409 (1911), this Court held that an agree­
+ment between a manufacturer of proprietary medicines and 
+its dealers to ﬁx the minimum price at which its medicines 
+could be sold was “invalid . . . under the [Sherman Act, 15 
+U. S. C. § 1].”  This Court has consistently read Dr. Miles as 
+establishing a bright-line rule that agreements ﬁxing mini­
+mum  resale  prices  are  per  se  illegal.  See,  e. g.,  United 
+States v. Trenton Potteries Co., 273 U. S. 392, 399–401 (1927); 
+NYNEX  Corp.  v.  Discon,  Inc.,  525  U. S.  128,  133  (1998). 
+That per se rule is one upon which the legal profession, busi­
+ness,  and  the  public  have  relied  for  close  to  a  century. 
+Today the Court holds that courts must determine the law­
+fulness of minimum resale price maintenance by applying, 
+not a bright-line per se rule, but a circumstance-speciﬁc “rule 
+of  reason.”  Ante,  at  907.  And  in  doing  so  it  overturns 
+Dr. Miles. 
+The Court justiﬁes its departure from ordinary considera­
+tions of stare decisis by pointing to a set of arguments well 
+known in the antitrust literature for close to half a century. 
+See  ante,  at  889–892.  Congress  has  repeatedly  found  in 
+these arguments insufﬁcient grounds for overturning the per 
+se rule.  See, e. g., Hearings on H. R. 10527 et al. before the 
+Subcommittee on Commerce and Finance of the House Com­
+mittee on Interstate and Foreign Commerce, 85th Cong., 2d 
+Sess., 74–76, 89, 99, 101–102, 192–195, 261–262 (1958).  And, 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  909 
+Breyer, J., dissenting 
+in my view, they do not warrant the Court’s now overturning 
+so well-established a legal precedent. 
+I 
+The Sherman Act seeks to maintain a marketplace free 
+of anticompetitive practices, in particular those enforced by 
+agreement among private ﬁrms.  The law assumes that such 
+a marketplace, free of private restrictions, will tend to bring 
+about the lower prices, better products, and more efﬁcient 
+production  processes  that  consumers  typically  desire.  In 
+determining  the  lawfulness  of  particular  practices,  courts 
+often apply a “rule of reason.”  They examine both a prac­
+tice’s likely anticompetitive effects and its beneﬁcial business 
+justiﬁcations.  See, e. g., National Collegiate Athletic Assn. 
+v. Board of Regents of Univ. of Okla., 468 U. S. 85, 109–110, 
+and n. 39 (1984); National Soc. of Professional Engineers v. 
+United States, 435 U. S. 679, 688–691 (1978); Board of Trade 
+of Chicago v. United States, 246 U. S. 231, 238 (1918). 
+Nonetheless, sometimes the likely anticompetitive conse­
+quences of a particular practice are so serious and the poten­
+tial justiﬁcations so few (or, e. g., so difﬁcult to prove) that 
+courts have departed from a pure “rule of reason” approach. 
+And sometimes this Court has imposed a rule of per se un­
+lawfulness—a rule that instructs courts to ﬁnd the practice 
+unlawful all (or nearly  all) the time.  See, e. g., NYNEX, 
+supra, at 133; Arizona v.  Maricopa County Medical Soc., 
+457 U. S. 332, 343–344, and n. 16 (1982); Continental T. V., 
+Inc. v.  GTE Sylvania Inc., 433 U. S. 36, 50, n. 16 (1977); 
+United States v. Topco Associates, Inc., 405 U. S. 596, 609– 
+611  (1972);  United  States  v.  Socony-Vacuum  Oil  Co.,  310 
+U. S. 150, 213–214 (1940) (citing and quoting Trenton Potter­
+ies, supra, at 397–398). 
+The case before us asks which kind of approach the courts 
+should follow where minimum resale price maintenance is at 
+issue.  Should they apply a per se rule (or a variation) that 
+

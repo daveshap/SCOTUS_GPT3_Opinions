@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "546US1",
+      "caseNumber": "546US1",
+      "date": "08-22-0815:43:12",
+      "involvedParties": "VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-SIMCO GMC, INC.",
+      "reasoning": "For the reasons stated, the judgment of the Court of Appeals for the Eighth Circuit is reversed, and the case is remanded for further proceedings consistent with this opinion.",
+      "cite": "546 U. S. 164 (2006)"
+    },
+    {
+      "@id": "ClaytonAct",
+      "caseNumber": "ClaytonAct",
+      "date": "38 Stat. 730, as amended, 49 Stat. 1526",
+      "involvedParties": "Robinson-Patman Act",
+      "reasoning": "Section 2 of the Clayton Act, as amended by § 1 of the Robinson-Patman Act, provides in relevant part: “It shall be unlawful for any person...to discriminate in price between different purchasers of commodities of like grade and quality . . . where the effect of such discrimination may be substantially to lessen competition or tend to create a monopoly in any line of commerce, or to injure, destroy, or prevent competition with any person who either grants or knowingly receives the benefit of such discrimination, or with customers of either of them.”",
+      "cite": "38 Stat. 730, as amended, 49 Stat. 1526, 15 U. S. C. § 13(a)"
+    }
+  ]
+}

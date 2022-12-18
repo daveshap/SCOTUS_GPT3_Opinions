@@ -1,0 +1,127 @@
+
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+318  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+clude that substantial evidence supported a ﬁnding of lia­
+bility on the predatory-bidding theory.  Id., at 1045.  We 
+granted certiorari to decide whether Brooke Group applies 
+to claims of predatory bidding.  548 U. S. 903 (2006).  We 
+hold  that  it  does,  and  we  vacate  the  Court  of  Appeals’ 
+judgment. 
+II 
+In  Brooke  Group,  we  considered  what  a  plaintiff  must 
+show in order to succeed on a claim of predatory pricing 
+under  § 2  of  the  Sherman  Act.1  In  a  typical  predatory­
+pricing scheme, the predator reduces the sale price of its 
+product (its output) to below cost, hoping to drive competi­
+tors out of business.  Then, with competition vanquished, 
+the predator raises output prices to a supracompetitive level. 
+See Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 
+475 U. S. 574, 584–585, n. 8 (1986) (describing predatory pric­
+ing).  For the scheme to make economic sense, the losses 
+suffered from pricing goods below cost must be recouped 
+(with interest) during the supracompetitive-pricing stage of 
+the  scheme.  Id.,  at  588–589;  Cargill,  Inc.  v.  Monfort  of 
+Colo., Inc., 479 U. S. 104, 121–122, n. 17 (1986); see also R. 
+Bork, The Antitrust Paradox 145 (1978).  Recognizing this 
+economic reality, we established two prerequisites to recov­
+ery on claims of predatory pricing.  “First, a plaintiff seek­
+ing to establish competitive injury resulting from a rival’s 
+low  prices  must  prove  that  the  prices  complained  of  are 
+below an appropriate measure of its rival’s costs.”  Brooke 
+Group, 509 U. S., at 222.  Second, a plaintiff must demon­
+strate that “the competitor had . . . a   dangerous probabilit[y] 
+1 Brooke Group dealt with a claim under the Robinson-Patman Act, but 
+as we observed, “primary-line competitive injury under the Robinson-
+Patman Act is of the same general character as the injury inﬂicted by 
+predatory pricing schemes actionable under § 2 of the Sherman Act.”  509 
+U. S., at 221.  Because of this similarity, the standard adopted in Brooke 
+Group applies to predatory-pricing claims under § 2 of the Sherman Act. 
+Id., at 222. 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  319 
+Opinion of the Court 
+of  recouping  its  investment  in  below-cost  prices.”  Id., 
+at 224. 
+The ﬁrst prong of the test—requiring that prices be below 
+cost—is necessary because “[a]s a general rule, the exclusion­
+ary effect of prices above a relevant measure of cost either 
+reﬂects the lower cost structure of the alleged predator, and 
+so represents competition on the merits, or is beyond the 
+practical ability of a judicial tribunal to control.”  Id., at 223. 
+We were particularly wary of allowing recovery for above­
+cost price cutting because allowing such claims could, per­
+versely, “chil[l] legitimate price cutting,” which directly ben­
+eﬁts consumers.  See id., at 223–224; Atlantic Richﬁeld Co. 
+v. USA Petroleum Co., 495 U. S. 328, 340 (1990) (“Low prices 
+beneﬁt consumers regardless of how those prices are set, and 
+so  long  as  they  are  above  predatory  levels,  they  do  not 
+threaten  competition”).  Thus,  we  speciﬁcally  declined  to 
+allow plaintiffs to recover for above-cost price cutting, con­
+cluding that “discouraging a price cut and . . . depriving con­
+sumers of the beneﬁts of lower prices . . .  does not constitute 
+sound antitrust policy.”  Brooke Group, supra, at 224. 
+The second prong of the Brooke Group test—requiring 
+that  there  be  a  dangerous  probability  of  recoupment  of 
+losses—is necessary because, without a dangerous probabil­
+ity of recoupment, it is highly unlikely that a ﬁrm would 
+engage  in  predatory  pricing.  As  the  Court  explained  in 
+Matsushita, a ﬁrm engaged in a predatory-pricing scheme 
+makes an investment—the losses suffered plus the proﬁts 
+that would have been realized absent the scheme—at the 
+initial, below-cost-selling phase.  475 U. S., at 588–589.  For 
+that investment to be rational, a ﬁrm must reasonably expect 
+to recoup in the long run at least its original investment with 
+supracompetitive proﬁts.  Ibid.; Brooke Group, 509 U. S., at 
+224.  Without such a reasonable expectation, a rational ﬁrm 
+would not willingly suffer deﬁnite, short-run losses.  Recog­
+nizing the centrality of recoupment to a predatory-pricing 
+scheme, we required predatory-pricing plaintiffs to “demon­
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+320  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+strate that there is a likelihood that the predatory scheme 
+alleged would cause a rise in prices above a competitive level 
+that would be sufﬁcient to compensate for the amounts ex­
+pended  on  the  predation,  including the  time  value  of  the 
+money invested in it.”  Id., at 225. 
+We described the two parts of the Brooke Group test as 
+“essential components of real market injury” that were “not 
+easy to establish.”  Id., at 226.  We also reiterated that the 
+costs of erroneous ﬁndings of predatory-pricing liability were 
+quite high because “ ‘[t]he mechanism by which a ﬁrm en­
+gages  in  predatory  pricing—lowering  prices—is  the  same 
+mechanism by which a ﬁrm stimulates competition,’ ” and, 
+therefore, mistaken ﬁndings of liability would “ ‘ “chill the 
+very conduct the antitrust laws are designed to protect.” ’ ” 
+Ibid. (quoting Cargill, supra, at 122, n. 17). 
+III 
+Predatory  bidding,  which  Ross-Simmons  alleges  in  this 
+case, involves the exercise of market power on the buy side 
+or input side of a market.  In a predatory-bidding scheme, a 
+purchaser of inputs “bids up the market price of a critical 
+input to such high levels that rival buyers cannot survive (or 
+compete as vigorously) and, as a result, the predating buyer 
+acquires (or maintains or increases its) monopsony power.” 
+Kirkwood, Buyer Power and Exclusionary Conduct, 72 Anti­
+trust L. J. 625, 652 (2005) (hereinafter Kirkwood).  Monop­
+sony power is market power on the buy side of the market. 
+Blair & Harrison, Antitrust Policy and Monopsony, 76 Cor­
+nell L. Rev. 297 (1991).  As such, a monopsony is to the buy 
+side of the market what a monopoly is to the sell side and is 
+sometimes colloquially called a “buyer’s monopoly.”  See id., 
+at 301, 320; Piraino, A Proposed Antitrust Approach to Buy­
+ers’ Competitive Conduct, 56 Hastings L. J. 1121, 1125 (2005). 
+A predatory bidder ultimately aims to exercise the monop­
+sony power gained from bidding up input prices.  To that 
+end, once the predatory bidder has caused competing buyers 
+

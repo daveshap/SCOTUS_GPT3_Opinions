@@ -1,0 +1,121 @@
+
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+and Food Employers' Pension Trust Fund, 638 F. Supp. 885,
+887 (SD Cal. 1986), aff'd, 827 F. 2d 491 (CA9 1987),  cert. de-
+nied, 485 U. S. 1008 (1988).  We proceed on that assumption.
+Multiemployer bargaining itself is a well-established, im-
+portant, pervasive method of collective bargaining, offering
+advantages to both management  and labor.  See Appendix,
+infra, p. 251  (multiemployer bargaining  accounts  for more
+than 40% of major collective-bargaining  agreements, and is
+used in such industries as construction, transportation, retail
+trade, clothing manufacture, and real estate, as well as pro-
+fessional sports); NLRB v.  Truck Drivers, 353  U. S.8 7, 95
+(1957)  (Buffalo Linen) (Congress  saw  multiemployer bar-
+gaining as "a vital factor in the effectuation  of the national
+policy of promoting labor peace through strengthened collec-
+tive bargaining");  Charles D. Bonanno Linen Service, Inc.
+v. NLRB, 454  U. S.4 04, 409, n. 3  (1982)  (Bonanno Linen)
+(multiemployer bargaining  benefits  both  management  and
+labor, by saving bargaining resources, by encouraging devel-
+opment  of  industry-wide  worker  benefits  programs  that
+smaller employers could not otherwise afford, and by inhibit-
+ing employer competition at the workers' expense); Brief for
+Respondent  NLRB in Bonanno Linen, 0. T. 1981, No. 80-
+931,  p.  10,  n.  7  (same);  General  Subcommittee  on  Labor,
+House Committee  on  Education  and  Labor, Multiemployer
+Association Bargaining and its Impact on the Collective Bar-
+gaining Process, 88th Cong., 2d Sess., 10-19, 32-33  (Comm.
+Print 1964) (same); see also C. Bonnett, Employers' Associa-
+tions in the United States: A Study of Typical Associations
+(1922)  (history).  The  upshot is that  the practice  at issue
+here plays a significant role in a collective-bargaining process
+that itself constitutes  an important part of the Nation's in-
+dustrial relations system.
+In these circumstances, to subject the practice to antitrust
+law is to require antitrust courts to answer a host of impor-
+tant practical questions about how collective bargaining over
+
+NEW PAGE
+
+Ute as: 518 U. S. 231 (1996)
+Opinion of the Court
+wages,  hours,  and  working conditions  is  to  proceed-the
+. 
+very result that the implicit labor exemption seeks to avoid.
+And it is to place in jeopardy some of the potentially benefi-
+cial labor-related effects that multiemployer  bargaining can
+achieve.  That is because unlike labor law, which sometimes
+welcomes  anticompetitive  agreements  conducive  to  indus-
+trial harmony, antitrust law forbids  all agreements  among
+competitors  (such as  competing  employers) that unreason-
+ably lessen competition among or between them in virtually
+any  respect  whatsoever.  See,  e. g.,  Paramount Famous
+Lasky Corp. v. United States, 282 U. S. 30 (1930) (agreement
+to insert arbitration  provisions in motion picture licensing
+contracts).  Antitrust law also sometimes permits judges or
+juries to premise antitrust liability upon little more than uni-
+form behavior  among  competitors,  preceded  by conversa-
+tions implying that later uniformity might prove desirable,
+see, e. g.,  United States v. General Motors Corp., 384  U. S.
+127, 142-143  (1966);  United States v. Foley, 598 F. 2d 1323,
+1331-1332 (CA4 1979), cert. denied, 444 U. S. 1043 (1980), or
+accompanied by other conduct that in context suggests that
+each competitor failed to make an independent decision, see,
+e. g., American Tobacco Co. v. United States, 328 U. S. 781,
+809-810 (1946);  United States v. Masonite Corp., 316  U. S.
+265, 275 (1942); Interstate Circuit, Inc. v. United States, 306
+U. S. 208, 226-227 (1939).  See generally 6 P. Areeda, Anti-
+trust  Law  1416-1427  (1986);  Turner, The  Definition  of
+Agreement Under the Sherman Act: Conscious Parallelism
+and Refusals to Deal, 75 Harv. L. Rev. 655 (1962).
+If the antitrust laws apply, what are employers to do once
+impasse is reached?  If all impose terms similar to their last
+joint  offer,  they invite  an  antitrust  action  premised  upon
+identical behavior (along with prior or accompanying conver-
+sations)  as  tending  to  show  a  common  understanding  or
+agreement.  If any, or all, of them individually impose terms
+that differ significantly from that offer, they invite an unfair
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+labor  practice  charge.  Indeed,  how  can  employers  safely
+discuss  their offers  together  even before  a bargaining  im-
+passe occurs?  A preimpasse discussion about, say, the prac-
+tical advantages  or disadvantages  of a particular  proposal
+invites a later antitrust claim that they agreed  to limit the
+kinds  of  action  each  would  later  take  should  an  impasse
+occur.  The same  is true of postimpasse discussions  aimed
+at renewed negotiations with the union.  Nor would adher-
+ence to the terms of an expired collective-bargaining  agree-
+ment eliminate a potentially plausible antitrust claim charg-
+ing that they had "conspired"  or tacitly "agreed" to do  so,
+particularly  if maintaining the status  quo were  not in the
+immediate  economic  self-interest  of  some.  Cf. Interstate
+Circuit,s upra, at 222-223; 6 Areeda, supra,  1425.  All this
+is to say that to permit antitrust liability here threatens to
+introduce  instability  and  uncertainty  into  the  collective-
+bargaining process, for antitrust law often forbids or discour-
+ages  the  kinds  of joint discussions  and  behavior  that  the
+collective-bargaining process invites or requires.
+We  do not see any obvious  answer to this problem.  We
+recognize,  as  the  Government  suggests, that, in principle,
+antitrust courts might themselves try to evaluate particular
+kinds of employer understandings, finding them "reasonable"
+(hence lawful) where justified by collective-bargaining neces-
+sity.  But any such evaluation means a web of detailed rules
+spun  by  many  different  nonexpert  antitrust  judges  and
+juries, not a set of labor rules enforced  by a single  expert
+administrative body, namely the Board.  The labor laws give
+the Board, not  antitrust courts, primary responsibility  for
+policing the collective-bargaining process.  And one of their
+objectives  was  to take from  antitrust courts the authority
+to determine, through application of the antitrust laws, what
+is  socially  or  economically  desirable  collective-bargaining
+policy.  See supra, at 236-237; see also Jewel Tea, 381 U. S.,
+at 716-719 (opinion of Goldberg, J.).
+

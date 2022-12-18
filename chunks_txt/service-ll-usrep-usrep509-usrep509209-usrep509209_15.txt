@@ -1,0 +1,126 @@
+
+
+Cite as: 509 U. S. 209 (1993)
+STEVENS, J., dissenting
+those facts, see n. 3, supra,j ustified the finding by the jury
+that B&W's discriminatory pricing campaign "had a reason-
+able possibility of injuring competition,"  see  supra, at 244,
+and n. 2.
+II
+The Sherman Act, 26 Stat. 209, enacted in 1890, the Clay-
+ton Act,  38  Stat. 730, enacted  in  1914, and  the Robinson-
+Patman  Act,  which  amended  the  Clayton Act  in  1936,  all
+serve the purpose of protecting competition.  Because they
+have  a common  goal, the statutes  are similar in  many re-
+spects.  All three prohibit the predatory practice of deliber-
+ately selling below cost to discipline a competitor, either to
+drive the competitor  out of business  or to raise prices to a
+level that will enable the predator to recover its losses and,
+in  the  long run, earn additional profits.  Sales  below cost
+and anticompetitive  intent  are elements  of the violation  of
+all three statutes.  Neither of those elements, however, is at
+issue in this case.  See ante, at 231 (record contains sufficient
+evidence  of anticompetitive  intent and  below-cost  pricing).
+The statutes do differ significantly with respect to one ele-
+ment of the violation, the competitive consequences of preda-
+tory conduct.  Even here, however, the three statutes have
+one thing in common: Not one of them requires proof that a
+predatory  plan has actually  succeeded  in accomplishing  its
+objective.  Section 1 of the Sherman Act requires proof of a
+conspiracy.  It is the joint plan to restrain trade, however,
+and not its success, that is prohibited by § 1.  Nash v. United
+States, 229 U. S. 373, 378 (1913).  Section 2 of the Sherman
+Act  applies  to  independent  conduct,  and  may  be  violated
+when there is a "dangerous probability" that an attempt to
+achieve monopoly power will succeed.  Swift & Co. v. United
+States, 196 U. S. 375, 396 (1905).  The Clayton Act goes be-
+yond  the  "dangerous  probability"  standard  to  cover  price
+discrimination "where the effect of such discrimination may
+be  to  substantially  lessen  competition  or tend  to  create a
+monopoly in any line of commerce."  § 2, 38 Stat. 730.
+
+NEW PAGE
+
+252  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+STEVENS, J., dissenting
+The  element  of  competitive  injury  as  defined  in  the
+Robinson-Patman  Act  is  broader  still.'3  See  S.  Rep.  No.
+1502, 74th Cong., 2d Sess., 4 (1936)  (Act substantially broad-
+ens similar clause of Clayton Act).'4  The Robinson-Patman
+Act  was  designed  to reach  discriminations  "in their incipi-
+ency,  before  the  harm  to  competition  is  effected.  It  is
+enough that they 'may' have the prescribed  effect."  Corn
+Products Refining Co. v. FTC, 324 U. S. 726,  738 (1945)  (in-
+ternal quotation marks omitted).  Or, as the Report of the
+Senate Judiciary  Committee on the proposed Act explained,
+"to  catch the weed in the seed will keep it from coming to
+flower."  S. Rep. No. 1502, at 4.
+Accordingly, our  leading  case  concerning  discriminatory
+volume rebates described the scope of the Act as follows:
+IsS ee text of statute, n. 1, supra.
+14One of the purposes of broadening the Clayton Act's competitive in-
+jury language in the Robinson-Patman Act was to provide more effective
+protection against predatory price  cutting.  As  the Attorney  General's
+National Committee to Study the Antitrust Laws explained  in its 1955
+report:
+"In some circumstances, to be sure, injury to even a single competitor
+should bring the Act into play.  Predatory price cutting designed to elimi-
+nate a smaller business rival, for example, is a practice which inevitably
+frustrates competition by excluding competitors from the market or delib-
+erately impairing  their competitive  strength.  The invalidation  of such
+deliberate price slashes for the purpose of destroying even a single com-
+petitor, moreover, accords distinct recognition to the narrower  tests of
+'injury' added to the price discrimination provisions  of the Clayton Act
+through  the  1936  Robinson-Patman  amendments.  The  discrimination
+provisions in the original Clayton Act were feared  by the legislators as
+inadequate to check the victimization of individual businessmen by preda-
+tory price cuts that nevertheless  created no general impairment of com-
+petitive conditions in a wider market.  To reach such destructive price
+cuts endangering the survival of smaller rivals of a powerful seller was an
+express objective of the liberalizing amendments in the 'injury' clause of
+the Robinson-Patman  Act."  Report of the Attorney General's  National
+Committee  to  Study  the  Antitrust  Laws  165-166  (1955)  (footnotes
+omitted).
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+STEVENS, J., dissenting
+"There  are specific findings  that  such injuries  had  re-
+sulted from respondent's discounts, although the statute
+does not require the Commission to find that injury has
+actually  resulted.  The  statute requires  no more than
+that the  effect  of the prohibited  price  discriminations
+'may be  substantially to lessen  competition  ... or to
+injure, destroy, or prevent competition.'  After a care-
+ful  consideration  of  this  provision  of  the  Robinson-
+Patman Act, we have said that 'the statute does not re-
+quire that the discrimination must in fact have harmed
+competition, but only that there is a reasonable possibil-
+ity that they "may" have such  an effect.'  Corn Prod-
+ucts Co. v. Federal Trade Comm'n, 324  U. S. 726, 742."
+FTC v. Morton Salt Co., 334 U. S. 37, 46 (1948).
+See also Falls City Industries, Inc. v. Vanco Beverage, Inc.,
+460  U. S. 428,  435  (1983)  ("In keeping  with  the  Robinson-
+Patman  Act's prophylactic  purpose,  § 2(a) does  not require
+that the discriminations must in fact have harmed competi-
+tion" (internal quotation marks omitted)).
+In this case, then, Liggett need not show any actual harm
+to competition, but only the reasonable possibility that such
+harm would  flow from B&W's  conduct.  The  evidence pre-
+sented  supports the  conclusion  that B&W's  price  war was
+intended  to discipline  Liggett for its unprecedented  use  of
+price competition in an industry that had enjoyed handsome
+supracompetitive  profits for about half a century.  The evi-
+dence  also demonstrates  that B&W  executives  were  confi-
+dent enough  in the feasibility  of their plan  that they were
+willing to invest millions of company dollars in its outcome.
+And all  of this, of course, must be  viewed  against a  back-
+ground of supracompetitive, parallel pricing, in which "prices
+for cigarettes increased in lockstep, twice a year...  irrespec-
+tive of the rate of inflation, changes in the cost of production,
+or shifts in consumer demand,"  ante, at 213, bringing with
+them dramatic increases  in profit margins, see  n. 5,  supra.
+In this context, it is surely fair to infer that B&W's discipli-
+

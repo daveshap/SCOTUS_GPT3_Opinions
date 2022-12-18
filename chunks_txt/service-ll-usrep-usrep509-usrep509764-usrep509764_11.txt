@@ -1,0 +1,126 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+enon,"' Barry, 438 U. S., at 543, to which the term "boycott"
+will henceforth be confined, is of course at odds with our own
+description of our Sherman Act cases in Barry.19  See ibid.
+Moreover,  the  limitation  to  "collateral"  refusals  to  deal
+threatens  to shrink  the § 3(b) exception  far more  than the
+majority is willing to admit.  Even if the reinsurers refused
+all reinsurance to primary insurers "who wrote insurance on
+disfavored forms,"  including insurance  "as to risks written
+on other forms,"  the majority  states, the  reinsurers  would
+not be engaging in a § 3(b) boycott if "the primary insurers'
+other business were relevant to the proposed insurance con-
+tract (for example, if the reinsurer bears greater risk where
+the primary insurer engages  in riskier businesses)."  Post,
+at 810 (emphasis deleted).  Under this standard, and under
+facts  comparable  to  those in  this  litigation,  I assume  that
+reinsurers  who refuse to deal at all with a primary insurer
+unless it ceases insuring a particular risk would not be en-
+gaging in a § 3(b) boycott if they could show that (1) insuring
+the risk in question increases  the probabiLity  that the pri-
+mary insurer will become insolvent, and that (2) it costs more
+to administer the reinsurance  contracts of' a bankrupt  pri-
+mary  insurer  (including  those  unrelated  to  the  risk  that
+caused  the primary insurer to declare  bankruptcy).  One
+can only imagine the variety of similar arguments that may
+slowly plug what remains of the § 3(b) exception.  For these
+reasons, I cannot agree with the majority's narrow theory of
+§ 3(b) boycotts.
+III
+Finally, we take up the question presented by No. 91-1128,
+whether certain claims against the London reinsurers should
+have been dismissed  as improper applications  of the Sher-
+19 The majority contends that its concept of boycott is still "multifaceted"
+because it can be modified by such adjectives as "punitive," "labor," "politi-
+cal," and "social."  Post, at 804, n. 3.  This does not hide the fact that it
+is attempting to concoct  a "precise definition" of the term, post, at 800,
+composed of a simple set of necessary and sufficient conditions.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+man Act to foreign conduct.  The  Fifth Claim for Relief in
+the  California  Complaint  alleges  a  violation  of  § 1 of the
+Sherman Act by certain London reinsurers who conspired to
+coerce primary insurers in the  United States to offer CGL
+coverage  on  a  claims-made  basis,  thereby  making  "occur-
+rence CGL coverage..,  unavailable in the State of California
+for  many  risks."  App.  43-44  (  131-135).  The  Sixth
+Claim for Relief in the California Complaint alleges that the
+London reinsurers violated § 1 by a conspiracy to limit cover-
+age of pollution risks in North America, thereby rendering
+"pollution liability  coverage ...  almost entirely unavailable
+for  the  vast majority  of casualty  insurance  purchasers  in
+the State  of California."  Id.,  at 45-46  (  136-140).  The
+Eighth Claim for Relief in the California Complaint alleges
+a further § 1 violation by the London  reinsurers  who, along
+with  domestic retrocessional  reinsurers,  conspired  to limit
+coverage  of seepage, pollution,  and property contamination
+risks in  North America, thereby eliminating such coverage
+in the State of California.20  Id., at 47-48 ( 1 146-150).
+At the outset, we note that the District Court undoubtedly
+had jurisdiction of these Sherman Act claims, as the London
+reinsurers  apparently  concede.  See  Tr.  of  Oral  Arg.  37
+("Our position is not that the Sherman Act does not apply in
+the sense that a minimal basis for the exercise of jurisdiction
+doesn't  exist here.  Our  position  is  that there  are certain
+circumstances,  and that this is one of them, in which the in-
+terests of another  State are  sufficient  that the  exercise  of
+that  jurisdiction  should  be  restrained").21  Although  the
+2o As we have noted, see supra, at 776-777, each of these claims has a
+counterpart in the Connecticut Complaint.  The claims each name differ-
+ent groups of London reinsurers, and not all of the named defendants are
+petitioners  in No. 91-1128;  but nothing in  our analysis  turns  on these
+variations.
+21O  ne of the London reinsurers, Sturge Reinsurance Syndicate Manage-
+ment Limited, argues that the Sherman Act does not apply to its conduct
+in attending a single meeting at which it allegedly agreed to exclude all
+pollution coverage  from its reinsurance  contracts.  Brief for Petitioner
+
+NEW PAGE
+
+796  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+proposition  was  perhaps  not  always  free  from  doubt,  see
+American Banana Co. v.  United Fruit Co.,  213  U. S.  347
+(1909),  it is well established by now that the Sherman Act
+applies to foreign conduct that was meant to produce and did
+in fact produce some substantial effect in the United States.
+See Matsushita Elec. Industrial Co. v. Zenith Radio Corp.,
+475 U. S. 574, 582,  n. 6 (1986);  United States v. Aluminum
+Co. of America, 148 F. 2d 416, 444 (CA2 1945) (L. Hand, J.);
+Restatement (Third) of Foreign Relations Law of the United
+States  § 415, and  Reporters' Note 3  (1987)  (hereinafter Re-
+statement (Third) Foreign Relations Law); 1 P. Areeda & D.
+Turner, Antitrust Law  236 (1978);  cf. Continental Ore Co.
+v. Union Carbide & Carbon Corp., 370 U. S. 690, 704 (1962);
+Steele v. Bulova Watch Co., 344 U. S. 280, 288 (1952);  United
+States v. Sisal Sales Corp., 274 U. S.  268, 275-276  (1927).2
+Such is the conduct alleged here: that the London reinsurers
+engaged in unlawful conspiracies to affect the market for in-
+surance  in the United  States and that their conduct  in fact
+produced substantial effect.21  See 938 F. 2d, at 933.
+Sturge  Reinsurance  Syndicate Management  Ltd. in No. 91-1128,  p. 22.
+Sturge may have attended only one meeting, but the allegations, which
+we are bound  to credit, remain that it participated  in conduct that was
+intended to and did in fact produce a substantial effect on the American
+insurance market.
+2JUSTICE SCALIA believes that what is at issue in this litigation is pre-
+scriptive,  as opposed  to subject-matter,  jurisdiction.  Post, at 813-814.
+The parties  do  not question prescriptive  jurisdiction, however, and for
+good reason: it is well established that Congress has exercised such juris-
+diction under the Sherman Act.  See G. Born & D. Westin, International
+Civil Litigation in United States Courts 542, n. 5 (2d ed. 1992) (Sherman
+Act is a "prime exampl[e] of the simultaneous exercise of prescriptive ju-
+risdiction and grant of subject matter jurisdiction").
+21 Under  § 402 of the Foreign  Trade  Antitrust  Improvements  Act of
+1982 (FTAIA), 96 Stat. 1246, 15 U. S. C. § 6a, the Sherman Act does not
+apply to conduct involving foreign trade or commerce,  other than import
+trade or import commerce, unless "such conduct has a direct, substantial,
+and  reasonably  foreseeable  effect"  on  domestic  or'  import  commerce.
+§ 6a(1)(A).  The FTAIA  was intended  to exempt from the Sherman Act
+

@@ -1,0 +1,59 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "datePublished": "2007",
+  "caseNumber": "551 U. S. 877",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "Breyer, J."
+    }
+  ],
+  "reasoningForIncluding": [
+    "The fact that a case involves property rights or contract rights, where reliance interests are involved, argues against overruling.",
+    "This case involves contract rights and perhaps property rights.",
+    "Congress relied upon the continued vitality of Dr. Miles when it repealed Miller-Tydings and McGuire.",
+    "The Executive Branch argued for repeal on the assumption that Dr. Miles stated the law.",
+    "Whole sectors of the economy have come to rely upon the per se rule.",
+    "The fact that a rule of law has become “embedded” in our “national culture” argues strongly against overruling."
+  ],
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Payne v. Tennessee",
+      "datePublished": "1991",
+      "caseNumber": "501 U. S. 808"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "State Oil Co. v. Khan",
+      "datePublished": "1997",
+      "caseNumber": "522 U. S. 3"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Dickerson v. United States",
+      "datePublished": "2000",
+      "caseNumber": "530 U. S. 428"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "National Soc. of Professional Engineers v. United States",
+      "datePublished": "1978",
+      "caseNumber": "435 U. S. 679"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Albrecht v. Herald Co.",
+      "datePublished": "1968",
+      "caseNumber": "390 U. S. 145"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Arnold, Schwinn & Co.",
+      "datePublished": "1967",
+      "caseNumber": "388 U. S. 365"
+    }
+  ]
+}

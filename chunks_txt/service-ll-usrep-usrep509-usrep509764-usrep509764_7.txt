@@ -1,0 +1,122 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+trust laws by § 2(b)," id., at 129 (emphasis added), and each
+of the three criteria we identified concerned a quality of the
+practice  in question:  "first, whether the practice has the ef-
+fect of transferring  or spreading a policyholder's  risk; sec-
+ond, whether the practice  is  an integral  part of the policy
+relationship between the insurer and the insured; and third,
+whether the practice is limited to entities within the insur-
+ance industry," ibid. (emphasis in original).
+The Court of Appeals did not hold that, under these crite-
+ria, the domestic defendants' conduct fell outside "the busi-
+ness of insurance"; to the contrary, it held that that condition
+was met.10   See 938 F. 2d, at 927.  Nor did it hold the do-
+mestic  defendants'  conduct  to be  "[un]regulated  by  State
+Law."  Rather, it constructed  an altogether different chain
+of reasoning, the middle link of which comes from a sentence
+in our opinion in Royal Drug Co.  "[R]egulation  ...o f for-
+eign reinsurers," the Court of Appeals explained, "is beyond
+the jurisdiction of the states," 938 F. 2d, at 928, and hence
+§ 2(b) does not exempt foreign reinsurers from antitrust lia-
+bility, because  their activities  are not "regulated  by  State
+Law."  Under Royal Drug Co.,  "an  exempt  entity forfeits
+antitrust  exemption by  acting  in  concert  with  nonexempt
+parties."  440 U. S.,  at 231.  Therefore, the domestic insur-
+ers, by acting in concert with the nonexempt foreign insur-
+ers, lost their McCarran-Ferguson  Act antitrust  immunity.
+See 938 F. 2d, at 928.  This reasoning fails, however, because
+even if we were to agree that foreign reinsurers were  not
+subject  to  state  regulation  (a point  on  which  we  express
+no opinion), the quoted language from Royal Drug Co., read
+10Th e activities in question here, of course, are alleged to violate federal
+law, and it might be tempting to think that unlawful acts are implicitly
+excluded from "the business of insurance."  Yet § 2(b)'s grant of immunity
+assumes that acts which, but for that grant, would violate the Sherman
+Act, the Clayton Act, or the Federal Trade Commission Act, are part of
+"the business of insurance."
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+in  context,  does  not  state a  proposition  applicable  to this
+litigation.
+The full sentence  from Royal Drug Co. places the quoted
+fragment in a different light.  "In analogous  contexts,"  we
+stated,  "the Court has held  that an  exempt entity forfeits
+antitrust  exemption by  acting  in  concert  with  nonexempt
+parties."  440 U. S.,  at 231.  We  then cited two cases deal-
+ing with  the  Capper-Volstead  Act,  which  immunizes  from
+liability under § 1 of the Sherman  Act  particular activities
+of certain  persons  "engaged  in  the  production  of agricul-
+tural products.""  Capper-Volstead  Act, § 1, 42 Stat. 388, 7
+U. S. C. § 291; see Case-Swayne Co. v. Sunkist Growers, Inc.,
+389  U. S. 384  (1967);  United States v. Borden Co., 308  U. S.
+188  (1939).  Because  these  cases  relied  on  statutory  lan-
+guage  referring  to  certain  "persons,"  whereas  we  specifi-
+cally  acknowledged  in Royal Drug Co. that the McCarran-
+Ferguson Act immunizes activities rather than entities, see
+440 U. S., at 232-233,  the analogy we were drawing was of
+course a loose one.  The agreements that insurance  compa-
+nies made with "parties wholly outside the insurance indus-
+try,"  id., at 231,  we noted,  such  as  the retail pharmacists
+involved in Royal Drug Co. itself, or "automobile body repair
+shops or landlords,"  id., at 232  (footnote omitted),  are  un-
+"We  also cited two cases dealing with the immunity of certain agree-
+ments of labor unions under the Clayton and Norris-LaGuardia Acts.  See
+440  U. S.,  at 231-232.  These  cases,  however,  did  not hold  that  labor
+unions lose their immunity whenever  they  enter into agreements  with
+employers; to the contrary, we acknowledged in one of the cases that "the
+law contemplates agreements on wages not only between individual em-
+ployers and a union but agreements between the union and employers in
+a multi-employer  bargaining  unit."  Mine  Workers v. Pennington, 381
+U. S. 657, 664 (1965).  Because the cases stand only for the proposition
+that labor unions are not immune from antitrust liability for certain types
+of agreements with employers, such as agreements "to impose a certain
+wage scale on other bargaining units," id., at 665, they do not support the
+far more general statement that exempt entities lose immunity by conspir-
+ing with nonexempt entities.
+
+NEW PAGE
+
+784  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SOUTER, J., concurring in judgment
+likely to be about anything that could be called "the business
+of insurance,"  as distinct from the broader "'business  of in-
+surance  companies,"'  id., at 233.  The  alleged agreements
+at issue in the instant litigation, of course, are entirely differ-
+ent; the  foreign reinsurers  are hardly  "wholly  outside  the
+insurance  industry,"  and  respondents  do  not  contest  the
+Court of Appeals's holding that the agreements concern "the
+business  of insurance."  These  facts  neither  support  even
+the rough analogy we drew in Royal Drug Co. nor fall within
+the  rule  about  acting  in  concert  with  nonexempt  parties,
+which  derived  from a  statute inapplicable  here.  Thus, we
+think it was  error for the Court of Appeals to hold  the do-
+mestic insurers bereft of their McCarran-Ferguson  Act ex-
+emption  simply because  they agreed  or acted  with foreign
+reinsurers  that, we  assume for the sake of argument, were
+"not regulated  by State Law." 12
+B
+That the domestic defendants  did not lose their § 2(b) ex-
+emption by acting together with foreign reinsurers, however,
+is not  enough reason to  reinstate  the  District Court's  dis-
+missal order, for the Court of Appeals reversed  that order
+on two independent  grounds.  Even  if the  participation  of
+foreign  reinsurers  did not  affect  the §2(b) exemption,  the
+Court of Appeals held, the agreements and acts alleged by
+the plaintiffs constitute "agreement[s] to boycott" and "act[s]
+of boycott [and] coercion" within the meaning of § 3(b) of the
+McCarran-Ferguson  Act, which makes it clear that the Sher-
+man Act applies to such agreements  and acts regardless  of
+the § 2(b) exemption.  See 938 F. 2d, at 928.  I agree with
+12 The Court of Appeals's assumption that "the American reinsurers...
+are subject to regulation by the states and therefore prima facie immune,"
+938 F. 2d, at 928, appears to rest on the  entity-based analysis we have
+rejected.  As with the foreign reinsurers, we express no opinion whether
+the activities of the domestic reinsurers were "regulated by State Law"
+and leave that question to the Court of Appeals on remand.
+

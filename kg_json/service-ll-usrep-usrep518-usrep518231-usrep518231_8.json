@@ -1,0 +1,80 @@
+{
+  "@context": {
+    "case": "http://schema.org/CourtCase",
+    "date": "http://schema.org/datePublished",
+    "number": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/text"
+  },
+  "@graph": [
+    {
+      "@id": "Brown_v_Pro_Football_Inc",
+      "@type": "case",
+      "date": "1996",
+      "number": "518 U. S. 231",
+      "parties": "Brown v. Pro Football, Inc.",
+      "reasoning": "In his classic dissent in Lochner v. New York, 198 U. S. 45, 75 (1905), Justice Holmes reminded us that our disagreement with the economic theory embodied in legislation should not affect our judgment about its constitutionality. It is equally important, of course, to be faithful to the economic theory underlying broad statutory mandates when we are construing their impact on areas of the economy not specifically addressed by their texts."
+    },
+    {
+      "@id": "Sherman_Act",
+      "@type": "case",
+      "date": "1978",
+      "number": "435 U. S. 679",
+      "parties": "National Soc. of Professional Engineers v. United States",
+      "reasoning": "The basic premise underlying the Sherman Act is the assumption that free competition among business entities will produce the best price levels."
+    },
+    {
+      "@id": "Socony-Vacuum_Oil_Co",
+      "@type": "case",
+      "date": "1940",
+      "number": "310 U. S. 150",
+      "parties": "United States v. Socony-Vacuum Oil Co.",
+      "reasoning": "Collusion among competitors, it is believed, may produce prices that harm consumers."
+    },
+    {
+      "@id": "Shipowners_Assn_of_Pacific_Coast",
+      "@type": "case",
+      "date": "1926",
+      "number": "272 U. S. 359",
+      "parties": "Anderson v. Shipowners Assn. of Pacific Coast",
+      "reasoning": "The Court has held, a marketwide agreement among employers setting wages at levels that would not prevail in a free market may violate the Sherman Act."
+    },
+    {
+      "@id": "National_Collegiate_Athletic_Assn",
+      "@type": "case",
+      "date": "1984",
+      "number": "468 U. S. 85",
+      "parties": "National Collegiate Athletic Assn. v. Board of Regents of Univ. of Okla.",
+      "reasoning": "While the special characteristics of this industry may provide a justification for the agreement under the rule of reason, see National Collegiate Athletic Assn. v. Board of Regents of Univ. of Okla., 468 U. S. 85, 100-104 (1984), at this stage of the proceeding our analysis of the exemption issue must accept the premise that the agreement is unlawful unless it is exempt."
+    },
+    {
+      "@id": "29_U_S_C_§_151",
+      "@type": "case",
+      "date": "1941",
+      "number": "29 U. S. C. § 151",
+      "parties": "R. Posner & F. Easterbrook, Antitrust 31 (2d ed. 1981)",
+      "reasoning": "The basic premise underlying our national labor policy is that unregulated competition among employees and applicants for employment produces wage levels that are lower than they should be."
+    },
+    {
+      "@id": "Clayton_Act",
+      "@type": "case",
+      "date": "1941",
+      "number": "38 Stat. 731 and 738, 15 U. S. C. § 17 and 29 U. S. C. § 52",
+      "parties": "Norris-LaGuardia Act, 47 Stat. 70, 71, and 73,29 U. S. C. §§ 104, 105, and 113",
+      "reasoning": "The basic sources of organized labor's exemption from federal antitrust laws are §§ 6 and 20 of the Clayton Act, 38 Stat. 731 and 738, 15 U. S. C. § 17 and 29 U. S. C. § 52, and the Norris-LaGuardia Act, 47 Stat. 70, 71, and 73,29 U. S. C. §§ 104, 105, and 113. These statutes declare that labor unions are not combinations or conspiracies in restraint of trade, and exempt specific union activities, including secondary picketing and boycotts, from the operation of the antitrust laws. See United States v. Hutcheson, 312 U. S. 219 (1941). They do not exempt concerted action or agreements between unions and nonlabor parties. Mine Workers v. Pennington,3 81 U. S. 657, 662 (1965)."
+    },
+    {
+      "@id": "Connell_Constr_Co_v_Plumbers",
+      "@type": "case",
+      "date": "1975",
+      "number": "421 U. S. 616",
+      "parties": "Connell Constr. Co. v. Plumbers",
+      "reasoning": "The limited judicial exemption complements its statutory counterpart by ensuring that unions which engage in collective bargaining to enhance employees' wages may enjoy the benefits of the resulting agreements. The purpose of the labor laws would be frustrated if it were illegal for employers to enter into industrywide agreements providing supra-competitive wages for employees. For that reason, we have explained that \"a proper accommodation between the congressional policy favoring collective bargaining under the NLRA and the congressional policy favoring free competition in business markets requires that some union-employer agreements be accorded a limited nonstatutory exemption from antitrust sanctions.\" Id., at 622."
+    },
+    {
+      "@id": "NLRB_v_Truck_Drivers",
+      "@type": "case",
+      "date": "1957",
+      "number": "353 U. S. 87",
+      "parties": "NLRB v. Truck Drivers",
+      "reasoning": "Immunizing such action from antitrust scrutiny may facilitate collective bargaining over labor demands. So, too, may immunizing concerted employer action designed to maintain the

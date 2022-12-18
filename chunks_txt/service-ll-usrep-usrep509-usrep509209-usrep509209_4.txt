@@ -1,0 +1,124 @@
+
+
+218  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+branded  cigarettes.  Nonetheless,  at least some  portion  of
+the list price increase was reflected in a higher net price to
+the consumer.
+In  December 1985, Brown & Williamson attempted to in-
+crease  its list prices, but retracted  the announced  increase
+when the other firms adhered to their existing prices.  Thus,
+after Liggett's June 1985 increase, list prices on generics did
+not change again until the summer of 1986, when a pattern
+of  twice  yearly  increases  in  tandem  with  the  full-priced
+branded  cigarettes  was  established.  The dollar  amount of
+these increases was the same for generic and full-priced ciga-
+rettes, which resulted in a greater percentage price increase
+in the less expensive  generic cigarettes  and a narrowing of
+the percentage  gap  between  the list price  of branded  and
+black and white  cigarettes, from approximately 38% at the
+time  Brown & Williamson entered  the segment to approxi-
+mately 27% at the time of trial.  Also by the time of trial,
+five of the six manufacturers,  including  Liggett, had  intro-
+duced so-called "subgenerics," a category of branded generic
+cigarettes that sold at a discount of 50% or more off the list
+price of full-priced branded cigarettes.
+After a 115-day  trial involving almost 3,000  exhibits and
+over a score of witnesses, the jury returned a verdict in favor
+of Liggett, finding on the special verdict form that Brown &
+Williamson had  engaged  in price discrimination  that had  a
+reasonable possibility of injuring competition in the domestic
+cigarette  market  as  a  whole.  The  jury  awarded  Liggett
+$49.6 million  in damages,  which the District Court trebled
+to $148.8 million.  After reviewing the record, however, the
+District Court held  that Brown  & Williamson  was  entitled
+to judgment as a matter of law on three separate grounds:
+lack of injury to competition, lack of antitrust injury to Lig-
+gett, and lack  of a  causal  link between  the discriminatory
+rebates and Liggett's alleged injury.  Liggett Group, Inc. v.
+Brown  &  Williamson  Tobacco  Corp.,  748  F.  Supp.  344
+(MDNC 1990).  With respect to the first issue, which is the
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+only one before us, the District Court found that no slowing
+of the growth rate of generics, and thus no injury to competi-
+tion, was possible unless there had been tacit coordination of
+prices in the economy  segment of the cigarette market  by
+the various  manufacturers.  Id.,  at 354-355.  The  District
+Court held that a reasonable jury could come to but one con-
+clusion about the existence  of such  coordination among the
+firms contending for shares of the economy segment:  it did
+not exist, and Brown & Williamson therefore had no reason-
+able possibility of limiting the growth of the segment.  Id.,
+at 356-358.
+The United States Court of Appeals for the Fourth Circuit
+affirmed.  Liggett Group, Inc. v. Brown & Williamson To-
+bacco Corp., 964 F. 2d 335 (1992).  The Court of Appeals held
+that the dynamic of conscious parallelism among oligopolists
+could not produce  competitive injury in a predatory pricing
+setting, which necessarily involves a price cut by one of the
+oligopolists.  Id.,  at  342.  In  the Court  of Appeals'  view,
+"[t]o  rely on the characteristics of an oligopoly to assure re-
+coupment of losses from  a predatory  pricing  scheme after
+one oligopolist has made a competitive move is ...e conomi-
+cally irrational."  Ibid.
+We granted certiorari, 506 U. S.9 84 (1992), and now affirm.
+II
+A
+Price discrimination is made unlawful by § 2(a) of the Clay-
+ton Act, 38 Stat. 730, as amended by the Robinson-Patman
+Act, which provides:
+"It shall be unlawful  for any  person  engaged  in  com-
+merce, in the course  of such commerce,  either directly
+or indirectly, to discriminate in price between different
+purchasers of commodities  of like grade and quality...
+where the effect of such discrimination may be substan-
+tially to lessen competition or tend to create a monopoly
+in any line of commerce, or to injure, destroy, or prevent
+
+NEW PAGE
+
+220  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+competition with any person who either grants or know-
+ingly receives the benefit of such discrimination, or with
+customers of either of them."  15 U. S. C. § 13(a).
+Although  we have reiterated  that "'a  price  discrimination
+within the meaning of [this] provision is merely a price dif-
+ference,"' Texaco Inc. v. Hasbrouck, 496 U. S. 543, 558 (1990)
+(quoting FTC v. Anheuser-Busch, Inc., 363  U. S.  536,  549
+(1960)), the statute as a practical matter could not, and does
+not, ban all price differences  charged  to "different purchas-
+ers of commodities of like grade and quality."  Instead, the
+statute  contains  a  number of important  limitations, one of
+which is central  to evaluating  Liggett's claim:  By its terms,
+the  Robinson-Patman  Act  condemns  price  discrimination
+only  to the extent  that it threatens  to injure  competition.
+The  availability of statutory defenses  permitting  price dis-
+crimination  when it is based on differences  in costs, § 13(a),
+"changing conditions affecting the market for or the market-
+ability of the goods concerned," ibid., or conduct undertaken
+"in good faith to meet an equally low price of a competitor,"
+§ 13(b);  Standard Oil Co. v. FTC, 340  U. S. 231,  250 (1951),
+confirms that Congress did not intend to outlaw price differ-
+ences that result from or further the forces  of competition.
+Thus, "the  Robinson-Patman  Act should  be  construed  con-
+sistently with broader policies of the antitrust laws."  Great
+Atlantic & Pacific Tea  Co. v. FTC, 440  U. S. 69,  80,  n.  13
+(1979).  See also Automatic Canteen Co. of America v. FTC,
+346 U. S. 61,  63, 74 (1953).
+Liggett contends that Brown  & Williamson's  discrimina-
+tory  volume  rebates  to  wholesalers  threatened  substantial
+competitive injury by furthering a predatory pricing scheme
+designed  to  purge  competition  from the  economy segment
+of the cigarette market.  This type of injury, which  harms
+direct competitors  of the discriminating  seller, is known as
+primary-line  injury.  See  FTC  v.  Anheuser-Busch, Inc.,
+supra, at 538.  We last addressed  primary-line  injury over
+25  years  ago, in  Utah Pie Co. v. Continental Baking Co.,
+

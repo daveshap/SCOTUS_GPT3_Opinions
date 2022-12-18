@@ -1,0 +1,67 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "546 U.S. 394 (2006)",
+    "datePublished": "2008-27-0813:12:22",
+    "author": "Stevens, J.",
+    "dissentingOpinion": true,
+    "citation": "546 U.S. 394 (2006)"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Cone, 330 U. S.",
+    "datePublished": "Unknown",
+    "author": "Unknown",
+    "citation": "Cone, 330 U. S."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Fed. Rule Civ. Proc. 50(b)",
+    "datePublished": "Unknown",
+    "author": "Unknown",
+    "citation": "Fed. Rule Civ. Proc. 50(b)"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Rule 59 motion",
+    "datePublished": "Unknown",
+    "author": "Unknown",
+    "citation": "Rule 59 motion"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Rule 50(b) motion",
+    "datePublished": "Unknown",
+    "author": "Unknown",
+    "citation": "Rule 50(b) motion"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Baltimore & Carolina Line, Inc. v. Redman, 295 U. S. 654 (1935)",
+    "datePublished": "1935",
+    "author": "Unknown",
+    "citation": "Baltimore & Carolina Line, Inc. v. Redman, 295 U. S. 654 (1935)"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Neely v. Martin K. Eby Constr. Co., 386 U. S. 317 (1967)",
+    "datePublished": "1967",
+    "author": "Unknown",
+    "citation": "Neely v. Martin K. Eby Constr. Co., 386 U. S. 317 (1967)"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Rule 50(a) motion",
+    "datePublished": "Unknown",
+    "author": "Unknown",
+    "citation": "Rule 50(a) motion"
+  }
+]

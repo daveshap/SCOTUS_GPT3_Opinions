@@ -1,0 +1,121 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+(Cal. Complaint 1 84).  After ISO got regulatory approval of
+the 1986  forms in most States  where approval  was needed,
+it eliminated  its support  services  for  the 1973  CGL  form,
+thus rendering it impossible for most ISO members to con-
+tinue to use the form.  Id., at 32-33  (Cal. Complaint 1i  97,
+99).
+The  Fifth Claim  for  Relief in  the  California  Complaint,
+id., at 43-44 (11 131-135),  and the virtually identical  Third
+Claim for Relief in the Connecticut  Complaint, id., at 92-94
+(  125-129), charge a conspiracy among a group of London
+reinsurers  and  brokers  to  coerce  primary  insurers  in  the
+United States to offer CGL coverage only on a claims-made
+basis.  The  reinsurers  collectively  refused  to  write  new
+reinsurance  contracts  for,  or  to  renew  longstanding  con-
+tracts with, "primary... insurers unless they were prepared
+to switch from the occurrence to the claims.-made form," id.,
+at 30 (Cal. Complaint 1 88); they also amended their reinsur-
+ance contracts  to cover only claims made before a  "'sunset
+date,"' thus eliminating reinsurance  for claims made on oc-
+currence  policies  after that date, id., at 31  (Cal. Complaint
+11 90-92).
+The Sixth Claim for Relief in the California Complaint, id.,
+at 45-46 (11 136-140), and the nearly identical Fourth Claim
+for  Relief  in  the  Connecticut  Complaint,  id.,  at  94-95
+(1  130-134),  charge another  conspiracy among a somewhat
+different group of London reinsurers to withhold reinsurance
+for  pollution  coverage.  The  London  reinsurers  met  and
+agreed that all reinsurance contracts covering North Ameri-
+can casualty  risks, including  CGL  risks,  would  be  written
+with  a  complete  exclusion  for  pollution  liability  coverage.
+Id., at 32 (Cal. Complaint TT 94-95).  In accordance with this
+agreement, the parties have in fact excluded pollution liabil-
+ity coverage from CGL reinsurance  contracts  since at least
+late 1985.  Ibid. (Cal. Complaint 1 94).
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+.Opinion of the Court
+The Seventh Claim for Relief in the California Complaint,
+id., at 46-47 (  141-145), and the closely similar Sixth Claim
+for Relief in the Connecticut Complaint, id., at 97-98 (  140-
+144),  charge a group of domestic primary insurers, foreign
+reinsurers, and the ISO with conspiring to restrain trade in
+the markets for "excess" and "umbrella" insurance by draft-
+ing model forms and policy language for these types of insur-
+ance, which  are  not normally offered  on a  regulated  basis.
+Id., at 33 (Cal. Complaint 1 101).  The ISO Executive  Com-
+mittee eventually  released  standard  language  for both "oc-
+currence"  and  "claims-made"  umbrella  and  excess  policies;
+that language included a retroactive date in the claims-made
+version, and an  absolute pollution exclusion  and a legal de-
+fense cost cap in both versions.  Id., at 34 (Cal. Complaint
+105).
+Finally, the Eighth Claim for Relief in the California Com-
+plaint, id., at 47-49 (T  146-150), and its counterpart in the
+Fifth Claim for Relief in the Connecticut  Complaint, id., at
+95-97  (11 135-139), charge a group of London and domestic
+retrocessional reinsurers I with conspiring to withhold retro-
+cessional reinsurance for North American seepage, pollution,
+and property contamination risks.  Those retrocessional re-
+insurers signed, and have implemented, an agreement to use
+their "'best  endeavors"' to ensure that they would provide
+such reinsurance for North American risks "'only...  where
+the original business includes a seepage and pollution exclu-
+5The California and Connecticut Complaints' Statements of Facts de-
+scribe this conspiracy as involving "[slpecialized reinsurers in London and
+the United  States."  App. 34 (1 106); id., at 87 (Conn. Complaint  110).
+The claims for relief, however, name only London reinsurers; they do not
+name any of the domestic defendants who are the petitioners in No. 91-
+1111.  See id., at 48 (  147); id., at 96 (Conn. Complaint  136).  Thus, we
+assume that the domestic reinsurers alleged to be involved in this conspir-
+acy  are  among  the  "unnamed  co-conspirators"  mentioned  in  the  com-
+plaints.  See id., at 48 (Cal. Complaint  147); id., at 96 (Conn. Complaint
+136).
+
+NEW PAGE
+
+778  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+sion wherever legal and applicable."'  Id., at 35 (Cal. Com-
+plaint  108).6
+C
+Nineteen  States  and a  number  of private  plaintiffs  filed
+36 complaints against the insurers involved in this course of
+events, charging  that the conspiracies  described  above vio-
+lated § 1 of the Sherman Act, 15 U. S. C. § 1.  After the ac-
+tions had  been  consolidated  for litigation  in  the Northern
+District of California, the defendants  moved to  dismiss for
+failure to state a  cause of action,  or, in the alternative, for
+summary judgment.  The  District  Court  granted  the mo-
+tions to dismiss.  In re Insurance Antitrust Litigation,7 23
+F. Supp. 464  (1989).  It held  that  the conduct  alleged  fell
+within the grant of antitrust immunity contained in § 2(b) of
+the McCarran-Ferguson  Act, 15 U. S. C. § 1012(b), because it
+amounted to "the business of insurance" and was "regulated
+by State Law" within the meaning of that section; none of
+the  conduct,  in  the  District  Court's  view, amounted  to a
+"boycott" within the meaning of the § 3(b) exception to that
+grant  of  immunity.  15  U. S. C.  § 1013(b).  The  District
+Court also dismissed the three claims that named only cer-
+tain London-based  defendants,7 invoking international com-
+ity and applying the Ninth Circuit's decision in Timberlane
+Lumber Co. v. Bank of America, N. T  & S. A.,  549  F. 2d
+597 (1976).
+The  Court  of Appeals  reversed.  In re Insurance Anti-
+trust Litigation, 938 F. 2d 919 (CA9 1991).  Although it held
+the conduct involved to be "the business of insurance" within
+the meaning of § 2(b), it concluded  that the defendants  could
+6The Ninth, Tenth, and Eleventh Claims  for Relief in the California
+Complaint, id., at 49-50 (  151-156), and the Seventh Claim for Relief in
+the Connecticut Complaint, id., at 98 (1  145-146), allege state-law viola-
+tions not at issue here.
+7T hese are the Fifth, Sixth, and Eighth Claims for Relief in the Califor-
+nia Complaint, and the corresponding Third, Fourth, and Fifth Claims for
+Relief in the Connecticut Complaint.
+

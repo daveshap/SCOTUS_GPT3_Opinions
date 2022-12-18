@@ -1,0 +1,125 @@
+
+
+32  DASTAR  CORP. v. TWENTIETH  CENTURY  FOX
+FILM CORP.
+Opinion of the Court
+under the original version of §4 3(a))5 to include not only the
+actual producer, but also the trademark owner who commis-
+sioned or assumed responsibility for ("stood behind") produc-
+tion of the physical  product.  But  as used  in the  Lanham
+Act, the phrase "origin of goods"  is in our view incapable of
+connoting the person or entity that originated the ideas or
+communications  that "goods"  embody  or contain.  Such an
+extension  would not only  stretch the text, but it would  be
+out of accord  with the history  and purpose  of the  Lanham
+Act and inconsistent with precedent.
+Section  43(a)  of the  Lanham  Act  prohibits  actions  like
+trademark infringement that deceive consumers and impair a
+producer's  goodwill.  It forbids, for example,  the Coca-Cola
+Company's  passing off its product  as Pepsi-Cola  or reverse
+passing off Pepsi-Cola  as its product.  But the brand-loyal
+consumer  who  prefers  the drink that  the Coca-Cola  Com-
+pany or PepsiCo sells, while he believes  that that company
+produced  (or at least stands behind the production of) that
+product, surely does  not necessarily  believe that that com-
+pany was the "origin" of the drink in the sense that it was
+the  very  first  to  devise  the formula.  The  consumer  who
+buys a branded  product does not automatically assume that
+the  brand-name  company  is  the same  entity that  came  up
+with the idea for the product, or designed the product-and
+typically does not care whether it is.  The words of the Lan-
+5 Under the 1946 version of the Act, § 43(a) was read as providing a cause
+of action for trademark infringement even  where the trademark owner
+had not itself produced  the goods sold under its mark, but had licensed
+others to sell under its name goods produced by them-the typical fran-
+chise arrangement.  See, e. g., My Pie Int'l, Inc. v. Debould, Inc., 687 F. 2d
+919 (CA7 1982).  This stretching of the concept "origin of goods" is seem-
+ingly no longer needed: The  1988 amendments to  §43(a) now expressly
+prohibit the use of any "word, term, name, symbol, or device," or "false or
+misleading description of fact" that is likely to cause confusion as to "affil-
+iation, connection, or association ...  with another person," or as to "spon-
+sorship, or approval" of goods.  15 U. S. C. § 1125(a).
+
+NEW PAGE
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+ham  Act should not be stretched to cover matters that are
+typically of no consequence  to purchasers.
+It could be argued, perhaps, that the reality of purchaser
+concern  is different for what might be  called a communica-
+tive product-one that is valued not primarily for its physi-
+cal qualities, such as a hammer, but for the intellectual con-
+tent that it conveys, such as a book or, as here, a video.  The
+purchaser of a novel is interested not merely, if at all, in the
+identity of the producer of the physical tome (the publisher),
+but also, and indeed primarily, in the identity of the creator
+of the  story  it  conveys  (the  author).  And  the  author,  of
+course, has at least as much interest in avoiding passing off
+(or reverse passing off) of his creation as does the publisher.
+For such a communicative product (the argument goes) "ori-
+gin of goods" in § 43(a) must be deemed to include not merely
+the producer of the physical item (the publishing house Far-
+rar, Straus  and Giroux,  or the video producer  Dastar) but
+also the creator of the content that the physical item conveys
+(the author Tom Wolfe, or-assertedly-respondents).
+The problem with this argument  according special treat-
+ment to communicative products is that it causes the Lanham
+Act  to conflict with  the law  of copyright,  which  addresses
+that  subject  specifically.  The  right  to  copy,  and  to  copy
+without  attribution,  once  a  copyright  has  expired,  like
+"the right to make [an article  whose patent has expired]-
+including the right to make it in precisely the shape it carried
+when patented-passes  to the  public."  Sears, Roebuck  &
+Co. v. Stiffel Co.,  376  U. S. 225, 230 (1964);  see also Kellogg
+Co. v. National Biscuit Co.,  305  U. S.  111,  121-122  (1938).
+"In general, unless an  intellectual property right such  as a
+patent or  copyright protects  an item, it will be  subject  to
+copying."  TrafFix Devices, Inc.  v.  Marketing Displays,
+Inc.,  532  U. S. 23,  29  (2001).  The  rights  of a patentee  or
+copyright  holder  are part of a  "carefully  crafted  bargain,"
+Bonito Boats, Inc. v. Thunder Craft Boats, Inc., 489  U. S.
+141,  150-151  (1989),  under which, once  the patent or  copy-
+
+NEW PAGE
+
+34  DASTAR  CORP. v. TWENTIETH  CENTURY  FOX
+FILM  CORP.
+Opinion of the Court
+right monopoly has expired, the public may use the invention
+or work at will and without attribution.  Thus, in construing
+the Lanham  Act, we have been "careful  to caution  against
+misuse or over-extension"  of trademark and related protec-
+tions into areas traditionally occupied by patent or copyright.
+TrafFix, 532  U.S.,  at  29.  "The  Lanham  Act,"  we  have
+said,  "does  not  exist  to  reward  manufacturers  for  their
+innovation  in creating  a particular  device;  that is  the pur-
+pose  of the  patent law and its period  of exclusivity."  Id.,
+at 34.  Federal trademark law "has no necessary relation to
+invention  or discovery,"  Trade-Mark Cases, 100  U. S. 82, 94
+(1879),  but rather, by preventing competitors from  copying
+"a source-identifying  mark,"  "reduce[s] the customer's costs
+of shopping  and  making purchasing  decisions,"  and  "helps
+assure a producer  that it (and not an imitating competitor)
+will reap the financial, reputation-related rewards associated
+with a desirable product," Qualitex Co. v. Jacobson Products
+Co.,  514 U. S.  159,  163-164 (1995)  (internal quotation marks
+and citation omitted).  Assuming for the sake of argument
+that Dastar's representation of itself as the "Producer" of its
+videos amounted  to a representation  that it originated  the
+creative  work  conveyed  by the videos,  allowing a cause  of
+action under  § 43(a) for that representation  would create  a
+species of mutant copyright law that limits the public's "fed-
+eral right to 'copy and  to use'  expired  copyrights, Bonito
+Boats, supra, at 165.
+When  Congress has wished to create such an addition to
+the law of copyright, it has done so with much more specific-
+ity than the Lanham Act's ambiguous  use of "origin."  The
+Visual  Artists  Rights  Act  of 1990,  § 603(a),  104  Stat. 5128,
+provides  that the author of an artistic work "shall have the
+right  ...to  claim  authorship  of that  work."  17  U. S. C.
+§ 106A(a)(1)(A).  That  express  right of attribution  is care-
+fully  limited  and  focused:  It  attaches  only  to  specified
+"work[s]  of  visual  art,"  § 101,  is  personal  to  the  artist,
+H 106A(b) and (e),  and endures  only for "the life  of the au-
+

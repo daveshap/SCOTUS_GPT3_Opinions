@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "parties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "Cedric Kushner Promotions, Ltd. v. King",
+      "@type": "CaseCitation",
+      "date": "2000-10-00",
+      "caseNumber": "00-549",
+      "parties": [
+        "Cedric Kushner Promotions, Ltd.",
+        "Don King"
+      ],
+      "reasoning": "Petitioner, a corporate promoter of boxing matches, sued Don King, the president and sole shareholder of a rival corporation, alleging that King had conducted his corporation's affairs in violation of the Racketeer Influenced and Corrupt Organizations Act (RICO), which makes it \"unlawful for any person employed by or associated with any enterprise ... to conduct  or participate  . . . in the  conduct of such enterprise's affairs through a pattern of racketeering activity,\" 18 U. S. C. § 1962(c)."
+    },
+    {
+      "@id": "533 U. S. 158 (2001)",
+      "@type": "CaseCitation",
+      "date": "2001-06-11",
+      "caseNumber": "00-549",
+      "parties": [
+        "Cedric Kushner Promotions, Ltd.",
+        "Don King"
+      ],
+      "reasoning": "In the circumstances  of this case, § 1962(c) requires no more than the formal legal distinction between \"person\" and \"enterprise\" (namely, incorporation); hence, the provision applies when a corporate employee unlawfully conducts the affairs of the corporation of which he is the sole owner-whether he conducts those affairs within the scope, or beyond the scope, of corporate authority."
+    }
+  ]
+}

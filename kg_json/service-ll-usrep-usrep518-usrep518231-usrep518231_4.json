@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "Brown": "http://example.org/Brown",
+    "ProFootball": "http://example.org/ProFootball",
+    "FoodEmployers": "http://example.org/FoodEmployers",
+    "Multiemployer": "http://example.org/Multiemployer",
+    "NLRB": "http://example.org/NLRB",
+    "BonannoLinen": "http://example.org/BonannoLinen",
+    "ParamountFamousLasky": "http://example.org/ParamountFamousLasky",
+    "GeneralMotors": "http://example.org/GeneralMotors",
+    "Foley": "http://example.org/Foley",
+    "AmericanTobacco": "http://example.org/AmericanTobacco",
+    "Masonite": "http://example.org/Masonite",
+    "InterstateCircuit": "http://example.org/InterstateCircuit",
+    "Areeda": "http://example.org/Areeda",
+    "Turner": "http://example.org/Turner",
+    "JewelTea": "http://example.org/JewelTea",
+    "date": "http://example.org/date",
+    "caseNumber": "http://example.org/caseNumber",
+    "involvedParties": "http://example.org/involvedParties",
+    "reasoning": "http://example.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "Brown",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": ["Brown", "Pro Football, Inc."],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "FoodEmployers",
+      "date": "1986",
+      "caseNumber": "638 F. Supp. 885",
+      "involvedParties": ["Food Employers' Pension Trust Fund"],
+      "reasoning": "aff'd, 827 F. 2d 491 (CA9 1987), cert. de- nied, 485 U. S. 1008 (1988)"
+    },
+    {
+      "@id": "Multiemployer",
+      "reasoning": "Multiemployer bargaining itself is a well-established, im- portant, pervasive method of collective bargaining, offering advantages to both management and labor."
+    },
+    {
+      "@id": "NLRB",
+      "date": "1957",
+      "caseNumber": "353 U. S. 8 7",
+      "involvedParties": ["NLRB", "Truck Drivers"],
+      "reasoning": "Congress saw multiemployer bar- gaining as 'a vital factor in the effectuation of the national policy of promoting labor peace through strengthened collective bargaining'"
+    },
+    {
+      "@id": "BonannoLinen",
+      "date": "1982",
+      "caseNumber": "454 U. S. 4 04",
+      "involvedParties": ["Charles D. Bonanno Linen Service, Inc.", "NLRB"],
+      "reasoning": "multiemployer bargaining benefits both management and labor, by saving bargaining resources, by encouraging development of industry-wide worker benefits programs that smaller employers could not otherwise afford, and by inhibiting employer competition at the workers' expense"
+    },
+    {
+      "@id": "ParamountFamousLasky",
+      "date": "1930",
+      "caseNumber": "282 U. S. 30",
+      "involvedParties": ["Paramount Famous Lasky Corp.", "United States"],
+      "reasoning": "agreement to insert arbitration provisions in motion picture licensing contracts"
+    },
+    {
+      "@id": "GeneralMotors",
+      "date": "1966",
+      "caseNumber": "384 U. S. 127",
+      "involvedParties": ["United States", "General Motors Corp."],
+      "reasoning": "United States v. General Motors Corp., 384 U. S. 127, 142-143 (1966)"
+    },
+    {
+      "@id": "Foley",
+      "date": "1979",
+      "caseNumber": "598 F. 2d 1323",
+      "involvedParties": ["United States", "Foley"],
+      "reasoning": "United States v. Foley, 598 F. 2d 1323, 1331-1332 (CA4 1979), cert. denied, 444 U. S. 1043 (1980)"
+    },
+    {
+      "@id": "AmericanTobacco",
+      "date": "1946",
+      "caseNumber": "328 U. S. 781",
+      "involvedParties": ["American Tobacco Co.", "United States"],
+      "reasoning": "United States v. American Tobacco Co., 328 U. S. 781, 809-810 (1946)"
+    },
+    {
+      "@id": "Masonite",
+      "date": "1942",
+      "caseNumber": "316 U. S. 265",
+      "involvedParties": ["United States", "Masonite Corp."],
+      "reasoning": "United States v. Masonite Corp., 316 U. S. 265, 275 (1942)"
+    },
+    {
+      "@id": "InterstateCircuit",
+      "date": "1939",
+      "caseNumber": "306 U. S. 208",
+      "involvedParties": ["Interstate Circuit, Inc.", "United States"],
+      "reasoning": "Interstate Circuit, Inc. v. United States, 306 U. S. 208, 226-227 (1939)"
+    },
+    {
+      "@id": "Areeda",
+      "reasoning": "6 P. Areeda, Antitrust Law 1416-1427 (1986)"
+    },
+    {
+      "@id": "Turner",
+      "reasoning": "Turner, The Definition of Agreement Under the Sherman Act: Conscious Parallelism and Refusals to Deal, 75 Harv. L. Rev. 655 (1962)"
+    },
+    {
+      "@id": "JewelTea",
+      "date": "1965",
+      "caseNumber": "381 U. S. 676",
+      "involvedParties": ["Jewel Tea

@@ -1,0 +1,122 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+that "the [S. E. U. A.]  defendants could have [managed to cut
+the targets  off from reinsurance]  by prompting reinsurance
+companies to  refuse to  deal with nonmembers."  Ante,  at
+789.  Even assuming that is what happened, all that can be
+derived  from  S. E. U. A.  is  the  proposition  that  one  who
+prompts a boycott is a  co-conspirator  with the boycotters.
+For  with or without the defendants' prompting, the rein-
+surers' refusal to deal in S. E. U A. was a boycott, member-
+ship  in the association  having  no  discernible  bearing  upon
+the terms of the refused reinsurance  contracts.
+JUSTICE SOUTER suggests that we have somehow mistak-
+enly "posit[ed] ...  autonomy on the part of the reinsurers."
+Ante, at 792.  We do not understand this.  Nothing  in the
+complaints alleges that the reinsurers were deprived of their
+"autonomy," which we take to mean that they were coerced
+by  the  primary  insurers.  (Given  the  sheer  size  of  the
+Lloyd's  market,  such  an  allegation  would  be  laughable.)
+That is not to say that we disagree with JUSTICE  SOUTER'S
+contention that, according to the allegations,  the reinsurers
+would  not "have  taken  exactly  the  same  course  of action
+without  the intense  efforts  of the  four primary  insurers."
+Ibid.  But the same could be said of the participants  in vir-
+tually all conspiracies:  If they had not been enlisted by the
+"intense efforts" of the leaders, their actions would not have
+been the same.  If this factor renders otherwise lawful con-
+spiracies  (under McCarran-Ferguson)  illegal, then  the Act
+would have a narrow scope indeed.
+Perhaps JUSTICE SOUTER feels that it is undesirable, as a
+policy matter, to allow insurers to "prompt" reinsurers  not
+to deal with the insurers' competitors-whether or not that
+refusal to deal is a boycott.  That feeling is certainly under-
+standable, since under the normal application of the Sherman
+Act  the reinsurers'  concerted  refusal  to deal  would  be  an
+unlawful  conspiracy,  and  the  insurers'  "prompting"  could
+make  them  part  of  that  conspiracy.  The  McCarran-
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+Ferguson Act, however,  makes  that  conspiracy  lawful  (as-
+suming reinsurance is state regulated), unless the refusal to
+deal is a "boycott."
+Under the test set forth above, there are  sufficient alle-
+gations  of a  "boycott"  to  sustain  the  relevant  counts  of
+complaint  against  a  motion  to  dismiss.  For  example,  the
+complaints  allege  that  some  of  the  defendant  reinsur-
+ers threatened to "withdra[w]  entirely from the business of
+reinsuring  primary U. S. insurers who wrote on the occur-
+rence form."  App. 31 (Cal. Complaint  89), id., at 83 (Conn.
+Complaint  93).  Construed most favorably to respondents,
+that allegation  claims that primary insurers who wrote in-
+surance  on  disfavored forms  would  be refused  all reinsur-
+ance, even as to risks written on otherf orms.  If that were
+the case, the reinsurers might have been engaging in a boy-
+cott-they would, that is, unless the primary insurers' other
+business were relevant to the proposed reinsurance contract
+(for example, if the reinsurer bears greater risk where the
+primary insurer engages in riskier businesses).  Cf. Gonye,
+Underwriting  the  Reinsured,  in  Reinsurance  439, 463-466
+(R. Strain' ed. 1980); 2 R. Reinarz, J. Schloss, G. Patrik, & P.
+Kensicki, Reinsurance Practices 21-23 (1990)  (same).  Other
+allegations  in  the complaints  could  be  similarly construed.
+For example, the complaints also allege that the reinsurers
+"threatened  a boycott  of North American  CGL  risks," not
+just  CGL  risks  containing  dissatisfactory  terms,  App.  26
+(Cal. Complaint  74), id., at 79 (Conn. Complaint  78); that
+"the  foreign  and  domestic  reinsurer  representatives  pre-
+sented  their  agreed  upon  positions  that  there  would  be
+changes in the CGL forms or no reinsurance," id., at 29 (Cal.
+Complaint  82), id., at 81-82  (Conn.  Complaint  86); that
+some of the defendant  insurers and reinsurers told "groups
+of insurance brokers and agents ...  that a reinsurance boy-
+cott, and thus loss of income to the agents and brokers who
+would be unable to find available markets for their custom-
+ers, would  ensue  if the  [revised]  ISO forms  were  not ap-
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+proved,"  id., at 29 (Cal.  Complaint  85),  id., at 82  (Conn.
+Complaint 189).
+Many other allegations in the complaints describe conduct
+that may amount to a boycott if the plaintiffs can prove cer-
+tain additional facts.  For example, General  Re, the largest
+American reinsurer, is alleged to have "agreed to either co-
+erce ISO to adopt [the defendants'] demands or, failing that,
+'derail'  the entire  CGL  forms  program."  Id.,  at  24  (Cal.
+Complaint  64),  id., at 77 (Conn.  Complaint  68).  If this
+means that General  Re intended to withhold all reinsurance
+on  all  CGL  forms-even  forms  having  no  objectionable
+terms-that might amount to a "boycott."  Also, General Re
+and  several  other domestic  reinsurers  are  alleged to have
+"agreed to boycott the 1984  ISO forms unless a retroactive
+date was added to the claims-made form, and a pollution ex-
+clusion and a defense cost cap were added to both [the occur-
+rence  and claims made]  forms."  Id., at 25 (Cal. Complaint
+66), id., at 78 (Conn. Complaint  70).  Liberally construed,
+this  allegation  may  mean  that  the  defendants  had  linked
+their demands  so that they would  continue to refuse to do
+business on either form until both were changed to their lik-
+ing.  Again, that might amount to a boycott.  "[A]  complaint
+should not be dismissed unless 'it appears beyond doubt that
+the plaintiff can prove no set of facts in support of his claim
+which would entitle him to relief."'  McLain v. Real Estate
+Bd. of New  Orleans, Inc., 444 U. S. 232, 246 (1980) (quoting
+Conley v. Gibson, 355  U. S. 41,  45-46  (1957)).  Under that
+standard, these allegations are sufficient to sustain the First,
+Second, Third, and Fourth Claims for Relief in the California
+Complaint and the First and Second Claims for Relief in the
+7
+Connecticut Complaint.
+7 We agree  with JUSTICE  SOUTER'S conclusion, ante, at 790-791,  n. 18,
+that the Seventh Claim for Relief in the  California Complaint and the
+Sixth Claim for Relief in  the Connecticut Complaint fail to  allege any
+§ 3(b) boycotts.
+

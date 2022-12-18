@@ -1,0 +1,117 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc.",
+    "datePublished": "2006-06-19",
+    "caseNumber": "546 U.S. 394",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Unitherm Food Systems, Inc."
+      },
+      {
+        "@type": "Organization",
+        "name": "Swift-Eckrich, Inc."
+      }
+    ],
+    "court": {
+      "@type": "Court",
+      "name": "Supreme Court of the United States"
+    },
+    "opinion": {
+      "@type": "LegalOpinion",
+      "text": "The District Court’s denial of respondent’s preverdict motion cannot form the basis of respondent’s appeal, because the denial of that motion was not error. It was merely an exercise of the District Court’s discretion, in accordance with the text of the Rule and the accepted practice of permitting the jury to make an initial judgment about the sufficiency of the evidence. The only error here was counsel’s failure to file a postverdict motion pursuant to Rule 50(b)."
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Cone v. West Virginia Pulp & Paper Co.",
+    "datePublished": "1947-03-03",
+    "caseNumber": "330 U.S. 212",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "West Virginia Pulp & Paper Co."
+      }
+    ],
+    "court": {
+      "@type": "Court",
+      "name": "Supreme Court of the United States"
+    },
+    "opinion": {
+      "@type": "LegalOpinion",
+      "text": "The Court holds that the Court of Appeals was “powerless” to review the sufficiency of the evidence supporting the verdict in petitioner’s favor because respondent failed to file proper postverdict motions pursuant to Rules 50(b) and 59 of the Federal Rules of Civil Procedure in the trial court."
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Globe Liquor Co. v. San Roman",
+    "datePublished": "1948-01-05",
+    "caseNumber": "332 U.S. 571",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Globe Liquor Co."
+      },
+      {
+        "@type": "Organization",
+        "name": "San Roman"
+      }
+    ],
+    "court": {
+      "@type": "Court",
+      "name": "Supreme Court of the United States"
+    },
+    "opinion": {
+      "@type": "LegalOpinion",
+      "text": "The majority’s holding is inconsistent with a statute enacted just months after Globe Liquor was decided. That statute, which remains in effect today, provides: “The Supreme Court or any other court of appellate jurisdiction may affirm, modify, vacate, set aside or reverse any judgment, decree, or order of a court lawfully brought before it for review, and may remand the cause and direct the entry of such appropriate judgment, decree, or order, or require such further proceedings to be had as may be just under the circumstances.” 28 U. S. C. § 2106."
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Johnson v. New York, N. H. & H. R. Co.",
+    "datePublished": "1952-03-17",
+    "caseNumber": "344 U.S. 48",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "New York, N. H. & H. R. Co."
+      }
+    ],
+    "court": {
+      "@type": "Court",
+      "name": "Supreme Court of the United States"
+    },
+    "opinion": {
+      "@type": "LegalOpinion",
+      "text": "The spirit of the Federal Rules of Civil Procedure favors preservation of a court’s power to avoid manifestly unjust results in exceptional cases. See Johnson v. New York, N. H. & H. R. Co., 344 U. S. 48, 62 (1952) (Frankfurter, J., dissenting) (“ ‘Procedure is the means; full, equal and exact enforcement of substantive law is the end’ ” (quoting Pound, The Etiquette of Justice, 3 Proceedings Neb. St. Bar Assn. 231 (1909)))."
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Singleton v. Wulff",
+    "datePublished": "1976-06-21",
+    "caseNumber": "428 U.S. 106",
+    "involvedParties": [
+      {
+        "@type": "Person",
+        "name": "Wulff"
+      }
+    ],
+    "court": {
+      "@type": "Court",
+      "name": "Supreme Court of the United States"
+    },
+    "opinion": {
+      "@type": "LegalOpinion",
+      "text": "It is well settled that a litigant’s waiver or forfeiture of an argument does not, in the absence of a contrary statutory command, preclude the courts of appeals from considering those arguments. See Singleton v. Wulff, 428 U. S. 106, 121 (1976). Arguments raised for the first time on appeal may be entertained, for example, if their consideration would prevent manifest injustice. Ibid."
+    }
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",

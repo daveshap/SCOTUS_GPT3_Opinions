@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "citation": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "discount": "http://schema.org/discount"
+  },
+  "@graph": [
+    {
+      "@id": "citation:509_U.S._209_(1993)",
+      "@type": "citation",
+      "date": "1993",
+      "caseNumber": "509 U.S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "Supracompetitive pricing was not introduced into the generic segment."
+    },
+    {
+      "@id": "citation:748_F.Supp._356_(1993)",
+      "@type": "citation",
+      "date": "1993",
+      "caseNumber": "748 F. Supp. 356",
+      "involvedParties": ["Liggett", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "Liggett's officers and directors denied that they or other firms in the industry priced their cigarettes through tacit collusion or reaped supracompetitive profits."
+    },
+    {
+      "@id": "discount:38_percent",
+      "@type": "discount",
+      "discount": "38%"
+    },
+    {
+      "@id": "discount:50_percent",
+      "@type": "discount",
+      "discount": "50%"
+    },
+    {
+      "@id": "discount:52_percent",
+      "@type": "discount",
+      "discount": "52%"
+    }
+  ]
+}

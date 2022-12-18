@@ -1,0 +1,99 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "555 U.S. 438 (2009)",
+    "datePublished": "2009",
+    "court": "Supreme Court of the United States",
+    "author": "Breyer, J.",
+    "description": "Petitioners were required to provide wholesale digital subscriber line (DSL) transport service as a common carrier, charging “just and reasonable” rates that were not “unreasonabl[y] discriminat[ory].” 47 U.S.C. §§ 201(b), 202(a) (2000 ed.).",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Petitioners"
+      },
+      {
+        "@type": "Organization",
+        "name": "Respondents"
+      }
+    ],
+    "citation": "555 U. S. 438 (2009)",
+    "caseNumber": "555US2",
+    "reasoning": "When a regulatory structure exists to deter and remedy anticompetitive harm, the costs of antitrust enforcement are likely to be greater than the benefits. Respondents now seek to show only that the defendant engaged in predatory pricing, within the terms of this Court’s decision in Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209 (1993)."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Concord v. Boston Edison Co.",
+    "datePublished": "1990",
+    "court": "United States Court of Appeals for the First Circuit",
+    "author": "",
+    "description": "",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Concord"
+      },
+      {
+        "@type": "Organization",
+        "name": "Boston Edison Co."
+      }
+    ],
+    "citation": "915 F. 2d 17 (CA1 1990)",
+    "caseNumber": "",
+    "reasoning": "A purchaser from a regulated firm (which, if a natural monopolist, is lawfully such) cannot win an antitrust case simply by showing that it is “squeezed” between the regulated firm’s wholesale price (to the plaintiff) and its retail price (to customers for whose business both firms compete)."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "FPC v. Conway Corp.",
+    "datePublished": "1976",
+    "court": "Supreme Court of the United States",
+    "author": "",
+    "description": "",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "FPC"
+      },
+      {
+        "@type": "Organization",
+        "name": "Conway Corp."
+      }
+    ],
+    "citation": "426 U. S. 271 (1976)",
+    "caseNumber": "",
+    "reasoning": "Respondents do not claim that the regulatory fact makes any difference; and rightly so, for as far as I can tell, respondents could have gone to the regulators and asked for petitioners’ wholesale prices to be lowered in light of the alleged price squeeze."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+    "datePublished": "1993",
+    "court": "Supreme Court of the United States",
+    "author": "",
+    "description": "",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Brooke Group Ltd."
+      },
+      {
+        "@type": "Organization",
+        "name": "Brown & Williamson Tobacco Corp."
+      }
+    ],
+    "citation": "509 U. S. 209 (1993)",
+    "caseNumber": "",
+    "reasoning": "Respondents now seek to show only that the defendant engaged in predatory pricing, within the terms of this Court’s decision in Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209 (1993)."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Book",
+    "name": "Antitrust Law",
+    "author": "P. Areeda & D. Turner",
+    "datePublished": "1978",
+    "description": "Whether a particular course of conduct counts as “exclusionary” for antitrust purposes depends upon a host of factors, including, for example, the market position of the defendant, the nature of the market, and the nature of the defendant’s conduct.",
+    "citation": "3 Areeda & Turner, supra, ¶ 726e, at 219–220"
+  }
+]

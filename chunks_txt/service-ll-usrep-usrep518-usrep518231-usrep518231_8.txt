@@ -1,0 +1,125 @@
+
+
+BROWN v. PRO FOOTBALL, INC.
+STEVENS, J., dissenting
+JUSTICE STEVENS,  dissenting.
+In his classic dissent in Lochner v. New York, 198 U. S. 45,
+75 (1905), Justice Holmes reminded us that our disagreement
+with the economic theory embodied in legislation should not
+affect our judgment about its constitutionality.  It is equally
+important,  of course, to be faithful to the economic  theory
+underlying broad statutory mandates when we are constru-
+ing their impact on areas of the economy not specifically ad-
+dressed by their texts.  The unique features of this case lead
+me  to conclude  that the Court has  reached  a decision that
+conflicts  with the basic purpose  of both the antitrust laws
+and the national labor policy expressed in a series of congres-
+sional enactments.
+I
+The basic premise underlying the Sherman Act is the as-
+sumption that free competition among business  entities will
+produce  the  best  price  levels.  National Soc.  of Profes-
+sional Engineers v. United States, 435 U. S. 679, 695 (197.8).
+Collusion  among  competitors,  it  is believed,  may produce
+prices  that  harm  consumers.  United States  v.  Socony-
+Vacuum Oil Co., 310 U. S. 150, 226, n. 59 (1940).  Similarly,
+the Court has held, a marketwide agreement among employ-
+ers setting wages at levels that would not prevail in a free
+market may  violate the Sherman Act.  Anderson v. Ship-
+owners Assn. of Pacific Coast, 272 U. S. 359 (1926).
+The jury's  verdict in  this  case has  determined  that the
+marketwide agreement among these employers fixed the sal-
+aries of the replacement players at a dramatically lower level
+than would obtain in a free market.  While the special char-
+acteristics of this industry may provide a justification for the
+agreement under the rule of reason, see National Collegiate
+Athletic Assn. v. Board of Regents of Univ. of Okla., 468
+U. S. 85, 100-104  (1984), at this stage of the proceeding our
+analysis of the exemption issue must accept the premise that
+the agreement is unlawful unless it is exempt.
+
+NEW PAGE
+
+Cite as: 518 U. S. 231 (1996)
+STEVENS, J., dissenting
+The basic premise underlying our national labor policy is
+that unregulated  competition  among employees  and  appli-
+cants for employment produces  wage levels that are  lower
+than they should be.'  Whether or not the premise is true
+in fact, it is surely the basis for the statutes that encourage
+and protect the collective-bargaining  process,  including the
+express statutory exemptions from  the antitrust laws  that
+Congress  enacted  in  order  to  protect  union  activities.2
+Those  statutes were enacted to enable collective  action by
+union members to achieve wage levels that are higher than
+would be available in a free market.  See Trainmen v. Chi-
+cago R. & L R. Co., 353 U. S. 30, 40 (1957).
+The statutory labor exemption protects the right of work-
+ers to act  collectively  to seek better wages, but does  not
+I "The inequality of bargaining power between employees who do not
+possess full freedom of association or actual liberty of contract, and em-
+ployers who are organized in the corporate or other forms of ownership
+association substantially burdens  and affects the flow of commerce,  and
+tends to aggravate recurrent business  depressions, by depressing wage
+rates and the purchasing power of wage earners in industry and by pre-
+venting the stabilization of competitive wage rates and working conditions
+within and between industries."  29 U. S. C. § 151; R. Posner & F. Easter-
+brook, Antitrust 31 (2d ed. 1981) ("The main purpose of labor unions is to
+raise wages by suppressing competition among workers . . ."); see also
+Meat Cutters v. Jewel Tea Co., 381 U. S. 676, 723 (1965) (opinion of Gold-
+berg, J.)  ("The very purpose and effect of a labor union is to limit the
+power  of an employer to use  competition among workingmen  to  drive
+down wage rates and enforce  substandard  conditions  of employment").
+2,The basic sources of organized labor's exemption from federal  anti-
+trust laws are  §§ 6 and 20 of the Clayton Act, 38 Stat. 731  and 738, 15
+U. S. C. § 17 and 29 U. S. C. § 52, and the Norris-LaGuardia Act, 47 Stat.
+70, 71, and 73,29 U. S. C. §§ 104, 105, and 113.  These statutes declare that
+labor unions are not combinations or conspiracies  in restraint of trade,
+and exempt specific  union activities, including secondary picketing  and
+boycotts, from the operation of the antitrust laws.  See United States v.
+Hutcheson, 312 U. S. 219 (1941).  They do not exempt concerted action
+or agreements between unions and nonlabor parties.  Mine Workers v.
+Pennington,3 81 U. S. 657, 662 (1965)."  Connell Constr. Co. v. Plumbers,
+421 U. S. 616, 621-622 (1975).
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+STEVENS, J., dissenting
+"exempt concerted action or agreements between unions and
+nonlabor  parties."  Connell Constr. Co. v.  Plumbers, 421
+U. S. 616,  621-622 (1975).  It is the judicially crafted, non-
+statutory labor exemption  that serves  to  accommodate the
+conflicting policies  of the antitrust and labor statutes in the
+context of action between employers and unions.  Ibid.
+The limited judicial exemption  complements its statutory
+counterpart by ensuring that unions which engage in collec-
+tive bargaining to enhance  employees' wages may enjoy the
+benefits  of the resulting  agreements.  The purpose  of the
+labor laws would be frustrated if it were illegal for employ-
+ers to enter into industrywide agreements providing supra-
+competitive wages for employees.  For that reason, we have
+explained  that "a proper accommodation  between the con-
+gressional  policy  favoring  collective  bargaining  under the
+NLRA  and the congressional policy favoring free competi-
+tion in business markets requires that some union-employer
+agreements  be accorded  a  limited nonstatutory  exemption
+from antitrust sanctions."  Id., at 622.
+Consistent with basic labor law policies,  I agree with the
+Court that the judicially crafted labor exemption must also
+cover some collective action that employers take in response
+to a collective-bargaining agent's demands for higher wages.
+Immunizing such  action from antitrust scrutiny may facili-
+tate collective bargaining over labor demands.  So, too, may
+immunizing concerted  employer action designed to maintain
+the integrity of the multiemployer  bargaining unit, such as
+lockouts that are imposed in response to "a union strike tac-
+tic which threatens the destruction of the employers' interest
+in bargaining on a group basis."  NLRB v. Truck Drivers,
+353 U. S. 87, 93 (1957).
+In my view, however, neither the policies underlying the
+two separate statutory schemes, nor the narrower focus on
+the purpose of the nonstatutory exemption, provides a justi-
+fication for exempting from antitrust scrutiny collective ac-
+tion initiated by employers to depress wages below the level
+

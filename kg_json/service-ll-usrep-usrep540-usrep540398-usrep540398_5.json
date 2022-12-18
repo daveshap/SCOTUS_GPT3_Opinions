@@ -1,0 +1,91 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "VerizonCommunicationsInc.v.LawOfficesofCurtisV.Trinko,LLP",
+      "@type": "cite",
+      "date": "2004",
+      "caseNumber": "540 U. S. 398",
+      "parties": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "Verizon's alleged insufficient assistance in the provision of service to rivals is not a recognized antitrust claim under this Court's existing refusal-to-deal precedents."
+    },
+    {
+      "@id": "AspenSkiingCo.",
+      "@type": "cite",
+      "date": "1985",
+      "caseNumber": "472 U. S. 585",
+      "parties": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "reasoning": "What the defendant refused to provide to its competitor was a product that it already sold at retail."
+    },
+    {
+      "@id": "OtterTailPowerCo.v.UnitedStates",
+      "@type": "cite",
+      "date": "1973",
+      "caseNumber": "410 U. S. 366",
+      "parties": "Otter Tail Power Co. v. United States",
+      "reasoning": "The defendant was already in the business of providing a service to certain customers and refused to provide the same service to certain other customers."
+    },
+    {
+      "@id": "VerizonCommunicationsInc.v.FCC",
+      "@type": "cite",
+      "date": "2002",
+      "caseNumber": "535 U. S. 467",
+      "parties": "Verizon Communications Inc. v. FCC",
+      "reasoning": "The 1996 Act's extensive provision for access makes it unnecessary to impose a judicial doctrine of forced access."
+    },
+    {
+      "@id": "UnitedStatesv.TerminalRailroadAssn.ofSt.Louis",
+      "@type": "cite",
+      "date": "1912",
+      "caseNumber": "224 U. S. 383",
+      "parties": "United States v. Terminal Railroad Assn. of St. Louis",
+      "reasoning": "This case involved concerted action, which presents greater anticompetitive concerns and is amenable to a remedy that does not require judicial estimation of free-market forces."
+    },
+    {
+      "@id": "AssociatedPressv.UnitedStates",
+      "@type": "cite",
+      "date": "1945",
+      "caseNumber": "326 U. S. 1",
+      "parties": "Associated Press v. United States",
+      "reasoning": "This case involved concerted action, which presents greater anticompetitive concerns and is amenable to a remedy that does not require judicial estimation of free-market forces."
+    },
+    {
+      "@id": "UnitedStatesv.Citizens&SouthernNat.Bank",
+      "@type": "cite",
+      "date": "1975",
+      "caseNumber": "422 U. S. 86",
+      "parties": "United States v. Citizens & Southern Nat. Bank",
+      "reasoning": "Careful account must be taken of the pervasive federal and state regulation characteristic of the industry."
+    },
+    {
+      "@id": "Silverv.NewYorkStockExchange",
+      "@type": "cite",
+      "date": "1963",
+      "caseNumber": "373 U. S. 341",
+      "parties": "Silver v. New York Stock Exchange",
+      "reasoning": "Where there is nothing built into the regulatory scheme which performs the antitrust function, the benefits of antitrust are worth its sometimes considerable disadvantages."
+    },
+    {
+      "@id": "Concordv.BostonEdisonCo.",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "915 F. 2d 17",
+      "parties": "Concord v. Boston Edison Co.",
+      "reasoning": "Antitrust analysis must sensitively recognize and reflect the distinctive economic and legal setting of the regulated industry to which it applies."
+    },
+    {
+      "@id": "UnitedStatesv.NationalAssn.ofSecuritiesDealers,Inc.",
+      "@type": "cite",
+      "date": "1975",
+      "caseNumber": "422 U. S. 694",
+      "parties": "United States v. National Assn. of Securities Dealers, Inc.",
+      "reasoning": "Where such a structure exists, the additional benefit to competition provided by antitrust enforcement will tend to be small, and it will be less plausible that the antitrust laws contemplate such additional scrutiny."
+    }
+  ]
+}

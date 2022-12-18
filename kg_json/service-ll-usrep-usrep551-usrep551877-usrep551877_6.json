@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "datePublished": "09-20-1121:22:06",
+  "court": "Supreme Court of the United States",
+  "caseNumber": "551US2",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Leegin Creative Leather Products, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "PSKS, Inc."
+    }
+  ],
+  "opinion": {
+    "@type": "LegalOpinion",
+    "reasoning": "Vertical agreements setting minimum resale prices can have procompetitive justifications, but they may have anticompetitive effects in other cases. Resale price maintenance may facilitate a manufacturer cartel, and it can be abused by a powerful manufacturer or retailer. It cannot be stated with any degree of confidence that resale price maintenance always or almost always tends to restrict competition and decrease output.",
+    "citations": [
+      {
+        "@type": "LegalCase",
+        "name": "Business Electronics Corp. v. Sharp Electronics Corp.",
+        "datePublished": "485 U.S. 717 (1988)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Texaco Inc. v. Dagher",
+        "datePublished": "547 U.S. 1 (2006)"
+      },
+      {
+        "@type": "LegalCase",
+        "name": "GTE Sylvania Inc. v. Consumers Union of United States, Inc.",
+        "datePublished": "433 U.S. 36 (1977)"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "The Law and Economics of Resale Price Maintenance",
+        "author": "Mathewson & Winter",
+        "datePublished": "13 Rev. Indus. Org. 57 (1998)"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Vertical Restraints as Contract Enforcement Mechanisms",
+        "author": "Klein & Murphy",
+        "datePublished": "31 J. Law & Econ. 265 (1988)"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Demand Uncertainty, Inventories, and Resale Price Maintenance",
+        "author": "Deneckere, Marvel, & Peck",
+        "datePublished": "111 Q. J. Econ. 885 (1996)"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "The Welfare Effects of Resale Price Maintenance",
+        "author": "Marvel & McCafferty",
+        "datePublished": "28 J. Law & Econ. 363 (1985)"
+      },
+      {
+        "@type": "Book",
+        "name": "Antitrust Law",
+        "author": "Areeda & Hovenkamp",
+        "datePublished": "2d ed. 2004"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Toys “R” Us, Inc. v. FTC",
+        "author": "FTC",
+        "datePublished": "221 F. 3d 928 (CA7 2000)"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Resale Price Maintenance",
+        "author": "Posner",
+        "datePublished": "172"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Resale Price Maintenance and the Robinson-Patman Act",
+        "author": "Overstreet",
+        "datePublished": "19-23"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Dr. Miles Medical Co. v. John D. Park & Sons Co.",
+        "author": "Hovenkamp",
+        "datePublished": "186"
+      },
+      {
+        "@type": "ScholarlyArticle",
+        "name": "Vertical Restraints and Antitrust Policy",
+        "author": "Ippolito",
+        "datePublished": "292"
+      }
+    ]
+  }
+}

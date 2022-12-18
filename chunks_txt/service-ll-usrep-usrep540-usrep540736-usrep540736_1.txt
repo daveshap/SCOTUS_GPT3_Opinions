@@ -1,0 +1,130 @@
+OCTOBER  TERM, 2003
+Syllabus
+UNITED  STATES POSTAL  SERVICE  v.  FLAMINGO
+INDUSTRIES  (USA) LTD. ET  AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 02-1290.  Argued December 1, 2003-Decided February 25, 2004
+After their contract to make mail sacks for the United States Postal Serv-
+ice was terminated, respondents  brought this suit alleging, inter alia,
+that the Postal Service had sought to suppress competition and create
+a monopoly in mail sack production.  The District Court dismissed the
+antitrust  claims,  concluding  that  the  Postal  Service  is  not  subject
+to liability under federal  antitrust law.  The Ninth  Circuit reversed,
+holding that the Postal  Service can  be liable but that it has a limited
+immunity from antitrust liability for conduct undertaken at Congress'
+command.
+Held: The Postal  Service  is not  subject to  antitrust liability.  In both
+form and function, it is not a separate antitrust person from the United
+States but is part of the Government, and so is not controlled by the
+antitrust laws.  Pp. 739-748.
+(a) The waiver of immunity from suit provided by the Postal Reorga-
+nization Act (PRA)-which gives the Postal Service the power "to sue
+and be sued in its official name," 39 U. S.C. §401-does not suffice by
+its own terms to subject the Postal Service to liability under the Sher-
+man Act.  The two-step analysis of FDIC v. Meyer, 510 U. S.4 71, 484,
+applies here.  Meyer's first step is met because the PRA's sue-and-be-
+sued clause effects a waiver of sovereign immunity for actions against
+the Postal  Service.  However, Meyer's second  step  for finding liabil-
+ity-whether the Sherman Act's substantive  prohibitions apply to the
+Postal Service-is not satisfied.  The Sherman Act imposes liability on
+any 'person,"  defined "to include corporations and associations existing
+under or authorized by the laws of...  the United States."  15 U. S. C.
+§ 7.  In holding that the  United States is not a person authorized  to
+bring a treble-damages claim for its own alleged antitrust injury under
+the Sherman Act, United States v. Cooper Corp., 312 U. S.6 00, 606-607,
+this  Court observed  that, if the definition  of 'person"  included  the
+United States, the Government would be exposed to liability as an anti-
+trust defendant, a result Congress could not have intended, id., at 607,
+609.  Although the antitrust statutes were later amended to allow the
+United States to bring antitrust suits, see 15 U. S. C. § 15a, Congress did
+not thereby change the statutory definition  of "person."  So, Cooper's
+
+NEW PAGE
+
+Cite as: 540 U. S. 736 (2004)
+Syllabus
+conclusion that the United States is not an antitrust "person," in partic-
+ular not a person who can be an antitrust defendant, was unaltered by
+Congress' action; indeed, the means Congress used to amend the anti-
+trust law implicitly ratified  Cooper's conclusion that the United States
+is not a proper antitrust defendant.  Pp. 739-746.
+(b)  For purposes of the antitrust laws, the  Postal Service  is not a
+separate  person from the  United  States.  The PRA's  designation  of
+the Postal Service as an "independent  establishment of the executive
+branch of the Government of the United States," 39 U. S. C. § 201, is not
+consistent with the idea that the Postal  Service  is an entity existing
+outside  the Government.  Indeed,  the  designation indicates  just the
+contrary.  The PRA gives the Postal Service a high degree of independ-
+ence from other Government offices, but it remains part of the Govern-
+ment.  The Sherman Act defines "person" to include corporations,  15
+U. S. C. § 7, and had Congress chosen to create the Postal Service as a
+federal corporation, the Court would have to ask whether the Sherman
+Act's definition extends to the federal entity under this part of the defi-
+nitional text.  Congress, however, declined to create the Postal Service
+as a Government corporation, opting instead for an independent estab-
+lishment.  The choice of words likely was more informed than unconsid-
+ered, because Congress debated proposals to make  the Postal Service
+a Government  corporation  before it enacted the PRA.  Although the
+PRA refers explicitly to various federal statutes and specifies that the
+Postal Service is exempt from some and subject to others, 39 U. S. C.
+§§ 409-410, it makes no mention of the Sherman Act or the antitrust
+laws.  This silence leads to no helpful inference one way or the other
+on the question at issue.  However, the other considerations the Court
+has discussed lead to the conclusion that, absent an express congres-
+sional statement that the Postal Service can be sued for antitrust viola-
+tions despite its status as an independent establishment of the Govern-
+ment, the PRA does not subject the Postal Service to antitrust liability.
+This conclusion is consistent with the nationwide, public responsibilities
+of the Postal Service, which has different goals from private corpora-
+tions, the most important being that it does not seek profits, § 3621.  It
+also has broader obligations, including the provision of universal mail
+delivery and free mail delivery to certain classes of persons,  §§3201-
+3405, and, most recently, increased public responsibilities related to na-
+tional  security.  Finally, the Postal  Service  has  many  powers  more
+characteristic  of Government than of private enterprise, including its
+state-conferred monopoly on mail delivery, § 601 et seq., and the powers
+of eminent  domain and  to conclude  international  postal  agreements,
+§§401, 407.  On  the other hand, but in ways still relevant to the anti-
+trust  laws'  nonapplicability,  the  Postal  Service's  powers  are  more
+
+NEW PAGE
+
+738  POSTAL SERVICE v. FLAMINGO  INDUSTRIES  (USA)  LTD.
+Opinion of the Court
+limited than those of private businesses, since it lacks the power unilat-
+erally to set prices or to close a post office, § 404.  Its public characteris-
+tics and responsibilities indicate it should be treated under the antitrust
+laws as part of the Government, not a market participant separate from
+it.  The fact that the Postal Service operates some nonpostal lines of
+business beyond  the scope of its mail monopoly and universal service
+obligation does not alter this conclusion.  Pp. 746-748.
+302 F. 3d 985, reversed.
+KENNEDY, J., delivered the opinion for a unanimous Court.
+Deputy Solicitor General Kneedler argued  the cause  for
+petitioner.  With him on the briefs were Solicitor General
+Olson, Assistant Attorney General Keisler, Lisa S. Blatt,
+and Mark B. Stern.
+Harold J  Krent argued the cause for respondents.  With
+him on the brief were Angela Wah and George P. Eshoo.*
+JUSTICE KENNEDY  delivered the opinion of the Court.
+This  case  requires  us  to  consider  whether  the  United
+States Postal Service is subject to liability under the federal
+antitrust laws.
+Flamingo  Industries  (USA)  Ltd.,  a private  corporation,
+and its owner and principal officer are the respondents here.
+Flamingo had been making mail sacks for the Postal Service,
+but then its contract was terminated.  The respondents sued
+in  United  States  District  Court  alleging  that  the  Postal
+Service had sought to suppress competition and create a mo-
+nopoly in mail sack production.  (They also brought  claims
+against the  Postal  Service  under  federal  procurement  law
+and state law, but those claims are not before us.)  The Dis-
+*Briefs of amici curiae urging affirmance were filed for the American
+Trucking Associations, Inc., by Drew S. Days III, Beth S. Brinkmann,
+Seth M. Galanter,P  aul T Friedman, and Robert Digges, Jr.; for Postal-
+Watch, Inc., by William S. Stancil;a nd for the Washington Legal Founda-
+tion et al. by Alan Charles Raul, Daniel J Popeo, and Paul D. Kamenar.
+Nicholas M. Fobe filed a brief for the Center for the Advancement  of
+Capitalism as amicus curiae.
+

@@ -1,0 +1,85 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "reinsurance": "http://schema.org/reinsurance",
+    "primaryInsurer": "http://schema.org/primaryInsurer",
+    "retrocessionalReinsurance": "http://schema.org/retrocessionalReinsurance",
+    "reinsurers": "http://schema.org/reinsurers",
+    "reinsuranceBrokers": "http://schema.org/reinsuranceBrokers",
+    "tradeAssociation": "http://schema.org/tradeAssociation",
+    "prehistory": "http://schema.org/prehistory",
+    "ISO": "http://schema.org/ISO",
+    "CGLForm": "http://schema.org/CGLForm",
+    "trigger": "http://schema.org/trigger",
+    "retroactiveDate": "http://schema.org/retroactiveDate",
+    "suddenAccidentalPollution": "http://schema.org/suddenAccidentalPollution",
+    "legalDefenseCosts": "http://schema.org/legalDefenseCosts",
+    "HartfordFireInsuranceCompany": "http://schema.org/HartfordFireInsuranceCompany",
+    "AllstateInsuranceCompany": "http://schema.org/AllstateInsuranceCompany",
+    "GeneralReinsuranceCorporation": "http://schema.org/GeneralReinsuranceCorporation",
+    "RAA": "http://schema.org/RAA",
+    "boycott": "http://schema.org/boycott",
+    "LondonReinsuranceMarket": "http://schema.org/LondonReinsuranceMarket",
+    "NorthAmericanRisks": "http://schema.org/NorthAmericanRisks",
+    "underwriters": "http://schema.org/underwriters",
+    "syndicates": "http://schema.org/syndicates",
+    "brokers": "http://schema.org/brokers",
+    "reinsuranceCompanies": "http://schema.org/reinsuranceCompanies"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/509U.S.764",
+      "cite": "509 U. S. 764 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Hartford Fire Insurance Company", "Aetna", "CIGNA", "Allstate Insurance Company", "General Reinsurance Corporation", "Reinsurance Association of America"],
+      "reasoning": "Opinion of the Court",
+      "reinsurance": {
+        "primaryInsurer": "protecting the primary insurer from catastrophic loss, and allowing the primary insurer to sell more insurance than its own financial capacity might otherwise permit.",
+        "retrocessionalReinsurance": "does for reinsurers what reinsurance does for primary insurers."
+      },
+      "tradeAssociation": "Reinsurance Association of America (RAA) is a trade association of domestic reinsurers.",
+      "prehistory": {
+        "ISO": {
+          "CGLForm": {
+            "trigger": ["occurrence", "claims-made"],
+            "retroactiveDate": "no retroactive date provision",
+            "suddenAccidentalPollution": "covered",
+            "legalDefenseCosts": "unlimited coverage of legal defense costs by the insurer"
+          }
+        },
+        "HartfordFireInsuranceCompany": {
+          "desiredChanges": ["elimination of the 'occurrence' form", "a retroactive date provision on the 'claims-made' form", "elimination of sudden and accidental pollution coverage", "a legal defense cost cap"]
+        },
+        "AllstateInsuranceCompany": {
+          "desiredChanges": ["a retroactive date provision on the 'claims-made' form"]
+        }
+      },
+      "conspiracies": {
+        "GeneralReinsuranceCorporation": {
+          "steps": ["procure desired changes in the ISO CGL forms", "or 'failing that, 'derail' the entire ISO CGL forms program"]
+        },
+        "RAA": {
+          "specialCommittee": {
+            "agreement": "boycott the 1984 ISO CGL forms unless a retroactive-date provision was added to the claims-made form, and a pollution exclusion and defense cost cap were added to both forms."
+          }
+        },
+        "LondonReinsuranceMarket": {
+          "keyActors": {
+            "withholdReinsurance": ["1984 ISO CGL forms", "all four desired changes"]
+          }
+        },
+        "ISO": {
+          "invitedRepresentatives": ["domestic and foreign reinsurance markets"],
+          "presentedPositions": "changes in the CGL forms or no reinsurance",
+          "voted": ["retroactive-date provision in the claims-made form", "exclude all pollution coverage from both new forms", "neither eliminated the occurrence form, nor added a legal defense cost cap"],
+          "withdrawn": "1984 ISO CGL forms were then withdrawn from the marketplace, and replaced with forms (1986 ISO CGL forms) containing the new provisions."
+        }
+      }
+    }
+  ]
+}

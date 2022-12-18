@@ -1,0 +1,137 @@
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+394  OCTOBER TERM, 2005 
+Syllabus 
+UNITHERM FOOD SYSTEMS, INC. v. SWIFT-
+
+ECKRICH, INC., dba CONAGRA
+
+REFRIGERATED FOODS
+
+certiorari to the united states court of appeals for 
+the federal circuit 
+No. 04–597.  Argued November 2, 2005—Decided January 23, 2006 
+After respondent ConAgra warned companies selling equipment and proc­
+esses for browning precooked meats that it intended to protect its rights 
+under its patent for that process, petitioner Unitherm, whose president 
+had invented the process six years before ConAgra ﬁled its patent appli­
+cation, and one of ConAgra’s direct competitors jointly ﬁled suit in an 
+Oklahoma federal court.  As relevant here, they sought a declaration 
+that ConAgra’s patent was invalid and unenforceable and alleged that 
+ConAgra had violated § 2 of the Sherman Act by attempting to enforce 
+a patent obtained by fraud on the Patent and Trademark Ofﬁce, see 
+Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp., 
+382 U. S. 172, 174.  The District Court found the patent invalid and 
+allowed the Walker Process claim to proceed to trial.  Before the case 
+was submitted to the jury, ConAgra moved for a directed verdict under 
+Federal Rule of Civil Procedure 50(a) based on legal insufﬁciency of the 
+evidence.  The court denied the motion, the jury returned a verdict for 
+Unitherm, and ConAgra neither renewed its motion for judgment as a 
+matter of law pursuant to Rule 50(b) nor moved for a new trial on anti­
+trust liability pursuant to Rule 59.  On appeal to the Federal Circuit, 
+ConAgra maintained that there was insufﬁcient evidence to sustain the 
+Walker Process verdict.  The court applied Tenth Circuit law, under 
+which a party that has failed to ﬁle a postverdict sufﬁciency of the evi­
+dence challenge may nonetheless raise such a claim on appeal, so long 
+as the party ﬁled a Rule 50(a) motion before submission of the case to 
+the jury.  The only available relief in such a circumstance is a new trial. 
+Freed to examine the sufﬁciency of the evidence, the Federal Circuit 
+vacated the judgment and ordered a new trial. 
+Held: Since respondent failed to renew its preverdict motion as speciﬁed 
+in Rule 50(b), the Federal Circuit had no basis for reviewing respond­
+ent’s sufﬁciency of the evidence challenge.  Rule 50 sets forth the re­
+quirements, establishing two stages, for challenging the sufﬁciency of 
+the evidence in a civil jury trial.  Rule 50(a) allows a challenge prior to 
+the case’s submission to the jury, authorizing the district court to grant 
+the motion at the court’s discretion.  Rule 50(b), by contrast, sets forth 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  395 
+Syllabus 
+the requirements for renewing the challenge after the jury verdict and 
+entry of judgment.  A party’s failure to ﬁle a Rule 50(b) postverdict 
+motion deprives an appellate court of the “power to direct the District 
+Court to enter judgment contrary to the one it had permitted to stand.” 
+Cone v. West Virginia Pulp & Paper Co., 330 U. S. 212, 218.  It also 
+deprives an appellate court of the power to order the entry of judgment 
+in favor of that party where the district court directed the jury’s verdict, 
+Globe Liquor Co. v. San Roman, 332 U. S. 571, and where the district 
+court expressly reserved a party’s preverdict directed verdict motion 
+and then denied it after the verdict, Johnson v. New York, N. H. & H. R. 
+Co., 344 U. S. 48.  A postverdict motion is necessary because determin­
+ing “whether a new trial should be granted or a judgment entered under 
+Rule 50(b) calls for the judgment in the ﬁrst instance of the judge who 
+saw and heard the witnesses and has the feel of the case which no appel­
+late printed transcript can impart.”  Cone, supra, at 216.  Moreover, 
+the requirement “is not an idle motion” but “an essential part of the 
+rule, ﬁrmly grounded in principles of fairness.”  Johnson, supra, at 53. 
+These authorities require reversal of the judgment below.  This Court’s 
+observations about the postverdict motion’s necessity and the beneﬁts 
+of the district court’s input at that stage apply with equal force whether 
+a party is seeking judgment as a matter of law or simply a new trial. 
+Contrary to respondent’s argument, the Cone, Globe Liquor, and John­
+son outcomes underscore this holding.  Those litigants all secured new 
+trials, but they had moved for a new trial postverdict in the district 
+court and did not seek to establish their entitlement to a new trial based 
+solely on a denied Rule 50(a) motion.  This result is further validated 
+by the purported basis of respondent’s appeal, namely, the District 
+Court’s denial of its Rule 50(a) motion.  Cone, Globe Liquor, and John­
+son unequivocally establish that the precise subject matter of a party’s 
+Rule 50(a) motion cannot be appealed unless that motion is renewed 
+pursuant to Rule 50(b).  Respondent, rather than seeking to appeal the 
+claim raised in its Rule 50(a) motion, seeks a new trial based on legal 
+insufﬁciency of the evidence.  If a litigant that has failed to ﬁle a Rule 
+50(b) motion is foreclosed from seeking the relief sought in its Rule 50(a) 
+motion, then surely respondent is foreclosed from seeking relief it did 
+not and could not seek in its preverdict motion.  Rule 50(b)’s text con­
+ﬁrms that respondent’s Rule 50(a) motion did not give the District Court 
+the option of ordering a new trial, for it provides that a district court 
+may only order a new trial based on issues raised in a Rule 50(a) motion 
+when “ruling on a renewed motion” under Rule 50(b).  If the District 
+Court lacked such power, then the Court of Appeals was similarly pow­
+erless.  Rule 50(a)’s text and application also support this result.  A 
+district court may enter judgment as a matter of law when it concludes 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+396  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+that the evidence is legally insufﬁcient, but it is not required to do so. 
+Thus, the denial of respondent’s Rule 50(a) motion was not error, but 
+merely an exercise of the District Court’s discretion.  Pp. 399–407. 
+375 F. 3d 1341, reversed. 
+Thomas, J., delivered the opinion of the Court, in which Roberts, C. J., 
+and O’Connor, Scalia, Souter, Ginsburg, and Breyer, JJ., joined. 
+Stevens, J., ﬁled a dissenting opinion, in which Kennedy, J., joined, 
+post, p. 407. 
+Burck Bailey argued the cause for petitioner.  With him 
+on the briefs were Greg A. Castro, Jay P. Walters, and Den­
+nis D. Brown. 
+Malcolm  L.  Stewart  argued  the  cause  for  the  United 
+States as amicus curiae urging reversal.  With him on the 
+brief were Solicitor General Clement, Assistant Attorney 
+General Keisler, Deputy Solicitor  General Hungar, Mar­
+leigh Dover, and August Flentje. 
+Robert  A.  Schroeder  argued  the  cause  for  respondent. 
+With him on the briefs were John R. Reese, Leigh Otsuka 
+Curran, and John P. Passarelli. 
+Justice Thomas delivered the opinion of the Court. 
+Ordinarily, a party in a civil jury trial that believes the 
+evidence is legally insufﬁcient to support an adverse jury 
+verdict will seek a judgment as a matter of law by ﬁling a 
+motion pursuant to Federal Rule of Civil Procedure 50(a) 
+before submission of the case to the jury, and then (if the 
+Rule 50(a) motion is not granted and the jury subsequently 
+decides against that party) a motion pursuant to Rule 50(b). 
+In this case, however, the respondent ﬁled a Rule 50(a) mo­
+tion before the verdict, but did not ﬁle a Rule 50(b) motion 
+after the verdict.  Nor did respondent request a new trial 
+under  Rule  59.  The  Court  of  Appeals  nevertheless  pro­
+ceeded to review the sufﬁciency of the evidence and, upon a 
+ﬁnding that the evidence was insufﬁcient, remanded the case 
+for a new trial.  Because our cases addressing the require­
+ments of Rule 50 compel a contrary result, we reverse. 
+

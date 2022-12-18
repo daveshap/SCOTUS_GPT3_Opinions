@@ -1,0 +1,121 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "cite:540_U_S_398_2004",
+      "cite": "540 U. S. 398 (2004)",
+      "date": "2004",
+      "caseNumber": "540 U. S. 398",
+      "parties": [
+        "Bell Atlantic",
+        "FCC",
+        "PSC",
+        "Verizon",
+        "New York Telephone Co.",
+        "LECs",
+        "AT&T",
+        "Sherman Act",
+        "Topco Associates, Inc.",
+        "Spectrum Sports, Inc.",
+        "McQuillan"
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:In_re_Application_15_FCC_Rcd_3953_3989_4077_82_228_1999",
+      "cite": "In re Application, 15 FCC Rcd. 3953, 3989-4077, 82-228 (1999)",
+      "date": "1999",
+      "caseNumber": "15 FCC Rcd. 3953, 3989-4077, 82-228",
+      "parties": [
+        "Bell Atlantic",
+        "FCC",
+        "Verizon"
+      ],
+      "reasoning": "Memorandum Opinion and Order"
+    },
+    {
+      "@id": "cite:47_U_S_C_§271_d_6_A",
+      "cite": "47 U. S. C. §271(d)(6)(A)",
+      "date": "",
+      "caseNumber": "47 U. S. C. §271(d)(6)(A)",
+      "parties": [
+        "FCC",
+        "Verizon"
+      ],
+      "reasoning": "Enforceable by the FCC through continuing oversight"
+    },
+    {
+      "@id": "cite:In_re_New_York_Telephone_Co_197_P_U_R_4th_266_280_281_N_Y_PSC_1999",
+      "cite": "In re New York Telephone Co., 197 P. U. R. 4th 266, 280-281 (N. Y. PSC, 1999)",
+      "date": "1999",
+      "caseNumber": "197 P. U. R. 4th 266, 280-281",
+      "parties": [
+        "Verizon",
+        "PSC"
+      ],
+      "reasoning": "Order Adopting the Amended PAP"
+    },
+    {
+      "@id": "cite:Verizon_Communications_Inc_v_Law_Offices_of_Curtis_V_Trinko_LLP_414",
+      "cite": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP, 414",
+      "date": "",
+      "caseNumber": "414",
+      "parties": [
+        "Verizon",
+        "Curtis V. Trinko, LLP"
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:United_States_v_Microsoft_Corp_253_F_3d_34_58_CADC_2001",
+      "cite": "United States v. Microsoft Corp., 253 F. 3d 34, 58 (CADC 2001)",
+      "date": "2001",
+      "caseNumber": "253 F. 3d 34, 58",
+      "parties": [
+        "United States",
+        "Microsoft Corp."
+      ],
+      "reasoning": "En banc per curiam"
+    },
+    {
+      "@id": "cite:Matsushita_Elec_Industrial_Co_v_Zenith_Radio_Corp_475_U_S_574_594",
+      "cite": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 594 (1986)",
+      "date": "1986",
+      "caseNumber": "475 U. S. 574, 594",
+      "parties": [
+        "Matsushita Elec. Industrial Co.",
+        "Zenith Radio Corp."
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:Brooke_Group_Ltd_v_Brown_Williamson_Tobacco_Corp_509_U_S_209_223",
+      "cite": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209, 223 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209, 223",
+      "parties": [
+        "Brooke Group Ltd.",
+        "Brown & Williamson Tobacco Corp."
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:Verizon_Communications_Inc_v_FCC_535_U_S_at_476",
+      "cite": "Verizon Communications Inc. v. FCC, 535 U. S., at 476",
+      "date": "",
+      "caseNumber": "535 U. S.",
+      "parties": [
+        "Verizon",
+        "FCC"
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:United_States_v_Topco_Associates_Inc_405_U_S_596_610_1972",
+      "cite": "United States v. Topco Associates, Inc., 405 U

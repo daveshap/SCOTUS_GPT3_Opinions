@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC.",
+  "datePublished": "2006-05-15",
+  "caseNumber": "547 U.S. 28",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "ILLINOIS TOOL WORKS INC."
+    },
+    {
+      "@type": "Organization",
+      "name": "INDEPENDENT INK, INC."
+    }
+  ],
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Motion Picture Patents Co. v. Universal Film Mfg. Co.",
+      "datePublished": "1917-12-17",
+      "caseNumber": "243 U.S. 502"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Standard Oil Co. of Cal. v. United States",
+      "datePublished": "1949-06-06",
+      "caseNumber": "337 U.S. 293"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Mercoid Corp. v. Mid-Continent Investment Co.",
+      "datePublished": "1944-03-20",
+      "caseNumber": "320 U.S. 661"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Jefferson Parish Hospital Dist. No. 2 v. Hyde",
+      "datePublished": "1984-06-04",
+      "caseNumber": "466 U.S. 2"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Times-Picayune Publishing Co. v. United States",
+      "datePublished": "1953-06-15",
+      "caseNumber": "345 U.S. 594"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "International Salt Co. v. United States",
+      "datePublished": "1947-05-19",
+      "caseNumber": "332 U.S. 392"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Morton Salt Co. v. G. S. Suppiger Co.",
+      "datePublished": "1942-05-18",
+      "caseNumber": "314 U.S. 488"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Loew's, Inc. v. Columbia Broadcasting System, Inc.",
+      "datePublished": "1962-06-25",
+      "caseNumber": "371 U.S. 38"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Fortner Enterprises, Inc. v. United States Steel Corp.",
+      "datePublished": "1969-06-02",
+      "caseNumber": "394 U.S. 495"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States Steel Corp. v. Fortner Enterprises, Inc.",
+      "datePublished": "1977-06-20",
+      "caseNumber": "429 U.S. 610"
+    }
+  ],
+  "reasoning": "The Court required a showing of market power in the tying product and rejected the assumption that tying arrangements serve hardly any purpose beyond the suppression of competition."
+}

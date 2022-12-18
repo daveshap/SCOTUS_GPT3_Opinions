@@ -1,0 +1,164 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "F. Hofman-La Roche Ltd et al. v. Empagran S.A. et al.",
+    "caseNumber": "No. 03-724",
+    "dateDecided": "June 14, 2004",
+    "court": "Supreme Court of the United States"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Legislation",
+    "name": "Foreign Trade Antitrust Improvements Act of 1982 (FTAIA)",
+    "datePublished": "1982"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Legislation",
+    "name": "Sherman Act",
+    "datePublished": "1890"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "House Judiciary Committee v. F. Hofman-La Roche Ltd et al.",
+    "caseNumber": "H.R. 5235",
+    "dateDecided": "1982"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "F. Hofman-La Roche Ltd et al. v. Empagran S.A. et al.",
+    "caseNumber": "315 F. 3d 38",
+    "dateDecided": "2003"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "F. Hofman-La Roche Ltd et al. v. Empagran S.A. et al.",
+    "caseNumber": "542 U.S. 15",
+    "dateDecided": "2004"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Stephen M. Shapiro",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Arthur F. Golden",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Tyrone C. Fahnenre",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Andrew S. Marovitz",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Jeffrey W. Sarles",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Lawrence Portnoy",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Charles S. Dugan",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "John M. Majoras",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Daniel H. Bromberg",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Kenneth Prince",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Lawrence Byrne",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Bruce L. Montgomery",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "D. Stuart Meiklejohn",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Michael L. Denger",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Miguel A. Estrada",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Laurence T. Sorkin",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Roy L. Regozin",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Donald I. Baker",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Donald C. Klawiter",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "Person",
+    "name": "Peter E. Hale",
+    "jobTitle": "Attorney"
+  },
+  {
+    "@context": "

@@ -1,0 +1,122 @@
+
+
+Cite as: 540 U. S. 736 (2004)
+Opinion of the Court
+tity as a "person" under the Act.  The federal prohibition,
+for instance, binds state governmental bodies.  See Georgia
+v. Evans, 316 U. S. 159 (1942); see also Pfizer Inc. v. Govern-
+ment of India, 434 U. S. 308 (1978).
+It is otherwise, however, when liability is pursued against
+the Federal Government.  The Court made this proposition
+clear  in  United States v. Cooper Corp., 312  U. S.  600,  614
+(1941).  The  question  in  Cooper was  whether,  under  the
+Sherman  Act,  the  United  States  was  a  person  who  could
+bring a  treble-damages  claim  for its  own alleged  antitrust
+injury.  The Court held the United  States could not sue for
+antitrust damages because it is not a person under the anti-
+trust statute.  Id.,  at 606-607.  Important to  the  present
+case  is  an  explicit  reason  given by  the  Cooper Court  for
+reaching its decision.  The Court observed  that if the defi-
+nition of "person" included the United States, then the Gov-
+ernment would be exposed to liability as an antitrust defend-
+ant,  a  result  Congress  could  not  have  intended.  Id.,  at
+607, 609.
+After Cooper, Congress amended the antitrust statutes to
+allow  the United  States  to bring antitrust  suits.  For our
+purposes, the means by which it did so is instructive.  Con-
+gress did not change the definition of "person" in the statute,
+but added a new section allowing the United States to sue.
+See  15  U.S. C.  § 15a.  So,  Cooper's conclusion  that  the
+United States is not an antitrust "person," in particular not
+a person who can be an antitrust defendant,  was unaltered
+by  Congress'  action;  indeed,  the means  Congress  used to
+amend the antitrust law implicitly ratified  Cooper's conclu-
+sion that the United States is not a proper antitrust defend-
+ant.  See  312  U. S.,  at  609;  Sea-Land, supra, at  245  ("Al-
+though  Congress  was  well  aware  of the  view  the  Court
+indicated  in Cooper Corp., that Congress had  not described
+the  United  States as a  'person'  for Sherman Act  purposes,
+Congress addressed only the direct holding in that case-the
+ruling that the United States was not authorized to proceed
+
+NEW PAGE
+
+746  POSTAL  SERVICE v. FLAMINGO  INDUSTRIES  (USA) LTD.
+Opinion of the Court
+as a Sherman  Act treble damage  action  plaintiff" (footnote
+omitted)).
+The remaining question, then, is whether for purposes of
+the antitrust  laws the  Postal  Service is a  person  separate
+from the United States itself.  It is not.  The statutory des-
+ignation of the Postal Service as an "independent establish-
+ment  of  the  executive  branch  of  the  Government  of  the
+United States" is not consistent  with the idea that it is an
+entity existing outside the Government.  The  statutory in-
+struction that the Postal Service is an establishment "of the
+executive  branch  of the Government  of the United States"
+indicates just the contrary.  The PRA gives the Postal Serv-
+ice a high  degree of independence  from other offices  of the
+Government, but it remains  part of the Government.  The
+Sherman  Act defines  "person" to  include  corporations,  and
+had the Congress  chosen to create the Postal Service as a
+federal corporation, we would have to ask whether the Sher-
+man Act's definition extends to the federal entity under this
+part of the definitional text.  Congress, however, declined to
+create the Postal Service as a Government corporation, opt-
+ing instead for an independent establishment.  The choice of
+words likely was more informed than unconsidered, because
+Congress  debated  proposals  to make  the Postal Service  a
+Government  corporation  before  it enacted  the PRA.  See
+H. R. Rep. No. 91-1104, p. 6 (1970).
+As we  have  noted,  the  PRA refers  in explicit  terms  to
+various federal statutes and specifies that the Postal Service
+is  exempt  from  some  and  subject  to  others.  39  U. S. C.
+§§ 409-410.  It makes no mention of the Sherman Act or the
+antitrust laws, however.  The silence leads to no helpful in-
+ference one way or the other on the issue before us; but the
+other considerations we have  discussed  lead us to  say that
+absent an express statement from Congress  that the Postal
+Service can be sued for antitrust violations despite its status
+as an independent establishment of the Government  of the
+
+NEW PAGE
+
+Cite as: 540 U. S. 736 (2004)
+Opinion of the Court
+United States, the PRA does not subject the Postal Service
+to antitrust liability.
+Our  conclusion  is  consistent with  the nationwide,  public
+responsibilities  of the  Postal  Service.  The  Postal Service
+has different goals, obligations, and powers from private cor-
+porations.  Its  goals  are  not  those  of private  enterprise.
+The most important difference is that it does not seek profits,
+but only to break even, 39 U. S. C. § 3621, which is consistent
+with  its public  character.  It also has  broader  obligations,
+including the provision  of universal mail  delivery, the pro-
+vision  of free  mail  delivery  to  certain  classes  of persons,
+§§3201-3405,  and,  most  recently, increased  public  respon-
+sibilities  related  to  national  security.  Finally, the  Postal
+Service has many powers more characteristic of Government
+than of private enterprise, including its state-conferred  mo-
+nopoly on mail  delivery, the power of eminent domain,  and
+the power to conclude international postal agreements.
+On  the other hand, but in ways still relevant to the non-
+applicability  of  the  antitrust  laws  to  the  Postal  Service,
+its  powers  are  more  limited  than  those  of  private  busi-
+nesses.  It lacks the prototypical means of engaging in anti-
+competitive behavior:  the power to set prices.  This is true
+both as a matter of mechanics, because pricing decisions are
+made  with  the  participation  of the  separate  Postal  Rate
+Commission, and as a matter of substance, because price de-
+cisions  are  governed  by principles  other than profitability.
+See supra, at 740-741.  Similarly, before  it can close a post
+office,  it  must provide  written reasons,  and  its  decision  is
+subject  to  reversal  by  the  Commission  for  arbitrariness,
+abuse  of discretion,  failure to follow  procedures,  or lack  of
+evidence.  § 404.  The Postal Service's public characteristics
+and responsibilities  indicate  it should be treated  under the
+antitrust  laws  as  part  of the  Government  of the  United
+States, not a market participant separate from it.
+The  Postal Service  does  operate  nonpostal lines  of busi-
+ness, for which  it is free  to  set prices  independent  of the
+

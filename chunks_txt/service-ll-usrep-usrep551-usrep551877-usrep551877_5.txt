@@ -1,0 +1,126 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  889 
+Opinion of the Court 
+The reasons upon which Dr. Miles relied do not justify a 
+per se rule.  As a consequence, it is necessary to examine, 
+in the ﬁrst instance, the economic effects of vertical agree­
+ments  to  ﬁx  minimum  resale  prices,  and  to  determine 
+whether  the  per  se  rule  is  nonetheless  appropriate.  See 
+Business Electronics, 485 U. S., at 726. 
+A 
+Though each side of the debate can ﬁnd sources to support 
+its position, it sufﬁces to say here that economics literature 
+is replete with procompetitive justiﬁcations for a manufac­
+turer’s use of resale price maintenance.  See, e. g., Brief for 
+Economists as Amici Curiae 16 (“In the theoretical litera­
+ture, it is essentially undisputed that minimum [resale price 
+maintenance] can have procompetitive effects and that under 
+a variety of market conditions it is unlikely to have anticom­
+petitive effects”); Brief for United States as Amicus Curiae 
+9 (“[T]here is a widespread consensus that permitting a man­
+ufacturer to control the price at which its goods are sold may 
+promote interbrand competition and consumer welfare in a 
+variety of ways”); ABA Section of Antitrust Law, Antitrust 
+Law and Economics of Product Distribution 76 (2006) (“[T]he 
+bulk of the economic literature on [resale price maintenance] 
+suggests that [it] is more likely to be used to enhance efﬁ­
+ciency than for anticompetitive purposes”); see also H. Ho­
+venkamp, The Antitrust Enterprise: Principle and Execution 
+184–191 (2005) (hereinafter Hovenkamp); R. Bork, The Anti­
+trust  Paradox  288–291  (1978)  (hereinafter  Bork).  Even 
+those more skeptical of resale price maintenance acknowl­
+edge it can have procompetitive effects.  See, e. g., Brief for 
+William S. Comanor et al. as Amici Curiae 3 (“[G]iven [the] 
+diversity of effects [of resale price maintenance], one could 
+reasonably take the position that a rule of reason rather than 
+a  per  se  approach  is  warranted”);  F.  Scherer  &  D.  Ross, 
+Industrial Market Structure and Economic Performance 558 
+(3d ed. 1990) (hereinafter Scherer & Ross) (“The overall bal­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+890  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+ance between beneﬁts and costs [of resale price maintenance] 
+is probably close”). 
+The few recent studies documenting the competitive ef­
+fects  of  resale  price  maintenance  also  cast  doubt  on  the 
+conclusion that the practice meets the criteria for a per se 
+rule.  See Bureau of Economics Staff Report to the FTC, 
+T. Overstreet, Resale Price Maintenance: Economic Theories 
+and Empirical Evidence 170 (1983) (hereinafter Overstreet) 
+(noting that “[e]fﬁcient uses of [resale price maintenance] are 
+evidently  not  unusual  or  rare”);  see  also  Ippolito,  Resale 
+Price Maintenance: Empirical Evidence From Litigation, 34 
+J. Law & Econ. 263, 292–293 (1991) (hereinafter Ippolito). 
+The justiﬁcations for vertical price restraints are similar 
+to those for other vertical restraints.  See GTE Sylvania, 
+433 U. S., at 54–57.  Minimum resale price maintenance can 
+stimulate  interbrand  competition—the  competition  among 
+manufacturers selling different brands of the same type of 
+product—by reducing intrabrand competition—the competi­
+tion among retailers selling the same brand.  See id., at 51– 
+52.  The promotion of interbrand competition is important 
+because “the primary purpose of the antitrust laws is to pro­
+tect [this type of] competition.”  Khan, 522 U.S., at 15.  A 
+single manufacturer’s use of vertical price restraints tends 
+to eliminate intrabrand price competition; this in turn en­
+courages retailers to invest in tangible or intangible services 
+or promotional efforts that aid the manufacturer’s position 
+as against rival manufacturers.  Resale price maintenance 
+also has the potential to give consumers more options so that 
+they can choose among low-price, low-service brands; high­
+price, high-service brands; and brands that fall in between. 
+Absent vertical price restraints, the retail services that 
+enhance  interbrand  competition  might  be  underprovided. 
+This is because discounting retailers can free ride on retail­
+ers who furnish services and then capture some of the in­
+creased demand those services generate.  GTE Sylvania, 
+supra, at 55.  Consumers might learn, for example, about 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  891 
+Opinion of the Court 
+the beneﬁts of a manufacturer’s product from a retailer that 
+invests in ﬁne showrooms, offers product demonstrations, or 
+hires and trains knowledgeable employees.  R. Posner, Anti­
+trust Law 172–173 (2d ed. 2001) (hereinafter Posner).  Or 
+consumers might decide to buy the product because they see 
+it in a retail establishment that has a reputation for selling 
+high-quality  merchandise.  Marvel  &  McCafferty,  Resale 
+Price  Maintenance  and  Quality  Certiﬁcation,  15  Rand  J. 
+Econ. 346, 347–349 (1984) (hereinafter Marvel & McCafferty). 
+If the consumer can then buy the product from a retailer 
+that  discounts  because  it  has  not  spent  capital  provid­
+ing services or developing a quality reputation, the high­
+service retailer will lose sales to the discounter, forcing it to 
+cut back its services to a level lower than consumers would 
+otherwise prefer.  Minimum resale price maintenance alle­
+viates the problem because it prevents the discounter from 
+undercutting  the  service  provider.  With  price  competi­
+tion decreased, the manufacturer’s retailers compete among 
+themselves over services. 
+Resale price maintenance, in addition, can increase inter­
+brand competition by facilitating market entry for new ﬁrms 
+and brands.  “[N]ew manufacturers and manufacturers en­
+tering new markets can use the restrictions in order to in­
+duce competent and aggressive retailers to make the kind of 
+investment of capital and labor that is often required in the 
+distribution of products unknown to the consumer.”  GTE 
+Sylvania, supra, at 55; see Marvel & McCafferty 349 (noting 
+that reliance on a retailer’s reputation “will decline as the 
+manufacturer’s brand becomes better known, so that [resale 
+price maintenance] may be particularly important as a com­
+petitive device for new entrants”).  New products and new 
+brands are essential to a dynamic economy, and if markets 
+can be penetrated by using resale price maintenance there 
+is a procompetitive effect. 
+Resale  price  maintenance  can  also  increase  interbrand 
+competition by encouraging retailer services that would not 
+

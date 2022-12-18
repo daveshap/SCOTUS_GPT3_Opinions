@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/case/pacific-bell-telephone-co-v-linkline-communications-inc",
+      "date": "01-28-1417:16:35",
+      "caseNumber": "555US2",
+      "involvedParties": ["Pacific Bell Telephone Co.", "Linkline Communications, Inc."],
+      "reasoning": "The Trinko plaintiff challenged the quality of Verizon’s inter­connection service, while this case involves a challenge to AT&T’s pricing structure. But for antitrust purposes, there is no reason to distinguish between price and nonprice components of a transaction.",
+      "citation": "Pacific Bell Telephone Co. v. Linkline Communications, Inc., 555 U. S. 438 (2009)"
+    },
+    {
+      "@id": "http://example.org/case/trinko",
+      "date": "2004",
+      "caseNumber": "540US398",
+      "involvedParties": ["Verizon"],
+      "reasoning": "If a firm has no antitrust duty to deal with its competitors at wholesale, it certainly has no duty to deal under terms and conditions that the rivals find commercially advantageous.",
+      "citation": "Trinko, 540 U. S. 398 (2004)"
+    },
+    {
+      "@id": "http://example.org/case/american-telephone-telegraph-co-v-central-office-telephone-inc",
+      "date": "1998",
+      "caseNumber": "524US214",
+      "involvedParties": ["American Telephone & Telegraph Co.", "Central Office Telephone, Inc."],
+      "reasoning": "Any claim for excessive rates can be couched as a claim for inadequate services and vice versa.",
+      "citation": "American Telephone & Telegraph Co. v. Central Ofﬁce Telephone, Inc., 524 U. S. 214 (1998)"
+    },
+    {
+      "@id": "http://example.org/case/matsushita-elec-industrial-co-v-zenith-radio-corp",
+      "date": "1986",
+      "caseNumber": "475US574",
+      "involvedParties": ["Matsushita Elec. Industrial Co.", "Zenith Radio Corp."],
+      "reasoning": "Cutting prices in order to increase business often is the very essence of competition.",
+      "citation": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574 (1986)"
+    },
+    {
+      "@id": "http://example.org/case/cargill-inc-v-monfort-of-colo-inc",
+      "date": "1986",
+      "caseNumber": "479US104",
+      "involvedParties": ["Cargill, Inc.", "Monfort of Colo., Inc."],
+      "reasoning": "To avoid chilling aggressive price competition, we have carefully limited the circumstances under which plaintiffs can state a Sherman Act claim by alleging that prices are too low.",
+      "citation": "Cargill, Inc. v. Monfort of Colo., Inc., 479 U. S. 104 (1986)"
+    },
+    {
+      "@id": "http://example.org/case/brooke-group-ltd-v-brown-williamson-tobacco-corp",
+      "date": "1993",
+      "caseNumber": "509US209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "To prevail on a predatory pricing claim, a plaintiff must demonstrate that: (1) “the prices complained of are below an appropriate measure of its rival’s costs”; and (2) there is a “dangerous probability” that the defendant will be able to recoup its “investment” in below-cost prices.",
+      "citation": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209 (1993)"
+    },
+    {
+      "@id": "http://example.org/case/atlantic-richfield-co-v-usa-petroleum-co",
+      "date": "1990",
+      "caseNumber": "495US328",
+      "involvedParties": ["Atlantic Richfield Co.", "USA Petroleum Co."],
+      "reasoning": "Low prices benefit consumers regardless of how those prices are set, and so long as they are above predatory levels, they do not threaten competition.",
+      "citation": "Atlantic Richfield Co. v. USA Petroleum Co., 495 U. S. 328 (1990)"
+    },
+    {
+      "@id": "http://example.org/case/united-states-v-aluminum-co-of-america",
+      "date": "1945",
+      "caseNumber": "148F2d416",
+      "involvedParties": ["United States", "Aluminum Co. of America"],
+      "reasoning": "That it was unlawful to set the price of 'sheet' so low and hold the price of ingot so high, seems to us unquestonable, provided, as we have held, that on this record the price of ingot must be regarded as higher than a 'fair price.'",
+      "citation": "United States v. Aluminum Co. of America, 148 F. 2d 416 (CA2 1945)"
+    }
+  ]
+}

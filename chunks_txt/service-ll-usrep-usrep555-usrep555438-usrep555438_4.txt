@@ -1,0 +1,128 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  447 
+Opinion of the Court 
+reliance on the sort of price-squeeze theory accepted by the 
+Court of Appeals.  At one point, for example, the plaintiffs 
+suggest that “the DSL transport price” may be pertinent to 
+their claims going forward under the theory of Judge Gould’s 
+dissent; that opinion, however, concluded that Trinko “in es­
+sence takes the issu[e] of wholesale pricing out of the case.” 
+503 F. 3d, at 886.  Given this ambiguity, the case before us 
+remains a live dispute appropriate for decision.  Cf. Friends 
+of Earth, Inc. v.  Laidlaw Environmental Services (TOC), 
+Inc., 528 U. S. 167, 189 (2000) (a party’s voluntary conduct 
+renders a case moot only if it is “ ‘absolutely clear’ ” the party 
+will take that course of action). 
+Amici also argue that we should dismiss the writ of certio­
+rari because of the “lack of adversarial presentation” by an 
+interested party.  Brief for COMPTEL 7.  To the contrary, 
+prudential concerns favor our answering the question pre­
+sented.  Plaintiffs defended the Court of Appeals’ decision 
+at the certiorari stage, and the parties have invested a sub­
+stantial amount of time, effort, and resources in brieﬁng and 
+arguing the merits of this case.  In the absence of a decision 
+from this Court on the merits, the Court of Appeals’ decision 
+would presumably remain binding precedent in the Ninth 
+Circuit, and the Circuit conﬂict we granted certiorari to re­
+solve would persist.  Two amici have submitted briefs de­
+fending the Court of Appeals’ decision on the merits, and we 
+granted the motion of one of those amici to participate in 
+oral argument.  555 U. S. 1029 (2008).  We think it appro­
+priate to proceed to address the question presented. 
+III 
+A 
+Section 2 of the Sherman Act makes it unlawful to “monop­
+olize, or attempt to monopolize, or combine or conspire with 
+any other person or persons, to monopolize any part of the 
+trade or commerce among the several States, or with foreign 
+nations.”  Ch. 647, 26 Stat. 209, 15 U. S. C. § 2.  Simply pos­
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+448  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+sessing monopoly power and charging monopoly prices does 
+not violate §2; rather, the statute targets “the willful acqui­
+sition or maintenance of that power as distinguished from 
+growth or development as a consequence of a superior prod­
+uct, business acumen, or historic accident.”  United States 
+v. Grinnell Corp., 384 U. S. 563, 570–571 (1966). 
+As a general rule, businesses are free to choose the parties 
+with whom they will deal, as well as the prices, terms, and 
+conditions of that dealing.  See United States v. Colgate & 
+Co., 250 U. S. 300, 307 (1919).  But there are rare instances 
+in which a dominant ﬁrm may incur antitrust liability for 
+purely unilateral conduct.  For example, we have ruled that 
+ﬁrms may not charge “predatory” prices—below-cost prices 
+that drive rivals out of the market and allow the monopolist 
+to raise its prices later and recoup its losses.  Brooke Group, 
+509 U. S., at 222–224.  Here, however, the complaint at issue 
+does  not  contain  allegations  meeting  those  requirements. 
+App. 10–24. 
+There are also limited circumstances in which a ﬁrm’s uni­
+lateral refusal to deal with its rivals can give rise to antitrust 
+liability.  See Aspen Skiing Co. v. Aspen Highlands Skiing 
+Corp.,  472  U. S.  585,  608–611  (1985).  Here,  however,  the 
+District Court held that AT&T had no such antitrust duty to 
+deal with its competitors, App. to Pet. for Cert. 84a–85a, and 
+this holding was not challenged on appeal.2 
+2 The Court of Appeals assumed that any duty to deal arose only from 
+FCC regulations, 503 F. 3d 876, 878–879, n. 6 (CA9 2007), and the question 
+on which we granted certiorari made the same assumption.  Even aside 
+from the District Court’s reasoning, App. to Pet. for Cert. 77a–85a, it 
+seems quite unlikely that AT&T would have an antitrust duty to deal with 
+the plaintiffs.  Such a duty requires a showing of monopoly power, but— 
+as the FCC has recognized, In re Appropriate Framework for Broadband 
+Access to Internet Over Wireline Facilities, 20 FCC Rcd. 14853, 14879– 
+14887 (2005)—the market for high-speed Internet service is now quite 
+competitive; DSL providers face stiff competition from cable companies 
+and wireless and satellite providers. 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  449 
+Opinion of the Court 
+The challenge here focuses on retail prices—where there 
+is no predatory pricing—and the terms of dealing—where 
+there  is  no  duty  to  deal.  Plaintiffs’  price-squeeze  claims 
+challenge a different type of unilateral conduct in which a 
+ﬁrm “squeezes” the proﬁt margins of its competitors.  This 
+requires the defendant to be operating in two markets, a 
+wholesale (“upstream”) market and a retail (“downstream”) 
+market.  A ﬁrm with market power in the upstream mar­
+ket can squeeze its downstream competitors by raising the 
+wholesale price of inputs while cutting its own retail prices. 
+This will raise competitors’ costs (because they will have to 
+pay more for their inputs) and lower their revenues (because 
+they will have to match the dominant ﬁrm’s low retail price). 
+Price-squeeze plaintiffs assert that defendants must leave 
+them a “fair” or “adequate” margin between the wholesale 
+price and the retail price.  In this case, we consider whether 
+a plaintiff can state a price-squeeze claim when the defend­
+ant has no obligation under the antitrust laws to deal with 
+the plaintiff at wholesale. 
+B 
+1. A straightforward application of our recent decision in 
+Trinko forecloses any challenge to AT&T’s wholesale prices. 
+In Trinko, Verizon was required by statute to lease its net­
+work elements to competing ﬁrms at wholesale rates.  540 
+U. S., at 402–403.  The plaintiff—a customer of one of Veri­
+zon’s rivals—asserted that Verizon denied its competitors ac­
+cess to interconnection support services, making it difﬁcult 
+for those competitors to ﬁll their customers’ orders.  Id., at 
+404–405.  The complaint alleged that this conduct in the up­
+stream market violated § 2 of the Sherman Act by impeding 
+the ability of independent carriers to compete in the down­
+stream market for local telephone service.  Ibid. 
+We  held  that  the  plaintiff’s  claims  were  not  actionable 
+under § 2.  Given that Verizon had no antitrust duty to deal 
+with its rivals at all, we concluded that “Verizon’s alleged 
+

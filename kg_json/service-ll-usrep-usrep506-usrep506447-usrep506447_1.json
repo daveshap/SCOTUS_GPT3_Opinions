@@ -1,0 +1,50 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "SpectrumSportsInc.v.McQuillan",
+      "caseNumber": "No. 91-10",
+      "date": "January 25, 1993",
+      "involvedParties": [
+        "Spectrum Sports, Inc.",
+        "McQuillan et vir, dba Sorboturf Enterprises"
+      ],
+      "reasoning": "The jury found that the defendants violated §2 by, in the words of the verdict sheet, 'monopolizing, attempting to monopolize, and/or conspiring to monopolize.'"
+    },
+    {
+      "@id": "Lessigv.TidewaterOilCo.",
+      "caseNumber": "327 F. 2d 459",
+      "date": "1964",
+      "involvedParties": [
+        "Lessig",
+        "Tidewater Oil Co."
+      ],
+      "reasoning": "The Court of Appeals held that the jury could have inferred two of the elements of that offense-a specific intent to achieve monopoly power and a dangerous probability of monopolization of a relevant market-from evidence showing the defendants' unfair or predatory conduct, without any proof of relevant market or the defendants' market power, and that the jury was properly instructed that it could make such inferences."
+    },
+    {
+      "@id": "CopperweldCorp.v.IndependenceTubeCorp.",
+      "caseNumber": "467 U. S. 752",
+      "date": "1984",
+      "involvedParties": [
+        "Copperweld Corp.",
+        "Independence Tube Corp."
+      ],
+      "reasoning": "Consistent with this approach, Courts of Appeals other than the court below have generally required a plaintiff in an attempted monopolization case to prove that (1) the defendant has engaged in predatory or anticompetitive conduct with (2) a specific intent to monopolize and (3) a dangerous probability of achieving monopoly power."
+    },
+    {
+      "@id": "Swift&Co.v.UnitedStates",
+      "caseNumber": "196 U. S. 375",
+      "date": "1905",
+      "involvedParties": [
+        "Swift & Co.",
+        "United States"
+      ],
+      "reasoning": "Intent alone is insufficient to establish the dangerous probability of success, which requires inquiry into the relevant product and geographic market and the defendant's economic power in that market."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brown v. Pro Football, Inc.",
+  "author": "Stevens, J.",
+  "datePublished": "1996",
+  "citation": "518 U. S. 231 (1996)",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "Brown"
+    },
+    {
+      "@type": "Organization",
+      "name": "Pro Football, Inc."
+    }
+  ],
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Meat Cutters v. Jewel Tea Co.",
+      "citation": "381 U. S. 676 (1965)",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Meat Cutters"
+        },
+        {
+          "@type": "Organization",
+          "name": "Jewel Tea Co."
+        }
+      ],
+      "reasoning": "The Court relied heavily on the views espoused in Justice Goldberg's separate opinion in Meat Cutters v. Jewel Tea Co. to explain why, for purposes of applying the nonstatutory labor exemption, labor law policy admits of no distinction between collective employer action taken in response to labor demands and collective employer action of the kind we consider here."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Pennington",
+      "involvedParties": [
+        {
+          "@type": "Person",
+          "name": "Justice White"
+        },
+        {
+          "@type": "Person",
+          "name": "Chief Justice Warren"
+        },
+        {
+          "@type": "Person",
+          "name": "Justice Brennan"
+        }
+      ],
+      "reasoning": "Justice White, the author of Pennington, writing for Chief Justice Warren and Justice Brennan, explained that even in disputes over the lawfulness of agreements about terms that are subject to mandatory bargaining, courts must examine the bargaining process to determine whether antitrust scrutiny should obtain."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Flood v. Kuhn",
+      "citation": "407 U. S. 258 (1972)",
+      "involvedParties": [
+        {
+          "@type": "Person",
+          "name": "Justice Goldberg"
+        },
+        {
+          "@type": "Person",
+          "name": "Curt Flood"
+        },
+        {
+          "@type": "Organization",
+          "name": "Major League Baseball"
+        }
+      ],
+      "reasoning": "Justice Goldberg served as counsel for Curt Flood, a professional baseball player who contended that major league baseball's reserve clause violated the antitrust laws."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Mine Workers v. Pennington",
+      "citation": "381 U. S. 668 (1965)",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Mine Workers"
+        }
+      ],
+      "reasoning": "The Court has held that even a labor organization, the principal intended beneficiary of the so-called labor exemption, may not escape antitrust liability when it acts, not unilaterally and in the sole interest of its own members, but in concert with employers 'to prescribe labor standards outside the bargaining unit[.]'"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Ramsey v. Mine Workers",
+      "citation": "401 U.S. 302 (1971)",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Mine Workers"
+        }
+      ],
+      "reasoning": "The separate opinion on which respondents focus did express the view that 'collective bargaining activity on mandatory subjects of bargaining' is exempt from antitrust regulation, without regard to whether the union conduct involved is 'unilateral.'"
+    }
+  ]
+}

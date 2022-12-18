@@ -1,0 +1,92 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "presumption": "http://schema.org/presumption",
+    "canon": "http://schema.org/canon",
+    "jurisdiction": "http://schema.org/jurisdiction",
+    "statute": "http://schema.org/statute",
+    "tort": "http://schema.org/tort",
+    "choiceOfLaw": "http://schema.org/choiceOfLaw",
+    "shermanAct": "http://schema.org/shermanAct",
+    "comity": "http://schema.org/comity"
+  },
+  "@graph": [
+    {
+      "@id": "509U.S.764(1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": "SCAUA, J., dissenting",
+      "reasoning": "ought never to be construed to violate the law of nations if any other possible construction remains.",
+      "presumption": "presumption against extraterritoriality",
+      "canon": "wholly independent of the presumption against extraterritoriality"
+    },
+    {
+      "@id": "Murrayv.SchoonerCharmingBetsy,2Cranch64,118(1804)",
+      "@type": "cite",
+      "date": "1804",
+      "caseNumber": "2 Cranch 64, 118",
+      "involvedParties": "Marshall, C. J.",
+      "reasoning": "law of nations, or customary international law, includes limitations on a nation's exercise of its jurisdiction to prescribe.",
+      "presumption": "presumed not to have exceeded those customary international-law limits on jurisdiction to prescribe"
+    },
+    {
+      "@id": "Romerv.InternationalTerminalOperatingCo.,358U.S.354(1959)",
+      "@type": "cite",
+      "date": "1959",
+      "caseNumber": "358 U. S. 354",
+      "involvedParties": "plaintiff, a Spanish sailor",
+      "reasoning": "in the absence of a contrary congressional direction, it would apply principles of choice of law that are consonant with the needs of a general federal maritime law and with due recognition of our self-regarding respect for the relevant interests of foreign nations in the regulation of maritime commerce as part of the legitimate concern of the international community.",
+      "presumption": "presumption against extraterritorial application of federal statutes was inapplicable to the case"
+    },
+    {
+      "@id": "Lauritzenv.Larsen,345U.S.571(1953)",
+      "@type": "cite",
+      "date": "1953",
+      "caseNumber": "345 U. S. 571",
+      "involvedParties": "Jones Act claim brought by a foreign sailor against a foreign employer",
+      "reasoning": "to construe statute to apply only to areas and transactions in which American law would be considered operative under prevalent doctrines of international law.",
+      "presumption": "presumption against extraterritorial application of the Sherman Act with considerations of international comity"
+    },
+    {
+      "@id": "AluminumCo.ofAmerica,148F.2d416(CA21945)",
+      "@type": "cite",
+      "date": "1945",
+      "caseNumber": "148 F. 2d 416 (CA2)",
+      "involvedParties": "Judge Learned Hand",
+      "reasoning": "we are not to read general words, such as those in [the Sherman] Act, without regard to the limitations customarily observed by nations upon the exercise of their powers; limitations which generally correspond to those fixed by the 'Conflict of Laws.",
+      "presumption": "presumed to be incorporated into our substantive laws having extraterritorial reach"
+    },
+    {
+      "@id": "TimberlaneLumberCo.v.BankofAmerica,N.T&S.A.,549F.2d597,608-615(CA91976)",
+      "@type": "cite",
+      "date": "1976",
+      "caseNumber": "549 F. 2d 597, 608-615 (CA9)",
+      "involvedParties": "lower court precedent",
+      "reasoning": "tempered the extraterritorial application of the Sherman Act with considerations of 'international comity.",
+      "presumption": "prescriptive comity: the respect sovereign nations afford each other by limiting the reach of their laws"
+    },
+    {
+      "@id": "Salev.HaitianCentersCouncil,Inc.,ante,at178,n.35",
+      "@type": "cite",
+      "date": "ante",
+      "caseNumber": "at 178, n. 35",
+      "involvedParties": "Weinberger v. Rossi, 456 U. S. 25, 32 (1982)",
+      "reasoning": "scope of generally worded statutes must be construed in light of international law in other areas as well.",
+      "presumption": "presumed to be incorporated into our substantive laws having extraterritorial reach"
+    },
+    {
+      "@id": "Hiltonv.Guyot,159U.S.1,162-166(1895)",
+      "@type": "cite",
+      "date": "1895",
+      "caseNumber": "159 U. S. 1, 162-166",
+      "involvedParties": "traditional component of choice-of-law theory",
+      "reasoning": "comity in this sense includes the choice-of-law principles that, 'in the absence of contrary congressional direction,' are assumed to be incorporated into our substantive laws having extraterritorial reach.",
+      "presumption": "presumed to be incorporated into our substantive laws having extraterritorial reach"
+    }
+  ]
+}

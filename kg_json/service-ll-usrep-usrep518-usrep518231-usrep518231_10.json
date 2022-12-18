@@ -1,0 +1,38 @@
+{
+  "@context": {
+    "case": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "Brown v. Pro Football, Inc.",
+      "case": "518 U. S. 231 (1996)",
+      "date": "1996",
+      "parties": "Stevens, J., dissenting",
+      "reasoning": "Exempting this concerted, anticompetitive employer action from the antitrust laws"
+    },
+    {
+      "@id": "Radovich v. National Football League",
+      "case": "352 U. S. 445 (1957)",
+      "date": "1957",
+      "parties": "",
+      "reasoning": "Action held unlawful"
+    },
+    {
+      "@id": "Duplex Printing Press Co. v. Deering",
+      "case": "254 U. S. 443",
+      "date": "1921",
+      "parties": "Brandeis, J., joined by Holmes and Clarke, JJ., dissenting",
+      "reasoning": "Argument that \"antitrust courts\" should be kept out of the collective-bargaining process"
+    },
+    {
+      "@id": "Mine Workers v. Pennington",
+      "case": "381 U. S.",
+      "date": "",
+      "parties": "",
+      "reasoning": "Exemption does not always apply"
+    }
+  ]
+}

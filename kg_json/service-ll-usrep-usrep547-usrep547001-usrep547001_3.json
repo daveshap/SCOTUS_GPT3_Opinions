@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "547US1",
+      "@type": "cite",
+      "date": "03-16-0914:05:44",
+      "caseNumber": "547 U. S. 1 (2006)",
+      "involvedParties": "Equilon, Respondents",
+      "reasoning": "Pricing decisions of a legitimate joint venture do not fall within the narrow category of activity that is per se unlawful under § 1 of the Sherman Act"
+    },
+    {
+      "@id": "NationalCollegiateAthleticAssn",
+      "@type": "cite",
+      "date": "1984",
+      "caseNumber": "468 U. S. 85",
+      "involvedParties": "National Collegiate Athletic Assn., Board of Regents of Univ. of Okla.",
+      "reasoning": "Ancillary restraints doctrine governs the validity of restrictions imposed by a legitimate business collaboration, such as a business association or joint venture, on nonventure activities"
+    },
+    {
+      "@id": "CitizenPublishingCo",
+      "@type": "cite",
+      "date": "1969",
+      "caseNumber": "394 U. S. 131",
+      "involvedParties": "Citizen Publishing Co., United States",
+      "reasoning": "Ancillary restraints doctrine governs the validity of restrictions imposed by a legitimate business collaboration, such as a business association or joint venture, on nonventure activities"
+    },
+    {
+      "@id": "CaliforniaDentalAssn",
+      "@type": "cite",
+      "date": "1999",
+      "caseNumber": "526 U. S. 756",
+      "involvedParties": "California Dental Assn., FTC",
+      "reasoning": "Quick look doctrine applied to business activities that are so plainly anticompetitive that courts need undertake only a cursory examination before imposing antitrust liability"
+    }
+  ]
+}

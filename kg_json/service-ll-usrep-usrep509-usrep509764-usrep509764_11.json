@@ -1,0 +1,72 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Hartford Fire Ins. Co. v. California",
+  "datePublished": "1993",
+  "caseNumber": "509 U. S. 764",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Hartford Fire Ins. Co."
+    },
+    {
+      "@type": "Organization",
+      "name": "California"
+    },
+    {
+      "@type": "Organization",
+      "name": "London Reinsurers"
+    }
+  ],
+  "reasoningForIncluding": "The Fifth, Sixth, and Eighth Claims for Relief in the California Complaint allege violations of § 1 of the Sherman Act by certain London reinsurers who conspired to coerce primary insurers in the United States to offer CGL coverage on a claims-made basis, limit coverage of pollution risks in North America, and limit coverage of seepage, pollution, and property contamination risks in North America.",
+  "relatedCases": [
+    {
+      "@type": "LegalCase",
+      "name": "American Banana Co. v. United Fruit Co.",
+      "datePublished": "1909",
+      "caseNumber": "213 U. S. 347"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+      "datePublished": "1986",
+      "caseNumber": "475 U. S. 574"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Aluminum Co. of America",
+      "datePublished": "1945",
+      "caseNumber": "148 F. 2d 416"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Continental Ore Co. v. Union Carbide & Carbon Corp.",
+      "datePublished": "1962",
+      "caseNumber": "370 U. S. 690"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Steele v. Bulova Watch Co.",
+      "datePublished": "1952",
+      "caseNumber": "344 U. S. 280"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Sisal Sales Corp.",
+      "datePublished": "1927",
+      "caseNumber": "274 U. S. 268"
+    }
+  ],
+  "relatedLegislation": [
+    {
+      "@type": "Legislation",
+      "name": "Sherman Act",
+      "description": "The Sherman Act is a United States antitrust law that regulates competition among enterprises."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Foreign Trade Antitrust Improvements Act of 1982",
+      "description": "The Foreign Trade Antitrust Improvements Act of 1982 is a United States law that exempts certain foreign conduct from the Sherman Act."
+    }
+  ]
+}

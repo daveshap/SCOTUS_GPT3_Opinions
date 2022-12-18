@@ -1,0 +1,126 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+904  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+those  of  vertical  price  restraints;  both  reduce  intrabrand 
+competition and can stimulate retailer services.  See, e. g., 
+Business Electronics, supra, at 728; Monsanto, supra, at 
+762–763; see also Brief for Economists as Amici Curiae 17– 
+18.  Cf. Scherer & Ross 560 (noting that vertical nonprice 
+restraints “can engender inefﬁciencies at least as serious as 
+those imposed upon the consumer by resale price mainte­
+nance”); Steiner, How Manufacturers Deal with the Price-
+Cutting Retailer: When Are Vertical Restraints Efﬁcient? 
+65 Antitrust L. J. 407, 446–447 (1997) (indicating that “anti­
+trust  law  should  recognize  that  the  consumer  interest  is 
+often better served by [resale price maintenance]—contrary 
+to its per se illegality and the rule-of-reason status of verti­
+cal nonprice restraints”).  The same legal standard (per se 
+unlawfulness) applies to horizontal market division and hori­
+zontal price ﬁxing because both have similar economic effect. 
+There  is  likewise  little  economic  justiﬁcation  for  the  cur­
+rent  differential  treatment  of  vertical  price  and  nonprice 
+restraints.  Furthermore, vertical nonprice restraints may 
+prove less efﬁcient for inducing desired services, and they 
+reduce intrabrand competition more than vertical price re­
+straints by eliminating both price and service competition. 
+See Brief for Economists as Amici Curiae 17–18. 
+In sum, it is a ﬂawed antitrust doctrine that serves the 
+interests of lawyers—by creating legal distinctions that op­
+erate as traps for the unwary—more than the interests of 
+consumers—by requiring manufacturers to choose second­
+best options to achieve sound business objectives. 
+B 
+Respondent’s arguments for reafﬁrming Dr. Miles on the 
+basis of stare decisis do not require a different result.  Re­
+spondent looks to congressional action concerning vertical 
+price  restraints.  In  1937,  Congress  passed  the  Miller-
+Tydings Fair Trade Act, 50 Stat. 693, which made vertical 
+price  restraints  legal  if  authorized  by  a  fair  trade  law 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  905 
+Opinion of the Court 
+enacted by a State.  Fifteen years later, Congress expanded 
+the exemption to permit vertical price-setting agreements 
+between a manufacturer  and a distributor to  be enforced 
+against  other  distributors  not  involved  in  the  agreement. 
+McGuire Act, 66 Stat. 632.  In 1975, however, Congress re­
+pealed both Acts.  Consumer Goods Pricing Act, 89 Stat. 
+801.  That the Dr. Miles rule applied to vertical price re­
+straints in 1975, according to respondent, shows Congress 
+ratiﬁed the rule. 
+This is not so.  The text of the Consumer Goods Pricing 
+Act did not codify the rule of per se illegality for vertical 
+price  restraints.  It  rescinded  statutory  provisions  that 
+made them per se legal.  Congress once again placed these 
+restraints within the ambit of § 1 of the Sherman Act.  And, 
+as has been discussed, Congress intended § 1 to give courts 
+the ability “to develop governing principles of law” in the 
+common-law  tradition.  Texas  Industries,  Inc.  v.  Radcliff 
+Materials, Inc., 451 U. S. 630, 643 (1981); see Business Elec­
+tronics, 485 U. S., at 731 (“The changing content of the term 
+‘restraint of trade’ was well recognized at the time the Sher­
+man Act was enacted”).  Congress could have set the Dr. 
+Miles rule in stone, but it chose a more ﬂexible option.  We 
+respect its decision by analyzing vertical price restraints, 
+like all restraints, in conformance with traditional § 1 princi­
+ples,  including  the  principle  that  our  antitrust  doctrines 
+“evolv[e] with new circumstances and new wisdom.”  Busi­
+ness Electronics, supra, at 732; see also Easterbrook 139. 
+The rule of reason, furthermore, is not inconsistent with 
+the Consumer Goods Pricing Act.  Unlike the earlier con­
+gressional  exemption,  it  does  not  treat  vertical  price  re­
+straints as per se legal.  In this respect, the justiﬁcations 
+for the prior exemption are illuminating.  Its goal “was to 
+allow the States to protect small retail establishments that 
+Congress thought might otherwise be driven from the mar­
+ketplace by large-volume discounters.”  California Retail 
+Liquor Dealers Assn. v. Midcal Aluminum, Inc., 445 U. S. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+906  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+97, 102 (1980).  The state fair trade laws also appear to have 
+been justiﬁed  on similar grounds.  See Areeda  & Hoven­
+kamp 298.  The rationales for these provisions are foreign to 
+the Sherman Act.  Divorced from competition and consumer 
+welfare, they were designed to save inefﬁcient small retail­
+ers from their inability to compete.  The purpose of the anti­
+trust laws, by contrast, is “the protection of competition, not 
+competitors.”  Atlantic  Richﬁeld  Co.  v.  USA  Petroleum 
+Co., 495 U. S. 328, 338 (1990) (internal quotation marks omit­
+ted).  To the extent Congress repealed the exemption for 
+some vertical price restraints to end its prior practice of en­
+couraging anticompetitive conduct, the rule of reason pro­
+motes the same objective. 
+Respondent also relies on several congressional appropria­
+tions in the mid-1980’s in which Congress did not permit the 
+Department of Justice or the Federal Trade Commission to 
+use funds to advocate overturning Dr. Miles.  See, e. g., 97 
+Stat. 1071.  We need not pause long in addressing this argu­
+ment.  The conditions on funding are no longer in place, see, 
+e. g., Brief for United States as Amicus Curiae 21, and they 
+were ambiguous at best.  As much as they might show con­
+gressional approval for Dr. Miles, they might demonstrate a 
+different proposition: that Congress could not pass legisla­
+tion codifying the rule and reached a short-term compro­
+mise instead. 
+Reliance interests do not require us to reafﬁrm Dr. Miles. 
+To be sure, reliance on a judicial opinion is a signiﬁcant rea­
+son to adhere to it, Payne v.  Tennessee, 501 U. S. 808, 828 
+(1991), especially “in cases involving property and contract 
+rights,” Khan, 522 U. S., at 20.  The reliance interests here, 
+however, like the reliance interests in Khan, cannot justify 
+an inefﬁcient rule, especially because the narrowness of the 
+rule has allowed manufacturers to set minimum resale prices 
+in other ways.  And while the Dr. Miles rule is longstand­
+ing, resale price maintenance was legal under fair trade laws 
+

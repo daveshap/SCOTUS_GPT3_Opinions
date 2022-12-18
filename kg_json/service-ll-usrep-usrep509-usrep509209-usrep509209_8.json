@@ -1,0 +1,60 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+  "caseNumber": "509 U.S. 209 (1993)",
+  "court": "Supreme Court of the United States",
+  "opinion": "Opinion of the Court",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Brooke Group Ltd."
+    },
+    {
+      "@type": "Organization",
+      "name": "Brown & Williamson Tobacco Corp."
+    }
+  ],
+  "reasoningForIncluding": [
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Philadelphia Nat. Bank",
+      "caseNumber": "374 U.S. 321 (1963)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Sullivan v. Stroop",
+      "caseNumber": "496 U.S. 478 (1990)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "J Truett Payne Co. v. Chrysler Motors Corp.",
+      "caseNumber": "451 U.S. 557 (1981)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Cargill",
+      "caseNumber": "479 U.S. 121"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "caseNumber": "472 U.S. 585 (1985)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Monsanto Co. v. Spray-Rite Service Corp.",
+      "caseNumber": "465 U.S. 752 (1984)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Pabst Brewing Co.",
+      "caseNumber": "384 U.S. 546 (1966)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Matsushita Electric Industrial Co. v. Zenith Radio Corp.",
+      "caseNumber": "475 U.S. 574 (1986)"
+    }
+  ]
+}

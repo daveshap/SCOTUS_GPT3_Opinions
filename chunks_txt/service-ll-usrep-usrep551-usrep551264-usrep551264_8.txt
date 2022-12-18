@@ -1,0 +1,124 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  285 
+Stevens, J., concurring in judgment 
+The Solicitor General’s proposed disposition, however, does 
+not  convincingly  address  the  concerns  we  have  set  forth 
+here—the difﬁculty of drawing a complex, sinuous line sepa­
+rating  securities-permitted  from  securities-forbidden  con­
+duct, the need for securities-related expertise to draw that 
+line, the likelihood that litigating parties will depend upon 
+the same evidence yet expect courts to draw different infer­
+ences from it, and the serious risk that antitrust courts will 
+produce inconsistent results that, in turn, will overly deter 
+syndicate practices important in the marketing of new is­
+sues.  (We also note that market divisions appear to fall well 
+outside the heartland of activities related to the underwrit­
+ing process than the conduct before us here, and we express 
+no view in respect to that kind of activity.) 
+The upshot is that all four elements present in Gordon 
+are present here: (1) an area of conduct squarely within the 
+heartland of securities regulations; (2) clear and adequate 
+SEC authority to regulate; (3) active and ongoing agency 
+regulation; and (4) a serious conﬂict between the antitrust 
+and  regulatory  regimes.  We  therefore  conclude  that  the 
+securities laws are “clearly incompatible” with the applica­
+tion of the antitrust laws in this context. 
+The Second Circuit’s contrary judgment is 
+Reversed. 
+Justice Kennedy took no part in the consideration or 
+decision of this case. 
+Justice Stevens, concurring in the judgment. 
+When investment bankers cooperate in underwriting an 
+initial public offering (IPO), they increase the amount of cap­
+ital available to ﬁrms producing goods and services and make 
+additional securities available for purchase.  By agglomerat­
+ing networks of investors and spreading the risk of overvalu­
+ation, syndicates make positive contributions to the economy 
+that could not be achieved through independent action.  See 
+426 F. 3d 130, 137–138 (CA2 2005).  In my view, agreements 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+286  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Stevens, J., concurring in judgment 
+among underwriters on how best to market IPOs, including 
+agreements on price and other terms of sale to initial inves­
+tors, should be treated as procompetitive joint ventures for 
+purposes of antitrust analysis.  In all but the rarest of cases, 
+they cannot be conspiracies in restraint of trade within the 
+meaning of § 1 of the Sherman Act, 15 U. S. C. § 1. 
+After the initial purchase, the prices of newly issued stocks 
+or bonds are determined by competition among the vast mul­
+titude of other securities traded in a free market.  To sug­
+gest that an underwriting syndicate can restrain trade in 
+that market by manipulating the terms of IPOs is frivolous. 
+See United States v. Morgan, 118 F. Supp. 621, 689 (SDNY 
+1953)  (Medina,  J.)  (“[T]he  syndicate  system  has  no  effect 
+whatever on general market prices, nor do the participating 
+underwriters and dealers intend it to have any.  On the con­
+trary, it is the general market prices of securities of compa­
+rable rating and quality which control the public offering 
+price . . . .  The particular issue, even if a large one, is but 
+an inﬁnitesimal unit of trade in the ocean of security issues 
+running into the billions, which constitutes the general mar­
+ket”); see also Hovenkamp, Antitrust Violations in Securities 
+Markets, 28 J. Corp. L. 607, 615–618 (2003).  It is possible, 
+of course, that the practices described in the complaints in 
+these two cases may have enabled the underwriters to divert 
+some  of  the  beneﬁts  of  the  offerings  from  the  issuers  to 
+themselves, thus breaching the agents’ ﬁduciary obligations 
+to their principals.  But if such an injury did occur, it is not 
+an “antitrust injury” giving rise to a damages claim by inves­
+tors.  See Brunswick Corp. v. Pueblo Bowl-O-Mat, Inc., 429 
+U. S. 477, 489 (1977). 
+Nor do I believe that the so-called “laddering” and “tying” 
+described  in  the  complaints  constitute  vertical  restraints 
+that violate either the Sherman Act or § 2(c) of the 
+Robinson-Patman Act, 15 U. S. C. § 13(c).  Given the magni­
+tude of the market these practices are alleged to have inﬂu­
+enced, I think it obvious as a matter of law that there has 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  287 
+Thomas, J., dissenting 
+been no injury to any relevant competition.  Unlike in Bell 
+Atlantic Corp. v. Twombly, 550 U. S. 544 (2007), there is no 
+need to engage in discovery to determine whether there is 
+any merit to the plaintiffs’ claims.  See id., at 593–595 (Ste­
+vens, J., dissenting). 
+The  defendants  moved  to  dismiss for  failure  to  state  a 
+claim on the ground, among others, that the plaintiffs’ claims 
+challenge “the ordinary activities of participants in under­
+writing syndicates, which are recognized to be completely 
+lawful  and  pro-competitive.”  Record,  Doc.  98,  p.  72.  I 
+agree and would hold, as we did in Parker v.  Brown, 317 
+U. S. 341, 351–352 (1943), that the defendants’ alleged con­
+duct does not violate the antitrust laws, rather than holding 
+that Congress has implicitly granted them immunity from 
+those laws.  Surely I would not suggest, as the Court did in 
+Twombly, and as it does again today, that either the burdens 
+of antitrust litigation or the risk “that antitrust courts are 
+likely  to  make  unusually  serious  mistakes,”  ante,  at  282, 
+should play any role in the analysis of the question of law 
+presented in a case such as this. 
+Accordingly, I concur in the Court’s judgment but not in 
+its opinion. 
+Justice Thomas, dissenting. 
+The Court believes it must decide whether the securities 
+laws  implicitly  preclude  application  of  the  antitrust  laws 
+because  the  securities  statutes  “are  silent  in  respect  to 
+antitrust.”  See  ante,  at  271.  I  disagree  with  that  basic 
+premise.  The securities statutes are not silent.  Both the 
+Securities  Act  and  the  Securities  Exchange  Act  contain 
+broad saving clauses that preserve rights and remedies ex­
+isting outside of the securities laws. 
+Section 16 of the Securities Act of 1933 states that “the 
+rights and remedies provided by this subchapter shall be in 
+addition to any and all other rights and remedies that may 
+exist at law or in equity.”  15 U. S. C. § 77p(a).  In parallel 
+

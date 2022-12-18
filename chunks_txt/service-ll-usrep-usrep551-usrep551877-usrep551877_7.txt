@@ -1,0 +1,127 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  895 
+Opinion of the Court 
+gests per se illegality is the rule rather than the exception. 
+This misinterprets our antitrust law.  Per se rules may de­
+crease administrative costs, but that is only part of the equa­
+tion.  Those rules can be counterproductive.  They can in­
+crease the total cost of the antitrust system by prohibiting 
+procompetitive conduct the antitrust laws should encourage. 
+See  Easterbrook,  Vertical  Arrangements  and  the  Rule  of 
+Reason, 53 Antitrust L. J. 135, 158 (1984) (hereinafter East­
+erbrook).  They also may increase litigation costs by pro­
+moting  frivolous  suits  against  legitimate  practices.  The 
+Court has thus explained that administrative “advantages 
+are not sufﬁcient in themselves to justify the creation of per 
+se rules,” GTE Sylvania, 433 U. S., at 50, n. 16, and has rele­
+gated their use to restraints that are “manifestly anticompet­
+itive,” id., at 49–50.  Were the Court now to conclude that 
+vertical price restraints should be per se illegal based on 
+administrative costs, we would undermine, if not overrule, 
+the traditional “demanding standards” for adopting per se 
+rules.  Id., at 50.  Any possible reduction in administrative 
+costs cannot alone justify the Dr. Miles rule. 
+Respondent also argues the per se rule is justiﬁed because 
+a vertical price restraint can lead to higher prices for the 
+manufacturer’s goods.  See also Overstreet 160 (noting that 
+“price  surveys  indicate  that  [resale  price  maintenance]  in 
+most  cases  increased  the  prices  of  products  sold”).  Re­
+spondent is mistaken in relying on pricing effects absent a 
+further showing of anticompetitive conduct.  Cf. id., at 106 
+(explaining that price surveys “do not necessarily tell us any­
+thing conclusive about the welfare effects of [resale price 
+maintenance]  because  the  results  are  generally  consistent 
+with  both  procompetitive  and  anticompetitive  theories”). 
+For, as has been indicated already, the antitrust laws are 
+designed primarily to protect interbrand competition, from 
+which lower prices can later result.  See Khan, 522 U. S., 
+at 15.  The Court, moreover, has evaluated other vertical 
+restraints under the rule of reason even though prices can be 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+896  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+increased in the course of promoting procompetitive effects. 
+See, e. g., Business Electronics, 485 U. S., at 728.  And re­
+sale price maintenance may reduce prices if manufacturers 
+have resorted to costlier alternatives of controlling resale 
+prices that are not per se unlawful.  See infra, at 902–904; 
+see also Marvel 371. 
+Respondent’s  argument,  furthermore,  overlooks  that,  in 
+general, the interests of manufacturers and consumers are 
+aligned with respect to retailer proﬁt margins.  The differ­
+ence between the price a manufacturer charges retailers and 
+the price retailers charge consumers represents part of the 
+manufacturer’s  cost  of  distribution,  which,  like  any  other 
+cost,  the  manufacturer  usually  desires  to  minimize.  See 
+GTE Sylvania, 433 U. S., at 56, n. 24; see also id., at 56 
+(“Economists . . . have argued that manufacturers have an 
+economic interest in maintaining as much intrabrand compe­
+tition as is consistent with the efﬁcient distribution of their 
+products”).  A manufacturer has no incentive to overcom­
+pensate retailers with unjustiﬁed margins.  The retailers, 
+not the manufacturer, gain from higher retail prices.  The 
+manufacturer often loses; interbrand competition reduces its 
+competitiveness and market share because consumers will 
+“substitute a different brand of the same product.”  Id., at 
+52, n. 19; see Business Electronics, supra, at 725.  As a gen­
+eral matter, therefore, a single manufacturer will desire to 
+set minimum resale prices only if the “increase in demand 
+resulting from enhanced service . . . will  more than offset 
+a  negative  impact  on  demand  of  a  higher  retail  price.” 
+Mathewson & Winter 67. 
+The implications of respondent’s position are far reaching. 
+Many  decisions  a  manufacturer  makes  and  carries  out 
+through concerted action can lead to higher prices.  A man­
+ufacturer might, for example, contract with different suppli­
+ers to obtain better inputs that improve product quality.  Or 
+it might hire an advertising agency to promote awareness of 
+its goods.  Yet no one would think these actions violate the 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  897 
+Opinion of the Court 
+Sherman Act because they lead to higher prices.  The anti­
+trust laws do not require manufacturers to produce generic 
+goods that consumers do not know about or want.  The man­
+ufacturer strives to improve its product quality or to pro­
+mote its brand because it believes this conduct will lead to 
+increased demand despite higher prices.  The same can hold 
+true for resale price maintenance. 
+Resale price maintenance, it is true, does have economic 
+dangers.  If  the  rule  of  reason  were  to  apply  to  vertical 
+price restraints, courts would have to be diligent in eliminat­
+ing their anticompetitive uses from the market.  This is a 
+realistic objective, and certain factors are relevant to the 
+inquiry.  For  example,  the  number  of  manufacturers  that 
+make use of the practice in a given industry can provide 
+important  instruction.  When  only  a  few  manufacturers 
+lacking market power adopt the practice, there is little likeli­
+hood it is facilitating a manufacturer cartel, for a cartel then 
+can be undercut by rival manufacturers.  See Overstreet 22; 
+Bork 294.  Likewise, a retailer cartel is unlikely when only 
+a single manufacturer in a competitive market uses resale 
+price  maintenance.  Interbrand  competition  would  divert 
+consumers  to  lower  priced  substitutes  and  eliminate  any 
+gains to retailers from their price-ﬁxing agreement over a 
+single  brand.  See  Posner  172;  Bork  292.  Resale  price 
+maintenance should be subject to more careful scrutiny, by 
+contrast, if many competing manufacturers adopt the prac­
+tice.  Cf. Scherer & Ross 558 (noting that “except when [re­
+sale price maintenance] spreads to cover the bulk of an in­
+dustry’s output, depriving consumers of a meaningful choice 
+between  high-service  and  low-price  outlets,  most  [resale 
+price maintenance arrangements] are probably innocu­
+ous”); Easterbrook 162 (suggesting that “every one of the 
+potentially-anticompetitive outcomes of vertical arrange­
+ments depends on the uniformity of the practice”). 
+The source of the restraint may also be an important con­
+sideration.  If there is evidence retailers were the impetus 
+

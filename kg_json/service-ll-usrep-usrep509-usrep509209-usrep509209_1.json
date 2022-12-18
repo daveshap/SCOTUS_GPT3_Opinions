@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/BrookeGroupLtdvBrownWilliamsonTobaccoCorp",
+      "date": "October Term, 1992",
+      "caseNumber": "No. 92-466",
+      "parties": [
+        "Brooke Group Ltd.",
+        "Brown & Williamson Tobacco Corp."
+      ],
+      "reasoning": "Cigarette manufacturing is a concentrated industry dominated by only six firms, including the two parties here. In 1980, petitioner (hereinafter Liggett) pioneered the economy segment of the market by developing a line of generic cigarettes offered at a list price roughly 30% lower than that of branded cigarettes."
+    },
+    {
+      "@id": "http://schema.org/UtahPieCovContinentalBakingCo",
+      "date": "386 U. S. 685",
+      "caseNumber": "",
+      "parties": [
+        "Utah Pie Co.",
+        "Continental Baking Co."
+      ],
+      "reasoning": "Accordingly, two prerequisites to recovery are also the same. A plaintiff must prove (1) that the prices complained of are below an appropriate measure of its rival's costs and (2) that the competitor had a reasonable prospect of recouping its investment in below-cost prices."
+    },
+    {
+      "@id": "http://schema.org/MatsushitaElectricIndustrialCoVZenithRadioCorp",
+      "date": "475 U. S. 574",
+      "caseNumber": "",
+      "parties": [
+        "Matsushita Electric Industrial Co.",
+        "Zenith Radio Corp."
+      ],
+      "reasoning": "Predatory pricing schemes, in general, are implausible, see Matsushita Electric Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 588-590, and are even more improbable when they require coordinated action among several firms, id., at 590."
+    }
+  ]
+}

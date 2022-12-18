@@ -1,0 +1,121 @@
+
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+The one case in which we have found an activity to con-
+stitute  a  "boycott"  within  the meaning  of the  McCarran-
+Ferguson Act is St. Paul Fire & Marine Jins. Co. v. Barry,
+438 U. S. 531 (1978).  There the plaintiffs were licensed phy-
+sicians and their patients, and the defendant (St. Paul) was a
+malpractice insurer that had refused to renew the physicians'
+policies on an "occurrence" basis, but insisted upon a "claims
+made" basis.  The allegation was that, at the instance of St.
+Paul, the three other malpractice  insurers in the State had
+collectively refused to write insurance for St. Paul's custom-
+ers, thus  forcing them  to accept  St. Paul's renewal  terms.
+Unsurprisingly, we held  the allegation  sufficient to state a
+cause of action.  The  insisted-upon condition of the boycott
+(not being a former St. Paul policyholder) was "artificial": it
+bore no  relationship  (or an  "artificial"  relationship)  to the
+proposed  contracts  of insurance  that the physicians wished
+to conclude with St. Paul's competitors.
+Under the standard  described, it is obviously not a "boy-
+cott" for  the reinsurers  to  "refus[e]  to reinsure  coverages
+written  on  the  ISO  CGL  forms until  the desired  changes
+were made," ante, at 788, because the terms of the primary
+coverages are central elements of the reinsurance contract-
+they are what is reinsured.  See App. 16-17 (Cal. Complaint
+26-27).  The  "primary policies are  . . . the basis  of the
+losses that are shared in the reinsurance agreements."  1 B.
+Webb, H. Anderson, J. Cookman, & P. Kensicki, Principles of
+Reinsurance 87 (1990); see also id., at 55; Gtrley, Regulation
+of Reinsurance in the United States, 19 Forum 72, 73 (1983).
+Indeed,  reinsurance  is  so  closely  tied  to the  terms  of the
+primary  insurance  contract  that  one  of the two  categories
+of reinsurance  (assumption reinsurance)  substitutes  the re-
+insurer for the primary or "ceding"  insurer and places  the
+reinsurer into contractual privity with the primary insurer's
+policyholders.  See  id., at 73-74;  Colonial American Life
+Ins.  Co.  v.  Commissioner, 491  U. S.  244,  247  (1989);  B.
+Ostrager  & T. Newman,  Handbook  on Insurance  Coverage
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+Disputes chs.  15-16  (5th ed.  1992).  And in the other cate-
+gory  of  reinsurance  (indemnity  reinsurance),  either  the
+terms of the underlying insurance policy are incorporated by
+reference  (if the reinsurance  is written under a facultative
+agreement),  see  J. Butler  & R.  Merkin,  Reinsurance  Law
+B.1.1-04 (1992);  R. Carter, Reinsurance 235 (1979),  or (if the
+reinsurance is conducted on a treaty basis) the reinsurer will
+require full disclosure  of the terms of the underlying  insur-
+ance  policies  and usually  require  that the primary insurer
+not  vary  those  terms  without  prior  approval,  see  id.,  at
+256, 297.
+JUSTICE SOUTER simply disregards this integral relation-
+ship between  the terms of the primary insurance form  and
+the contract of reinsurance.  He describes the reinsurers as
+"individuals and entities who were not members of ISO, and
+who would not ordinarily be parties to an agreement setting
+the terms of primary insurance, not being in the business of
+selling it."  Ante, at 788.  While this factual assumption is
+crucial  to JUSTICE  SOUTER's  reasoning  (because  otherwise
+he would not be able  to distinguish permissible  agreements
+among primary insurers), he offers no support for the state-
+ment.  But even if it happens to be true, he does not explain
+why it must be true-that is, why the law must exclude rein-
+surers from full membership  and participation.  The reali-
+ties of the industry may make explanation difficult:
+"Reinsurers also benefit from the services by ISO and
+other rating or service organizations.  The  underlying
+rates and policy forms are the basis for many reinsur-
+ance contracts.  Reinsurers may also subscribe to vari-
+ous services.  For example, a facultative reinsurer may
+subscribe  to the rating  service,  so that they  have the
+rating manuals available, or purchase optional services,
+such as  a sprinkler report for a specific  property loca-
+tion."  2 R. Reinarz, J. Schloss, G. Patrik, & P. Kensicki,
+Reinsurance Practices  18 (1990).
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+JUSTICE SOUTER also describes reinsurers as being "out-
+side the primary insurance industry."  Ante, at 789.  That
+is technically true (to the extent the two symbiotic industries
+can  be  separated)  but  quite  irrelevant.  What  matters  is
+that the scope and predictability  of the risks assumed  in a
+reinsurance  contract depend entirely upon the terms of the
+primary policies  that are reinsured.  The terms  of the pri-
+mary  policies  are  the "subject-matter insured"  by reinsur-
+ance,  Carter,  supra, at  4,  so  that  to  insist upon  certain
+primary-insurance  terms  as  a  condition  of  writing  rein-
+surance  is in no way "artificial"; and hence for a number  of
+reinsurers  to  insist  upon  such  terms jointly  is in  no  way
+a "boycott."6
+JUSTICE SOUTER seems to believe that a nonboycott is con-
+verted into a boycott by the fact that it occurs "at the behest
+of,"  ante, at  789,  or is  "solicited"  by, ibid., competitors  of
+the target.  He purports to find support for this implausible
+proposition in  United States v. South-Eastern Underwriters
+Assn., 322 U. S. 533 (1944), which involved a classic boycott,
+by primary insurers, of competitors who refused to join their
+price-fixing conspiracy, the South-Eastern Underwriters As-
+sociation (S. E. U. A.).  The conspirators would not deal with
+independent  agents  who  wrote  for  such  companies,  and
+would  not  write  policies  for  customers  who  insured  with
+them.  See id., at 535-536.  Moreover, Justice Black's opin-
+ion for the Court noted  cryptically, "[c]ompanies  not mem-
+bers of S. E. U. A. were cut off from the opportunity to rein-
+sure their risks."  Id., at 535.  JUSTICE SOUTER speculates
+6 Once it is determined that the actions of the reinsurers did not consti-
+tute a "boycott,"  but rather a concerted agreement to terms, it follows
+that their actions do not constitute "coercion" or "intimidation" within the
+meaning of the statute.  That is because, as previously mentioned, such
+concerted agreements do "not coerc[e] anyone, at least in the usual sense
+of that word," L. Sullivan, Law of Antitrust 257 (1977), and because they
+are precisely what is protected by McCarran-Ferguson  immunity.
+

@@ -1,0 +1,125 @@
+
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+40  ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC. 
+Opinion of the Court 
+the defendant was selling its unpatented salt at competitive 
+prices, id., at 396–397, the rule adopted in International 
+Salt necessarily accepted the Government’s submission that 
+the earlier patent misuse cases supported the broader propo­
+sition “that this type of restraint is unlawful on its face under 
+the Sherman Act,” United States Brief 12. 
+Indeed, later in the same Term we cited International 
+Salt for the proposition that the license of “a patented device 
+on condition that unpatented materials be employed in con­
+junction with the patented device” is an example of a re­
+straint that is “illegal per se.”  United States v. Columbia 
+Steel Co., 334 U. S. 495, 522–523, and n. 22 (1948).  And in 
+subsequent cases we have repeatedly grounded the presump­
+tion of market power over a patented device in Interna­
+tional Salt.  See, e. g., Loew’s, 371 U. S., at 45–46; Times-
+Picayune Publishing Co. v. United States, 345 U. S. 594, 608 
+(1953); Standard Oil Co., 337 U. S., at 304. 
+IV 
+Although the patent misuse doctrine and our antitrust ju­
+risprudence became intertwined in International Salt, sub­
+sequent events initiated their untwining.  This process has 
+ultimately led to today’s reexamination of the presumption of 
+per se illegality of a tying arrangement involving a patented 
+product, the ﬁrst case since 1947 in which we have granted 
+review to consider the presumption’s continuing validity. 
+Three years before we decided International Salt, this 
+Court had expanded the scope of the patent misuse doctrine 
+to include not only supplies or materials used by a patented 
+device, but also tying arrangements involving a combination 
+patent and “unpatented material or [a] device [that] is itself 
+an  integral  part  of  the  structure  embodying  the  patent.” 
+Mercoid, 320 U. S., at 665; see also Dawson Chemical Co. v. 
+Rohm & Haas Co., 448 U. S. 176, 188–198 (1980) (describing 
+in detail Mercoid and the cases leading up to it).  In reach­
+ing this conclusion, the Court explained that it could see “no 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  41 
+Opinion of the Court 
+difference in principle” between cases involving elements es­
+sential to the inventive character of the patent and elements 
+peripheral to it; both, in the Court’s view, were attempts 
+to “expan[d] the patent beyond the legitimate scope of its 
+monopoly.”  Mercoid, 320 U. S., at 665. 
+Shortly thereafter, Congress codiﬁed the patent laws for 
+the ﬁrst time.  See 66 Stat. 792, codiﬁed at 35 U. S. C. § 1 
+et seq. (2000 ed. and Supp. III).  At least partly in response 
+to our Mercoid decision, Congress included a provision in 
+its codiﬁcation that excluded some conduct, such as a tying 
+arrangement involving the sale of a patented product tied to 
+an “essential” or “nonstaple” product that has no use except 
+as part of the patented product or method, from the scope of 
+the patent misuse doctrine.  § 271(d); see also Dawson, 448 
+U. S., at 214.  Thus, at the same time that our antitrust ju­
+risprudence continued to rely on the assumption that “tying 
+arrangements generally serve no legitimate business pur­
+pose,” Fortner I, 394 U. S., at 503, Congress began chipping 
+away at the assumption in the patent misuse context from 
+whence it came. 
+It is Congress’ most recent narrowing of the patent misuse 
+defense, however, that is directly relevant to this case.  Four 
+years after our decision in Jefferson Parish repeated the 
+patent-equals-market-power  presumption,  466 U. S.,  at  16, 
+Congress amended the Patent Code to eliminate that pre­
+sumption in the patent misuse context, 102 Stat. 4676.  The 
+relevant provision reads: 
+“(d) No patent owner otherwise entitled to relief for 
+infringement or contributory infringement of a patent 
+shall be denied relief or deemed guilty of misuse or ille­
+gal extension of the patent right by reason of his having 
+done one or more of the following: . . . (5) conditioned 
+the license of any rights to the patent or the sale of the 
+patented product on the acquisition of a license to rights 
+in another patent or purchase of a separate product, un­
+less, in view of the circumstances, the patent owner has 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+42  ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC. 
+Opinion of the Court 
+market power in the relevant market for the patent or 
+patented product on which the license or sale is condi­
+tioned.”  35 U. S. C. § 271(d)(5) (emphasis added). 
+The italicized clause makes it clear that Congress did not 
+intend the mere existence of a patent to constitute the requi­
+site “market power.”  Indeed, fairly read, it provides that 
+without proof that Trident had market power in the relevant 
+market, its conduct at issue in this case was neither “misuse” 
+nor an “illegal extension of the patent right.” 
+While the 1988 amendment does not expressly refer to the 
+antitrust laws, it certainly invites a reappraisal of the per se 
+rule announced in International Salt.3  A rule denying a 
+patentee the right to enjoin an infringer is signiﬁcantly less 
+severe than a rule that makes the conduct at issue a federal 
+crime punishable by up to 10 years in prison.  See 15 U. S. C. 
+§ 1.  It would be absurd to assume that Congress intended 
+to provide that the use of a patent that merited punishment 
+as a felony would not constitute “misuse.”  Moreover, given 
+the fact that the patent misuse doctrine provided the basis 
+for the market power presumption, it would be anomalous 
+to  preserve  the  presumption  in  antitrust  after  Congress 
+has  eliminated its foundation.  Cf.  10 P. Areeda, H. 
+Hovenkamp, & E. Elhauge, Antitrust Law ¶ 1737c (2d ed. 
+2004) (hereinafter Areeda). 
+After considering the congressional judgment reﬂected in 
+the 1988 amendment, we conclude that tying arrangements 
+involving patented products should be evaluated under the 
+standards applied in cases like Fortner II and Jefferson Par­
+ish rather than under the per se rule applied in Morton Salt 
+and Loew’s.  While some such arrangements are still unlaw­
+3 While our opinions have made clear that such an invitation is not neces­
+sary with respect to cases arising under the Sherman Act, see State Oil 
+Co. v. Khan, 522 U. S. 3, 20 (1997), it is certainly sufﬁcient to warrant 
+reevaluation of our precedent, id., at 21 (“[T]his Court has reconsidered 
+its decisions construing the Sherman Act when the theoretical underpin­
+nings of those decisions are called into serious question”). 
+

@@ -1,0 +1,90 @@
+
+
+416  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF CURTIS  V. TRINKO, LLP
+STEVENS, J., concurring in judgment
+other approach  might yield  greater  competition.  We  con-
+clude that respondent's complaint fails to state a claim under
+the Sherman Act.5
+Accordingly, the judgment of the Court of Appeals is re-
+versed,  and  the case  is  remanded  for further  proceedings
+consistent with this opinion.
+It is so ordered.
+JUSTICE STEVENS,  with whom JUSTICE  SOUTER and JUS-
+TICE THOMAS join, concurring in the judgment.
+In complex  cases it is usually  wise to begin by deciding
+whether  the plaintiff has  standing to maintain  the action.
+Respondent,  the  plaintiff in  this  case, is  a  local  telephone
+service customer of AT&T.  Its complaint alleges that it has
+received unsatisfactory service because Verizon has engaged
+in conduct that adversely affects AT&T's ability to serve its
+customers, in violation of § 2 of the Sherman Act.  15 U. S. C.
+§ 2.  Respondent seeks from Verizon treble damages, a rem-
+edy that § 4 of the Clayton Act makes available to "any per-
+son who  shall be injured  in his business  or  property."  15
+U. S. C. § 15.  The threshold question presented by the com-
+plaint is whether, assuming the truth of its allegations,  re-
+spondent is a "person" within the meaning of § 4.
+Respondent  would  unquestionably  be such  a "person" if
+we interpreted the text of the statute literally.  But we have
+eschewed  a  literal  reading  of § 4,  particularly  in  cases  in
+which there is only an indirect relationship between the de-
+fendant's alleged misconduct and the plaintiff's  asserted in-
+jury.  Associated Gen. Contractors of Cal., Inc. v. Carpen-
+ters, 459  U. S.  519,  529-535  (1983).  In  such  cases,  "the
+importance of avoiding either the risk of duplicate recoveries
+5 Our disposition makes it unnecessary to consider petitioner's alterna-
+tive contention that respondent lacks antitrust standing.  See Steel Co. v.
+Citizens for Better Environment, 523  U. S. 83, 97, and n. 2 (1998); Na-
+tional Railroad Passenger Corporation v. National Assn. of Railroad
+Passengers,4 14 U. S.4 53, 456 (1974).
+
+NEW PAGE
+
+Cite as: 540 U. S. 398 (2004)
+STEVENS, J., concurring in judgment
+on the one hand, or the danger of complex apportionment of
+damages on the other," weighs heavily against a literal read-
+ing of § 4.  Id.,  at 543-544.  Our  interpretation  of § 4 has
+thus adhered  to Justice  Holmes' observation  that the "gen-
+eral tendency  of the  law, in  regard to damages  at least, is
+not to go beyond  the first  step."  Southern Pacific Co. v.
+Darnell-TaenzerL  umber Co., 245 U. S. 531,  533 (1918).
+I  would  not  go  beyond  the  first step  in  this  case.  Al-
+though respondent contends  that its injuries  were, like the
+plaintiff's  injuries  in  Blue Shield of Va. v. McCready, 457
+U. S. 465, 479 (1982), "the very means by which...  [Verizon]
+sought to achieve  its illegal  ends," it remains  the case  that
+whatever  antitrust  injury  respondent  suffered  because  of
+Verizon's  conduct  was  purely  derivative of the injury  that
+AT&T suffered.  And for that reason, respondent's suit, un-
+like McCready, runs both the risk of duplicative  recoveries
+and the danger of complex apportionment of damages.  The
+task of determining the monetary value of the harm caused
+to respondent by AT&T's inferior service, the portion of that
+harm  attributable  to  Verizon's  misconduct,  whether  all or
+just some of such possible misconduct was prohibited by the
+Sherman Act, and what offset, if any, should be allowed  to
+make room for a recovery that would make AT&T whole, is
+certain to be daunting.  AT&T, as the direct victim of Veri-
+zon's alleged misconduct, is in a far better position than re-
+spondent to vindicate  the public interest in enforcement  of
+the antitrust laws.  Denying a remedy to AT&T's customer
+is  not  likely  to  leave  a  significant  antitrust  violation  un-
+detected or unremedied,  and will serve  the strong interest
+"in keeping the scope of complex  antitrust trials within ju-
+dicially  manageable  limits."  Associated Gen. Contractors,
+459 U. S., at 543.
+In  my judgment,  our  reasoning  in  Associated General
+Contractors requires  us  to  reverse  the  judgment  of  the
+Court of Appeals.  I would not decide  the merits of the § 2
+
+NEW PAGE
+
+418  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF CURTIS  V. TRINKO,  LLP
+STEVENS, J., concurring in judgment
+claim  unless  and  until  such  a claim  is  advanced  by  either
+AT&T  or  a  similarly  situated  competitive  local  exchange
+carrier.
+

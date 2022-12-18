@@ -1,0 +1,138 @@
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+28  OCTOBER TERM, 2005 
+Syllabus 
+ILLINOIS TOOL WORKS INC. et al. v.
+
+INDEPENDENT INK, INC.
+
+certiorari to the united states court of appeals for 
+the federal circuit 
+No. 04–1329.  Argued November 29, 2005—Decided March 1, 2006 
+Petitioners manufacture and market printing systems that include a pat­
+ented printhead and ink container and unpatented ink, which they sell 
+to original equipment manufacturers who agree that they will purchase 
+ink exclusively from petitioners and that neither they nor their custom­
+ers will reﬁll the patented containers with ink of any kind.  Respondent 
+developed ink with the same chemical composition as petitioners’ ink. 
+After petitioner Trident’s infringement action was dismissed, respond­
+ent ﬁled suit seeking a judgment of noninfringement and invalidity of 
+Trident’s patents on the ground that petitioners are engaged in illegal 
+“tying” and monopolization in violation of §§1 and 2 of the Sherman Act. 
+Granting petitioners summary judgment, the District Court rejected 
+respondent’s argument that petitioners necessarily have market power 
+as a matter of law by virtue of the patent on their printhead system, 
+thereby rendering the tying arrangements per se violations of the anti­
+trust laws.  After carefully reviewing this Court’s tying-arrangements 
+decisions, the Federal Circuit reversed as to the § 1 claim, concluding 
+that it had to follow this Court’s precedents until overruled by this 
+Court. 
+Held: Because a patent does not necessarily confer market power upon 
+the patentee, in all cases involving a tying arrangement, the plaintiff 
+must prove that the defendant has market power in the tying product. 
+Pp. 33–46. 
+(a) Over the years, this Court’s strong disapproval of tying arrange­
+ments has substantially diminished, as the Court has moved from rely­
+ing on assumptions to requiring a showing of market power in the tying 
+product.  The assumption in earlier decisions that such “arrangements 
+serve  hardly  any  purpose  beyond  the  suppression  of  competition,” 
+Standard Oil Co. of Cal. v. United States, 337 U. S. 293, 305–306, was 
+rejected in United States Steel Corp. v. Fortner Enterprises, Inc., 429 
+U. S. 610, 622 (Fortner II), and again in Jefferson Parish Hospital Dist. 
+No. 2 v.  Hyde, 466 U. S. 2, both of which involved unpatented tying 
+products.  Nothing in Jefferson Parish suggested a rebuttable pre­
+sumption of market power applicable to tying arrangements involving a 
+patent on the tying good.  Pp. 33–38. 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  29 
+Syllabus 
+(b) The presumption that a patent confers market power arose out­
+side the antitrust context as part of the patent misuse doctrine, and 
+migrated to antitrust law in International Salt Co. v. United States, 332 
+U. S. 392.  See also Morton Salt Co. v. G. S. Suppiger Co., 314 U. S. 488; 
+United States v. Loew’s Inc., 371 U. S. 38.  Pp. 38–40. 
+(c) When Congress codiﬁed the patent laws for the ﬁrst time, it initi­
+ated the untwining of the patent misuse doctrine and antitrust jurispru­
+dence.  At the same time that this Court’s antitrust jurisprudence con­
+tinued to rely on the assumption that tying arrangements generally 
+serve no legitimate business purpose, Congress began chipping away at 
+that assumption in the patent misuse context from whence it came. 
+Then, four years after Jefferson Parish repeated the presumption that 
+patents confer market power, Congress amended the Patent Code to 
+eliminate it in the patent misuse context.  While that amendment does 
+not expressly refer to the antitrust laws, it invites reappraisal of Inter­
+national Salt’s per se rule.  After considering the congressional judg­
+ment reﬂected in the amendment, this Court concludes that tying ar­
+rangements involving patented products should be evaluated under the 
+standards of cases like Fortner II and Jefferson Parish rather than the 
+per se rule in Morton Salt and Loew’s.  Any conclusion that an arrange­
+ment is unlawful must be supported by proof of power in the relevant 
+market rather than by a mere presumption thereof.  Pp. 40–43. 
+(d) Respondent’s alternatives to retention of the per se rule—that the 
+Court endorse a rebuttable presumption that patentees possess market 
+power when they condition the purchase of the patented product on an 
+agreement to buy unpatented goods exclusively from the patentee, or 
+differentiate between tying arrangements involving requirements ties 
+and other types of tying arrangements—are rejected.  Pp. 43–46. 
+(e) Because respondent reasonably relied on this Court’s prior opin­
+ions in moving for summary judgment without offering evidence of the 
+relevant market or proving petitioners’ power within that market, re­
+spondent should be given a fair opportunity to develop and introduce 
+evidence on that issue, as well as other relevant issues, when the case 
+returns to the District Court.  P. 46. 
+396 F. 3d 1342, vacated and remanded. 
+Stevens, J., delivered the opinion of the Court, in which all other Mem­
+bers joined, except Alito, J., who took no part in the consideration or 
+decision of the case. 
+Andrew J. Pincus argued the cause for petitioners.  With 
+him on the briefs were Richard J. Favretto, Christopher J. 
+Kelly, Nickolai G. Levin, and Stewart S. Hudnut. 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+30  ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC. 
+Counsel 
+Deputy Solicitor General Hungar argued the cause for 
+the United States as amicus curiae urging reversal.  With 
+him on the brief were Solicitor General Clement, Acting 
+Assistant  Attorney  General  Barnett,  Jeffrey  P.  Minear, 
+Catherine G. O’Sullivan, Steven J. Mintz, Frances Marshall, 
+John M. Whealan, Cynthia C. Lynch, and Thomas Krause. 
+Kathleen M. Sullivan argued the cause for respondent. 
+With her on the briefs were Daniel H. Bromberg, Margret 
+M. Caruso, Elizabeth B. Wydra, and Edward F. O’Connor.* 
+*Briefs of amici curiae urging reversal were ﬁled for the American 
+Bar Association by Robert J. Grey, Jr., Richard J. Wallis, and Kevin D. 
+McDonald; for the Houston Intellectual Property Law Association by 
+Kenneth E. Kuffner; for the Intellectual Property Law Association of Chi­
+cago by Edward D. Manzo, Bradford P. Lyerla, and Glen P. Belvis; for 
+the Intellectual Property Owners Association by Gary M. Hoffman, Ken­
+neth W. Brothers, and Douglas K. Norman; for the Motion Picture Associ­
+ation of America, Inc., et al. by Daniel G. Swanson, Julian W. Poon, Dan­
+iel E. Robbins, and Victor S. Perlman; for the New York Intellectual 
+Property Law Association by David F. Ryan; for the Patent, Trademark & 
+Copyright Section of the Bar Association of the District of Columbia by 
+David W. Long, Blair Elizabeth Taylor, and Lynn E. Eccleston; for Pﬁzer 
+Inc. by Stephen A. Stack, Jr., George G. Gordon, Rebecca P. Dick, and 
+Kent S. Bernard; for Verizon Communications by Richard G. Taranto, 
+Aaron M. Panner, and John Thorne; and for the Washington Legal Foun­
+dation by William C. MacLeod, Daniel J. Popeo, and David Price. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the District of 
+Columbia et al. by Robert J. Spagnoletti, Attorney General of the District 
+of Columbia, Edward E. Schwab, Deputy Attorney General, Don A. Resni­
+koff, Senior Assistant Attorney General, and Anika Cooper, Assistant At­
+torney General, by Bill Lockyer, Attorney General of California, Richard 
+M. Frank, Chief Deputy Attorney General, Tom Greene, Chief Assistant 
+Attorney General, Kathleen Foote, Senior Assistant Attorney General, 
+and Ann Marie Marciarille, Deputy Attorney General, and by the Attor­
+neys General for their respective States as follows: Terry Goddard of Ari­
+zona, Charles J. Crist, Jr., of Florida, Thomas J. Miller of Iowa, Charles 
+C. Foti, Jr., of Louisiana, J. Joseph Curran, Jr., of Maryland, Thomas F. 
+Reilly of Massachusetts, Jeremiah W. (Jay) Nixon of Missouri, Jim Petro 
+of Ohio, Paul G. Summers of Tennessee, Mark L. Shurtleff of Utah, Dar­
+rell V. McGraw, Jr., of West Virginia, and Patrick J. Crank of Wyoming; 
+for AARP et al. by Barbara Jones, Bruce Vignery, and Michael Schuster; 
+

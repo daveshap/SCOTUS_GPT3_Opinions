@@ -1,0 +1,124 @@
+
+
+224  BROOKE GROUP LTD. v. BROWN  & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+illogical to condemn  the price  cut: The  antitrust laws  then
+would be an obstacle to the chain of events most conducive
+to a breakdown of oligopoly pricing and the onset of competi-
+tion.  Even if the ultimate  effect of the cut is to induce or
+reestablish  supracompetitive  pricing,  discouraging  a  price
+cut and  forcing firms  to  maintain supracompetitive  prices,
+thus depriving consumers  of the benefits of lower prices in
+the interim, does not constitute sound antitrust policy.  Cf.
+Areeda  & Hovenkamp  714.2d,  714.2f; Areeda  & Turner,
+Predatory Pricing and Related Practices under Section 2 of
+the  Sherman  Act,  88  Harv.  L.  Rev.  697,  708-709  (1975);
+Posner,  Antitrust  Law:  An  Economic  Perspective,  at  195,
+n. 39.
+The  second  prerequisite  to  holding  a  competitor  liable
+under the antitrust laws for charging low prices is a demon-
+stration that the competitor  had a reasonable  prospect, or,
+under  § 2  of the Sherman  Act, a  dangerous  probability, of
+recouping its investment in below-cost prices.  See Matsu-
+shita, supra, at 589; Cargill, supra, at 119, n. 15.  "For the
+investment to be rational, the [predator] must have a reason-
+able expectation of recovering, in the form of later monopoly
+profits, more than the losses suffered."  Matsushita, supra,
+at 588-589.  Recoupment is the ultimate object of an unlaw-
+ful  predatory  pricing  scheme;  it is  the means  by which  a
+predator profits from predation.  Without it, predatory pric-
+ing produces lower aggregate prices in the market, and con-
+sumer welfare  is enhanced.  Although  unsuccessful  preda-
+tory  pricing  may  encourage  some  inefficient  substitution
+toward  the product  being sold at less than  its cost, unsuc-
+cessful predation is in general a boon to consumers.
+That below-cost pricing  may impose painful  losses on its
+target is of no moment to the antitrust laws if competition is
+not  injured:  It is  axiomatic  that  the  antitrust  laws  were
+passed for "the protection of competition, not competitors."
+Brown Shoe Co. v. United States, 370 U. S.  294, 320  (1962).
+Earlier this  Term, we held in the Sherman  Act § 2 context
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+that it was not enough to inquire "whether the defendant has
+engaged in 'unfair' or 'predatory' tactics"; rather, we insisted
+that the plaintiff prove  "a dangerous  probability that  [the
+defendant]  would  monopolize  a particular  market."  Spec-
+trum Sports, 506 U. S.,  at 459.  Even an act of pure malice
+by one business competitor against another does not, without
+more, state a  claim under the federal  antitrust laws; those
+laws  do  not  create  a  federal  law of unfair  competition  or
+"purport to afford  remedies  for  all torts  committed  by or
+against persons engaged in interstate commerce."  Hunt v.
+Crumboch, 325 U. S. 821, 826 (1945).
+For recoupment to occur, below-cost pricing must be capa-
+ble, as a threshold matter, of producing the intended effects
+on the firm's rivals, whether driving them from the market,
+or, as was alleged to be the goal here, causing them to raise
+their prices to supracompetitive  levels  within a disciplined
+oligopoly.  This requires an understanding of the extent and
+duration  of  the  alleged  predation,  the  relative  financial
+strength of the predator and  its intended  victim, and  their
+respective  incentives  and  will.  See  3  Areeda  & Turner
+711b.  The inquiry is whether, given the aggregate  losses
+caused by the below-cost pricing, the intended target would
+likely succumb.
+If  circumstances  indicate  that  below-cost  pricing  could
+likely produce its intended effect on the target, there is still
+the further question whether it would likely injure competi-
+tion in the relevant market.  The plaintiff must demonstrate
+that there is a likelihood that the predatory scheme alleged
+would cause  a rise in prices  above a competitive level  that
+would be sufficient to compensate for the amounts expended
+on the predation, including the time value of the money in-
+vested in it.  As we have observed on a prior occasion, "[i]n
+order to recoup their losses, [predators] must obtain enough
+market power to set higher than competitive prices, and then
+must  sustain  those  prices  long  enough  to earn  in  excess
+
+NEW PAGE
+
+226  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+profits  what  they  earlier  gave  up  in  below-cost  prices."
+Matsushita, 475 U. S., at 590-591.
+Evidence  of below-cost  pricing  is  not alone sufficient  to
+permit an  inference  of probable  recoupment  and  injury to
+competition.  Determining  whether  recoupment  of preda-
+tory losses  is likely requires an estimate  of the cost of the
+alleged  predation  and  a  close  analysis  of both the scheme
+alleged by the plaintiff and the structure and  conditions  of
+the relevant market.  Cf., e. g., Elzinga  & Mills, Testing for
+Predation: Is Recoupment  Feasible?, 34 Antitrust Bull. 869
+(1989)  (constructing  one  possible  model  for  evaluating  re-
+coupment).  If market circumstances or deficiencies in proof
+would  bar a reasonable jury from finding that the scheme
+alleged  would  likely  result  in  sustained  supracompetitive
+pricing,  the  plaintiff's  case  has  failed.  In  certain  situa-
+tions-for example, where the market is highly diffuse  and
+competitive, or where  new entry is easy, or the defendant
+lacks adequate excess capacity to absorb the market shares
+of his  rivals  and  cannot  quickly  create  or  purchase  new
+capacity-summary  disposition  of the  case  is  appropriate.
+See, e. g., Cargill, 479 U. S., at 119-120, n. 15.
+These prerequisites  to recovery are not easy to establish,
+but they are not artificial obstacles to recovery; rather, they
+are essential components of real market injury.  As we have
+said in the Sherman Act context, "predatory pricing schemes
+are rarely  tried, and  even more  rarely successful,"  Matsu-
+shita, supra, at 589, and the costs of an erroneous  finding of
+liability are  high.  "[T]he  mechanism  by which  a firm  en-
+gages  in  predatory  pricing-lowering  prices-is  the  same
+mechanism by which a firm stimulates competition; because
+'cutting prices in order to increase business often is the very
+essence  of competition  ... [;]  mistaken  inferences  ...  are
+especially costly, because they chill the very conduct the an-
+titrust laws  are  designed  to protect."'  Cargill, supra, at
+122, n. 17 (quoting Matsushita, supra, at 594).  It would be
+ironic indeed  if the standards for predatory pricing liability
+

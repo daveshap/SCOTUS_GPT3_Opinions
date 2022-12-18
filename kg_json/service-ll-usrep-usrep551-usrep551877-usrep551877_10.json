@@ -1,0 +1,114 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@type": "LegalCase",
+      "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+      "datePublished": "2007-09-20",
+      "caseNumber": "551 U.S. 877",
+      "involvedParties": [
+        "Leegin Creative Leather Products, Inc.",
+        "PSKS, Inc."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Business Electronics Corp. v. Sharp Electronics Corp.",
+      "datePublished": "1988-06-23",
+      "caseNumber": "485 U.S. 717",
+      "involvedParties": [
+        "Business Electronics Corp.",
+        "Sharp Electronics Corp."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Monsanto Co. v. Spray-Rite Service Corp.",
+      "datePublished": "1984-04-30",
+      "caseNumber": "465 U.S. 752",
+      "involvedParties": [
+        "Monsanto Co.",
+        "Spray-Rite Service Corp."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "Legislation",
+      "name": "Miller-Tydings Fair Trade Act",
+      "datePublished": "1937-07-02",
+      "legislationNumber": "50 Stat. 693",
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "Legislation",
+      "name": "McGuire Act",
+      "datePublished": "1952-07-02",
+      "legislationNumber": "66 Stat. 632",
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "Legislation",
+      "name": "Consumer Goods Pricing Act",
+      "datePublished": "1975-10-14",
+      "legislationNumber": "89 Stat. 801",
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Texas Industries, Inc. v. Radcliff Materials, Inc.",
+      "datePublished": "1981-06-22",
+      "caseNumber": "451 U.S. 630",
+      "involvedParties": [
+        "Texas Industries, Inc.",
+        "Radcliff Materials, Inc."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "California Retail Liquor Dealers Assn. v. Midcal Aluminum, Inc.",
+      "datePublished": "1980-06-02",
+      "caseNumber": "445 U.S. 97",
+      "involvedParties": [
+        "California Retail Liquor Dealers Assn.",
+        "Midcal Aluminum, Inc."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Atlantic Richfield Co. v. USA Petroleum Co.",
+      "datePublished": "1990-06-11",
+      "caseNumber": "495 U.S. 328",
+      "involvedParties": [
+        "Atlantic Richfield Co.",
+        "USA Petroleum Co."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Payne v. Tennessee",
+      "datePublished": "1991-06-24",
+      "caseNumber": "501 U.S. 808",
+      "involvedParties": [
+        "Payne",
+        "Tennessee"
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Khan v. State Oil Co.",
+      "datePublished": "1997-06-23",
+      "caseNumber": "522 U.S. 3",
+      "involvedParties": [
+        "Khan",
+        "State Oil Co."
+      ],
+      "reasoningForIncluding": "Opinion of the Court"
+    }
+  ]
+}

@@ -1,0 +1,134 @@
+
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+400  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+that party and may grant a motion for judgment as a 
+matter of law against that party with respect to a claim 
+or  defense  that  cannot  under  the  controlling  law  be 
+maintained or defeated without a favorable ﬁnding on 
+that issue. 
+“(2) Motions for judgment as a matter of law may be 
+made at any time before submission of the case to the 
+jury.  Such a motion shall specify the judgment sought 
+and the law and the facts on which the moving party is 
+entitled to the judgment.” 
+Rule 50(b), by contrast, sets forth the procedural require­
+ments for renewing a sufﬁciency of the evidence challenge 
+after the jury verdict and entry of judgment. 
+“(b)  Renewing Motion for Judgment After 
+Trial; Alternative Motion for New Trial.  If, for 
+any reason, the court does not grant a motion for judg­
+ment as a matter of law made at the close of all the 
+evidence, the court is considered to have submitted the 
+action to the jury subject to the court’s later deciding 
+the legal questions raised by the motion.  The movant 
+may renew its request for judgment as a matter of law 
+by ﬁling a motion no later than 10 days after entry of 
+judgment—and may alternatively request a new trial or 
+join a motion for a new trial under Rule 59.  In ruling 
+on a renewed motion, the court may: 
+“(1) if a verdict was returned:
+
+“(A) allow the judgment to stand,
+
+“(B) order a new trial, or
+
+“(C) direct entry of judgment as a matter of
+
+law  . . . .”  
+This Court has addressed the implications of a party’s fail­
+ure to ﬁle a postverdict motion under Rule 50(b) on several 
+occasions  and  in  a  variety  of  procedural  contexts.  This 
+Court has concluded that, “[i]n the absence of such a motion” 
+an “appellate court [is] without power to direct the District 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+Cite as: 546 U. S. 394 (2006)  401 
+Opinion of the Court 
+Court to enter judgment contrary to the one it had permitted 
+to stand.”  Cone  v.  West Virginia Pulp & Paper Co., 330 
+U. S. 212, 218 (1947).  This Court has similarly concluded 
+that a party’s failure to ﬁle a Rule 50(b) motion deprives the 
+appellate court of the power to order the entry of judgment 
+in favor of that party where the district court directed the 
+jury’s verdict, Globe Liquor Co. v. San Roman, 332 U. S. 571 
+(1948), and where the district court expressly reserved a par­
+ty’s preverdict motion for a directed verdict and then denied 
+that motion after the verdict was returned, Johnson v. New 
+York,  N.  H. &  H. R. Co.,  344 U. S. 48 (1952).  A postverdict 
+motion is necessary because “[d]etermination of whether a 
+new trial should be granted or a judgment entered under 
+Rule 50(b) calls for the judgment in the ﬁrst instance of the 
+judge who saw and heard the witnesses and has the feel of 
+the case which no appellate printed transcript can impart.” 3 
+Cone, supra, at 216.  Moreover, the “requirement of a timely 
+application for judgment after verdict is not an idle motion” 
+because  it  “is  .  .  .  an  essential  part  of  the  rule,  ﬁrmly 
+grounded in principles of fairness.”  Johnson, supra, at 53. 
+The foregoing authorities lead us to reverse the judgment 
+below.  Respondent correctly points out that these authori­
+ties address whether an appellate court may enter judgment 
+in the absence of a postverdict motion, as opposed to whether 
+an appellate court may order a new trial (as the Federal Cir­
+3 Neither Neely v. Martin K. Eby Constr. Co., 386 U. S. 317 (1967), nor 
+Weisgram v. Marley Co., 528 U. S. 440 (2000), undermine our judgment 
+about the beneﬁt of postverdict input from the district court.  In those 
+cases this Court determined that an appellate court may, in certain cir­
+cumstances, direct the entry of judgment when it reverses the district 
+court’s denial of a Rule 50(b) motion.  But in such circumstances the dis­
+trict court will have had an opportunity to consider the propriety of enter­
+ing judgment or ordering a new trial by virtue of the postverdict motion. 
+Moreover, these cases reiterate the value of the district court’s input, cau­
+tioning the courts of appeals to be “ ‘constantly alert’ to ‘the trial judge’s 
+ﬁrst-hand knowledge of witnesses, testimony, and issues.’”  Id., at 443 
+(quoting Neely, supra, at 325). 
+
+NEW PAGE
+
+546US2 Unit:$U24 [08-27-0813:12:22] PAGES PGT:OPIN
+402  UNITHERM FOOD SYSTEMS, INC. v. 
+SWIFT-ECKRICH, INC. 
+Opinion of the Court 
+cuit  did  here).  But  this  distinction  is  immaterial.  This 
+Court’s observations about the necessity of a postverdict mo­
+tion under Rule 50(b), and the beneﬁts of the district court’s 
+input at that stage, apply with equal force whether a party 
+is seeking judgment as a matter of law or simply a new trial. 
+In Cone, this Court concluded that, because Rule 50(b) per­
+mits the district court to exercise its discretion to choose 
+between ordering a new trial and entering judgment, its “ap­
+praisal of the bona ﬁdes of the claims asserted by the liti­
+gants is of great value in reaching a conclusion as to whether 
+a new trial should be granted.”  330 U. S., at 216 (emphasis 
+added).  Similarly, this Court has determined that a party 
+may only pursue on appeal a particular avenue of relief avail­
+able under Rule 50(b), namely, the entry of judgment or a 
+new trial, when that party has complied with the Rule’s ﬁl­
+ing requirements by requesting that particular relief below. 
+See Johnson, supra, at 54 (“Respondent made a motion to 
+set aside the verdict and for new trial within the time re­
+quired by Rule 50(b).  It failed to comply with permission 
+given by 50(b) to move for judgment n. o. v. after the verdict. 
+In this situation respondent is entitled only to a new trial, 
+not to a judgment in its favor”).4 
+4 The dissent’s suggestion that 28 U. S. C. § 2106 permits the courts of 
+appeals to consider the sufﬁciency of the evidence underlying a civil jury 
+verdict notwithstanding a party’s failure to comply with Rule 50 is fore­
+closed by authority of this Court.  While the dissent observes that § 2106 
+was enacted after Cone and Globe Liquor Co. v. San Roman, 332 U. S. 571 
+(1948), post, at 408 (opinion of Stevens, J.), it fails to note that it was 
+enacted prior to Johnson.  Johnson explicitly reafﬁrmed those earlier 
+cases, concluding that “in the absence of a motion for judgment notwith­
+standing the verdict made in the trial court within ten days after recep­
+tion of a verdict [Rule 50] forbids the trial judge or an appellate court to 
+enter such a judgment.”  344 U. S., at 50.  Moreover, in Neely, this Court 
+observed that § 2106 is “broad enough to include the power to direct entry 
+of judgment n. o. v. on appeal,” 386 U. S., at 322, but nonetheless reaf­
+ﬁrmed that Cone, Globe Liquor, and Johnson “make it clear that an appel­
+late  court  may  not  order  judgment  n.  o.  v.  where  the  verdict  loser 
+has failed strictly to comply with the procedural requirements of Rule 
+

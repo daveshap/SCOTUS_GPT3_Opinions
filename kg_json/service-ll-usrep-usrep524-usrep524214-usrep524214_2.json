@@ -1,0 +1,48 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "discount": "http://schema.org/discount"
+  },
+  "@graph": [
+    {
+      "@id": "cite:524_U_S_214_1998",
+      "cite": "524 U. S. 214 (1998)",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": [
+        "American Telephone & Telegraph Co.",
+        "Central Office Telephone, Inc."
+      ],
+      "reasoning": "Opinion of the Court",
+      "discount": "17% to 20%"
+    },
+    {
+      "@id": "cite:AT&T_Tariff_FCC_No_1_1986",
+      "cite": "AT&T Tariff FCC No. 1 (1986)",
+      "date": "1986",
+      "caseNumber": "AT&T Tariff FCC No. 1",
+      "involvedParties": [
+        "American Telephone & Telegraph Co.",
+        "Federal Communications Commission"
+      ],
+      "reasoning": "Substantive requirements imposed by law",
+      "discount": "None"
+    },
+    {
+      "@id": "cite:AT&T_Tariff_FCC_Nos_1_and_2",
+      "cite": "AT&T Tariff FCC Nos. 1 and 2",
+      "date": "1989",
+      "caseNumber": "AT&T Tariff FCC Nos. 1 and 2",
+      "involvedParties": [
+        "American Telephone & Telegraph Co.",
+        "Central Office Telephone, Inc."
+      ],
+      "reasoning": "Confirmation of respondent's order",
+      "discount": "17% to 20%"
+    }
+  ]
+}

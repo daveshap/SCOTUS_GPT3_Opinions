@@ -1,0 +1,123 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+916  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+enjoy the psychological beneﬁt arising when a high-priced 
+retailer stocks a particular brand of billfold or handbag) and 
+then buy from another dealer at a lower price.  Sometimes 
+this must happen in reality.  But does it happen often?  We 
+do, after all, live in an economy where ﬁrms, despite Dr. 
+Miles’  per  se  rule,  still  sell  complex  technical  equipment 
+(as  well  as  expensive  perfume  and  alligator  billfolds)  to 
+consumers. 
+All this is to say that the ultimate question is not whether, 
+but how much, “free riding” of this sort takes place.  And, 
+after reading the briefs, I must answer that question with 
+an uncertain “sometimes.”  See, e. g., Brief for William S. 
+Comanor et al. as Amici Curiae 6–7 (noting “skepticism in 
+the economic literature about how often [free riding] actually 
+occurs”);  Scherer  &  Ross  551–555  (explaining  the  “severe 
+limitations”  of  the  free-rider  justiﬁcation  for  resale  price 
+maintenance); Pitofsky, Why Dr. Miles Was Right, 8 Regu­
+lation, No. 1, pp. 27, 29–30 (Jan./Feb. 1984) (similar analysis). 
+How easily can courts identify instances in which the bene­
+ﬁts are likely to outweigh potential harms?  My own answer 
+is, not very easily.  For one thing, it is often difﬁcult to iden­
+tify who—producer or dealer—is the moving force behind 
+any given  resale price  maintenance agreement.  Suppose, 
+for  example,  several  large  multibrand  retailers  all  sell 
+resale-price-maintained products.  Suppose further that 
+small  producers  set  retail  prices  because  they  fear  that, 
+otherwise, the large retailers will favor (say, by allocating 
+better shelf space) the goods of other producers who practice 
+resale price maintenance.  Who “initiated” this practice, the 
+retailers hoping for considerable insulation from retail com­
+petition, or the producers, who simply seek to deal best with 
+the circumstances they ﬁnd?  For another thing, as I just 
+said, it is difﬁcult to determine just when, and where, the 
+“free  riding”  problem  is  serious  enough  to  warrant  legal 
+protection. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  917 
+Breyer, J., dissenting 
+I recognize that scholars have sought to develop checklists 
+and sets of questions that will help courts separate instances 
+where anticompetitive harms are more likely from instances 
+where  only  beneﬁts  are  likely  to  be  found.  See,  e. g.,  8 
+Areeda & Hovenkamp ¶¶ 1633c–1633e, at 330–339.  See also 
+Brief for William S. Comanor et al. as Amici Curiae 8–10. 
+But applying these criteria in court is often easier said than 
+done.  The Court’s invitation to consider the existence of 
+“market power,” for example, ante, at 898, invites lengthy 
+time-consuming argument among competing experts, as they 
+seek to apply abstract, highly technical, criteria to often ill­
+deﬁned markets.  And resale price maintenance cases, un­
+like a major merger or monopoly case, are likely to prove 
+numerous  and  involve  only  private  parties.  One  cannot 
+fairly expect judges and juries in such cases to apply complex 
+economic criteria without making a considerable number of 
+mistakes, which themselves may impose serious costs.  See, 
+e. g.,  H.  Hovenkamp,  The  Antitrust  Enterprise  105  (2005) 
+(litigating a rule of reason case is “one of the most costly 
+procedures in antitrust practice”).  See also Bok, Section 7 
+of the Clayton Act and the Merging of Law and Economics, 
+74 Harv. L. Rev. 226, 238–247 (1960) (describing lengthy FTC 
+efforts to apply complex criteria in a merger case). 
+Are there special advantages to a bright-line rule?  With­
+out such a rule, it is often unfair, and consequently impracti­
+cal, for enforcement ofﬁcials to bring criminal proceedings. 
+And since enforcement resources are limited, that loss may 
+tempt some producers or dealers to enter into agreements 
+that are, on balance, anticompetitive. 
+Given the uncertainties that surround key items in the 
+overall balance sheet, particularly in respect to the “admin­
+istrative” questions, I can concede to the majority that the 
+problem is difﬁcult.  And, if forced to decide now, at most 
+I might agree that the per se rule should be slightly modi­
+ﬁed to allow an exception for the more easily identiﬁable 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+918  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Breyer, J., dissenting 
+and temporary condition of “new entry.”  See Pitofsky 1495. 
+But I am not now forced to decide this question.  The ques­
+tion before us is not what should be the rule, starting from 
+scratch.  We here must decide whether to change a clear 
+and simple price-related antitrust rule that the courts have 
+applied for nearly a century. 
+II 
+We write, not on a blank slate, but on a slate that begins 
+with Dr. Miles and goes on to list a century’s worth of simi­
+lar cases, massive amounts of advice that lawyers have pro­
+vided their clients, and untold numbers of business decisions 
+those clients have taken in reliance upon that advice.  See, 
+e. g., United States v. Bausch & Lomb Optical Co., 321 U. S. 
+707, 721 (1944); Sylvania, 433 U. S., at 51, n. 18 (“The per se 
+illegality of [vertical] price restrictions has been established 
+ﬁrmly for many years . . . ”).  Indeed, a Westlaw search 
+shows that Dr. Miles itself has been cited dozens of times in 
+this Court and hundreds of times in lower courts.  Those 
+who wish this Court to change so well-established a legal 
+precedent bear a heavy burden of proof.  See Illinois Brick 
+Co. v. Illinois, 431 U. S. 720, 736 (1977) (noting, in declining 
+to overrule an earlier case interpreting § 4 of the Clayton 
+Act, that “considerations of stare decisis weigh heavily in 
+the area of statutory construction, where Congress is free to 
+change this Court’s interpretation of its legislation”).  I am 
+not aware of any case in which this Court has overturned 
+so  well-established  a  statutory  precedent.  Regardless,  I 
+do not see how the Court can claim that ordinary criteria 
+for  overruling  an  earlier  case  have  been  met.  See,  e. g., 
+Planned Parenthood of Southeastern Pa. v. Casey, 505 U. S. 
+833, 854–855 (1992).  See also Federal Election Comm’n v. 
+Wisconsin Right to Life, Inc., ante, at 500–503 (Scalia, J., 
+concurring in part and concurring in judgment). 
+

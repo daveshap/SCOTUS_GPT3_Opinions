@@ -1,0 +1,80 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "datePublished": "09-20-1121:22:06",
+  "court": "Supreme Court of the United States",
+  "dissentingOpinion": {
+    "@type": "Person",
+    "name": "Breyer, J.",
+    "text": "On the one hand, agreements setting minimum resale prices may have serious anticompetitive consequences. In respect to dealers: Resale price maintenance agreements, rather like horizontal price agreements, can diminish or eliminate price competition among dealers of a single brand or (if practiced generally by manufacturers) among multi-brand dealers. In doing so, they can prevent dealers from offering customers the lower prices that many customers prefer; they can prevent dealers from responding to changes in demand, say, falling demand, by cutting prices; they can encourage dealers to substitute service, for price, competition, thereby threatening wastefully to attract too many resources into that portion of the industry; they can inhibit expansion by more efficient dealers whose lower prices might otherwise attract more customers, stifling the development of new, more efficient modes of retailing; and so forth. In respect to producers: Resale price maintenance agreements can help to reinforce the competition-inhibiting behavior of firms in concentrated industries. In such industries firms may tacitly collude, i.e., observe each other’s pricing behavior, each understanding that price cutting by one firm is likely to trigger price competition by all. Where that is so, resale price maintenance can make it easier for each producer to identify (by observing retail markets) when a competitor has begun to cut prices. And a producer who cuts wholesale prices without lowering the minimum resale price will stand to gain little, if anything, in increased profits, because the dealer will be unable to stimulate increased consumer demand by passing along the producer’s price cut to consumers. In either case, resale price maintenance agreements will tend to prevent price competition from “breaking out”; and they will thereby tend to stabilize producer prices."
+  },
+  "citations": [
+    {
+      "@type": "LegalCaseCitation",
+      "name": "551 U. S. 877 (2007)",
+      "references": [
+        {
+          "@type": "LegalCaseReference",
+          "name": "8 P. Areeda, Antitrust Law ¶¶ 1628–1633, pp. 330–392 (1st ed. 1989)",
+          "author": "Areeda"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "8 P. Areeda & H. Hovenkamp, Antitrust Law ¶¶ 1628–1633, pp. 288–339 (2d ed. 2004)",
+          "author": "Areeda & Hovenkamp"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Easterbrook, Vertical Arrangements and the Rule of Reason, 53 Antitrust L. J. 135, 146–152 (1984)",
+          "author": "Easterbrook"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Pitofsky, In Defense of Discounters: The No-Frills Case for a Per Se Rule Against Vertical Price Fixing, 71 Geo. L. J. 1487 (1983)",
+          "author": "Pitofsky"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Scherer, The Economics of Vertical Restraints, 52 Antitrust L. J. 687, 706–707 (1983)",
+          "author": "Scherer"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Posner, The Next Step in the Antitrust Treatment of Restricted Distribution: Per Se Legality, 48 U. Chi. L. Rev. 6, 22–26 (1981)",
+          "author": "Posner"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Brief for William S. Comanor et al. as Amici Curiae 7–10",
+          "author": "Comanor et al."
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Hearings on S. 408 before the Subcommittee on Antitrust and Monopoly of the Senate Committee on the Judiciary, 94th Cong., 1st Sess., 173 (1975)",
+          "author": "Kauper"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Hearings on H. R. 2384 before the Subcommittee on Monopolies and Commercial Law of the House Committee on the Judiciary, 94th Cong., 1st Sess., 122 (1975)",
+          "author": "Clearwaters"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Bureau of Economics Staff Report to the FTC, T. Overstreet, Resale Price Maintenance: Economic Theories and Empirical Evidence 160 (1983)",
+          "author": "Overstreet"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "8 Areeda & Hovenkamp ¶ 1604b, at 40 (finding “[t]he evidence . . . persuasive on this point”)",
+          "author": "Areeda & Hovenkamp"
+        },
+        {
+          "@type": "LegalCaseReference",
+          "name": "Brief for William S. Comanor et al. as Amici Curiae 4",
+          "author": "Comanor et al."
+        }
+      ]
+    }
+  ]
+}

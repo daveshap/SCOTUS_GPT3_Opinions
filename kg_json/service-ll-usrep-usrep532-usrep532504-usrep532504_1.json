@@ -1,0 +1,51 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Major League Baseball Players Association v. Garvey",
+  "caseNumber": "00-1210",
+  "dateDecided": "2001-05-14",
+  "court": "Supreme Court of the United States",
+  "citation": "532 U. S. 504 (2001)",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Major League Baseball Players Association"
+    },
+    {
+      "@type": "Person",
+      "name": "Steve Garvey"
+    },
+    {
+      "@type": "Organization",
+      "name": "Major League Baseball Clubs"
+    }
+  ],
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Paperworkers v. Misco, Inc.",
+      "caseNumber": "484 U. S. 29",
+      "dateDecided": "1988"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Steelworkers v. Enterprise Wheel & Car Corp.",
+      "caseNumber": "363 U.S. 593",
+      "dateDecided": "1960"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Garvey I",
+      "caseNumber": "243 F. 3d 547",
+      "dateDecided": "2001"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Garvey II",
+      "caseNumber": "243 F. 3d 547",
+      "dateDecided": "2001"
+    }
+  ],
+  "reasoningForIncluding": "The Court of Appeals for the Ninth Circuit rejected an arbitrator's factual findings and then resolved the merits of the parties' dispute instead of remanding the case for further arbitration proceedings.",
+  "outcome": "The Supreme Court granted the petition for a writ of certiorari and reversed. The motions for leave to file briefs amicus curiae of the National Academy of Arbitrators and the Office of the Commissioner of Baseball were granted. The case was remanded for further arbitration proceedings."
+}

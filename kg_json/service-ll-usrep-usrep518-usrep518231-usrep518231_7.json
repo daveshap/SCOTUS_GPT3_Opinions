@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "cite:518_U_S_231_1996",
+      "cite": "518 U. S. 231 (1996)",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": ["Brown v. Pro Football, Inc."],
+      "reasoning": "The implicit antitrust exemption applies to the employer conduct at issue here.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:782_F_Supp_125_DC_1991",
+      "cite": "782 F. Supp. 125 (DC 1991)",
+      "date": "1991",
+      "caseNumber": "782 F. Supp. 125",
+      "involvedParties": ["Brown v. Pro Football, Inc."],
+      "reasoning": "The District Court, the Court of Appeals, petitioners, and this Court rest the case.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:50_F_3d_1056_1995",
+      "cite": "50 F. 3d 1056 (1995)",
+      "date": "1995",
+      "caseNumber": "50 F. 3d 1056",
+      "involvedParties": ["Brown v. Pro Football, Inc."],
+      "reasoning": "The Court of Appeals suggested that the exemption lasts until collapse of the collective-bargaining relationship, as evidenced by decertification of the union.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:El_Cerrito_Mill_Lumber_Co_316_NLRB_1006_1994",
+      "cite": "El Cerrito Mill & Lumber Co., 316 NLRB 1006 (1994)",
+      "date": "1994",
+      "caseNumber": "316 NLRB 1006",
+      "involvedParties": ["El Cerrito Mill & Lumber Co."],
+      "reasoning": "The Court of Appeals suggested that an 'extremely long' impasse, accompanied by 'instability' or 'defunctness' of multiemployer unit, might justify union withdrawal from group bargaining.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:Buffalo_Linen_353_U_S_91_1957",
+      "cite": "Buffalo Linen, 353 U. S. 91 (1957)",
+      "date": "1957",
+      "caseNumber": "353 U. S. 91",
+      "involvedParties": ["Buffalo Linen"],
+      "reasoning": "Congress 'intended to leave' many of the 'inevitable questions concerning multiemployer bargaining bound to arise in the future' to the specialized judgment of the Board.",
+      "opinion": "Opinion of the Court"
+    },
+    {
+      "@id": "cite:Jewel_Tea_381_U_S_676_1965",
+      "cite": "Jewel Tea, 381 U. S. 676 (1965)",
+      "date": "1965",
+      "caseNumber": "381 U. S. 676",
+      "involvedParties": ["Jewel Tea"],
+      "reasoning": "Congress 'intended to leave' many of the 'inevitable questions concerning multiemployer bargaining bound to arise in the future' to the specialized judgment of the Board.",
+      "opinion": "Opinion of the Court"
+    }
+  ]
+}

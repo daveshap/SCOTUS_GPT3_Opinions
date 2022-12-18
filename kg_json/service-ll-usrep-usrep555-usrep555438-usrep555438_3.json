@@ -1,0 +1,105 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Pacific Bell Telephone Co. v. Linkline Communications, Inc.",
+  "datePublished": "2009-01-28",
+  "caseNumber": "555 U.S. 438",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Pacific Bell Telephone Co."
+    },
+    {
+      "@type": "Organization",
+      "name": "Linkline Communications, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "AT&T"
+    },
+    {
+      "@type": "Organization",
+      "name": "Verizon Communications Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "Law Ofﬁces of Curtis V. Trinko, LLP"
+    },
+    {
+      "@type": "Organization",
+      "name": "Brooke Group Ltd."
+    },
+    {
+      "@type": "Organization",
+      "name": "Brown & Williamson Tobacco Corp."
+    },
+    {
+      "@type": "Organization",
+      "name": "Covad Communications Co."
+    },
+    {
+      "@type": "Organization",
+      "name": "Bell Atlantic Corp."
+    },
+    {
+      "@type": "Organization",
+      "name": "COMPTEL"
+    }
+  ],
+  "reasoningForIncluding": [
+    {
+      "@type": "LegalCase",
+      "name": "AT&T moved for judgment on the pleadings, arguing that the plaintiffs’ claims in this case were foreclosed by Trinko.",
+      "datePublished": "2004-01-28",
+      "caseNumber": "540 U.S. 398"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "The District Court held that AT&T had no antitrust duty to deal with the plaintiffs, App. to Pet. for Cert. 77a–85a, but it denied the motion to dismiss with respect to the price­squeeze claims, id., at 86a–90a.",
+      "datePublished": "2009-01-28",
+      "caseNumber": "555 U.S. 438"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "The District Court did not reach the issue whether all price-squeeze claims must meet the Brooke Group requirements, because it concluded that the amended complaint, “generously construed,” satisﬁed those criteria.",
+      "datePublished": "2009-01-28",
+      "caseNumber": "555 U.S. 438"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "The Court of Appeals afﬁrmed the District Court’s denial of AT&T’s motion for judgment on the pleadings on the price-squeeze claims.",
+      "datePublished": "2007-01-28",
+      "caseNumber": "503 F. 3d 876"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Judge Gould argued that “the retail side of a price squeeze cannot be considered to create an antitrust violation if the retail pricing does not satisfy the requirements of Brooke Group, which set unmistakable limits on what can be considered to be predatory within the meaning of the antitrust laws.”",
+      "datePublished": "2007-01-28",
+      "caseNumber": "503 F. 3d 876"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Judge Gould concluded that the plaintiffs’ complaint did not satisfy these requirements because it contained no allegations that the retail price was set below cost and that those losses could later be recouped.",
+      "datePublished": "2007-01-28",
+      "caseNumber": "503 F. 3d 876"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "We granted certiorari, 554 U. S. 916 (2008), to resolve a conﬂict over whether a plaintiff can bring price-squeeze claims under § 2 of the Sherman Act when the defendant has no antitrust duty to deal with the plaintiff.",
+      "datePublished": "2008-01-28",
+      "caseNumber": "554 U.S. 916"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Covad Communications Co. v. Bell Atlantic Corp., 398 F. 3d 666, 673–674 (CADC 2005) (holding that Trinko bars such claims).",
+      "datePublished": "2005-01-28",
+      "caseNumber": "398 F. 3d 666"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 209, 222–224 (1993).",
+      "datePublished": "1993-01-28",
+      "caseNumber": "509 U. S. 209"
+    }
+  ]
+}

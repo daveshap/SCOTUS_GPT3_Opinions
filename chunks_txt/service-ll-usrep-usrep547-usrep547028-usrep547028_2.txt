@@ -1,0 +1,126 @@
+
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  31 
+Opinion of the Court 
+Justice Stevens delivered the opinion of the Court. 
+In Jefferson Parish Hospital Dist. No. 2 v. Hyde, 466 U. S. 
+2 (1984), we repeated the well-settled proposition that “if 
+the Government has granted the seller a patent or similar 
+monopoly over a product, it is fair to presume that the inabil­
+ity to buy the product elsewhere gives the seller market 
+power.”  Id., at 16.  This presumption of market power, ap­
+plicable in the antitrust context when a seller conditions its 
+sale of a patented product (the “tying” product) on the pur­
+chase of a second product (the “tied” product), has its founda­
+tion in the judicially created patent misuse doctrine.  See 
+United States v. Loew’s Inc., 371 U. S. 38, 46 (1962).  In 1988, 
+Congress substantially undermined that foundation, amend­
+ing the Patent Act to eliminate the market power presump­
+tion in patent misuse cases.  See 102 Stat. 4676, codiﬁed at 
+35 U. S. C. § 271(d).  The question presented to us today is 
+whether  the  presumption  of  market  power  in  a  patented 
+product should survive as a matter of antitrust law despite 
+its demise in patent law.  We conclude that the mere fact 
+that a tying product is patented does not support such a 
+presumption. 
+I 
+Petitioners,  Trident,  Inc.,  and  its  parent,  Illinois  Tool 
+Works Inc., manufacture and market printing systems that 
+include three relevant components: (1) a patented piezoelec­
+tric impulse ink jet printhead; (2) a patented ink container, 
+consisting of a bottle and valved cap, which attaches to the 
+printhead; and (3) specially designed, but unpatented, ink. 
+for the American Antitrust Institute et al. by Jonathan Rubin; for the 
+International Imaging Technology Council et al. by Patricia Judge; for 
+the National Association of Theatre Owners, Inc., et al. by John T. Mitch­
+ell; for Barry Nalebuff et al. by Alan I. Horowitz; and for F. M. Scherer 
+by Parker C. Folse III and Justin A. Nelson. 
+Patrick J. Coyne, Kenneth M. Frankel, and William C. Rooklidge ﬁled 
+a brief of amicus curiae for the American Intellectual Property Law 
+Association. 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+32  ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC. 
+Opinion of the Court 
+Petitioners sell their systems to original equipment manufac­
+turers (OEMs) who are licensed to incorporate the print­
+heads and containers into printers that are in turn sold to 
+companies for use in printing barcodes on cartons and pack­
+aging materials.  The OEMs agree that they will purchase 
+their ink exclusively from petitioners, and that neither they 
+nor their customers will reﬁll the patented containers with 
+ink of any kind. 
+Respondent, Independent Ink, Inc., has developed an ink 
+with the same chemical composition as the ink sold by peti­
+tioners.  After an infringement action brought by Trident 
+against Independent was dismissed for lack of personal juris­
+diction,  Independent  ﬁled  suit  against  Trident  seeking  a 
+judgment of noninfringement and invalidity of Trident’s pat­
+ents.1  In an amended complaint, it alleged that petitioners 
+are engaged in illegal tying and monopolization in violation 
+of §§1 and 2 of the Sherman Act.  15 U. S. C. §§1, 2. 
+After  discovery,  the  District  Court  granted  petitioners’ 
+motion for summary judgment on the Sherman Act claims. 
+Independent Ink, Inc. v. Trident, Inc., 210 F. Supp. 2d 1155, 
+1177 (CD Cal. 2002).  It rejected respondent’s submission 
+that petitioners “necessarily have market power in the mar­
+ket for the tying product as a matter of law solely by virtue 
+of the patent on their printhead system, thereby rendering 
+[the] tying arrangements per se violations of the antitrust 
+laws.”  Id., at 1159.  Finding that respondent had submit­
+ted no afﬁrmative evidence deﬁning the relevant market or 
+establishing petitioners’ power within it, the court concluded 
+that respondent could not prevail on either antitrust claim. 
+Id.,  at  1167,  1173,  1177.  The  parties  settled  their  other 
+claims, and respondent appealed. 
+After a careful review of the “long history of Supreme 
+Court consideration of the legality of tying arrangements,” 
+396 F. 3d 1342, 1346 (2005), the Court of Appeals for the 
+1 Illinois Tool did not acquire Trident until February 19, 1999, approxi­
+mately six months after this action commenced. 
+
+NEW PAGE
+
+547US1 Unit:$U38 [03-16-0914:11:53] PAGES PGT:OPIN
+Cite as: 547 U. S. 28 (2006)  33 
+Opinion of the Court 
+Federal Circuit reversed the District Court’s decision as to 
+respondent’s § 1 claim, id., at 1354.  Placing special reliance 
+on our decisions in International Salt Co. v. United States, 
+332 U. S. 392 (1947), and Loew’s, 371 U. S. 38, as well as our 
+Jefferson Parish dictum, and after taking note of the aca­
+demic criticism of those cases, it concluded that the “funda­
+mental error” in petitioners’ submission was its disregard of 
+“the duty of a court of appeals to follow the precedents of the 
+Supreme Court until the Court itself chooses to expressly 
+overrule them.”  396 F. 3d, at 1351.  We granted certiorari 
+to undertake a fresh examination of the history of both the 
+judicial  and  legislative  appraisals  of  tying  arrangements. 
+545 U. S. 1127 (2005).  Our review is informed by extensive 
+scholarly comment and a change in position by the adminis­
+trative agencies charged with enforcement of the antitrust 
+laws. 
+II 
+American courts ﬁrst encountered tying arrangements in 
+the  course  of  patent  infringement  litigation.  See,  e. g., 
+Heaton-Peninsular  Button-Fastener  Co.  v.  Eureka  Spe­
+cialty Co., 77 F. 288 (CA6 1896).  Such a case came before 
+this Court in Henry v. A. B. Dick Co., 224 U. S. 1 (1912), in 
+which, as in the case we decide today, unpatented ink was 
+the product that was “tied” to the use of a patented product 
+through  the  use  of  a  licensing  agreement.  Without  com­
+menting on the tying arrangement, the Court held that use 
+of a competitor’s ink in violation of a condition of the agree­
+ment—that the rotary mimeograph “ ‘may be used only with 
+the stencil, paper, ink and other supplies made by A. B. Dick 
+Co.’ ”—constituted  infringement  of  the  patent  on  the  ma­
+chine.  Id.,  at  25–26.  Chief  Justice  White  dissented,  ex­
+plaining  his  disagreement  with  the  Court’s  approval  of  a 
+practice  that  he  regarded  as an  “attempt  to  increase  the 
+scope of the monopoly granted by a patent . . . which tend[s] 
+to increase monopoly and to burden the public in the exercise 
+of their common rights.”  Id., at 70.  Two years later, Con­
+

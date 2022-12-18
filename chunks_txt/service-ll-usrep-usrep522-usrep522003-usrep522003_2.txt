@@ -1,0 +1,122 @@
+
+
+STATE OIL CO. v. KHAN
+Counsel
+General  of Idaho,  and Brett T  DeLange, Deputy Attorney
+General,  Jim Ryan, Attorney General  of Illinois, and Bar-
+bara Preiner,S olicitor General, Thomas J. Miller, Attorney
+General of Iowa, and Elizabeth M. Osenbaugh, Solicitor Gen-
+eral, CarlaJ  Stovall, Attorney General of Kansas, and John
+W. Campbell, Deputy Attorney  General, J  Joseph Curran,
+Jr., Attorney General of Maryland, and Ellen S. Cooper, As-
+sistant Attorney General, Frank J Kelley, Attorney General
+of Michigan,  and Fredrick H. Hoffecker, Hubert H. Hum-
+phrey III, Attorney General of Minnesota, Mike Moore, At-
+torney General  of Mississippi, and James F. Steel, Deputy
+Attorney General, Joseph P. Mazurek, Attorney General  of
+Montana, Frankie Sue Del Papa, Attorney General  of Ne-
+vada, Steven M. Houran, Acting Attorney General  of New
+Hampshire, and Walter L. Maroney, Senior Assistant Attor-
+ney General, Peter Verniero, Attorney General of New Jer-
+sey, and Laurel A. Price, Deputy Attorney  General,  Tom
+Udall, Attorney  General  of  New  Mexico,  and  Susan  G.
+White, Assistant Attorney General, Michael F. Easley, At-
+torney General of North Carolina, and K. D. Sturgis, Assist-
+ant Attorney  General,  Heidi Heitkamp, Attorney  General
+of North Dakota, and Laurie J Loveland, Solicitor General,
+D. Michael Fisher, Attorney General  of Pennsylvania, and
+James A. Donahue III, Acting Chief Deputy Attorney Gen-
+eral,  Jeffrey B. Pine, Attorney  General  of Rhode  Island,
+Mark Barnett, Attorney  General  of  South  Dakota, 'John
+Knox Walkup, Attorney General  of Tennessee,  Michael E.
+Moore, Solicitor General, and Dennis Garvey, Interim Dep-
+uty Attorney General,  Dan Morales, Attorney  General  of
+Texas,  Jorge Vega, First  Assistant Attorney  General,  and
+Laquita A. Hamilton, Deputy Attorney General,  James S.
+Gilmore III, Attorney  General  of  Virginia,  and  Frank
+Seales, Jr., Senior Assistant Attorney General,  Christine 0.
+Gregoire, Attorney General of Washington, and Jon P. Fer-
+guson, Darrell V  McGraw, Jr., Attorney  General of West
+Virginia, James E. Doyle, Attorney  General  of Wisconsin,
+
+NEW PAGE
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+and  Kevin J  O'Connor, Assistant  Attorney  General,  and
+William U. Hill, Attorney General of Wyoming.*
+JUSTICE  O'CONNOR delivered the opinion of the Court.
+Under § 1 of the Sherman Act, 26 Stat. 209, as amended,
+15 U. S. C. § 1, "[e]very contract, combination...,  or conspir-
+acy, in restraint of trade" is illegal.  In Albrecht v. Herald
+Co., 390 U. S. 145 (1968),  this Court held that vertical maxi-
+mum price fixing is a per se  violation  of that statute.  In
+this case, we are asked to reconsider that decision  in light
+of subsequent  decisions  of this  Court.  We  conclude  that
+Albrecht should be overruled.
+I
+Respondents, Barkat U. Khan and his corporation, entered
+into  an  agreement  with petitioner,  State  Oil  Company, to
+lease and operate a gas station and convenience store owned
+*Briefs of amici curiae urging reversal were filed for the American
+Automobile Manufacturers Association et al. by Stephen M. Shapiro,R  oy
+T Englert, Jr., Donald M. Falk, Phillip D. Brady, and Charles H. Lock-
+wood II; for the American Petroleum Institute by Edwin M. Zimmerman,
+Robert A  Long, Jr., G. William Frick, Harry M. Ng, and Douglas W.
+Morris;f or the Business Roundtable by Thomas B. Leary and Robert C.
+Weinbaum; and for the Newspaper Association of America et al. by Wil-
+liam T Lifland, PatriciaF  arren,D  avid S. J  Brown, Rene P. Milam,
+Peter C. Gould, Andrew Merdek, William T Garcia, CristinaL . Mendoza,
+and George Freeman.
+Briefs of amici curiae were filed for the Association of the Bar of the
+City of New York by Richard M. Steuer; for the Coalition for Fair Con-
+sumer Pricing by Steven B. Feirman,B  arry M. Heller, H. Bret Lowell,
+Philip F. Zeidman, and Stanley J  Adelman; for the Minnesota Service
+Station and Convenience Store Association et al. by Gary E. Persiana nd
+Paul E. Slater; for the National Association of ManufactureM by Mark
+L. Davidson, Jan S. Amundson, and Quentin Riegel; for the National
+Automobile  Dealers Association by Paul R. Norman; for the National
+Beer Wholesalers Association, Inc., by Ernest Gellhorn, Donald I. Baker,
+and W. Todd Miller; and for the Service Station Dealers of America by
+Peter H. Gunst.
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+by  State  Oil.  The  agreement  provided  that  respondents
+would obtain the station's gasoline supply from State Oil at
+a price equal to a suggested retail price set by State Oil, less
+a margin  of 3.25  cents per gallon. - -Under the agreement,
+respondents could charge any amount for gasoline sold to the
+station's customers, but if the price charged was higher than
+State Oil's  suggested retail price, the excess  was to be re-
+bated to State Oil.  Respondents  could sell gasoline for less
+than State Oils suggested retail price, but any such decrease
+would reduce their 3.25 cents-per-gallon  margin.
+About a year after respondents began  operating the gas
+station, they fell behind in lease payments.  State Oil then
+gave notice of its intent to terminate the agreement and com-
+menced  a state court proceeding  to evict respondents.  At
+State Oil's request, the state court appointed a receiver  to
+operate the gas station.  The receiver  operated the station
+for  several  months without being  subject  to the price  re-
+straints in respondents' agreement with State Oil.  Accord-
+ing to respondents,  the receiver  obtained  an overall profit
+margin in excess  of 3.25 cents  per gallon by lowering  the
+price of regular-grade gasoline and raising the price of pre-
+mium grades.
+Respondents  sued State Oil in the United States District
+Court for the Northern  District of Illinois, alleging in part
+that State Oil had engaged in price fixing in violation of § 1
+of the Sherman Act by preventing respondents from raising
+or lowering retail gas prices.  According  to the complaint,
+but for the agreement with State Oil, respondents could have
+charged different prices based on the grades  of gasoline, in
+the  same  way  that  the  receiver  had,  thereby  achieving
+increased  sales and  profits.  State  Oil responded  that  the
+agreement did not actually prevent respondents from setting
+gasoline prices, and that, in substance, respondents did not
+allege a violation of antitrust laws by their claim that State
+Oil's suggested retail price was not optimal.
+

@@ -1,0 +1,124 @@
+
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+were so low that antitrust suits themselves became a tool for
+keeping prices high.
+B
+Liggett does not allege that Brown & Williamson  sought
+to drive  it from the market but that Brown  & Williamson
+sought to preserve supracompetitive profits on branded ciga-
+rettes by  pressuring  Liggett to raise  its generic  cigarette
+prices through a process of tacit collusion with the other cig-
+arette companies.  Tacit collusion, sometimes called oligopo-
+listic  price  coordination  or conscious  parallelism,  describes
+the process, not in itself unlawful, by which firms in a concen-
+trated market might in effect share monopoly power, setting
+their prices at a profit-maximizing, supracompetitive level by
+recognizing their shared economic interests and their inter-
+dependence with respect to price and output decisions.  See
+2 Areeda & Turner  404; Scherer & Ross 199-208.
+In Matsushita,w  e remarked upon the general implausibil-
+ity of predatory pricing.  See 475 U. S., at 588-590.  Matsu-
+shita observed that such schemes are even more improbable
+when they require  coordinated  action among several firms.
+Id., at 590.  Matsushita involved an allegation of an express
+conspiracy to engage in predatory pricing.  The Court noted
+that in  addition  to the usual difficulties  that face  a  single
+firm attempting to recoup predatory losses, other problems
+render a conspiracy "incalculably  more difficult to execute."
+Ibid.  In order to succeed, the conspirators must agree on
+how  to allocate present losses  and future  gains  among the
+firms involved, and each firm must resist powerful incentives
+to cheat on whatever agreement is reached.  Ibid.
+However unlikely predatory pricing by multiple firms may
+be when they conspire, it is even less likely when, as here,
+there is no express coordination.  Firms that seek to recoup
+predatory losses through the conscious parallelism of oligop-
+oly must rely on uncertain and ambiguous signals to achieve
+concerted action.  The signals are subject to misinterpreta-
+tion and are a blunt and imprecise means of ensuring smooth
+
+NEW PAGE
+
+228  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+cooperation,  especially  in  the  context  of  changing  or  un-
+precedented  market  circumstances.  This  anticompetitive
+minuet is most difficult to compose and to perform, even for
+a disciplined oligopoly.
+From  one  standpoint,  recoupment  through  oligopolistic
+price  coordination could  be thought  more feasible  than re-
+coupment  through  monopoly:  In  the oligopoly  setting,  the
+victim  itself has an  economic  incentive  to acquiesce  in  the
+scheme.  If forced to choose between cutting prices and sus-
+taining losses, maintaining  prices and losing market share,
+or raising prices  and enjoying  a share  of supracompetitive
+profits, a firm may yield to the last alternative.  Yet on the
+whole, tacit cooperation  among oligopolists must be  consid-
+ered  the least  likely means  of recouping predatory  losses.
+In addition to the difficulty of achieving effective tacit coor-
+dination  and the high likelihood  that any attempt  to  disci-
+pline will produce an outbreak of competition, the predator's
+present losses in a case like this fall on it alone, while  the
+later  supracompetitive  profits  must  be  shared  with  every
+other oligopolist in proportion to its market share, including
+the intended  victim.  In  this  case, for  example,  Brown  &
+Williamson,  with its 11-12% share  of the cigarette market,
+would have  had to generate  around  $9 in supracompetitive
+profits for each  $1 invested  in predation;  the remaining  $8
+would belong to its competitors, who had taken no risk.
+Liggett suggests that these considerations  led the Court
+of Appeals  to rule  out its theory  of recovery  as a  matter
+of law.  Although the proper interpretation of the Court of
+Appeals' opinion is not free from doubt, there is some indica-
+tion that it held as a matter of law that the Robinson-Patman
+Act does not reach a primary-line injury claim in which tacit
+coordination  among oligopolists  provides  the  alleged basis
+for  recoupment.  The  Court  of Appeals'  opinion  does  not
+contain  the traditional  apparatus  of fact  review;  rather, it
+focuses on theoretical and legal arguments.  The final para-
+graph  appears  to  state  the holding:  Brown  & Williamson
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+may  not  be  held liable  because  oligopoly  pricing  does  not
+"'provide  an  economically  rational  basis"'  for  recouping
+predatory losses.  964 F. 2d, at 342.
+To the extent that the Court of Appeals  may  have held
+that the interdependent  pricing  of an  oligopoly  may never
+provide a means for achieving recoupment  and so may not
+form  the basis of a primary-line  injury claim, we disagree.
+A predatory pricing scheme designed  to preserve or create
+a stable oligopoly, if successful, can injure consumers in the
+same way, and to the same extent, as one designed to bring
+about a monopoly.  However unlikely that possibility may be
+as a general matter, when the realities of the market and the
+record facts  indicate that it has occurred  and was  likely to
+have succeeded, theory will not stand in the way of liability.
+See Eastman Kodak Co. v. Image Technical Services, Inc.,
+504 U. S. 451, 466-467 (1992).
+The Robinson-Patman Act, which amended § 2 of the origi-
+nal Clayton Act, suggests no exclusion from coverage when
+primary-line  injury  occurs  in an  oligopoly  setting.  Unlike
+the provisions of the Sherman Act, which speak only of vari-
+ous forms of express agreement and monopoly, see 15 U. S. C.
+§§ 1, 2, the Robinson-Patman  Act is phrased in broader, dis-
+junctive terms, prohibiting price discrimination  "where the
+effect of such discrimination  may be substantially  to lessen
+competition or tend to create a monopoly,"  15 U. S. C. § 13(a).
+For all the words of the Act to carry adequate meaning, com-
+petitive  injury under the Act must  extend beyond the mo-
+nopoly setting.  Cf. Reiter v. Sonotone Corp., 442 U. S.  330,
+339  (1979)  ("Canons of construction  ordinarily suggest  that
+terms  connected  by a  disjunctive be  given separate  mean-
+ings, unless the context dictates otherwise").  The language
+referring  to a substantial lessening of competition  was part
+of the original Clayton Act § 2, see Act of Oct. 15,  1914, ch.
+322,  38 Stat. 730, and  the  same phrasing  appears  in § 7  of
+that Act.  In the § 7 context, it has long  been settled that
+excessive  concentration, and the oligopolistic price coordina-
+

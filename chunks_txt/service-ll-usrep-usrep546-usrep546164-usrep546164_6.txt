@@ -1,0 +1,126 @@
+
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  179 
+Opinion of the Court 
+not affected by differential pricing; a dealer in the competi­
+tive bidding process here at issue approaches Volvo for a 
+price concession only after it has been selected by a retail 
+customer to submit a bid.  Competition for an opportunity 
+to bid, we earlier observed, is based on a variety of factors, 
+including the existence vel non of a relationship between the 
+potential bidder and the customer, geography, and reputa­
+tion.  See supra, at 170.3  We reiterate in this regard an 
+observation  made  by  Judge  Hansen,  dissenting  from  the 
+Eighth Circuit’s Robinson-Patman holding: Once a retail cus­
+tomer has chosen the particular dealers from which it will 
+solicit  bids,  “the  relevant  market  becomes  limited  to  the 
+needs and demands of a particular end user, with only a 
+handful  of  dealers  competing  for  the  ultimate  sale.”  374 
+F. 3d, at 719.  That Volvo dealers may bid for sales in the 
+same geographic area does not import that they in fact com­
+peted  for  the  same  customer-tailored  sales.  In  sum,  the 
+purchase-to-purchase and offer-to-purchase comparisons fail 
+to show that Volvo sold at a lower price to Reeder’s “compet­
+itors,” hence those comparisons do not support an inference 
+of competitive injury.  See Falls City Industries, 460 U. S., 
+at 435 (inference of competitive injury under Morton Salt 
+arises from “proof of a substantial price discrimination be­
+tween competing purchasers over time” (emphasis added)). 
+B 
+Reeder did offer evidence of two instances in which it com­
+peted head to head with another Volvo dealer.  See supra, 
+at 171–172.  When multiple dealers bid for the business of 
+the same customer, only one dealer will win the business 
+and thereafter purchase the supplier’s product to fulﬁll its 
+3 A dealer’s reputation for securing favorable concessions, we recognize, 
+may inﬂuence the customer’s bidding invitations.  Cf. post, at 183, n. 2. 
+We do not pursue that point here, however, because Reeder did not 
+present—or even look for—evidence that Volvo consistently disfavored 
+Reeder while it consistently favored certain other dealers.  See supra, 
+at 172–173. 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+180  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Opinion of the Court 
+contractual commitment.  Because Robinson-Patman “pro­
+hibits only discrimination ‘between different purchasers,’” 
+Brief for Petitioner 26 (quoting 15 U. S. C. § 13(a); emphasis 
+added), Volvo and the  United States argue, the Act does 
+not reach markets characterized by competitive bidding and 
+special-order sales, as opposed to sales from inventory.  See 
+Brief for Petitioner 27; Brief for United States as Amicus 
+Curiae 9, 17–20.  We need not decide that question today. 
+Assuming the Act applies to the head-to-head transactions, 
+Reeder  did  not  establish  that  it  was  disfavored  vis-a`-vis 
+other Volvo dealers in the rare instances in which they com­
+peted for the same sale—let alone that the alleged discrimi­
+nation  was  substantial.  See  1  ABA  Section  of  Antitrust 
+Law, Antitrust Law Developments 478–479 (5th ed. 2002) 
+(“No inference of injury to competition is permitted when 
+the discrimination is not substantial.” (collecting cases)). 
+Reeder’s evidence showed loss of only one sale to another 
+Volvo dealer, a sale of 12 trucks that would have generated 
+$30,000 in gross proﬁts for Reeder.  374 F. 3d, at 705.  Per 
+its policy, Volvo initially offered Reeder and the other dealer 
+the same concession.  Volvo ultimately granted a larger con­
+cession to the other dealer, but only after it had won the 
+bid.  In the only other instance of head-to-head competition 
+Reeder identiﬁed, Volvo increased Reeder’s initial 17% dis­
+count to 18.9%, to match the discount offered to the other 
+competing Volvo dealer; neither dealer won the bid.  See 
+supra, at 172.  In short, if price discrimination between two 
+purchasers existed at all, it was not of such magnitude as 
+to affect substantially competition between Reeder and the 
+“favored” Volvo dealer. 
+IV 
+Interbrand competition, our opinions afﬁrm, is the “pri­
+mary concern of antitrust law.”  Continental T. V., Inc. v. 
+GTE Sylvania Inc., 433 U. S. 36, 51–52, n. 19 (1977).  The 
+Robinson-Patman Act signals no large departure from that 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  181 
+Opinion of the Court 
+main concern.  Even if the Act’s text could be construed in 
+the manner urged by Reeder and embraced by the Court of 
+Appeals, we would resist interpretation geared more to the 
+protection of existing competitors than to the stimulation of 
+competition.4  In the case before us, there is no evidence 
+that any favored purchaser possesses market power, the al­
+legedly  favored  purchasers  are  dealers  with  little  resem­
+blance to large independent department stores or chain oper­
+ations, and the supplier’s selective price discounting fosters 
+competition among suppliers of different brands.  See id., at 
+51–52 (observing that the market impact of a vertical prac­
+tice, such as a change in a supplier’s distribution system, may 
+be a “simultaneous reduction of intrabrand competition and 
+stimulation of interbrand competition”).  By declining to ex­
+tend Robinson-Patman’s governance to such cases, we con­
+tinue to construe the Act “consistently with broader policies 
+of  the  antitrust  laws.”  Brooke  Group,  509  U. S.,  at  220 
+(quoting Great Atlantic & Paciﬁc Tea Co. v. FTC, 440 U. S. 
+69, 80, n. 13 (1979)); see Automatic Canteen Co. of America 
+v. FTC, 346 U. S. 61, 63 (1953) (cautioning against Robinson-
+Patman constructions that “extend beyond the prohibitions 
+of the Act and, in doing so, help give rise to a price uniform­
+ity and rigidity in open conﬂict with the purposes of other 
+antitrust legislation”).5 
+4 The dissent assails Volvo’s decision to reduce the number of its dealers. 
+Post, at 183.  But Robinson-Patman does not bar a manufacturer from 
+restructuring its distribution networks to improve the efﬁciency of its op­
+erations.  If Volvo did not honor its obligations to Reeder as its fran­
+chisee, “[a]ny remedy . . . lies in state laws addressing unfair competition 
+and the rights of franchisees, not in the Robinson-Patman Act.”  Brief 
+for United States as Amicus Curiae 28. 
+5 See also Hovenkamp ¶ 2333c, p. 109 (commenting that the Eighth Cir­
+cuit’s expansive interpretation “views the [Robinson-Patman Act] as a 
+guarantee of equal proﬁt margins on sales actually made,” and thereby 
+exposes manufacturers to treble damages unless they “charge uniform 
+prices to their dealers”). 
+

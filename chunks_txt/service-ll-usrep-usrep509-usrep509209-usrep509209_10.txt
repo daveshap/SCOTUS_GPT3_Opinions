@@ -1,0 +1,124 @@
+
+
+236  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+settled in  the mid-1980's,  the cigarette  companies  invested
+substantial sums in promotional schemes, including coupons,
+stickers, and giveaways, that reduced the actual cost of ciga-
+rettes  to  consumers  below  list prices.  33  Tr. 206-209,  51
+Tr. 130.  This promotional activity accelerated as the decade
+progressed.  App. 509, 672.  Many wholesalers  also passed
+portions  of their volume rebates on to the consumer, which
+had the effect of further undermining the significance of the
+retail list prices.  Id., at 672, 687-692, 761-763.  Especially
+in  an oligopoly  setting, in which  price  competition  is most
+likely to take place through less observable and less regula-
+ble means than list prices, it would be unreasonable  to draw
+conclusions  about the existence  of tacit coordination  or su-
+pracompetitive pricing from data that reflect only list prices.
+Even on its own terms, the list price data relied upon by
+Liggett to demonstrate a narrowing of the price differential
+between generic and full-priced branded cigarettes could not
+support  the  conclusion  that  supracompetitive  pricing  had
+been  introduced  into  the  generic  segment.  Liggett's  gap
+data ignore the effect of "subgeneric" cigarettes, which were
+priced  at discounts of 50% or  more  from the list prices  of
+normal branded cigarettes.  See, e. g., id., at 682-686.  Lig-
+gett  itself, while  supposedly  under the  sway  of oligopoly
+power, pioneered this development in 1988 with the introduc-
+tion of its "Pyramid"  brand.  Id.,  at 326.  By the time  of
+trial, five of the six major manufacturers offered a cigarette
+in this  category  at a  discount from the full list price  of at
+least 50%.  Id., at 685-686; 147 Tr. 107.  Thus, the price dif-
+ference  between  the highest priced  branded  cigarette  and
+the lowest price cigarettes in the economy segment, instead
+of narrowing over the course of the period of alleged preda-
+tion as Liggett would argue, grew to a substantial  extent.
+In June  1984,  before  Brown  & Williamson  entered  the ge-
+neric segment, a consumer could obtain a carton of black and
+white generic cigarettes from Liggett at a 38% discount from
+the list price  of a leading brand; after the conduct  Liggett
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Opinion of the Court
+complains of, consumers could obtain a branded generic from
+Liggett for 52% off the list price of a leading brand.  See
+App. 325-326, 685.
+It may be that a reasonable jury could  conclude that the
+cumulative  discounts  attributable  to  subgenerics  and  the
+various consumer  promotions did not cancel out the full ef-
+fect  of the increases  in list prices,  see id., at 508-509,  and
+that actual prices to the consumer did indeed rise, but rising
+prices  do not themselves permit an inference  of a  collusive
+market dynamic.  Even in a concentrated market, the occur-
+rence of a price increase does not in itself permit a rational
+inference of conscious parallelism  or supracompetitive  pric-
+ing.  Where, as here, output is expanding at the same time
+prices  are  increasing,  rising prices  are  equally  consistent
+with growing  product  demand.  Under these conditions, a
+jury may not infer competitive injury from price and output
+data absent some  evidence  that tends to prove  that output
+was restricted or prices were above a competitive level.  Cf.
+Monsanto, 465 U. S., at 763.
+Quite apart from the absence of any evidence of that sort,
+an  inference  of supracompetitive  pricing would  be particu-
+larly anomalous  in  this  case, as  the very  party alleged  to
+have been coerced into pricing through oligopolistic  coordi-
+nation denied that such coordination  existed: Liggett's own
+officers and directors consistently denied  that they or other
+firms in  the industry  priced  their cigarettes  through  tacit
+collusion or reaped supracompetitive  profits.  App. 394-399,
+623-631;  11 Tr. 170-174, 64 Tr. 51-56.  Liggett seeks to ex-
+plain  away  this testimony  by arguing that its  officers and
+directors  are businesspeople  who do  not ascribe  the same
+meaning to words like "competitive" and "collusion" that an
+economist  would.  This  explanation  is entitled  to little,  if
+any, weight.  As the District Court found:
+"This  argument was  considered  at the summary judg-
+ment  stage  since  these  executives  gave  basically  the
+same testimony at their depositions.  The court allowed
+
+NEW PAGE
+
+238  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+the case to go to trial in part because the Liggett execu-
+tives were not economists and in part because  of affida-
+vits from the Liggett executives  stating that they were
+confused by the questions asked by B[rown] & W[illiam-
+son]  lawyers  and  did not mean to contradict  the testi-
+mony of [their economic  expert] Burnett.  However, at
+trial, despite having consulted extensively with Burnett
+and having had adequate time to familiarize themselves
+with  concepts  such  as  tacit  collusion,  oligopoly,  and
+monopoly profits, these Liggett executives again contra-
+dicted Burnett's theory."  748 F. Supp., at 356.
+2
+Not only does the evidence fail to show actual supracom-
+petitive pricing in the generic segment, it also does not dem-
+onstrate  its  likelihood.  At the time  Brown  & Williamson
+entered  the  generic  segment,  the  cigarette  industry  as  a
+whole faced declining demand and possessed  substantial ex-
+cess  capacity.  App.  82-84.  These  circumstances  tend  to
+break down patterns  of oligopoly pricing and produce price
+competition.  See  Scherer  & Ross  294,  315;  2  Areeda  &
+Turner  404b2,  at  275-276;  6  P.  Areeda,  Antitrust  Law
+1430e, p. 181  (1986).  The  only means by which Brown  &
+Williamson is alleged to have established oligopoly pricing in
+the face  of these unusual  competitive  pressures is through
+tacit price coordination  with the other cigarette firms.
+Yet  the  situation  facing  the  cigarette  companies  in  the
+1980's would have  made such  tacit coordination unmanage-
+able.  Tacit  coordination  is  facilitated  by a  stable  market
+environment, fungible products, and a small number of vari-
+ables upon which the firms seeking to coordinate their pric-
+ing may focus.  See generally Scherer & Ross 215-315; 6 P.
+Areeda, supra,  1428-1430.  Uncertainty is an oligopoly's
+greatest  enemy.  By  1984,  however,  the  cigarette  market
+was in an obvious state of flux.  The introduction of generic
+cigarettes  in  1980  represented  the first serious  price  com-
+

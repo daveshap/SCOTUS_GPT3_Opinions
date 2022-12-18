@@ -1,0 +1,101 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "509 U. S. 209 (1993)",
+  "caseNumber": "509 U. S. 209 (1993)",
+  "datePublished": "1993",
+  "court": "Supreme Court of the United States",
+  "opinion": {
+    "@type": "LegalOpinion",
+    "citations": [
+      {
+        "@type": "LegalCase",
+        "name": "Utah Pie",
+        "caseNumber": "386 U. S. 685 (1967)",
+        "datePublished": "1967",
+        "court": "Supreme Court of the United States",
+        "reasoning": "Reviewed the sufficiency of the evidence supporting jury verdicts against three national pie companies that had engaged in a variety of predatory practices in the market for frozen pies in Salt Lake City, with the intent to drive a local pie manufacturer out of business."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Henry v. Chloride, Inc.",
+        "caseNumber": "809 F. 2d 1334 (CA8 1987)",
+        "datePublished": "1987",
+        "court": "United States Court of Appeals for the Eighth Circuit",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "D. E. Rogers Associates, Inc. v. Gardner-Denver Co.",
+        "caseNumber": "718 F. 2d 1431 (CA6 1983)",
+        "datePublished": "1983",
+        "court": "United States Court of Appeals for the Sixth Circuit",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "William Inglis & Sons Baking Co. v. ITT Continental Baking Co.",
+        "caseNumber": "668 F. 2d 1014 (CA9 1981)",
+        "datePublished": "1981",
+        "court": "United States Court of Appeals for the Ninth Circuit",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Malcolm v. Marathon Oil Co.",
+        "caseNumber": "642 F. 2d 845 (CA5)",
+        "datePublished": "1981",
+        "court": "United States Court of Appeals for the Fifth Circuit",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Pacific Engineering & Production Co. of Nevada v. Kerr-McGee Corp.",
+        "caseNumber": "551 F. 2d 790 (CA10)",
+        "datePublished": "1977",
+        "court": "United States Court of Appeals for the Tenth Circuit",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "International Telephone & Telegraph Corp.",
+        "caseNumber": "104 F. T. C. 280 (1984)",
+        "datePublished": "1984",
+        "court": "Federal Trade Commission",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "222 BROOKE GROUP LTD. v. BROWN & WILLIAMSON TOBACCO CORP.",
+        "caseNumber": "509 U. S. 209 (1993)",
+        "datePublished": "1993",
+        "court": "Supreme Court of the United States",
+        "reasoning": "Interpreted Utah Pie to permit liability for primary-line price discrimination on a mere showing that the defendant intended to harm competition or produced a declining price structure."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Cargill, Inc. v. Monfort of Colorado, Inc.",
+        "caseNumber": "479 U. S. 104 (1986)",
+        "datePublished": "1986",
+        "court": "Supreme Court of the United States",
+        "reasoning": "Plaintiff seeking to establish competitive injury resulting from a rival's low prices must prove that the prices complained of are below an appropriate measure of its rival's costs."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+        "caseNumber": "475 U. S. 574 (1986)",
+        "datePublished": "1986",
+        "court": "Supreme Court of the United States",
+        "reasoning": "Plaintiff seeking to establish competitive injury resulting from a rival's low prices must prove that the prices complained of are below an appropriate measure of its rival's costs."
+      },
+      {
+        "@type": "LegalCase",
+        "name": "Atlantic Richfield Co. v. USA Petroleum Co.",
+        "caseNumber": "495 U. S. 328 (1990)",
+        "datePublished": "1990",
+        "court": "Supreme Court of the United States",
+        "reasoning": "Exclusionary effect of prices above a relevant measure of cost either reflects the lower cost structure of the alleged predator, and so represents competition on the merits, or is beyond the practical ability of a judicial tribunal to control without courting intolerable risks of chilling legitimate price cutting."
+      }
+    ]
+  }
+}

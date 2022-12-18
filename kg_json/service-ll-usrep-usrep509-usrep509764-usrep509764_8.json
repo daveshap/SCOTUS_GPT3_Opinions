@@ -1,0 +1,21 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "precedent": "http://schema.org/precedent"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["SOUTER, J."],
+      "reasoning": "Construed in favor of the plaintiffs, the First, Second, Third, and Fourth Claims for Relief in the California Complaint, and the First and Second Claims for Relief in the Connecticut Complaint, allege one or more § 3(b) 'act[s] of boycott,' and are thus sufficient to survive a motion to dismiss.",
+      "precedent": ["St. Paul Fire & Marine Ins. Co. v. Barry, 438 U. S. 531 (1978)", "United States v. South-Eastern Underwriters Assn., 322 U. S. 533 (1944)"]
+    }
+  ]
+}

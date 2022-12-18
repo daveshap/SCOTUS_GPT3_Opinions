@@ -1,0 +1,33 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "MINNEAPOLIS & ST. LOUIS R. CO. v. U. S.",
+      "date": "OCTOBER TERM, 1959.",
+      "caseNumber": "361 U. S.",
+      "involvedParties": [
+        "Minneapolis & St. Louis R. Co.",
+        "U. S."
+      ],
+      "reasoning": "The District Court did not err in holding that the Commission's conclusional finding that the \"public interest demands that the present policies of the Western in all respects be continued\" was made after full and fair consideration.",
+      "citation": "MINNEAPOLIS & ST. LOUIS R. CO. v. U. S., 185 F.2d 173 (1950)"
+    },
+    {
+      "@id": "McLean Trucking Co. v. United States",
+      "date": "1944",
+      "caseNumber": "321 U. S. 6",
+      "involvedParties": [
+        "McLean Trucking Co.",
+        "United States"
+      ],
+      "reasoning": "The Commission remains obligated to \"estimate the scope and appraise the effects of the curtailment of competition which will result from the proposed [acquisition] and consider them along with the advantages of improved service [and other matters in the public interest] to determine whether the [acquisition] will assist in effectuating the over-all transportation policy.\"",
+      "citation": "McLean Trucking Co. v. United States, 321 U. S. 6 (1944)"
+    }
+  ]
+}

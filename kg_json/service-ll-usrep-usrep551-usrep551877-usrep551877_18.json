@@ -1,0 +1,75 @@
+{
+  "@context": "http://schema.org/",
+  "@graph": [
+    {
+      "@type": "LegalCase",
+      "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+      "datePublished": "09-20-1121:22:06",
+      "court": "Supreme Court of the United States",
+      "citation": "551 U.S. 877 (2007)",
+      "involvedParties": [
+        {
+          "@type": "Organization",
+          "name": "Leegin Creative Leather Products, Inc."
+        },
+        {
+          "@type": "Organization",
+          "name": "PSKS, Inc."
+        }
+      ],
+      "dissentingOpinion": {
+        "@type": "Person",
+        "name": "Breyer, J."
+      },
+      "referencedActs": [
+        {
+          "@type": "Legislation",
+          "name": "Tydings and McGuire Acts"
+        }
+      ],
+      "referencedCases": [
+        {
+          "@type": "LegalCase",
+          "name": "Schwinn",
+          "citation": "433 U.S. 51 (1977)"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Sylvania",
+          "citation": "433 U.S. 37 (1977)"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Pitofsky",
+          "citation": "1495"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Allegheny College v. National Chautauqua Cty. Bank of Jamestown",
+          "citation": "246 N. Y. 369, 159 N. E. 173 (1927)"
+        },
+        {
+          "@type": "LegalCase",
+          "name": "Wisconsin Right to Life, Inc.",
+          "citation": "Ante, at 500–503 (Scalia, J., joined by Kennedy and Thomas, JJ., concurring in part and concurring in judgment)"
+        }
+      ],
+      "referencedLegalScholars": [
+        {
+          "@type": "Person",
+          "name": "Hart and Sacks"
+        },
+        {
+          "@type": "Person",
+          "name": "Karl Llewellyn"
+        }
+      ],
+      "referencedOrganizations": [
+        {
+          "@type": "Organization",
+          "name": "Federal Trade Commission"
+        }
+      ]
+    }
+  ]
+}

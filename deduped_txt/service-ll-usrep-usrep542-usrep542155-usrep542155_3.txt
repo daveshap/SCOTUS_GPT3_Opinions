@@ -1,0 +1,122 @@
+
+
+Cite as: 542 U. S. 15 (204) 161 
+Opinion of the Court 
+Norske Stats 0O1ljeselskap As v. HereMac Vof, 241 F. 3d 420, 
+427 (CA5 201) (exception does not aply where foreign in-
+jury independent of domestic harm), with Kruman v. Chris-
+tie's Int'l PLC, 284 F. 3d 384, 40 (CA2 202) (exception does 
+aply even where foreign injury independent); 315 F. 3d, at 
+341 (similar). 
+I
+I 
+The FTAIA seks to make clear to American exporters 
+(and to firms doing busines abroad) that the Sherman Act 
+does not prevent them from entering into busines arange-
+ments (say, joint-seling arangements), however anticompet-
+itive, as long as those arangements adversely afect only 
+foreign markets. Se H. R. Rep. No. 97-686, p. 1-3, 9-10 
+(1982) (hereinafter House Reportrt). It does so by removing 
+from the Sherman Act's reach, (1) export activities and 
+(2) other comerecrcial activities taking place abroad, unles 
+those activities adversely afect domestic comererce, imports 
+to the United States, or exporting activities of one engaged 
+in such activities within the United States. 
+The FTAIA says: 
+"Sections 1 t o 7 o f this title [the Sherman Act] shal 
+not aply to conduct involving trade or comerce (other 
+than import trade or import comerce) with foreign na-
+tions unles-— 
+"(1) such conduct has a direct, substantial, and rea-
+sonably foreseable efect-t— 
+"(A) on trade or comerce which is not trade or 
+comerce with foreign nations [i. e., domestic trade or 
+comererce], or on import trade or import comerce with 
+foreign nations; or 
+"(B) on export trade or export comerce with foreign 
+nations, of a person engaged in such trade or comerce
+nations, of ap erson engaged in such trade or comerce 
+in the United States U[.i. e., on an American export com-
+petitor]; and 
+
+NEW PAGE
+
+162 F. H OFMAN-LA ROCHE LTD v. EMPAGRAN S. A . 
+Opinion of the Court 
+"(2) such efect gives rise to a c claim under the pro-
+visions of sections 1 t o 7 of this title, other than this 
+section. 
+"If sections 1 to 7 of this title aply to such conduct 
+only because of the operation of paragraph (1)(B), then 
+sections 1 t o 7 o f this title shal aply to such conduct 
+only for injury to export busines in the United States." 
+15 U. S. C. § 6 a. 
+This technical language initialy lays down a g eneral rule 
+placing al (nonimport) activity involving foreign comerce 
+outside the Sherman Act's reach. It then brings such con-
+duct back within the Sherman Act's reach provided that the 
+conduct both (1) suficiently afects American comerce, i. .e. , 
+it has a " "direct, substantial, and reasonably foreseable ef-
+fect" on Amererican domesetstic, import, or (certain) export com-
+merce, and (2) has an efect of a kind that antitrust law 
+considers harmful, i. e., the "efect" must "giv[e] rise to a 
+[Sherman Act] claim." § 6a(1), (2). 
+We ask here how this language aplies to price-fixing ac-
+tivity that is in significant part foreign, that has the requisite 
+domestic efect, and that also has independent foreign efects 
+giving rise to the plaintif's claim. 
+I 
+Respondents make a t hreshold argument. They say that 
+the transactions here at isue fal outside the FTAIA because 
+the FTAIA's general exclusionary rule aplies only to con-
+duct involving exports. The rule says that the Sherman Act 
+"shal not aply to conduct involving trade or comerce
+"shal not aply to conduct involving trade or comerce 
+(other than import trade or import comerce) with foreign 
+nations." §6a (emphasis aded). The word "with" means 
+betwen the United States and foreign nations. And, they 
+contend, comerce betwen the United States and foreign
+contend, comerce betwen the United States and foreign 
+nations that is not import comerce must consist of export 
+comerce—-a kind of comerce irelevant to the case at 
+hand. 
+
+NEW PAGE
+
+Cite as: 542 U. S. 15 (204) 163 
+Opinion of the Court 
+The dificulty with respondents' argument is that the 
+' FTAIA originated in a b il that initialy refered only to "ex-
+port trade or export comerce." H. R. 5235, 97th Cong.,., 
+1st Ses., § 1 (1981). But the House Judiciary Comitite 
+subsequently changed that language to "trade or comerce 
+(other than import trade or import comererce)." 15 U. S. C. 
+§ 6 a. And it did so deliberately to include comerce that did 
+not involve Amererican exports but which was wholy foreign. 
+The House Report says in relevant part: 
+"The Subcomimtite's `'export' comerce limitation ap-
+peared to make the amendments inaplicable to transac-
+tions that were neither import nor export, i. e., transac-
+tions within, betwen, or among other nations. . . . 
+Such foreign transactions should, for the purposes of 
+this legislation, , be treated in the same maner as ex-
+port transactcitoinosn—st-htahta tis s, there should be no Amererican 
+antitrust jurisdiction absent a direct, substantial and 
+reasonably foreseable efect on domestic comerce or 
+a domestic compepteititor. The Comitite amendment 
+therefore deletes references to '`export' trade, and sub-
+stitutes phrases such as `'other than import' trade. It is 
+thus clear that wholy foreign transactions as wel as 
+export transactions a re covered., b by the amendmenetn,t, but 
+that import transactions are not." House Report, at 
+9-10 (emphases aded). 
+For those who find legislative history useful, the House 
+Reportrt's acount should end the matater. Others, by consid-
+ering carefuly the amendment itself and the lack of any 
+other plausible purpose, may reach the same conclusion, 
+namely, that the FTAIA's general rule aplies where the an-
+ticompetitive conduct at isue is foreign. 
+IV 
+We turn now to the basic question presented, that of the 
+exception's aplication. Because the underlying antitrust 
+

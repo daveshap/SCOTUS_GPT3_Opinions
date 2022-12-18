@@ -1,0 +1,83 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "CEDRIC KUSHNER PROMOTIONS, LTD. v. KING",
+    "datePublished": "2001",
+    "caseNumber": "533 U. S. 158",
+    "involvedParties": ["CEDRIC KUSHNER PROMOTIONS, LTD.", "KING"],
+    "reasoningForIncluding": "The case concerns a claim that a corporate employee is the 'person' and the corporation is the 'enterprise'."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Riverwoods Chappaqua Corp. v. Marine Midland Bank, N. A.",
+    "datePublished": "1994",
+    "caseNumber": "30 F. 3d 339",
+    "involvedParties": ["Riverwoods Chappaqua Corp.", "Marine Midland Bank, N. A."],
+    "reasoningForIncluding": "The Second Circuit relied on earlier Circuit precedent for its decision in the CEDRIC KUSHNER PROMOTIONS, LTD. v. KING case."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Anatian v. Coutts Bank (Switzerland) Ltd.",
+    "datePublished": "1999",
+    "caseNumber": "193 F. 3d 85",
+    "involvedParties": ["Anatian", "Coutts Bank (Switzerland) Ltd."],
+    "reasoningForIncluding": "The Second Circuit's other precedent also involved significantly different allegations compared with the instant case."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Discon, Inc. v. NYNEX Corp.",
+    "datePublished": "1996",
+    "caseNumber": "93 F. 3d 1055",
+    "involvedParties": ["Discon, Inc.", "NYNEX Corp."],
+    "reasoningForIncluding": "The Second Circuit's other precedent also involved significantly different allegations compared with the instant case."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Bennett v. United States",
+    "datePublished": "1995",
+    "caseNumber": "517 U.S. 312",
+    "involvedParties": ["Bennett", "United States"],
+    "reasoningForIncluding": "The Second Circuit's other precedent also involved significantly different allegations compared with the instant case."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "United States v. Turkette",
+    "datePublished": "1981",
+    "caseNumber": "452 U. S. 576",
+    "involvedParties": ["United States", "Turkette"],
+    "reasoningForIncluding": "This Court has held that RICO both protects a legitimate 'enterprise' from those who would use unlawful acts to victimize it."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "National Organizationf or Women, Inc. v. Scheidler",
+    "datePublished": "1994",
+    "caseNumber": "510 U.S. 249",
+    "involvedParties": ["National Organizationf or Women, Inc.", "Scheidler"],
+    "reasoningForIncluding": "This Court has held that RICO also protects the public from those who would unlawfully use an 'enterprise' as a 'vehicle' through which 'unlawful . . . activity is committed.'"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Reves v. Ernst & Young",
+    "datePublished": "1990",
+    "caseNumber": "494 U.S. 56",
+    "involvedParties": ["Reves", "Ernst & Young"],
+    "reasoningForIncluding": "This Court has stated that an enterprise is 'operated' within § 1962(c)'s meaning, 'not just by upper management but also by lower rung participants in the enterprise who are under the direction of upper management.'"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Copperweld Corp. v. Independence Tube Corp.",
+    "datePublished": "1984",
+    "caseNumber": "467 U. S. 752",
+    "involvedParties": ["Copperweld Corp.", "Independence Tube Corp."],
+    "reasoningForIncluding": "The alternative that the Court endorsed is no less consistent with the principle that antitrust law's intracorporate conspiracy doctrine turns on specific antitrust objectives."
+  }
+]

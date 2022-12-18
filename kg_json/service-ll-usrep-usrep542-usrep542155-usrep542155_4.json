@@ -1,0 +1,67 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "164 F. H OFMAN-LA ROCHE LTD v. EMPAGRAN S. A.",
+      "@type": "cite",
+      "date": "2004",
+      "caseNumber": "542 U. S. 15",
+      "involvedParties": ["164 F. H OFMAN-LA ROCHE LTD", "EMPAGRAN S. A."],
+      "reasoning": "The price-fixing conduct significantly and adversely affects both customers outside the United States and customers within the United States, but the adverse foreign effect is independent of any adverse domestic effect."
+    },
+    {
+      "@id": "McCuloch v. Sociedad Nacional de Marineros de Honduras",
+      "@type": "cite",
+      "date": "1963",
+      "caseNumber": "372 U. S. 10",
+      "involvedParties": ["McCuloch", "Sociedad Nacional de Marineros de Honduras"],
+      "reasoning": "This rule of construction reflects principles of customary international law—-law that (we must assume) Congress ordinarily seeks to follow."
+    },
+    {
+      "@id": "Romero v. International Terminal Operating Co.",
+      "@type": "cite",
+      "date": "1959",
+      "caseNumber": "358 U. S. 354",
+      "involvedParties": ["Romero", "International Terminal Operating Co."],
+      "reasoning": "This rule of construction cautions courts to assume that legislators take account of the legitimate sovereign interests of other nations when they write American laws."
+    },
+    {
+      "@id": "Lauritzen v. Larsen",
+      "@type": "cite",
+      "date": "1953",
+      "caseNumber": "345 U. S. 571",
+      "involvedParties": ["Lauritzen", "Larsen"],
+      "reasoning": "This rule of statutory construction cautions courts to assume that legislators take account of the legitimate sovereign interests of other nations when they write American laws."
+    },
+    {
+      "@id": "United States v. Aluminum Co. of America",
+      "@type": "cite",
+      "date": "1945",
+      "caseNumber": "148 F. 2d 416",
+      "involvedParties": ["United States", "Aluminum Co. of America"],
+      "reasoning": "But our courts have long held that application of our antitrust laws to foreign anticompetitive conduct is nonetheless reasonable, and hence consistent with principles of prescriptive comity, insofar as they reflect a legislative effort to redress domestic antitrust injury that foreign anticompetitive conduct has caused."
+    },
+    {
+      "@id": "Murray v. Schooner Charming Betsy",
+      "@type": "cite",
+      "date": "1804",
+      "caseNumber": "2 Cranch 64",
+      "involvedParties": ["Murray", "Schooner Charming Betsy"],
+      "reasoning": "\"[A]n act of congress ought never to be construed to violate the law of nations if any other possible construction remains\""
+    },
+    {
+      "@id": "Hartford Fire Ins. Co. v. California",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Hartford Fire Ins. Co.", "California"],
+      "reasoning": "This rule of construction reflects principles of customary international law—-law that (we must assume) Congress ordinarily seeks to follow."
+    }
+  ]
+}

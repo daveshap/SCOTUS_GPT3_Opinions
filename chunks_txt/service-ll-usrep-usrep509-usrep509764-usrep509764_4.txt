@@ -1,0 +1,122 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+consumer.  This  so-called "reinsurance"  may serve  at least
+two  purposes,  protecting  the  primary  insurer  from  cata-
+strophic loss, and allowing the primary insurer to sell more
+insurance  than  its  own  financial  capacity  might  otherwise
+permit.  Id., at 17 (Cal. Complaint  29).  Thus, "[tihe avail-
+ability of reinsurance  affects the ability and  willingness  of
+primary insurers to provide  insurance  to their customers."
+Id., at 18 (Cal. Complaint  34); id., at 63 (Conn. Complaint
+4(p)).  Insurers who sell reinsurance themselves often pur-
+chase insurance  to cover part of the risk they assume from
+the primary insurer; such "retrocessional reinsurance"  does
+for reinsurers  what reinsurance  does for primary insurers.
+See ibid. (Conn. Complaint  4(r)).  Many of the defendants
+here  are  reinsurers  or reinsurance  brokers,  or play  some
+other specialized role in the reinsurance business; defendant
+Reinsurance Association of America (RAA) is a trade associ-
+ation of domestic reinsurers.
+B
+The  prehistory of events  claimed  to give rise to liability
+starts in  1977, when ISO began the  process of revising its
+1973  CGL form.  Id., at 22 (Cal. Complaint  55).  For the
+first time, it proposed two CGL forms (1984 ISO CGL forms),
+one the traditional "occurrence" type, the other "with a new
+'claims-made'  trigger."  Id., at 22-23  (Cal. Complaint  56).
+The "claims-made" form did not have a retroactive date pro-
+vision, however, and both 1984 forms covered "'sudden  and
+accidental' pollution" damage and provided for unlimited cov-
+erage of legal defense  costs by the insurer.  Id., at 23 (Cal.
+Complaint  59-60).  Within the ISO,  defendant Hartford
+Fire  Insurance  Company  objected  to  the  proposed  1984
+forms; it desired elimination of the "occurrence" form, a ret-
+roactive date provision on the "claims-made"  form, elimina-
+tion of sudden and accidental pollution coverage, and a legal
+defense  cost  cap.  Defendant  Allstate  Insurance  Company
+also expressed  its desire for a retroactive  date provision on
+
+NEW PAGE
+
+774  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+the "claims-made"  form.  Id., at 24  (Cal. Complaint  61).
+Majorities  in  the relevant  ISO  committees,  however,  sup-
+ported  the  proposed  1984  CGL  forms  and  rejected  the
+changes proposed  by Hartford and AllstatAe.  In  December
+1983, the ISO Board of Directors approved the proposed 1984
+forms, and ISO filed or lodged the forms with state regula-
+tors in March 1984.  Ibid. (Cal. Complaint  16 2).
+Dissatisfied with this state of affairs, the defendants began
+to take other steps to force a change in the terms of coverage
+of CGL insurance  generally available, steps that, the plain-
+tiffs allege, implemented a series of conspiracies in violation
+of § 1 of the Sherman Act.  The plaintiffs recount these steps
+as a number of separate episodes corresponding to different
+claims for relief in their complaints; 4 because it will become
+important  to  distinguish  among  these counts  and  the acts
+and  defendants  associated  with  them,  we  will  note  these
+correspondences.
+The  first four  Claims for  Relief in  the  California  Com-
+plaint, id., at 36-43 (  111-130),  and the Second  Claim for
+Relief in the Connecticut  Complaint, id., at 90-92 (  120-
+124),  charge  the four  domestic  primary insurer defendants
+and varying groups of domestic and foreign reinsurers, bro-
+kers, and  associations  with  conspiracies  to  manipulate  the
+ISO CGL forms.  In March  1984, primary insurer Hartford
+persuaded  General  Reinsurance  Corporation  (General  Re),
+the largest American reinsurer, to take steps either to pro-
+cure desired changes in the ISO CGL forms, or "failing that,
+[to]  'derail' the entire ISO CGL forms program."  Id., at 24
+(Cal. Complaint  64).  General Re took up the matter with
+its trade association,  RAA, which created a special commit-
+tee  that met  and  agreed  to  "boycott"  the  1984  ISO  CGL
+forms unless a retroactive-date  provision was  added to the
+4The First Claim for Relief in the Connecticut Complaint, id., at 88-90
+(  115-119), charging an overarching conspiracy encompassing all of the
+defendants and all  of the conduct alleged, is a special  case.  See n. 18,
+infra.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+claims-made form, and a pollution exclusion and defense cost
+cap were added to both forms.  Id., at 24-25 (Cal. Complaint
+7765-66).  RAA  then  sent  a  letter to  ISO  "announc[ing]
+that its members would  not provide  reinsurance  for cover-
+ages written on the 1984 CGL forms,"  id., at 25 (Cal. Com-
+plaint  67), and Hartford and General Re enlisted a domestic
+reinsurance broker to give a speech to the ISO Board of Di-
+rectors, in which he stated that no reinsurers would "break
+ranks" to  reinsure  the  1984  ISO  CGL  forms.  Ibid. (Cal.
+Complaint  68).
+The  four  primary  insurer  defendants  (Hartford,  Aetna,
+CIGNA, and Allstate) also encouraged key actors in the Lon-
+don reinsurance  market, an  important provider of reinsur-
+ance  for North American risks, to withhold  reinsurance  for
+coverages  written  on  the  1984  ISO  CGL  forms.  Id.,  at
+25-26  (Cal. Complaint  77 69-70).  As a  consequence,  many
+London-based  underwriters,  syndicates,  brokers,  and  rein-
+surance companies informed  ISO of their intention to with-
+hold reinsurance on the 1984 forms, id., at 26-27 (Cal. Com-
+plaint 77 71-75), and at least some of them told ISO that they
+would  withhold reinsurance  until ISO incorporated  all four
+desired  changes,  see supra, at 771,  and  n. 3,  into the  ISO
+CGL forms.  App. 26 (Cal. Complaint  74).
+For the first time ever, ISO invited representatives of the
+domestic and foreign reinsurance markets to speak at an ISO
+Executive  Committee  meeting.  Id.,  at  27-28  (Cal.  Com-
+plaint  78).  At  that  meeting,  the  reinsurers  "presented
+their agreed upon positions that there would be changes in
+the CGL forms  or no  reinsurance."  Id., at 29  (Cal. Com-
+plaint  82).  The  ISO Executive  Committee  then voted to
+include a retroactive-date provision in the claims-made form,
+and to exclude all pollution coverage from both new forms.
+(But it neither eliminated the occurrence form, nor added a
+legal defense cost cap.)  The 1984 ISO CGL forms were then
+withdrawn  from the marketplace, and  replaced  with forms
+(1986 ISO CGL forms) containing the new provisions.  Ibid.
+

@@ -1,0 +1,130 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+880  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Syllabus 
+recently the Court has tempered, limited, or overruled once strict verti­
+cal restraint prohibitions, see, e. g., GTE Sylvania, 433 U. S., at 57–59. 
+The Dr. Miles rule is also inconsistent with a principled framework, for 
+it makes little economic sense when analyzed with the Court’s other 
+vertical restraint cases.  Deciding that procompetitive effects of resale 
+price maintenance are insufﬁcient to overrule Dr. Miles would call into 
+question cases such as Colgate and GTE Sylvania.  Respondent’s argu­
+ments for reafﬁrming Dr. Miles based on stare decisis do not require a 
+different result.  Pp. 899–907. 
+171 Fed. Appx. 464, reversed and remanded. 
+Kennedy, J., delivered the opinion of the Court, in which Roberts, 
+C. J., and Scalia, Thomas, and Alito, JJ., joined.  Breyer, J., ﬁled a 
+dissenting opinion, in which Stevens, Souter, and Ginsburg, JJ., joined, 
+post, p. 908. 
+Theodore B. Olson argued the cause for petitioner.  With 
+him on the briefs were Michael L. Denger, Joshua Lipton, 
+Amir C. Tayrani, Tyler A. Baker, Jeffrey S. Levinger, and 
+Gary Freedman. 
+Deputy Solicitor General Hungar argued the cause for 
+the United States as amicus curiae urging reversal.  With 
+him on the brief were Solicitor General Clement, Assistant 
+Attorney General Barnett, Deputy Assistant Attorney Gen­
+eral Masoudi, Lisa S. Blatt, Catherine G. O’Sullivan, and 
+David Seidman. 
+Robert W. Coykendall argued the cause for respondent. 
+With him on the brief were Ken M. Peterson, Tim J. Moore, 
+Nelson J. Roach, D. Neil Smith, and Stephen R. McAllister. 
+Barbara D. Underwood, Solicitor General of New York, 
+argued the cause for the State of New York et al. as amici 
+curiae urging afﬁrmance.  With her on the brief were An­
+drew M. Cuomo, Attorney General of New York, Benjamin 
+N.  Gutman,  Acting  Deputy  Solicitor  General,  Daniel  J. 
+Chepaitis, Assistant Solicitor General, and Jay L. Himes and 
+Robert L. Hubbard, Assistant Attorneys General, and the 
+Attorneys  General  for  their  respective  States  as  follows: 
+Talis J. Colberg of Alaska, Dustin McDaniel of Arkansas, 
+Richard Blumenthal of Connecticut, Joseph R. Biden III of 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  881 
+Opinion of the Court 
+Delaware,  Bill  McCollum  of  Florida,  Mark  J.  Bennett  of 
+Hawaii, Lawrence G. Wasden of Idaho, Lisa Madigan of Illi­
+nois, Thomas Miller of Iowa, Paul Morrison of Kansas, Greg 
+Stumbo of Kentucky, Charles C. Foti, Jr., of Louisiana, G. 
+Steven  Rowe  of  Maine,  Douglas  F.  Gansler  of  Maryland, 
+Martha Coakley of Massachusetts, Mike Cox of Michigan, 
+Lori Swanson of Minnesota, Jim Hood of Mississippi, Jere­
+miah W. (Jay) Nixon of Missouri, Mike McGrath of Mon­
+tana, Catherine Cortez Masto of Nevada, Kelly A. Ayotte of 
+New Hampshire, Stuart Rabner of New Jersey, Gary King 
+of New Mexico, Roy Cooper of North Carolina, Marc Dann 
+of Ohio, W. A. Drew Edmondson of Oklahoma, Hardy Myers 
+of Oregon, Thomas W. Corbett, Jr., of Pennsylvania, Henry 
+McMaster of South Carolina, Larry Long of South Dakota, 
+Mark L. Shurtleff of Utah, William H. Sorrell of Vermont, 
+Robert M. McKenna of Washington, Darrell V. McGraw, Jr., 
+of West Virginia, and Patrick J. Crank of Wyoming.* 
+Justice Kennedy delivered the opinion of the Court.
+ 
+In Dr. Miles Medical Co. v. John D. Park & Sons Co., 220
+ 
+U. S. 373 (1911), the Court established the rule that it is per 
+se illegal under § 1 of the Sherman Act, 15 U. S. C. § 1, for a 
+manufacturer to agree with its distributor to set the mini­
+mum price the distributor can charge for the manufactur­
+er’s goods.  The question presented by the instant case is 
+*Briefs of amici curiae urging reversal were ﬁled for the American 
+Petroleum Institute by Robert A. Long, Harry M. Ng, and Douglas W. 
+Morris; for CTIA—The Wireless Association by Roy T. Englert, Jr., Don­
+ald J. Russell, and Michael Field Altshul; for Economists by Joseph Ang­
+land and Stephen V. Bomse; and for PING, Inc., by Thomas C. Walsh, 
+Lawrence G. Scarborough, Aaron S. Bayer, and Robert M. Langer. 
+Briefs of amici curiae urging afﬁrmance were ﬁled for the American 
+Antitrust Institute by Albert Foer; for the Anderson Economic Group, 
+LLC, by Theodore R. Bolema; for the Burlington Coat Factory Warehouse 
+Corp. by Jonathan W. Cuneo, Matthew Wiener, and Robert J. Cynkar; and 
+for the Consumer Federation of America by Peter A. Barile III. 
+Eugene Crew ﬁled a brief for William S. Comanor et al. as amici curiae. 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+882  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+whether the Court should overrule the per se rule and allow 
+resale price maintenance agreements to be judged by the 
+rule of reason, the usual standard applied to determine if 
+there is a violation of § 1.  The Court has abandoned the rule 
+of per se illegality for other vertical restraints a manufac­
+turer imposes on its distributors.  Respected economic ana­
+lysts, furthermore, conclude that vertical price restraints can 
+have procompetitive effects.  We now hold that Dr. Miles 
+should be overruled and that vertical price restraints are to 
+be judged by the rule of reason. 
+I 
+Petitioner, Leegin Creative Leather Products, Inc. (Lee­
+gin), designs, manufactures, and distributes leather goods 
+and accessories.  In 1991, Leegin began to sell belts under 
+the brand name “Brighton.”  The Brighton brand has now 
+expanded into a variety of women’s fashion accessories.  It 
+is sold across the United States in over 5,000 retail establish­
+ments, for the most part independent, small boutiques and 
+specialty stores.  Leegin’s president, Jerry Kohl, also has an 
+interest in about 70 stores that sell Brighton products.  Lee­
+gin asserts that, at least for its products, small retailers treat 
+customers  better,  provide  customers  more  services,  and 
+make their shopping experience more satisfactory than do 
+larger,  often  impersonal  retailers.  Kohl  explained:  “[W]e 
+want the consumers to get a different experience than they 
+get in Sam’s Club or in Wal-Mart.  And you can’t get that 
+kind of experience or support or customer service from a 
+store like Wal-Mart.”  5 Record 127. 
+Respondent, PSKS, Inc. (PSKS), operates Kay’s Kloset, a 
+women’s apparel store in Lewisville, Texas.  Kay’s Kloset 
+buys from about 75 different manufacturers and at one time 
+sold the Brighton brand.  It ﬁrst started purchasing Brigh­
+ton goods from Leegin in 1995.  Once it began selling the 
+brand, the store promoted Brighton.  For example, it ran 
+Brighton advertisements and had Brighton days in the store. 
+

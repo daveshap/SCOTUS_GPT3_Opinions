@@ -1,0 +1,120 @@
+
+
+742  POSTAL  SERVICE  v. FLAMINGO  INDUSTRIES  (USA) LTD.
+Opinion of the Court
+Housing Administration v. Burr, 309 U. S. 242 (1940).  In
+support of its holding in Burr the Court, in a passage  often
+cited in later cases involving the waiver of sovereign immu-
+nity, wrote as follows:
+"[I]t  must  be  presumed  that when  Congress  launched
+a governmental  agency  into the commercial  world  and
+endowed  it  with  authority  to  'sue  or  be  sued,'  that
+agency  is not less  amenable  to judicial process  than  a
+private enterprise under like circumstances  would be."
+Id., at 245.
+This general proposition was cited in the first two cases in
+which the Court considered the extent of the waiver effected
+by  the sue-and-be-sued  clause  of the  PRA.  In  Franchise
+Tax Bd. of Cal. v. Postal Service, 467  U. S. 512 (1984),  the
+underlying  dispute  concerned  the  obligation  of the  Postal
+Service to withhold unpaid state taxes from the wages of its
+employees.  A unanimous Court held that the Postal Service
+was required to respond to an order to withhold the amounts,
+even though the process was a state administrative tax levy,
+not an order issued by a state court.  Id., at 525.  The sue-
+and-be-sued clause, the Court held, must be given broad ef-
+fect, and the Postal Service was  required to respond to the
+administrative order even though it had not been issued by
+a judicial body.  Id., at 519-521.
+The  second case in which  the Court considered  the scope
+of the waiver  effected  by the PRA's sue-and-be-sued  clause
+was Loeffler v. Frank, 486 U. S. 549 (1988).  After the Postal
+Service had been found liable for damages from employment
+discrimination  in an  action  brought under Title VII of the
+Civil Rights Act of 1964, the question arose whether it was
+subject as well to prejudgment  interest.  Id., at 551.  The
+Court allowed the interest, and in the course of its decision
+asserted, or repeated,  formulations which  indicate that the
+sue-and-be-sued  clause  effects a broad  waiver of immunity.
+
+NEW PAGE
+
+Cite as: 540 U. S. 736 (2004)
+Opinion of the Court
+Id., at 554-555.  The Court also relied, however, upon the
+provisions of Title VII itself which, by specific amendment,
+extended the coverage under the Civil Rights Act to federal
+employees.  Id., at 558-561.
+After  Loeffler,  this  Court  decided  FDIC v.  Meyer, 510
+U. S. 471,  484  (1994).  In Meyer, the question was  whether
+the  Federal Savings  and  Loan Insurance  Corporation
+(FSLIC), an agency of the United States, could be held liable
+in a so-called "Bivens action."  See Bivens v. Six Unknown
+Fed. Narcotics Agents, 403 U. S. 388 (1971).  A federal stat-
+ute provided  for  a  waiver  of sovereign  immunity  in  suits
+against  the FSLIC,  but  the  Court  explained  that  the  in-
+terpretation of the waiver  statute was just the initial part
+of  a  two-part  inquiry.  Even  though  sovereign  immunity
+had been  waived, there was  the further, separate  question
+whether the agency was  subject to the substantive  liability
+recognized  in Bivens.  Meyer, supra, at 483.  The Loeffler
+Court had not set forth the two-step analysis in the explicit
+terms  Meyer used, but it did, as we have  said, consult the
+statute as the source  of the liability upon which the obliga-
+tion to pay prejudgment interest depended.
+The two-step analysis in Meyer applies here.  We ask first
+whether there is a waiver of sovereign immunity for actions
+against the Postal Service.  If there is, we ask the second
+question,  which  is whether the  substantive  prohibitions  of
+the Sherman Act apply  to an independent establishment  of
+the Executive Branch of the United States.
+When the Court of Appeals considered the instant case, it
+cited Meyer and seemed at the outset to follow Meyer's two-
+step analysis.  In our view, however, the ensuing discussion
+in the Court of Appeals' opinion was not consistent with the
+Meyer framework; for, having found that the Postal Service's
+immunity  from  suit  is  waived  to the  extent  provided  by
+the statutory sue-and-be-sued  clause,  the Court of Appeals
+relied  on  the  same  waiver  to  conclude  that  the  Sherman
+
+NEW PAGE
+
+744  POSTAL  SERVICE  v.  FLAMINGO INDUSTRIES  (USA) LTD.
+Opinion of the Court
+Act  applies  to the Postal  Service.  This  conflated  the two
+steps and  resulted in an erroneous  conclusion.  See  Meyer,
+supra, at 484.
+As  to  the  first  step,  as  an  "independent  establishment
+of the  executive  branch  of the Government  of the  United
+States,"  39 U. S. C. § 201.,  the Postal  Service is part of the
+Government and that status indicates immunity unless there
+is  a waiver.  The  sue-and-be-sued  clause  waives immunity,
+and makes the Postal Service amenable  to suit, as well as to
+the incidents of judicial process.  § 401.  See Meyer, supra,
+at 482;  Loeffler, supra, at  565;  Franchise Tax  Bd.,  supra,
+at 525.  While Congress waived the immunity of the Postal
+Service, Congress did not strip it of its governmental status.
+The distinction is important.  An absence of immunity does
+not result  in  liability if the  substantive  law  in question  is
+not intended to reach the federal entity.  So we proceed to
+Meyer's second step to determine if the substantive antitrust
+liability defined by the statute extends to the Postal Service.
+Under Meyer's second step, we must look to the statute.
+Some years before Meyer was decided,  the Court of Ap-
+peals for the District of Columbia Circuit recognized the two
+distinct inquiries required when the question is whether the
+Government,  or an entity it owns, is named as a defendant
+in a suit under the  antitrust laws.  Sea-Land Serv., Inc. v.
+Alaska R. Co.,  659  F. 2d 243,  245  (1981)  (R.  Ginsburg, J.).
+That is the correct approach.  Upon examining the Sherman
+Act, our decisions interpreting it, and the statutes that cre-
+ate  and  organize  the Postal  Service,  we  conclude  that the
+Postal Service is not subject to antitrust liability.
+The  Sherman  Act imposes  liability  on any  "person."  It
+defines  the word.  It provides  that  "'person'  . . . shall be
+deemed  to  include  corporations  and  associations  existing
+under or authorized by the laws of either the United States
+[or of States or foreign governments]."  15 U. S. C. § 7.  It
+follows then, that corporate or governmental status in most
+instances is not a bar to the imposition  of liability on an en-
+

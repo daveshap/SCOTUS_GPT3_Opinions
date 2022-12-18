@@ -1,0 +1,137 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "Eastern States Retail Lumber Dealers' Assn.",
+        "United States",
+        "Paramount Famous Lasky Corp.",
+        "United States",
+        "First Nat. Pictures, Inc.",
+        "Anderson v. Shipowners Assn. of Pacific Coast",
+        "Fashion Originators' Guild of America, Inc.",
+        "FTC",
+        "United States",
+        "Frankfort Distilleries, Inc.",
+        "United States",
+        "Bausch & Lomb Optical Co.",
+        "United States",
+        "American Livestock Commission Co.",
+        "Nash v. United States",
+        "St. Paul Fire & Marine Ins. Co.",
+        "Barry",
+        "Hartford Fire Ins. Co.",
+        "California"
+      ],
+      "reasoning": "Opinion of the Court this expansion of the refusal to deal beyond the targeted transaction that gives great coercive force to a commercial boycott: unrelated transactions are used as leverage to achieve the terms desired."
+    },
+    {
+      "@id": "Eastern States Retail Lumber Dealers' Assn. v. United States, 234 U. S. 600 (1914)",
+      "@type": "cite",
+      "date": "1914",
+      "caseNumber": "234 U. S. 600",
+      "involvedParties": [
+        "Eastern States Retail Lumber Dealers' Assn.",
+        "United States"
+      ],
+      "reasoning": "Recognized in the antitrust field as one of the \"leading case[s] involving commercial boycotts.\""
+    },
+    {
+      "@id": "Paramount Famous Lasky Corp. v. United States, 282 U. S. 30 (1930)",
+      "@type": "cite",
+      "date": "1930",
+      "caseNumber": "282 U. S. 30",
+      "involvedParties": [
+        "Paramount Famous Lasky Corp.",
+        "United States"
+      ],
+      "reasoning": "Unreasonable an agreement among competing motion picture distributors under which they refused to license films to exhibitors except on standardized terms."
+    },
+    {
+      "@id": "Anderson v. Shipowners Assn. of Pacific Coast, 272 U. S. 359 (1926)",
+      "@type": "cite",
+      "date": "1926",
+      "caseNumber": "272 U. S. 359",
+      "involvedParties": [
+        "Anderson",
+        "Shipowners Assn. of Pacific Coast"
+      ],
+      "reasoning": "Unreasonable restraint of trade in which an association of employers attempted to establish industry-wide terms of employment."
+    },
+    {
+      "@id": "United States v. Frankfort Distilleries, Inc., 324 U. S. 293 (1945)",
+      "@type": "cite",
+      "date": "1945",
+      "caseNumber": "324 U. S. 293",
+      "involvedParties": [
+        "United States",
+        "Frankfort Distilleries, Inc."
+      ],
+      "reasoning": "Refusal to engage in all transactions with targeted companies unless they agreed to defendants' price-fixing scheme."
+    },
+    {
+      "@id": "United States v. South-Eastern Underwriters Assn., 322 U. S. 533 (1944)",
+      "@type": "cite",
+      "date": "1944",
+      "caseNumber": "322 U. S. 533",
+      "involvedParties": [
+        "United States",
+        "South-Eastern Underwriters Assn."
+      ],
+      "reasoning": "Discussed in relation to boycotts."
+    },
+    {
+      "@id": "United States v. Bausch & Lomb Optical Co., 321 U. S. 707 (1944)",
+      "@type": "cite",
+      "date": "1944",
+      "caseNumber": "321 U. S. 707",
+      "involvedParties": [
+        "United States",
+        "Bausch & Lomb Optical Co."
+      ],
+      "reasoning": "Boycott of retailers who sold competitors' products."
+    },
+    {
+      "@id": "Fashion Originators' Guild of America, Inc. v. FTC, 312 U. S. 457 (1941)",
+      "@type": "cite",
+      "date": "1941",
+      "caseNumber": "312 U. S. 457",
+      "involvedParties": [
+        "Fashion Originators' Guild of America, Inc.",
+        "FTC"
+      ],
+      "reasoning": "Boycott of retailers who sold competitors' products."
+    },
+    {
+      "@id": "United States v. American Livestock Commission Co., 279 U. S. 435 (1929)",
+      "@type": "cite",
+      "date": "1929",
+      "caseNumber": "279 U. S. 435",
+      "involvedParties": [
+        "United States",
+        "American Livestock Commission Co."
+      ],
+      "reasoning": "Absolute boycott of a competing livestock association, intended to drive it out of business."
+    },
+    {
+      "@id": "Nash v. United States, 229 U. S. 373 (1913)",
+      "@type": "cite",
+      "date": "1913",
+      "caseNumber": "229 U. S. 373",
+      "involvedParties": [
+        "Nash",
+        "United States"
+      ],
+      "reasoning": "Word used in passing."
+    },
+    {

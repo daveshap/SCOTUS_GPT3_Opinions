@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/VolvoTrucksNorthAmericaIncvReederSimcoGMCInc",
+      "caseNumber": "No. 04–905",
+      "date": "October 31, 2005",
+      "parties": [
+        "Volvo Trucks North America, Inc.",
+        "Reeder-Simco GMC, Inc."
+      ],
+      "reasoning": "Robinson-Patman Act claim alleging that its sales and profits declined because Volvo offered other dealers more favorable price concessions.",
+      "citation": "546 U. S. 164 (2006)"
+    },
+    {
+      "@id": "http://schema.org/FTCvAnheuserBuschInc",
+      "caseNumber": "363 U. S. 536",
+      "date": "",
+      "parties": [
+        "FTC",
+        "Anheuser-Busch, Inc."
+      ],
+      "reasoning": "Robinson-Patman Act targeted the perceived harm to competition occasioned by the advent of large chain stores able to obtain lower prices for goods than smaller buyers could demand.",
+      "citation": ""
+    },
+    {
+      "@id": "http://schema.org/BrookeGroupLtdvBrownWilliamsonTobaccoCorp",
+      "caseNumber": "509 U. S. 209",
+      "date": "",
+      "parties": [
+        "Brooke Group Ltd.",
+        "Brown & Williamson Tobacco Corp."
+      ],
+      "reasoning": "Robinson-Patman does not ban all price differences charged to different purchasers of similar commodities, but proscribes only “price discrimination [that] threatens to injure competition.",
+      "citation": ""
+    },
+    {
+      "@id": "http://schema.org/FTCvSunOilCo",
+      "caseNumber": "371 U. S. 505",
+      "date": "",
+      "parties": [
+        "FTC",
+        "Sun Oil Co."
+      ],
+      "reasoning": "Act centrally addresses price discrimination in cases involving competition between different purchasers for resale of the purchased product.",
+      "citation": ""
+    },
+    {
+      "@id": "http://schema.org/FallsCityIndustriesIncvVancoBeverageInc",
+      "caseNumber": "460 U. S. 428",
+      "date": "",
+      "parties": [
+        "Falls City Industries, Inc.",
+        "Vanco Beverage, Inc."
+      ],
+      "reasoning": "Injury to competition targeted by the Robinson-Patman Act is not established by the selective comparisons Reeder presented at trial.",
+      "citation": ""
+    }
+  ]
+}

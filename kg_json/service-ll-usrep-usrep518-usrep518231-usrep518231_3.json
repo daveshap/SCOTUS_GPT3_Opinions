@@ -1,0 +1,104 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/BrownvProFootballInc",
+      "@type": "cite",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": "Brown v. Pro Football, Inc.",
+      "reasoning": "The petitioners and their supporters concede, as they must, the legal existence of the exemption we have described."
+    },
+    {
+      "@id": "http://schema.org/VolkswagenwerkAktiengesellschaftvFederalMaritimeCommn",
+      "@type": "cite",
+      "date": "1968",
+      "caseNumber": "390 U. S. 261",
+      "involvedParties": "Volkswagenwerk Aktiengesellschaft v. Federal Maritime Comm'n",
+      "reasoning": "Nor does the dissent take issue with these basic principles."
+    },
+    {
+      "@id": "http://schema.org/JewelTea",
+      "@type": "cite",
+      "date": "1965",
+      "caseNumber": "379 U.S. 203",
+      "involvedParties": "Jewel Tea",
+      "reasoning": "It would be difficult, if not impossible, to require groups of employers and employees to bargain together, but at the same time to forbid them to make among themselves or with each other any of the competition-restricting agreements potentially necessary to make the process work or its results mutually acceptable."
+    },
+    {
+      "@id": "http://schema.org/Connell",
+      "@type": "cite",
+      "date": "1965",
+      "caseNumber": "379 U.S. 203",
+      "involvedParties": "Connell",
+      "reasoning": "The implicit exemption recognizes that, to give effect to federal labor laws and policies and to allow meaningful collective bargaining to take place, some restraints on competition imposed through the bargaining process must be shielded from antitrust sanctions."
+    },
+    {
+      "@id": "http://schema.org/StorerCommunicationsInc",
+      "@type": "cite",
+      "date": "1989",
+      "caseNumber": "294 N. L. R. B. 1056",
+      "involvedParties": "Storer Communications, Inc.",
+      "reasoning": "The new terms must be 'reasonably comprehended' within the employer's preimpasse proposals (typically the last rejected proposals), lest by imposing more or less favorable terms, the employer unfairly undermined the union's status."
+    },
+    {
+      "@id": "http://schema.org/TaftBroadcastingCo",
+      "@type": "cite",
+      "date": "1967",
+      "caseNumber": "163 N. L. R. B. 475",
+      "involvedParties": "Taft Broadcasting Co.",
+      "reasoning": "The new terms must be 'reasonably comprehended' within the employer's preimpasse proposals (typically the last rejected proposals), lest by imposing more or less favorable terms, the employer unfairly undermined the union's status."
+    },
+    {
+      "@id": "http://schema.org/NLRBvKatz",
+      "@type": "cite",
+      "date": "1962",
+      "caseNumber": "369 U. S. 736",
+      "involvedParties": "NLRB v. Katz",
+      "reasoning": "These regulations reflect the fact that impasse and an accompanying implementation of proposals constitute an integral part of the bargaining process."
+    },
+    {
+      "@id": "http://schema.org/ElCerritoMillLumberCo",
+      "@type": "cite",
+      "date": "1995",
+      "caseNumber": "316 N. L. R. B. 1005",
+      "involvedParties": "El Cerrito Mill & Lumber Co.",
+      "reasoning": "Board and court decisions suggest that the joint implementation of proposed terms after impasse is a familiar practice in the context of multiemployer bargaining."
+    },
+    {
+      "@id": "http://schema.org/ParamountLiquorCo",
+      "@type": "cite",
+      "date": "1992",
+      "caseNumber": "307 N. L. R. B. 676",
+      "involvedParties": "Paramount Liquor Co.",
+      "reasoning": "Board and court decisions suggest that the joint implementation of proposed terms after impasse is a familiar practice in the context of multiemployer bargaining."
+    },
+    {
+      "@id": "http://schema.org/NKSDistributorsInc",
+      "@type": "cite",
+      "date": "1991",
+      "caseNumber": "304 N. L. R. B. 338",
+      "involvedParties": "NKS Distributors, Inc.",
+      "reasoning": "Board and court decisions suggest that the joint implementation of proposed terms after impasse is a familiar practice in the context of multiemployer bargaining."
+    },
+    {
+      "@id": "http://schema.org/SageDevelopmentCo",
+      "@type": "cite",
+      "date": "1991",
+      "caseNumber": "301 N. L. R. B. 1173",
+      "involvedParties": "Sage Development Co.",
+      "reasoning": "Board and court decisions suggest that the joint implementation of proposed terms after impasse is a familiar practice in the context of multiemployer bargaining."
+    },
+    {
+      "@id": "http://schema.org/WalkerConstrCo",
+      "@type": "cite",
+      "date": "1990",
+      "caseNumber": "297 N. L. R. B. 746",
+      "involvedParties": "Walker Constr. Co.",
+      "reasoning": "Board and court decisions suggest that the joint implementation of proposed terms after impasse is

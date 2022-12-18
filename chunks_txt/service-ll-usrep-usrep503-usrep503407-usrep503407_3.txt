@@ -1,0 +1,122 @@
+
+
+Cite as: 503 U. S. 407 (1992)
+Opinion of the Court
+seems to have been  anticipated by Amtrak and CV, as indi-
+cated  by an  internal  CV Memorandum  written in January
+1988.  App. 94.
+Interpreting the B&M communication as a rejection of its
+offer, Amtrak instituted this proceeding before  the ICC to
+compel  conveyance  of the track.  CVfiled  a  simultaneous
+request for an exemption from ICC regulation for its acquisi-
+tion of the segment upon reconveyance from Amtrak.
+B&M assessed  the transaction as a significant shift in its
+long competition  with  CV  for freight  traffic.  CV  already
+owned large parts of the Conn River Line and after the pro-
+posed  transaction  it would  own most of it.  Though  B&M
+would have trackage rights, CV would gain not only owner-
+ship of the segment, but also the right to obtain new custom-
+ers on its route.  B&M alleged  this gave a new advantage
+to  CV's  corporate  parent,  the Canadian  National  Railway
+Company, for each railroad links up with competing compa-
+nies in Canada.  CV's lines link to Canadian National, while
+B&M's lines link to the Canadian Pacific, Ltd., Canadian Na-
+tional's competitor.  B&M challenged the transaction as sim-
+ply a device to shift ownership among railroads, not to give
+ownership to Amtrak, which, B&M argued, was the sole pur-
+pose of the condemnation provision.
+B&M filed initial objections to the § 562(d) proceeding  on
+two grounds:  that Amtrak had  not shown  that the  parties
+were unable to agree on reasonable terms of sale, and that
+§ 562(d)  did  not  authorize  condemnation  of  railroad  lines.
+The ICC rejected  B&M's arguments  and in a condemnation
+proceeding held that Amtrak had shown the inability of the
+parties to agree to terms.  It ruled that § 562(d) covers rail-
+road  tracks because  tracks are  "rail property 'required  for
+intercity rail passenger service."'  App. to Pet. for Cert. in
+No.  90-1419,  pp. 130a-133a.  B&M  next sought to convert
+the  proceeding  into  a  trackage  rights  proceeding  under
+§ 562(a), but the ICC again rejected B&M's position, holding
+that Amtrak had an "election  of remedies"  under § 562 and
+
+NEW PAGE
+
+414  NATIONAL RAILROAD PASSENGER CORPORATION v.
+BOSTON & MAINE CORP.
+Opinion of the Court
+so had no obligation to seek trackage rights under subsection
+(a) before invoking subsection (d).  Id., at 115a-116a.  Mean-
+while, CV and the States of Vermont and Massachusetts,  as
+well as numerous other parties, intervened  in the ICC pro-
+ceeding.  (CV appears as a petitioner before this Court, and
+Vermont and Massachusetts  support petitioners.)
+This  was  the  first decided  case involving  Amtrak's  con-
+demnation powers under § 562(d).  Id., at 39a.  The  ICC is-
+sued its final decision in 1988 and ordered conveyance of the
+segment  with  just  compensation  of  $2,373,286.  It  reaf-
+firmed earlier rulings and found that Amtrak "ha[d] met the
+statutory criteria for the institution of a proceeding" under
+§ 562(d).  Id., at 40a-42a, 81a.
+The ICC concluded that the presumption of Amtrak's need
+for the track contained in § 562(d)(1)  was applicable.  In its
+view both statutory criteria must be  met to rebut the pre-
+sumption,  and  B&M  had  established  neither.  As  to alter-
+native property (subsection (B)), the ICC found that no rea-
+sonable alternative route existed for the Montrealer service.
+And as to significant  impairment of B&M's ability to carry
+out its common carrier obligations (subsection (A)), the ICC
+found that because  B&M had been awarded just compensa-
+tion  and  could  continue  to  serve  its  customers  under the
+"trackage  rights"  agreement  which  was  part of the trans-
+action,  its ability  had not been  impaired.  Id.,  at 45a-46a.
+The bulk of the ICC's final  decision deals with the question
+of just compensation,  which  is not before  this Court.  See
+infra, at 424.
+On  petition for  review, a  divided  panel  of the  Court of
+Appeals  for  the  District  of Columbia  Circuit  granted  the
+petition  and  remanded  the  matter  to  the  ICC  for further
+proceedings.  286  U. S.  App. D. C.  1, 911  F. 2d  743 (1990).
+The majority held that § 562(d)  does not permit Amtrak to
+condemn railroad  property which it intends  to reconvey  to
+another railroad.  It acknowledged  that the ICC had inter-
+
+NEW PAGE
+
+Cite as: 503 U. S. 407 (1992)
+Opinion of the Court
+preted § 562 in a different way, and that in the usual course
+judicial deference would be given to its interpretation under
+the principles enunciated in Chevron U S. A. Inc. v. Natural
+Resources Defense Council, Inc., 467  U. S. 837  (1984);  but
+the court concluded  that § 562(d) is unambiguous  in light of
+its language and history, and so no deference was due.  The
+panel majority reasoned that because Amtrak did not intend
+to retain the track to be condemned, it needed only its use,
+not its ownership.  As Amtrak could obtain use of the prop-
+erty  by  obtaining  either  a  "trackage  rights"  agreement
+under § 562(a), or by condemning an easement under § 562(d),
+the entire fee  interest was not "'required  for intercity rail
+passenger service."'  286  U. S. App.  D. C.,  at 8,  911  F. 2d,
+at 750.  The majority stated that its holding was confirmed
+by other considerations, including: (1) the potential constitu-
+tional  problems,  under  the Takings  Clause,  raised  by  the
+ICC's  interpretation  of § 562(d);  (2)  the structure  of §562,
+which indicated an intent on the part of Congress to relegate
+Amtrak to trackage rights under § 562(a) when seeking only
+the  use  of  track;  and  (3)  Congress'  policy  against  cross-
+subsidization between sectors of the railroad industry, which
+the majority  concluded  would  have been  violated  by  this
+transaction.  Judge Ruth B. Ginsburg concurred  separately,
+rejecting  the  majority's  interpretation  of the  statute, but
+concluding that a remand to the ICC was necessary because
+the  ICC  had  not  made  adequate  findings  to  determine
+whether Amtrak  in  fact  needed  to  shift ownership  of the
+segment from B&M  to CV to protect its interests.  Id., at
+11-13, 911 F. 2d, at 753-755.  This factual question, whether
+Amtrak's  portrayal  of a  recalcitrant  B&M  is accurate,  re-
+mains  in  dispute.  Under  our resolution  of the case, how-
+ever, the issue need not be reached.
+Amtrak  and  the  ICC  ified  petitions  for  rehearing,  and
+while the petitions were pending Congress amended § 562(d).
+The amendment, adopted in specific response to the Court of
+

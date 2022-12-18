@@ -1,0 +1,126 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  883 
+Opinion of the Court 
+Kay’s Kloset became the destination retailer in the area to 
+buy Brighton products.  Brighton was the store’s most im­
+portant brand and once accounted for 40 to 50 percent of 
+its proﬁts. 
+In 1997, Leegin instituted the “Brighton Retail Pricing 
+and Promotion Policy.”  4 id., at 939.  Following the policy, 
+Leegin refused to sell to retailers that discounted Brighton 
+goods below suggested prices.  The policy contained an ex­
+ception for products not selling well that the retailer did not 
+plan on reordering.  In the letter to retailers establishing 
+the policy, Leegin stated: 
+“In this age of mega stores like Macy’s, Bloomingdales, 
+May Co. and others, consumers are perplexed by prom­
+ises of product quality and support of product which we 
+believe is lacking in these large stores.  Consumers are 
+further confused by the ever popular sale, sale, sale, etc. 
+“We, at Leegin, choose to break away from the pack 
+by selling [at] specialty stores; specialty stores that can 
+offer  the  customer  great quality  merchandise,  superb 
+service, and support the Brighton product 365 days a 
+year on a consistent basis. 
+“We realize that half the equation is Leegin producing 
+great Brighton product and the other half is you, our 
+retailer, creating great looking stores selling our prod­
+ucts in a quality manner.”  Ibid. 
+Leegin adopted the policy to give its retailers sufﬁcient mar­
+gins to provide customers the service central to its distribu­
+tion strategy.  It also expressed concern that discounting 
+harmed Brighton’s brand image and reputation. 
+A year after instituting the pricing policy Leegin intro­
+duced a marketing strategy known as the “Heart Store Pro­
+gram.”  See id., at 962–972.  It offered retailers incentives 
+to become Heart Stores, and, in exchange, retailers pledged, 
+among  other  things,  to  sell  at  Leegin’s  suggested  prices. 
+Kay’s Kloset became a Heart Store soon after Leegin created 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+884  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+the program.  After a Leegin employee visited the store 
+and found it unattractive, the parties appear to have agreed 
+that Kay’s Kloset would not be a Heart Store beyond 1998. 
+Despite losing this status, Kay’s Kloset continued to increase 
+its Brighton sales. 
+In December 2002, Leegin discovered Kay’s Kloset had 
+been  marking  down  Brighton’s  entire  line  by  20  percent. 
+Kay’s Kloset contended it placed Brighton products on sale 
+to compete with nearby retailers who also were undercutting 
+Leegin’s suggested prices.  Leegin, nonetheless, requested 
+that Kay’s Kloset cease discounting.  Its request refused, 
+Leegin stopped selling to the store.  The loss of the Brigh­
+ton brand had a considerable negative impact on the store’s 
+revenue from sales. 
+PSKS sued Leegin in the United States District Court for 
+the  Eastern  District  of  Texas.  It  alleged,  among  other 
+claims, that Leegin had violated the antitrust laws by “enter­
+[ing]  into  agreements  with  retailers  to  charge  only  those 
+prices ﬁxed by Leegin.”  Id., at 1236.  Leegin planned to 
+introduce expert testimony describing the procompetitive ef­
+fects of its pricing policy.  The District Court excluded the 
+testimony,  relying  on  the  per  se  rule  established  by  Dr. 
+Miles.  At trial PSKS argued that the Heart Store program, 
+among other things, demonstrated Leegin and its retailers 
+had agreed to ﬁx prices.  Leegin responded that it had es­
+tablished a unilateral pricing policy lawful under § 1, which 
+applies only to concerted action.  See United States v. Col­
+gate & Co., 250 U. S. 300, 307 (1919).  The jury agreed with 
+PSKS and awarded it $1.2 million.  Pursuant to 15 U. S. C. 
+§ 15(a), the District Court trebled the damages and reim­
+bursed PSKS for its attorney’s fees and costs.  It entered 
+judgment against Leegin in the amount of $3,975,000.80. 
+The Court of Appeals for the Fifth Circuit afﬁrmed.  171 
+Fed. Appx. 464 (2006) (per curiam).  On appeal Leegin did 
+not  dispute  that  it  had  entered  into  vertical  price-ﬁxing 
+agreements with its retailers.  Rather, it contended that the 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  885 
+Opinion of the Court 
+rule  of  reason  should  have  applied  to  those  agreements. 
+The Court of Appeals rejected this argument.  Id., at 466– 
+467.  It was correct to explain that it remained bound by 
+Dr. Miles “[b]ecause [the Supreme] Court has consistently 
+applied the  per se  rule to [vertical  minimum price-ﬁxing] 
+agreements.”  171 Fed. Appx., at 466.  On this premise the 
+Court of Appeals held that the District Court did not abuse 
+its  discretion  in  excluding  the  testimony  of  Leegin’s  eco­
+nomic expert, for the per se rule rendered irrelevant any 
+procompetitive justiﬁcations for Leegin’s pricing policy.  Id., 
+at 467.  We granted certiorari to determine whether verti­
+cal minimum resale price maintenance agreements should 
+continue to be treated as per se unlawful.  549 U. S. 1092 
+(2006). 
+II 
+Section 1 of the Sherman Act prohibits “[e]very contract, 
+combination in the form of trust or otherwise, or conspiracy, 
+in restraint of trade or commerce among the several States.” 
+Ch. 647, 26 Stat. 209, as amended, 15 U. S. C. § 1.  While § 1 
+could  be  interpreted  to  proscribe  all  contracts,  see,  e. g., 
+Board of Trade of Chicago v. United States, 246 U. S. 231, 
+238 (1918), the Court has never “taken a literal approach to 
+[its] language,” Texaco Inc. v. Dagher, 547 U. S. 1, 5 (2006). 
+Rather, the Court has repeated time and again that § 1 “out­
+law[s] only unreasonable restraints.”  State Oil Co. v. Khan, 
+522 U. S. 3, 10 (1997). 
+The rule of reason is the accepted standard for testing 
+whether a practice restrains trade in violation of § 1.  See 
+Texaco, supra, at 5.  “Under this rule, the factﬁnder weighs 
+all of the circumstances of a case in deciding whether a re­
+strictive practice should be prohibited as imposing an unrea­
+sonable restraint on competition.”  Continental T. V., Inc. 
+v. GTE Sylvania Inc., 433 U. S. 36, 49 (1977).  Appropriate 
+factors  to  take  into  account  include  “speciﬁc  information 
+about the relevant business” and “the restraint’s history, na­
+ture, and effect.”  Khan, supra, at 10.  Whether the busi­
+

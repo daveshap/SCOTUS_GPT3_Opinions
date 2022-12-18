@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/PacificBellTelephoneCo",
+      "@type": "CaseCitation",
+      "date": "2008-10-01",
+      "caseNumber": "555US2",
+      "involvedParties": "Pacific Bell Telephone Co., dba AT&T California, et al. v. Linkline Communications, Inc., et al.",
+      "reasoning": "Petitioners (hereinafter AT&T) own infrastructure and facilities needed to provide “DSL” service, a method of connecting to the Internet at high speeds over telephone lines."
+    },
+    {
+      "@id": "http://example.org/VerizonCommunicationsInc",
+      "@type": "Precedent",
+      "date": "2004-01-01",
+      "caseNumber": "540US398",
+      "involvedParties": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "A firm with no antitrust duty to deal with its rivals has no obligation to provide those rivals with a “sufficient” level of service."
+    },
+    {
+      "@id": "http://example.org/BrookeGroupLtd",
+      "@type": "Precedent",
+      "date": "1993-01-01",
+      "caseNumber": "509US209",
+      "involvedParties": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "reasoning": "Established two requirements for predatory pricing: below-cost retail pricing and a “dangerous probability” that the defendant will recoup any lost profits."
+    },
+    {
+      "@id": "http://example.org/UnitedStatesvColgate",
+      "@type": "Precedent",
+      "date": "1919-01-01",
+      "caseNumber": "250US300",
+      "involvedParties": "United States v. Colgate & Co.",
+      "reasoning": "Businesses are generally free to choose the parties with whom they will deal, as well as the prices, terms, and conditions of that dealing."
+    },
+    {
+      "@id": "http://example.org/AspenSkiingCo",
+      "@type": "Precedent",
+      "date": "1985-01-01",
+      "caseNumber": "472US585",
+      "involvedParties": "Aspen Skiing Co. v. Aspen Highlands Skiing Corp.",
+      "reasoning": "Limited circumstances in which a firm’s unilateral refusal to deal with its rivals can give rise to antitrust liability."
+    },
+    {
+      "@id": "http://example.org/MatsushitaElecIndustrialCo",
+      "@type": "Precedent",
+      "date": "1986-01-01",
+      "caseNumber": "475US574",
+      "involvedParties": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+      "reasoning": "Cutting prices in order to increase business often is the very essence of competition."
+    },
+    {
+      "@id": "http://example.org/BellAtlanticCorp",
+      "@type": "Precedent",
+      "date": "2007-01-01",
+      "caseNumber": "550US544",
+      "involvedParties": "Bell Atlantic Corp. v. Twombly",
+      "reasoning": "Pleading standard articulated in Bell Atlantic Corp. v. Twombly, 550 U. S. 544, 561–563"
+    }
+  ]
+}

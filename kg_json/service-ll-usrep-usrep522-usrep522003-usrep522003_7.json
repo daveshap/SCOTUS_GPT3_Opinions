@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/522_U_S_3_1997",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "522 U. S. 3 (1997)",
+      "date": "1997",
+      "involvedParties": "National Soc. of Professional Engineers v. United States",
+      "reasoning": "The term 'restraint of trade' invokes the common law itself, and not merely the static content that the common law had assigned to the term in 1890."
+    },
+    {
+      "@id": "http://example.org/copperweld_corp_1984",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Copperweld Corp. v. Independence Tube Corp., 467 U. S. 752 (1984)",
+      "date": "1984",
+      "involvedParties": "Copperweld Corp. v. Independence Tube Corp.",
+      "reasoning": "The theoretical underpinnings of earlier decisions are called into serious question."
+    },
+    {
+      "@id": "http://example.org/gte_sylvania_1977",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "GTE Sylvania Inc. v. Consumers Union of United States, Inc., 433 U. S. 36 (1977)",
+      "date": "1977",
+      "involvedParties": "GTE Sylvania Inc. v. Consumers Union of United States, Inc.",
+      "reasoning": "Schwinn was the subject of continuing controversy and confusion under the great weight of scholarly criticism."
+    },
+    {
+      "@id": "http://example.org/albrecht_1974",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Albrecht v. Herald Co., 390 U. S. 145 (1974)",
+      "date": "1974",
+      "involvedParties": "Albrecht v. Herald Co.",
+      "reasoning": "Albrecht has been widely criticized since its inception."
+    },
+    {
+      "@id": "http://example.org/tigner_1940",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Tigner v. Texas, 310 U. S.1 41 (1940)",
+      "date": "1940",
+      "involvedParties": "Tigner v. Texas",
+      "reasoning": "Different sorts of agreements may amount to restraints of trade in varying times and circumstances."
+    },
+    {
+      "@id": "http://example.org/neal_1996",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Neal v. United States, 516 U. S.2 84 (1996)",
+      "date": "1996",
+      "involvedParties": "Neal v. United States",
+      "reasoning": "The views underlying Albrecht eroded by this Court's precedent."
+    },
+    {
+      "@id": "http://example.org/patterson_1989",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Pattersonv . McLean Credit Union, 491  U. S. 164 (1989)",
+      "date": "1989",
+      "involvedParties": "Pattersonv . McLean Credit Union",
+      "reasoning": "The views underlying Albrecht eroded by this Court's precedent."
+    },
+    {
+      "@id": "http://example.org/rodriguez_de_quijas_1989",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Rodriguez de Quijas v. Shearson/American Express, Inc.,  490  U.S. 477 (1989)",
+      "date": "1989",
+      "involvedParties": "Rodriguez de Quijas v. Shearson/American Express, Inc.",
+      "reasoning": "The views underlying Albrecht eroded by this Court's precedent."
+    },
+    {
+      "@id": "http://example.org/arco_1989",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "Atlantic Richfield Co. v. USA Petroleum Co., 495 U. S. 328 (1989)",
+      "date": "1989",
+      "involvedParties": "Atlantic Richfield Co. v. USA Petroleum Co.",
+      "reasoning": "There has not been another case since Albrecht in which this Court has confronted an unadulterated vertical, maximum-price-fixing arrangement."
+    },
+    {
+      "@id": "http://example.org/state_oil_co_1996",
+      "@type": "http://schema.org/LegalCase",
+      "caseNumber": "State Oil Co. v. Khan, 522 U. S. 3 (1997)",
+      "date": "1997",
+      "involvedParties": "State Oil Co. v. Khan",
+      "reasoning": "Vertical maximum price fixing, like the majority of commercial arrangements subject to the antitrust laws, should be evaluated under the rule of reason."
+    }
+  ]
+}

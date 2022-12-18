@@ -1,0 +1,91 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "statute": "http://schema.org/statute"
+  },
+  "@graph": [
+    {
+      "@id": "551US1",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "288",
+      "involvedParties": "CREDIT SUISSE SECURITIES (USA) LLC v. BILLING",
+      "reasoning": "Thomas, J., dissenting",
+      "statute": "Securities Exchange Act of 1934"
+    },
+    {
+      "@id": "459US375",
+      "date": "1983",
+      "caseNumber": "",
+      "involvedParties": "Herman & MacLean v. Huddleston",
+      "reasoning": "Characterized those clauses as “conﬁrm[ing] that the remedies in each Act were to be supplemented by ‘any and all’ additional remedies.”",
+      "statute": ""
+    },
+    {
+      "@id": "26Stat209",
+      "date": "1890",
+      "caseNumber": "",
+      "involvedParties": "Sherman Act",
+      "reasoning": "Rights and remedies under the federal antitrust laws certainly would have been thought of as “rights and remedies” that existed “at law or in equity” by the Congresses that enacted that Securities Act and the Securities Exchange Act in the early 1930’s.",
+      "statute": ""
+    },
+    {
+      "@id": "VerizonCommunicationsIncvLawOfficesofCurtisVTrinkoLLP",
+      "date": "2004",
+      "caseNumber": "540U.S.398",
+      "involvedParties": "Verizon Communications Inc. v. Law Ofﬁces of Curtis V. Trinko, LLP",
+      "reasoning": "Some statutes contain saving clauses speciﬁc to antitrust.",
+      "statute": "Telecommunications Act of 1996"
+    },
+    {
+      "@id": "SilvervNewYorkStockExchange",
+      "date": "1963",
+      "caseNumber": "373U.S.341",
+      "involvedParties": "Silver v. New York Stock Exchange",
+      "reasoning": "Omitted reasoning has little claim to precedential value.",
+      "statute": ""
+    },
+    {
+      "@id": "GordonvNewYorkStockExchangeInc",
+      "date": "1975",
+      "caseNumber": "422U.S.659",
+      "involvedParties": "Gordon v. New York Stock Exchange, Inc.",
+      "reasoning": "None of the opinions in Silver v. New York Stock Exchange, Gordon, or NASD—majority or dissent—offered any analysis of the saving clauses.",
+      "statute": ""
+    },
+    {
+      "@id": "UnitedStatesvNationalAssnofSecuritiesDealersInc",
+      "date": "1975",
+      "caseNumber": "422U.S.694",
+      "involvedParties": "United States v. National Assn. of Securities Dealers, Inc.",
+      "reasoning": "None of the opinions in Silver v. New York Stock Exchange, Gordon, or NASD—majority or dissent—offered any analysis of the saving clauses.",
+      "statute": ""
+    },
+    {
+      "@id": "15USC77v(a)",
+      "date": "",
+      "caseNumber": "",
+      "involvedParties": "15 U.S. C. § 77v(a)",
+      "reasoning": "Referring to “State and Territorial courts”.",
+      "statute": ""
+    },
+    {
+      "@id": "15USC78bb(a)",
+      "date": "",
+      "caseNumber": "",
+      "involvedParties": "15 U.S. C. § 78bb(a)",
+      "reasoning": "Referring to the “securities commission . . . of any State”.",
+      "statute": ""
+    },
+    {
+      "@id": "17USC301(b)",
+      "date": "",
+      "caseNumber": "",
+      "involvedParties": "17 U. S. C. § 301(b)",
+      "reasoning": "Nothing in this title annuls or limits any rights or remedies under the common law or statutes of any State.",
+      "statute": ""
+    }
+  ]
+}

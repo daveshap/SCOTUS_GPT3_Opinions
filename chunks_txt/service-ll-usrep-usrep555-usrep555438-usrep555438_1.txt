@@ -1,0 +1,149 @@
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+438  OCTOBER TERM, 2008 
+Syllabus 
+PACIFIC BELL TELEPHONE CO., dba AT&T
+ 
+CALIFORNIA, et al. v. LINKLINE COM-
+
+MUNICATIONS, INC., et al.
+ 
+certiorari to the united states court of appeals for 
+the ninth circuit 
+No. 07–512.  Argued December 8, 2008—Decided February 25, 2009 
+Petitioners (hereinafter AT&T) own infrastructure and facilities needed 
+to provide “DSL” service, a method of connecting to the Internet at 
+high speeds over telephone lines.  As a condition for a recent merger, 
+the Federal Communications Commission requires AT&T to provide 
+wholesale DSL transport service to independent ﬁrms at a price no 
+greater than the retail price of AT&T’s DSL service.  The plaintiffs in 
+this case, respondents here, are independent Internet service providers 
+that compete with AT&T in the retail DSL market in California.  The 
+plaintiffs do not own all the facilities needed to supply DSL service, and 
+must lease wholesale DSL transport service from AT&T.  They ﬁled 
+suit under § 2 of the Sherman Act, asserting that AT&T unlawfully 
+“squeezed” their proﬁt margins by setting a high price for the wholesale 
+DSL transport service it sells and a low price for its own retail DSL 
+service.  This maneuver allegedly placed the plaintiffs at a competitive 
+disadvantage, allowing AT&T to maintain monopoly power in the DSL 
+market.  AT&T moved for judgment on the pleadings, arguing that the 
+plaintiffs’ claims were foreclosed by Verizon Communications Inc. v. 
+Law Ofﬁces of Curtis V. Trinko, LLP, 540 U. S. 398, 410, in which this 
+Court held that a ﬁrm with no antitrust duty to deal with its rivals has 
+no obligation to provide those rivals with a “sufﬁcient” level of service. 
+The District Court found that AT&T had no antitrust duty to deal with 
+the plaintiffs, but nonetheless denied the motion, holding that Trinko 
+did not address price-squeeze claims.  The court certiﬁed its order for 
+interlocutory appeal on the question whether Trinko bars price-squeeze 
+claims when the parties are required to deal by federal communications 
+law, but not antitrust law.  The Ninth Circuit afﬁrmed, holding that 
+Trinko did not address the viability of price-squeeze claims, and thus 
+the plaintiffs’ complaint stated a potentially valid § 2 claim. 
+Held: 
+1. The case is not moot.  The plaintiffs now agree that their claims 
+must meet the Brooke Group test for predatory pricing, apparently 
+apart from their price-squeeze theory.  That test established two re­
+quirements for predatory pricing: below-cost retail pricing and a “ ‘dan­
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  439 
+Syllabus 
+gerous probability’ ” that the defendant will recoup any lost proﬁts, see 
+Brooke Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 
+209, 222–224.  Despite the plaintiffs’ new position, the parties continue 
+to seek different relief: AT&T seeks reversal of the decision below and 
+dismissal of the complaint, while the plaintiffs seek leave to amend their 
+complaint to allege a Brooke Group claim.  It is also not clear that the 
+plaintiffs  have  unequivocally  abandoned  their  price-squeeze  claims. 
+Prudential concerns favor answering the question presented; absent a 
+decision on the merits, the Circuit conﬂict that this Court granted cer­
+tiorari to resolve would persist.  Pp. 446–447. 
+2. A price-squeeze claim may not be brought under § 2 when the de­
+fendant has no antitrust duty to deal with the plaintiff at wholesale. 
+Pp. 447–457. 
+(a) Businesses are generally free to choose the parties with whom 
+they will deal, as well as the prices, terms, and conditions of that deal­
+ing.  See United States v. Colgate & Co., 250 U. S. 300, 307.  But in 
+rare circumstances, a dominant ﬁrm may incur antitrust liability for 
+purely unilateral conduct, such as charging “predatory” prices.  Brooke 
+Group, supra, at 222–224.  There are also limited circumstances in 
+which a ﬁrm’s unilateral refusal to deal with its rivals can give rise to 
+antitrust liability.  See Aspen Skiing Co. v. Aspen Highlands Skiing 
+Corp., 472 U. S. 585, 608–611.  Here, plaintiffs do not allege predatory 
+pricing, and the District Court concluded that there was no antitrust 
+duty to deal.  Plaintiffs challenge a different type of unilateral conduct 
+in which a ﬁrm “squeezes” its competitors’ proﬁt margins.  This re­
+quires the defendant to operate in both the wholesale (“upstream”) and 
+retail (“downstream”) markets.  By raising the wholesale price of in­
+puts while cutting its own retail prices, the defendant can raise competi­
+tors’ costs while putting downward pressure on their revenues.  Price­
+squeeze plaintiffs assert that defendants must leave them a “fair” or 
+“adequate” margin between wholesale and retail prices.  Pp. 447–449. 
+(b) Where there is no duty to deal at the wholesale level and no 
+predatory pricing at the retail level, a ﬁrm is not required to price both 
+of these services in a manner that preserves its rivals’ proﬁt margins. 
+Pp. 449–452. 
+(i) Any challenge to AT&T’s wholesale prices is foreclosed by a 
+straightforward application of Trinko.  The claim in Trinko addressed 
+the quality of Verizon’s support services, while the claims in this case 
+challenge AT&T’s pricing structure.  But for antitrust purposes, there 
+is no meaningful distinction between price and nonprice components of 
+a transaction.  The nub of the complaint in both cases is identical—the 
+plaintiffs alleged that the defendants (upstream monopolists) abused 
+their power in the wholesale market to prevent rival ﬁrms from compet­
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+440  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Syllabus
+ 
+ing effectively in the retail market.  But a ﬁrm with no antitrust duty 
+to deal in the wholesale market has no obligation to deal under terms 
+and conditions favorable to its competitors.  See Trinko, supra, at 410. 
+Had AT&T simply stopped providing DSL transport service to the 
+plaintiffs, it would not have run afoul of the Sherman Act.  Thus, it was 
+not required to offer this service at the wholesale prices the plaintiffs 
+would have preferred.  Pp. 449–451. 
+(ii) The other component of a price-squeeze claim is the assertion 
+that the defendant’s retail prices are “too low.”  Here too plaintiffs’ 
+claims ﬁnd no support in existing antitrust doctrine.  “[C]utting prices 
+in order to increase business often is the very essence of competition.” 
+Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 
+594.  To avoid chilling aggressive price competition, the Court has care­
+fully limited the circumstances under which plaintiffs can state a Sher­
+man Act claim by alleging that the defendant’s prices are too low.  See 
+Brooke Group, supra, at 222–224.  The complaint at issue here has no 
+allegation that AT&T’s conduct met either Brooke Group requirement. 
+Recognizing a price-squeeze claim where the defendant’s retail price 
+remains above cost would invite the precise harm the Court sought to 
+avoid in Brooke Group: Firms might raise retail prices or refrain from 
+aggressive price competition to avoid potential antitrust liability.  See 
+509 U. S., at 223.  Pp. 451–452. 
+(c) Institutional  concerns  also  counsel  against  recognizing  such 
+claims.  This Court has repeatedly emphasized the importance of clear 
+rules in antitrust law.  Recognizing price-squeeze claims would require 
+courts simultaneously to police both the wholesale and retail prices to 
+ensure that rival ﬁrms are not being squeezed.  Courts would be aiming 
+at a moving target, since it is the interaction between these two prices 
+that may result in a squeeze.  Moreover, ﬁrms seeking to avoid price­
+squeeze liability will have no safe harbor for their pricing practices. 
+The most commonly articulated standard for price squeezes is that the 
+defendant must leave its rivals a “fair” or “adequate” margin between 
+wholesale and retail prices; this test is nearly impossible for courts to 
+apply without conducting complex proceedings like rate-setting agen­
+cies.  Some amici argue that a price squeeze should be presumed if the 
+defendant’s wholesale price exceeds its retail price.  But if both the 
+wholesale price and the retail price are independently lawful, there 
+is no basis for imposing antitrust liability simply because a vertically 
+integrated ﬁrm’s wholesale price is greater than or equal to its retail 
+price.  Pp. 452–455. 
+(d) The  District  Court  on  remand  should  consider  whether  an 
+amended complaint ﬁled by the plaintiffs states a claim upon which relief 
+may be granted under the pleading standard articulated in Bell Atlantic 
+Corp. v. Twombly, 550 U. S. 544, 561–563; whether plaintiffs should be 
+

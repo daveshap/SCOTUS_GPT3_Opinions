@@ -1,0 +1,129 @@
+OCTOBER TERM, 1991
+Syllabus
+NATIONAL  RAILROAD  PASSENGER  CORPORATION
+ET  AL.  v. BOSTON  & MAINE  CORP. ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS  FOR
+THE DISTRICT OF COLUMBIA CIRCUIT
+No. 90-1419.  Argued January 13, 1992-Decided March 25, 1992*
+The Rail Passenger Service Act of 1970  (RPSA) created petitioner Na-
+tional Railroad Passenger Corporation (Amtrak), a private corporation,
+to provide intercity and commuter rail passenger service.  The Act per-
+mits Amtrak to enter into "trackage rights" agreements to use tracks
+owned and used by freight railroads, 45 U. S. C. § 562(a), and allows Am-
+trak to ask petitioner Interstate Commerce Commission (ICC) to con-
+demn railroad property "required for intercity rail passenger service" if
+Amtrak and the railroad  cannot agree upon sale terms, § 562(d).  For
+purposes of the ICC's condemnation order, Amtrak's "need for the prop-
+erty" "shall be  deemed to be established"  unless the conveyance  will
+significantly impair the railroad's ability to carry out its obligations as
+a common  carrier and unless Amtrak's  obligations  can adequately  be
+met by  the acquisition  of alternative property.  Ibid.  Amtrak had a
+"trackage rights" agreement with respondent Boston and Maine Corpo-
+ration (B&M)  to operate its "Montrealer"  train between Washington,
+D. C., and Montreal.  Amtrak claims it was forced to discontinue this
+service because of B&M's poor maintenance of its track segment.  Subse-
+quently, Amtrak entered into an agreement with petitioner Central Ver-
+mont Railroad (CV) which provided that, among other things, Amtrak
+would acquire  the B&M  track and reconvey it to CV, and CV would
+grant trackage  rights to Amtrak  and usage  rights to  B&M.  When
+B&M  did not accept  Amtrak's  purchase  offer  for the  track, Amtrak
+sought, and received, an ICC order compelling conveyance for just com-
+pensation.  The ICC found, among other things, that § 562(d) created a
+statutory presumption of Amtrak's need for the track, which B&M failed
+to rebut.  The Court of Appeals remanded the case for further proceed-
+ings, concluding that, because Amtrak did not intend to retain the track,
+it needed only its use, not its ownership.  While petitions for rehearing
+were pending, §562(d)  was amended to allow Amtrak to subsequently
+convey title to acquired property to a third party if the ICC finds the
+reconveyance  furthers  the RPSA's  purposes.  Nonetheless,  the court
+*Together with No. 90-1769, Interstate Commerce Commission et al. v.
+Boston & Maine Corp. et al., also on certiorari to the same court.
+
+NEW PAGE
+
+408  NATIONAL RAILROAD PASSENGER CORPORATION v.
+BOSTON & MAINE CORP.
+Syllabus
+denied rehearing, holding that the condemnation was not valid because
+the property was not "required for intercity rail passenger service."
+Held.
+1. The ICC's decision was based on a reasonable interpretation and
+application of § 562(d).  Pp. 417-424.
+(a) The ICC's interpretation of the word "required" is due defer-
+ence as a reasonable interpretation of an ambiguous term in a statute
+that the ICC administers.  See, e. g.,  Chevron U S. A  Inc. v. Natural
+Resources Defense Council, Inc., 467 U. S. 837.  The existence of alter-
+native dictionary  definitions for "required" indicates  that the  statute
+is  open  to  interpretation.  The  ICC's  interpretation  gives  effect  to
+§ 562(d)'s  presumption  of need.  In  contrast,  the  Court  of Appeals'
+view-that "required"  establishes  a separate condition  that Amtrak's
+condemnation authority is limited to property that is indispensable to
+its operations-is in clear tension with the presumption.  In addition,
+§ 562(d)'s amendment confirms the ICC's definition, while the Court of
+Appeals' strict rule would make the amendment superfluous by barring
+condemnation whenever Amtrak's purpose is to reconvey property.
+Pp. 417-420.
+(b) The ICC was not required  to make specific findings regarding
+Amtrak's  actual  need for the condemnation  because its oversight re-
+sponsibility is limited to ensuring that condemned property will be used
+in Amtrak's rail operations.  The statute's structure and its presump-
+tion of need create a strong inference that it authorizes Amtrak to make
+a reasonable  business judgment that condemnation is advisable, unless
+the statutory presumption is rebutted.  Pp. 420-421.
+(c) B&M's several arguments against the ICC's interpretation are
+rejected.  The eminent domain power has been given to the ICC, not
+a private entity, and  thus  is not limited  as suggested  by cases  such
+as United States v. Carmack, 329 U. S. 230, 243, n. 13.  Furthermore,
+these  cases turn on the  need for  deference  to  the ICC, not  to Am-
+trak.  The  ICC's  interpretation  of § 562(d)  also  did  not  violate  the
+"public  use" requirement  of the Fifth Amendment's  Takings Clause,
+since the ICC's determination that the condemnation will serve a pub-
+lic  purpose  by  facilitating  Amtrak's  rail  service  was not  irrational.
+See, e. g., Hawaii Housing Authority v. Midkiff, 467 U. S. 229, 240-241.
+Moreover, the ICC did not err in concluding that the statutory prerequi-
+site that the parties were "unable  to agree  upon terms for the sale"
+mandated nothing more  than a factual determination that they would
+be unable to reach agreement through further negotiations.  Nor did it
+make inadequate factual findings in concluding that B&M had not rebut-
+ted the presumption of need.  The ICC was not unreasonable in consid-
+
+NEW PAGE
+
+Cite as: 503 U. S. 407 (1992)
+Opinion of the Court
+ering the effect of trackage rights and the just compensation award in
+assessing whether  the  conveyance  would  significantly  impair  B&M's
+ability to carry out its obligations, or in interpreting the availability-
+of-alternative-property  provision  as  referring  only  to  whether  Am-
+trak could  provide service using an alternative route, not whether a
+lesser interest in property would suffice to meet Amtrak's needs.
+Pp. 421-424.
+2. The  parties' challenges to the ICC's just compensation finding as
+well as certain other issues should be resolved on remand.  P. 424.
+286 U. S. App. D. C. 1, 911 F. 2d 743, reversed and remanded.
+KENNEDY, J., delivered the opinion of the Court, in which REHNQUIST,
+C. J., and STEVENS, O'CONNOR, SCALIA, and SOUTER, JJ., joined.  WHITE,
+J., filed a dissenting opinion, in which BLACKMUN and THOMAS, JJ., joined,
+post, p. 424.
+Acting  Solicitor General Roberts argued  the  cause  for
+petitioners  in  both  cases.  With  him  on  the  briefs  for
+petitioners in  No.  90-1769  were Deputy Solicitor General
+Wallace, Michael R.  Dreeben, Robert S.  Burk,  Henri F
+Rush, and Charles A. Stark.  Robert P. vom Eigen, Charles
+I. Appler, Theodore A. Howard, Richard F Riley, Jr., Louis
+R. Cohen, Stephen C. Rogers, and  Frederick C. Ohly filed
+briefs for petitioners in No. 90-1419.
+Irwin Go ldbloom argued the cause for respondents in both
+cases and filed a brief for respondent Boston  & Maine  Cor-
+poration.  Jeffrey  L.  Amestoy,  Attorney  General  of  Ver-
+mont, John K. Dunleavy, Assistant Attorney General,  Rex
+E. Lee, G. Paul Moates, Ronald S. Flagg, Robert J  Baum,
+and Michael F McBride filed a brief for respondents  State
+of Vermont et al.t
+JUSTICE KENNEDY  delivered the opinion of the Court.
+The  Interstate  Commerce  Commission  (ICC or Commis-
+sion) issued an order, upon the request of petitioner National
+tLaurence Z. Shiekman, Paul A  Cunningham, Robert M. Jenkins III,
+and Bruce B. Wilson filed a brief for Concerned Railroads as amicus cu-
+riae urging affirmance.
+

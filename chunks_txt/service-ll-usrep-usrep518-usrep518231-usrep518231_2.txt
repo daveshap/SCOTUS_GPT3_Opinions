@@ -1,0 +1,121 @@
+
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+football players  brought this antitrust suit against football
+club owners.  The club owners had bargained with the play-
+ers'  union  over a  wage  issue  until they reached  impasse.
+The owners then had agreed among themselves (but not with
+the union)  to implement  the terms  of their own last best
+bargaining offer.  The question before us is whether federal
+labor laws shield  such an agreement from  antitrust attack.
+We believe that they do.  This Court has previously found
+in the labor laws an implicit antitrust exemption that applies
+where  needed  to  make  the  collective-bargaining  process
+work.  Like  the  Court  of Appeals,  we  conclude  that this
+need makes the exemption applicable in this case.
+We  can  state  the  relevant  facts  briefly.  In  1987,  a
+collective-bargaining agreement between the National Foot-
+ball League (NFL or League), a group of football clubs, and
+the NFL Players Association,  a labor union, expired.  The
+NFL and the Players Association began to negotiate a new
+contract.  In March 1989, during the negotiations, the NFL
+adopted Resolution G-2, a plan that would permit each club
+to establish a "developmental squad" of up to six rookie or
+"first-year" players who, as free agents, had failed to secure
+a position on a regular player roster.  See App. 42.  Squad
+members  would  play in practice  games and  sometimes  in
+regular games as  substitutes for injured players.  Resolu-
+tion G-2 provided that the club owners would pay all squad
+members the same weekly salary.
+The next month, April, the NFL presented the develop-
+mental  squad  plan  to the  Players  Association.  The NFL
+proposed  a squad player  salary  of $1,000  per week.  The
+Players  Association  disagreed.  It  insisted  that  the  club
+owners give developmental  squad players benefits and pro-
+tections similar to those provided regular players, and that
+they leave individual squad members free to negotiate their
+own salaries.
+
+NEW PAGE
+
+Cite as: 518 U. S. 231 (1996)
+Opinion of the Court
+Two months later, in June, negotiations on the issue of de-
+velopmental squad salaries reached an impasse.  The NFL
+then unilaterally implemented the developmental squad pro-
+gram by distributing to the clubs  a  uniform  contract  that
+embodied the terms of Resolution G-2  and the $1,000  pro-
+posed weekly salary.  The League advised club owners that
+paying developmental squad players more or less than $1,000
+per week would  result in disciplinary  action, including the
+loss of draft choices.
+In May  1990,  235  developmental  squad players  brought
+this antitrust suit against the League and its member clubs.
+The players claimed that their employers' agreement to pay
+them a $1,000 weekly salary violated the Sherman Act.  See
+15 U. S. C. § 1 (forbidding agreements in restraint of trade).
+The  Federal District Court denied  the employers'  claim  of
+exemption from the antitrust laws; it permitted the case to
+reach the jury; and it subsequently  entered judgment on a
+jury treble-damages award that exceeded $30 million.  The
+NFL and its member clubs appealed.
+The  Court of Appeals  (by a  split 2-to-1  vote) reversed.
+The majority interpreted the labor laws  as "waiv[ing] anti-
+trust liability for restraints on competition imposed through
+the collective-bargaining process,  so long as such restraints
+operate primarily in a labor market characterized  by collec-
+tive bargaining."  50 F. 3d 1041,  1056  (CADC 1995).  The
+court held, consequently, that the club owners were immune
+from  antitrust  liability.  We  granted  certiorari  to  review
+that determination.  Although we do not interpret the ex-
+emption as broadly as did the Appeals Court, we nonetheless
+find the exemption applicable, and we affirm that court's im-
+munity conclusion.
+II
+The immunity before us rests upon what this Court has
+called the "nonstatutory" labor exemption from the antitrust
+laws.  Connell Constr. Co. v. Plumbers, 421  U. S. 616, 622
+(1975);  see also Meat Cutters v. Jewel Tea Co., 381 U. S. 676
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+(1965);  Mine Workers v. Pennington, 381  U. S.  657 (1965).
+The  Court  has implied  this  exemption  from  federal  labor
+statutes, which set forth a national labor policy favoring free
+and private collective bargaining, see 29 U. S. C. § 151; Tedm-
+sters v. Oliver, 858 U. S. 283, 295 (1959); which require good-
+faith bargaining over wages, hours, and working conditions,
+see 29 U. S. C. §§ 158(a)(5),  158(d); NLRB v. Wooster Div. of
+Borg-Warner Corp., 356 U. S. 342, 348-349 (1958); and which
+delegate  related  rulemaking  and  interpretive  authority  to
+the National Labor Relations Board (Board), see 29'U. S. C.
+§ 153; San Diego Building Trades Council v. Garmon, 359
+U. S. 236, 242-245 (1959).
+This  implicit  exemption  reflects  both history  and  logic.
+As a matter of history, Congress intended the labor statutes
+(from which the Court has implied the exemption) in part to
+adopt the views of dissenting Justices  in Duplex Printing
+Press Co. v. Deering,2 54 U. S. 443 (1921), which Justices had
+urged the  Court  to  interpret  broadly  a  different  explicit
+"statutory" labor exemption that Congress earlier (in 1914)
+had written directly into the antitrust laws.  Id., at 483-488
+(Brandeis, J., joined by  Holmes and  Clarke, JJ., dissenting)
+(interpreting § 20 of the Clayton Act, 38 Stat. 738, 29 U. S. C.
+§ 52); see also United States v. Hutcheson, 312 U. S. 219, 230-
+236 (1941)  (discussing congressional reaction to Duplex).  In
+the 1930's, when it subsequently enacted the labor statutes,
+Congress,  as in  1914, hoped to prevent judicial use of anti-
+trust law to resolve labor disputes-a kind of dispute  nor-
+mally inappropriate for antitrust law resolution.  See Jewel
+Tea,  supra, at  700-709  (opinion  of  Goldberg,  J.);  Marine
+Cooks v. PanamaS . S. Co., 362 U. S. 365, 370, n. 7 (1960); A.
+Cox, Law and the National Labor Policy 3-8 (1960); cf. Du-
+plex, supra, at 485 (Brandeis, J., dissenting) (explicit "statu-
+tory" labor exemption reflected view that "Congress, not the
+judges, was the body which should declare what public policy
+in regard to the industrial struggle demands").  The implicit
+("nonstatutory") exemption interprets the labor statutes in
+

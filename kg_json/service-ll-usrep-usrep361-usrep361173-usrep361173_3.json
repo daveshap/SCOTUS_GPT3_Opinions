@@ -1,0 +1,105 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "MINNEAPOLIS & ST. LOUIS R. CO. v. U. S.",
+    "caseNumber": "179 U.S. 173",
+    "datePublished": "OCTOBER TERM, 1959",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "MINNEAPOLIS & ST. LOUIS R. CO."
+      },
+      {
+        "@type": "Organization",
+        "name": "U. S."
+      },
+      {
+        "@type": "Organization",
+        "name": "Santa Fe"
+      },
+      {
+        "@type": "Organization",
+        "name": "Pennsylvania Company"
+      },
+      {
+        "@type": "Organization",
+        "name": "Pennsylvania"
+      },
+      {
+        "@type": "Organization",
+        "name": "McNear Estate"
+      },
+      {
+        "@type": "Organization",
+        "name": "New York, Chicago & St. Louis Railroad Company (Nickel Plate)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Chicago, Rock Island & Pacific Railroad Company (Rock Island)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Chicago, Burlington & Quincy Railroad Company (Burlington)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Wabash Railroad Company (Wabash)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Illinois Central Railroad Company (Illinois Central)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Gulf, Mobile & Ohio Railroad Company (Gulf)"
+      },
+      {
+        "@type": "Organization",
+        "name": "Chicago & North Western Railway Company (North Western)"
+      },
+      {
+        "@type": "Organization",
+        "name": "State of Illinois"
+      },
+      {
+        "@type": "Organization",
+        "name": "State of Minnesota"
+      },
+      {
+        "@type": "Organization",
+        "name": "State of South Dakota"
+      },
+      {
+        "@type": "Organization",
+        "name": "Public Service Regulatory Commissions"
+      },
+      {
+        "@type": "Organization",
+        "name": "Monon Railroad Company"
+      },
+      {
+        "@type": "Organization",
+        "name": "Cities or Towns"
+      },
+      {
+        "@type": "Organization",
+        "name": "Chambers of Commerce"
+      },
+      {
+        "@type": "Organization",
+        "name": "Labor Organizations"
+      },
+      {
+        "@type": "Organization",
+        "name": "Shippers"
+      }
+    ],
+    "reasoningForIncluding": "The case involved two applications for authority to control the same property, and petitions by 4 other carriers for inclusion in the transaction under varying circumstances.",
+    "additionalInformation": {
+      "contractDate": "June 28, 1955",
+      "contractPrice": "$135 per share",
+      "contractCovenant": "Western will continue to be operated as a separate and independent carrier with responsible management located along its lines in order to preserve to shippers and communities the present direct access to its officials; that Western's properties will be maintained and improved; that Western will continue to maintain its own solicitation forces and will be entirely free to solicit traffic in such manner as best to serve the interests of Western; that all existing routes and channels of trade via [Western] will be maintained and kept open without discrimination between connecting lines of railroad; and that the Board of Directors of Western shall consist of 11 members, of whom one shall be the president of the company, two shall be officers of the Santa Fe, two shall be officers of the Pennsylvania Company, or Pennsylvania, or both, and the remaining six shall be prominent citizens not connected with either of the parties but selected by them through mutual agreement."
+    }
+  }
+]

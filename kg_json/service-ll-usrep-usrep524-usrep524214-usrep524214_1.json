@@ -1,0 +1,70 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "caseNumber": "No. 97-679",
+      "date": "1998-06-15",
+      "parties": [
+        "American Telephone & Telegraph Co.",
+        "Central Office Telephone, Inc."
+      ],
+      "reasoning": "The Communications Act's filed-tariff requirements pre-empt respondent's state-law claims."
+    },
+    {
+      "@id": "MCI Telecommunications Corp. v. American Telephone & Telegraph Co.",
+      "caseNumber": "512 U.S. 218",
+      "date": "1994",
+      "parties": [
+        "MCI Telecommunications Corp.",
+        "American Telephone & Telegraph Co."
+      ],
+      "reasoning": "The filed rate doctrine associated with the ICA tariff provisions applies to the Communications Act as well."
+    },
+    {
+      "@id": "Louisville & Nashville R. Co. v. Maxwell",
+      "caseNumber": "237 U. S. 94",
+      "date": "1915",
+      "parties": [
+        "Louisville & Nashville R. Co.",
+        "Maxwell"
+      ],
+      "reasoning": "The rate a carrier duly files is the only lawful charge."
+    },
+    {
+      "@id": "Kansas City Southern R. Co. v. Carl",
+      "caseNumber": "227 U. S. 639",
+      "date": "1913",
+      "parties": [
+        "Kansas City Southern R. Co.",
+        "Carl"
+      ],
+      "reasoning": "Even if a carrier intentionally misrepresents its rate and a customer relies on the misrepresentation, the carrier cannot be held to the promised rate if it conflicts with the published tariff."
+    },
+    {
+      "@id": "United States v. Wabash R. Co.",
+      "caseNumber": "321 U. S. 403",
+      "date": "1944",
+      "parties": [
+        "United States",
+        "Wabash R. Co."
+      ],
+      "reasoning": "Discriminatory privileges are not limited to discounted rates."
+    },
+    {
+      "@id": "Keogh v. Chicago & Northwestern R. Co.",
+      "caseNumber": "260 U. S. 156",
+      "date": "1922",
+      "parties": [
+        "Keogh",
+        "Chicago & Northwestern R. Co."
+      ],
+      "reasoning": "The ICA's saving clause has long been held to preserve only those rights that are not inconsistent with the statutory filed-rate requirements."
+    }
+  ]
+}

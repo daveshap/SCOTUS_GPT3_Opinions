@@ -1,0 +1,127 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  901 
+Opinion of the Court 
+Sherman Act when the Court had little experience with anti­
+trust analysis.  Only eight years after Dr. Miles, moreover, 
+the Court reined in the decision by holding that a manufac­
+turer can announce suggested resale prices and refuse to 
+deal with distributors who do not follow them.  Colgate, 250 
+U. S., at 307–308. 
+In more recent cases the Court, following a common-law 
+approach, has continued to temper, limit, or overrule once 
+strict prohibitions on vertical restraints.  In 1977, the Court 
+overturned the per se rule for vertical nonprice restraints, 
+adopting the rule of reason in its stead.  GTE Sylvania, 
+433  U. S.,  at  57–59  (overruling  United  States  v.  Arnold, 
+Schwinn & Co., 388 U. S. 365 (1967)); see also 433 U. S., at 
+58, n. 29 (noting “that the advantages of vertical restrictions 
+should not be limited to the categories of new entrants and 
+failing ﬁrms”).  While the Court in a footnote in GTE Syl­
+vania suggested that differences between vertical price and 
+nonprice restraints could support different legal treatment, 
+see id., at 51, n. 18, the central part of the opinion relied 
+on authorities and arguments that ﬁnd unequal treatment 
+“difﬁcult to justify,” id., at 69–70 (White, J., concurring in 
+judgment). 
+Continuing in this direction, in two cases in the 1980’s the 
+Court deﬁned legal rules to limit the reach of Dr. Miles and 
+to accommodate the doctrines enunciated in GTE Sylvania 
+and  Colgate.  See  Business  Electronics,  supra,  at  726– 
+728;  Monsanto, 465  U. S.,  at  763–764.  In  Monsanto,  the 
+Court required that antitrust plaintiffs alleging a § 1 price­
+ﬁxing conspiracy must present evidence tending to exclude 
+the possibility a manufacturer and its distributors acted in an 
+independent manner.  Id., at 764.  Unlike Justice Brennan’s 
+concurrence,  which  rejected  arguments  that  Dr.  Miles 
+should be overruled, see 465 U. S., at 769, the Court “de­
+cline[d] to reach the question” whether vertical agreements 
+ﬁxing resale prices always should be unlawful because nei­
+ther party suggested otherwise, id., at 761–762, n. 7.  In 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+902  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+Business Electronics the Court further narrowed the scope 
+of Dr. Miles.  It held that the per se rule applied only to 
+speciﬁc agreements over price levels and not to an agree­
+ment between a manufacturer and a distributor to terminate 
+a price-cutting distributor.  485 U. S., at 726–727, 735–736. 
+Most recently, in 1997, after examining the issue of vertical 
+maximum  price-ﬁxing  agreements  in  light  of  commentary 
+and real experience, the Court overruled a 29-year-old prece­
+dent treating those agreements as per se illegal.  Khan, 522 
+U. S., at 22 (overruling Albrecht v. Herald Co., 390 U. S. 145 
+(1968)).  It held instead that they should be evaluated under 
+the traditional rule of reason.  522 U. S., at 22.  Our contin­
+ued limiting of the reach of the decision in Dr. Miles and 
+our recent treatment of other vertical restraints justify the 
+conclusion that Dr. Miles should not be retained. 
+The Dr. Miles rule is also inconsistent with a principled 
+framework, for it makes little economic sense when analyzed 
+with our other cases on vertical restraints.  If we were to 
+decide the procompetitive effects of resale price maintenance 
+were insufﬁcient to overrule Dr. Miles, then cases such as 
+Colgate and GTE Sylvania themselves would be called into 
+question.  These later decisions, while they may result in 
+less intrabrand competition, can be justiﬁed because they 
+permit manufacturers to secure the procompetitive beneﬁts 
+associated with vertical price restraints through other meth­
+ods.  The other methods, however, could be less efﬁcient for 
+a particular manufacturer to establish and sustain.  The end 
+result  hinders  competition  and  consumer  welfare  because 
+manufacturers are forced to engage in second-best alterna­
+tives and because consumers are required to shoulder the 
+increased expense of the inferior practices. 
+The manufacturer has a number of legitimate options to 
+achieve beneﬁts similar to those provided by vertical price 
+restraints.  A manufacturer can exercise its Colgate right to 
+refuse to deal with retailers that do not follow its suggested 
+prices.  See 250 U. S., at 307.  The economic effects of uni­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  903 
+Opinion of the Court 
+lateral and concerted price setting are in general the same. 
+See, e. g., Monsanto, 465 U. S., at 762–764.  The problem for 
+the manufacturer is that a jury might conclude its unilateral 
+policy was really a vertical agreement, subjecting it to treble 
+damages  and  potential  criminal  liability.  Ibid.;  Business 
+Electronics, supra, at 728.  Even with the stringent stand­
+ards in Monsanto and Business Electronics, this danger can 
+lead, and has led, rational manufacturers to take wasteful 
+measures.  See, e. g., Brief for PING, Inc., as Amicus Cu­
+riae 9–18.  A manufacturer might refuse to discuss its pric­
+ing  policy  with  its  distributors  except  through  counsel 
+knowledgeable  of  the  subtle  intricacies  of  the  law.  Or  it 
+might terminate longstanding distributors for minor viola­
+tions without seeking an explanation.  See ibid.  The in­
+creased costs these burdensome measures generate ﬂow to 
+consumers in the form of higher prices. 
+Furthermore, depending on the type of product it sells, a 
+manufacturer might be able to achieve the procompetitive 
+beneﬁts of resale price maintenance by integrating down­
+stream and selling its products directly to consumers.  Dr. 
+Miles tilts the relative costs of vertical integration and verti­
+cal agreement by making the former more attractive based 
+on the per se rule, not on real market conditions.  See Busi­
+ness Electronics, supra, at 725; see generally Coase, The Na­
+ture of the Firm, 4 Economica, New Series 386 (1937).  This 
+distortion might lead to inefﬁcient integration that would not 
+otherwise take place, so that consumers must again suffer 
+the  consequences  of  the  suboptimal  distribution  strategy. 
+And integration, unlike vertical price restraints, eliminates 
+all intrabrand competition.  See, e. g., GTE Sylvania, supra, 
+at 57, n. 26. 
+There is yet another consideration.  A manufacturer can 
+impose territorial restrictions on distributors and allow only 
+one distributor to sell its goods in a given region.  Our cases 
+have recognized, and the economics literature conﬁrms, that 
+these vertical nonprice restraints have impacts similar to 
+

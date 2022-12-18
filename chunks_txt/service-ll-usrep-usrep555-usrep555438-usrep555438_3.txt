@@ -1,0 +1,134 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+444  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+tion,” thus allowing AT&T to “preserve and maintain its mo­
+nopoly control of DSL access to the Internet.”  Ibid. 
+In Verizon Communications Inc. v. Law Ofﬁces of Curtis 
+V. Trinko, LLP, 540 U. S. 398, 410 (2004), we held that a 
+ﬁrm with no antitrust duty to deal with its rivals at all is 
+under no obligation to provide those rivals with a “sufﬁcient” 
+level  of  service.  Shortly  after  we  issued  that  decision, 
+AT&T moved for judgment on the pleadings, arguing that 
+the plaintiffs’ claims in this case were foreclosed by Trinko. 
+The District Court held that AT&T had no antitrust duty to 
+deal with the plaintiffs, App. to Pet. for Cert. 77a–85a, but 
+it denied the motion to dismiss with respect to the price­
+squeeze  claims,  id.,  at  86a–90a.  The  court  acknowledged 
+that AT&T’s argument “has a certain logic to it,” but held 
+that Trinko “simply does not involve price-squeeze claims.” 
+App. to Pet. for Cert. 86a.  The District Court also noted 
+that price-squeeze claims have been recognized by several 
+Circuits and “are cognizable under existing antitrust stand­
+ards.”  Id., at 89a, and n. 27. 
+At  the  District  Court’s  request,  plaintiffs  then  ﬁled  an 
+amended  complaint  providing  greater  detail  about  their 
+price-squeeze  claims.  AT&T  again  moved  to  dismiss,  ar­
+guing that price-squeeze claims could only proceed if they 
+met the two established requirements for predatory pricing: 
+below-cost  retail  pricing  and  a  “ ‘dangerous  probability’ ” 
+that the defendant will recoup any lost proﬁts.  See Brooke 
+Group Ltd. v. Brown & Williamson Tobacco Corp., 509 U. S. 
+209, 222–224 (1993).  The District Court did not reach the 
+issue whether all price-squeeze claims must meet the Brooke 
+Group requirements, because it concluded that the amended 
+complaint, “generously construed,” satisﬁed those criteria. 
+App. to Pet. for Cert. 46a–49a, 56a.  The court also certiﬁed 
+its  earlier  order  for  interlocutory  appeal  on  the  question 
+whether “Trinko bars price squeeze claims where the par­
+ties are compelled to deal under the federal communications 
+laws.”  Id., at 56a–57a. 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  445 
+Opinion of the Court 
+On  interlocutory  appeal,  the  Court  of  Appeals  for  the 
+Ninth Circuit afﬁrmed the District Court’s denial of AT&T’s 
+motion for judgment on the pleadings on the price-squeeze 
+claims.  linkline Communications, Inc. v. SBC California, 
+Inc.,  503  F.  3d  876  (2007).  The  court  emphasized  that 
+“Trinko did not involve a price squeezing theory.”  Id., at 
+883.  Because “a price squeeze theory formed part of the 
+fabric of traditional antitrust law prior to Trinko,” the Court 
+of Appeals concluded that “those claims should remain viable 
+notwithstanding either the telecommunications statutes or 
+Trinko.”  Ibid.  Based on the record before it, the court 
+held that plaintiffs’ original complaint stated a potentially 
+valid claim under § 2 of the Sherman Act. 
+Judge Gould dissented, noting that “the notion of a ‘price 
+squeeze’ is itself in a squeeze between two recent Supreme 
+Court precedents.”  Id., at 886.  A price-squeeze claim in­
+volves allegations of both a high wholesale price and a low 
+retail price, so Judge Gould analyzed each component sepa­
+rately.  He concluded that “Trinko insulates from antitrust 
+review the setting of the upstream price.”  Id., at 886–887. 
+With respect to the downstream price, he argued that “the 
+retail side of a price squeeze cannot be considered to create 
+an antitrust violation if the retail pricing does not satisfy the 
+requirements of Brooke Group, which set unmistakable lim­
+its on what can be considered to be predatory within the 
+meaning of the antitrust laws.”  Id., at 887 (citing Brooke 
+Group, supra, at 222–224).  Judge Gould concluded that the 
+plaintiffs’ complaint did not satisfy these requirements be­
+cause it contained no allegations that the retail price was set 
+below cost and that those losses could later be recouped. 
+503  F.  3d,  at  887.  Judge  Gould  would  have  allowed  the 
+plaintiffs  to  amend their  complaint  if  they could,  in  good 
+faith,  raise  predatory  pricing  claims  meeting  the  Brooke 
+Group requirements.  503 F. 3d, at 887. 
+We granted certiorari, 554 U. S. 916 (2008), to resolve a 
+conﬂict  over  whether  a  plaintiff  can  bring  price-squeeze 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+446  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+claims under § 2 of the Sherman Act when the defendant has 
+no antitrust duty to deal with the plaintiff.  See Covad Com­
+munications Co. v. Bell Atlantic Corp., 398 F. 3d 666, 673– 
+674 (CADC 2005) (holding  that Trinko bars such claims). 
+We reverse. 
+II 
+This case has assumed an unusual posture.  The plaintiffs 
+now assert that they agree with Judge Gould’s dissenting 
+position  that  price-squeeze  claims  must  meet  the  Brooke 
+Group requirements for predatory pricing.  They ask us to 
+vacate the decision below in their favor and remand with 
+instructions that they be given leave to amend their com­
+plaint  to  allege  a  Brooke  Group  claim.  In  other  words, 
+plaintiffs are no longer pleased with their initial theory of 
+the case, and ask for a mulligan to try again under a different 
+theory.  Some amici argue that the case is moot in light of 
+this  confession  of  error.  They  contend  that  “[w]ith  both 
+petitioners and respondents now aligned on [the same] side 
+of the question presented, no party with a concrete stake in 
+this case’s outcome is advocating for the contrary position.” 
+Brief for COMPTEL 6. 
+We do not think this case is moot.  First, the parties con­
+tinue to seek different relief.  AT&T asks us to reverse the 
+judgment of the Court of Appeals and remand with instruc­
+tions to dismiss the complaint at issue.  The plaintiffs ask 
+that we vacate the judgment and remand with instructions 
+that they be given leave to amend their complaint.  The par­
+ties thus continue to be adverse not only in the litigation as 
+a whole, but in the speciﬁc proceedings before this Court. 
+Second, it is not clear that the plaintiffs have unequivocally 
+abandoned their price-squeeze claims.  In their brief and at 
+oral argument, the plaintiffs continue to refer to their “pric­
+ing squeeze claim.”  See Brief for Respondents 13.  They 
+appear  to  acknowledge  that  those  claims  must  meet  the 
+Brooke Group requirements, but it is not clear whether they 
+believe the necessary showing can be made in at least partial 
+

@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:542_U_S_15_204_161",
+      "cite": "542 U. S. 15 (204) 161",
+      "date": "204",
+      "caseNumber": "542 U. S. 15",
+      "involvedParties": "Norske Stats 0O1ljeselskap As v. HereMac Vof",
+      "reasoning": "The FTAIA seeks to make clear to American exporters (and to firms doing business abroad) that the Sherman Act does not prevent them from entering into business arrangements (say, joint-selling arrangements), however anticompetitive, as long as those arrangements adversely affect only foreign markets."
+    },
+    {
+      "@id": "cite:241_F_3d_420",
+      "cite": "241 F. 3d 420",
+      "date": "201",
+      "caseNumber": "241 F. 3d",
+      "involvedParties": "Norske Stats 0O1ljeselskap As v. HereMac Vof",
+      "reasoning": "Exception does not apply where foreign injury independent of domestic harm."
+    },
+    {
+      "@id": "cite:284_F_3d_384",
+      "cite": "284 F. 3d 384",
+      "date": "202",
+      "caseNumber": "284 F. 3d",
+      "involvedParties": "Kruman v. Christie's Int'l PLC",
+      "reasoning": "Exception does apply even where foreign injury independent."
+    },
+    {
+      "@id": "cite:315_F_3d_341",
+      "cite": "315 F. 3d 341",
+      "date": "202",
+      "caseNumber": "315 F. 3d",
+      "involvedParties": "Kruman v. Christie's Int'l PLC",
+      "reasoning": "Similar."
+    },
+    {
+      "@id": "cite:15_U_S_C_6_a",
+      "cite": "15 U. S. C. § 6 a",
+      "date": "1982",
+      "caseNumber": "15 U. S. C.",
+      "involvedParties": "House Report",
+      "reasoning": "The FTAIA seeks to make clear to American exporters (and to firms doing business abroad) that the Sherman Act does not prevent them from entering into business arrangements (say, joint-selling arrangements), however anticompetitive, as long as those arrangements adversely affect only foreign markets."
+    },
+    {
+      "@id": "cite:H_R_Rep_No_97_686",
+      "cite": "H. R. Rep. No. 97-686",
+      "date": "1982",
+      "caseNumber": "H. R. Rep.",
+      "involvedParties": "House Report",
+      "reasoning": "The Subcommittee's 'export' commerce limitation appeared to make the amendments inapplicable to transactions that were neither import nor export, i.e., transactions within, between, or among other nations. Such foreign transactions should, for the purposes of this legislation, be treated in the same manner as export transactions—that is, there should be no American antitrust jurisdiction absent a direct, substantial and reasonably foreseeable effect on domestic commerce or a domestic competitor."
+    },
+    {
+      "@id": "cite:H_R_5235_97th_Cong_1st_Ses_1_1981",
+      "cite": "H. R. 5235, 97th Cong., 1st Ses., § 1 (1981)",
+      "date": "1981",
+      "caseNumber": "H. R. 5235",
+      "involvedParties": "House Judiciary Committee",
+      "reasoning": "The House Judiciary Committee subsequently changed that language to 'trade or commerce (other than import trade or import commerce). And it did so deliberately to include commerce that did not involve American exports but which was wholly foreign."
+    },
+    {
+      "@id": "cite:542_U_S_15_204_163",
+      "cite": "542 U. S. 15 (204) 163",
+      "date": "204",
+      "caseNumber": "542 U. S. 15",
+      "involvedParties": "Respondents",
+      "reasoning": "The difficulty with respondents' argument is that the FTAIA originated in a bill that initially referred only to 'export trade or export commerce.' But the House Judiciary Committee subsequently changed that language to 'trade or commerce (other than import trade or import commerce).'"
+    }
+  ]
+}

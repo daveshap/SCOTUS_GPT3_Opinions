@@ -1,0 +1,127 @@
+
+
+242  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Opinion of the Court
+ated strong pressure for them to sell more generic cigarettes.
+In addition, as we have already observed, see supra, at 236,
+many wholesalers passed portions of the rebates about which
+Liggett complains on to consumers, thus dropping the retail
+price of generics and further stimulating demand.  Brown &
+Williamson provided a further, direct stimulus, through some
+$10  million it spent during the period of alleged predation
+placing discount  stickers  on  its  generic  cartons  to  reduce
+prices  to the ultimate  consumer.  70  Tr. 246.  In  light of
+these  uncontested  facts  about  Brown  & Williamson's  con-
+duct, it is not reasonable to conclude that Brown & William-
+son  threatened  in  a  serious  way  to  restrict  output,  raise
+prices  above  a  competitive  level,  and  artificially  slow  the
+growth  of the  economy  segment  of the national  cigarette
+market.
+To be sure, Liggett's economic  expert explained  Liggett's
+theory of predatory  price  discrimination  and  testified  that
+he believed  it  created  a  reasonable  possibility  that  Brown
+& Williamson could injure competition in the United States
+cigarette market as a whole.  App. 600-614.  But this does
+not alter our analysis.  When an expert opinion is not sup-
+ported by sufficient facts to validate it in the eyes of the law,
+or when  indisputable  record  facts  contradict  or  otherwise
+render the opinion unreasonable,  it cannot support  a jury's
+verdict.  Cf. J  Truett Payne Co., Inc., 451  U. S., at 564-565
+(referring to expert economic testimony not based on "docu-
+mentary evidence  as  to the  effect of the discrimination  on
+retail prices" as "weak" at best).  Expert testimony is useful
+as a guide to interpreting market facts, but it is not a substi-
+tute for them.  As we observed in Matsushita, "expert opin-
+ion evidence..,  has little probative value in comparison with
+the economic  factors" that may dictate  a particular  conclu-
+sion.  475 U. S., at 594, n. 19.  Here, Liggett's expert based
+his opinion that Brown & Williamson had a reasonable pros-
+pect  of  recouping  its  predatory  losses  on  three  factors:
+Brown & Williamson's black and white pricing structure, cor-
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+STEVENS, J., dissenting
+porate documents  showing an intent to shrink the price dif-
+ferential  between  generic and branded  cigarettes, and  evi-
+dence of below-cost pricing.  App. 601-602.  Because, as we
+have  explained,  this evidence  is insufficient as  a matter of
+law  to support  a  finding of primary-line  injury  under the
+Robinson-Patman  Act, the expert testimony  cannot sustain
+the jury's verdict.
+IV
+We  understand  that the chain of reasoning  by which  we
+have concluded that Brown & Williamson is entitled to judg-
+ment  as a matter  of law  is  demanding.  But  a reasonable
+jury is presumed to know and understand the law, the facts
+of the case, and the realities  of the market.  We hold  that
+the evidence cannot support a finding that Brown & William-
+son's alleged scheme was likely to result in oligopolistic price
+coordination and  sustained  supracompetitive  pricing in the
+generic segment of the national cigarette market.  Without
+this, Brown & Williamson had no reasonable  prospect of re-
+couping its predatory losses and could not inflict the injury
+to competition the antitrust laws prohibit.  The judgment of
+the Court of Appeals is
+Affirmed.
+JUSTICE  STEVENS,  with  whom  JUSTICE  WHITE  and
+JUSTICE BLACKMUN join, dissenting.
+For a period  of 18 months in  1984  and  1985, respondent
+Brown  & Williamson  Tobacco  Corporation  (B&W) waged  a
+price war against petitioner, known then as Liggett & Myers
+(Liggett).  Liggett  filed  suit  claiming  that  B&W's  pricing
+practices violated the Robinson-Patman  Act.'  After a  115-
+"It shall be unlawful for any person engaged in commerce, in the course
+of such  commerce, either directly or indirectly, to discriminate  in price
+between different purchasers of commodities of like grade and quality...
+where  the effect  of such discrimination  may  be  substantially to  lessen
+competition or tend to create a monopoly in any line of commerce, or to
+injure, destroy, or prevent competition with any person who either grants
+
+NEW PAGE
+
+244  BROOKE  GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+STEVENS, J., dissenting
+day trial, the jury agreed,  and awarded Liggett substantial
+damages.  The Court of Appeals, however, found that Lig-
+gett could not succeed on its claim, because B&W, as an inde-
+pendent actor controlling only 12%  of the national cigarette
+market, could not injure competition.  Liggett Group, Inc. v.
+Brown & Williamson Tobacco Corp., 964 F. 2d 335, 340-342
+(CA4 1992).
+Today, the Court properly rejects that holding.  See ante,
+at 229-230.  Instead of remanding the case to the Court of
+Appeals  to resolve the  other issues  raised  by the  parties,
+however, the Court goes on to review portions of the volumi-
+nous trial record, and comes  to the conclusion  that the evi-
+dence does not support the jury's finding that B&W's price
+discrimination "had a reasonable possibility of injuring com-
+petition.''2  In my opinion the evidence  is plainly sufficient
+to support that finding.
+or knowingly receives the benefit of such discrimination, or with custom-
+ers of either of them .. . ."  15 U. S. C. § 13(a).
+2 The jury gave an affirmative answer to the following special issue:
+"1. Did Brown & Williamson engage in price discrimination that had a
+reasonable possibility of injuring competition in the cigarette market as a
+whole in the United States?"  App. 27.
+The jury made its finding after being instructed that "injury to competi-
+tion" means "the injury to consumer welfare which results when a compet-
+itor is able to raise and to maintain prices in a market or well-defined
+submarket above  competitive  levels.  In order to injure competition in
+the cigarette market as a whole, Brown & Williamson must be able to
+create a real possibility of both driving out rivals by loss-creating price
+cutting and then holding on to that advantage to recoup losses by raising
+and maintaining prices at higher than competitive levels.
+"You  must remember  that the Robinson-Patman  Act was designed to
+protect competition rather than just competitors and, therefore, injury to
+competition does not mean injury to a competitor.  Liggett & Myers can
+not  satisfy this element simply  by showing  that they were injured  by
+Brown & Williamson's conduct.  To satisfy this element, Liggett & Myers
+must show, by a preponderance of the evidence, that Brown & Williamson's
+conduct had a reasonable  possibility of injuring competition in the ciga-
+rette market and not just a reasonable possibility of injuring a competitor
+in the cigarette market."  Id., at 829-830.
+

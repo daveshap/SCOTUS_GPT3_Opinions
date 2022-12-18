@@ -1,0 +1,90 @@
+{
+  "@context": {
+    "Hartford Fire Ins. Co. v. California": "http://example.org/HartfordFireInsCoVCalifornia",
+    "Lauritzen v. Larsen": "http://example.org/LauritzenVLarsen",
+    "Romero v. International Terminal Operating Co.": "http://example.org/RomeroVInternationalTerminalOperatingCo",
+    "American Banana Co. v. United Fruit Co.": "http://example.org/AmericanBananaCoVUnitedFruitCo",
+    "EEOC v. Arabian American Oil Co.": "http://example.org/EEOCVArabianAmericanOilCo",
+    "Ford v. United States": "http://example.org/FordVUnitedStates",
+    "United States v. Bowman": "http://example.org/UnitedStatesVBowman",
+    "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.": "http://example.org/MatsushitaElecIndustrialCoVZenithRadioCorp",
+    "Continental Ore Co. v. Union Carbide & Carbon Corp.": "http://example.org/ContinentalOreCoVUnionCarbideCarbonCorp",
+    "United States v. Aluminum Co. of America": "http://example.org/UnitedStatesVAluminumCoOfAmerica",
+    "date": "http://example.org/date",
+    "caseNumber": "http://example.org/caseNumber",
+    "involvedParties": "http://example.org/involvedParties",
+    "reasoning": "http://example.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/HartfordFireInsCoVCalifornia",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": ["Petitioners", "Respondents"],
+      "reasoning": "The District Court had subject-matter jurisdiction over the Sherman Act claims against all the defendants."
+    },
+    {
+      "@id": "http://example.org/LauritzenVLarsen",
+      "date": "1953",
+      "caseNumber": "345 U. S. 571",
+      "involvedParties": ["Shipowner", "Sailor"],
+      "reasoning": "The Court held that the District Court had jurisdiction."
+    },
+    {
+      "@id": "http://example.org/RomeroVInternationalTerminalOperatingCo",
+      "date": "1959",
+      "caseNumber": "358 U. S. 354",
+      "involvedParties": ["Plaintiff", "Shipowner"],
+      "reasoning": "The Court held no claim available under the Jones Act."
+    },
+    {
+      "@id": "http://example.org/AmericanBananaCoVUnitedFruitCo",
+      "date": "1909",
+      "caseNumber": "213 U. S. 347",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court held that complaint based upon foreign conduct 'alleges no case under the [Sherman Act]'."
+    },
+    {
+      "@id": "http://example.org/EEOCVArabianAmericanOilCo",
+      "date": "1991",
+      "caseNumber": "499 U. S. 244",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court's task was to determine whether Congress intended the protections of Title VII to apply to United States citizens employed by American employers outside of the United States."
+    },
+    {
+      "@id": "http://example.org/FordVUnitedStates",
+      "date": "1927",
+      "caseNumber": "273 U. S. 593",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court upheld Congress' power to make laws applicable to persons or activities beyond our territorial boundaries where United States interests are affected."
+    },
+    {
+      "@id": "http://example.org/UnitedStatesVBowman",
+      "date": "1922",
+      "caseNumber": "260 U. S. 94",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court upheld Congress' power to make laws applicable to persons or activities beyond our territorial boundaries where United States interests are affected."
+    },
+    {
+      "@id": "http://example.org/MatsushitaElecIndustrialCoVZenithRadioCorp",
+      "date": "1986",
+      "caseNumber": "475 U. S. 574",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court established that the Sherman Act applies extraterritorially."
+    },
+    {
+      "@id": "http://example.org/ContinentalOreCoVUnionCarbideCarbonCorp",
+      "date": "1962",
+      "caseNumber": "370 U. S. 690",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court established that the Sherman Act applies extraterritorially."
+    },
+    {
+      "@id": "http://example.org/UnitedStatesVAluminumCoOfAmerica",
+      "date": "1945",
+      "caseNumber": "148 F. 2d 416",
+      "involvedParties": ["Plaintiff", "Defendant"],
+      "reasoning": "The Court established that the Sherman Act applies extraterritorially."
+    }
+  ]
+}

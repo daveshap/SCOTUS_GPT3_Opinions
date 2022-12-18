@@ -1,0 +1,37 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc., dba Kay’s Kloset . . . Kay’s Shoes",
+  "datePublished": "2007-06-28",
+  "caseNumber": "No. 06–480",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Leegin Creative Leather Products, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "PSKS, Inc., dba Kay’s Kloset . . . Kay’s Shoes"
+    }
+  ],
+  "reasoningForIncludingInOpinion": {
+    "@type": "LegalCase",
+    "name": "Dr. Miles Medical Co. v. John D. Park & Sons Co.",
+    "datePublished": "1911-01-01",
+    "caseNumber": "220 U. S. 373",
+    "court": "Supreme Court of the United States",
+    "involvedParties": [
+      {
+        "@type": "Organization",
+        "name": "Dr. Miles Medical Co."
+      },
+      {
+        "@type": "Organization",
+        "name": "John D. Park & Sons Co."
+      }
+    ],
+    "legalOpinion": "It is per se illegal under § 1 of the Sherman Act for a manufacturer and its distributor to agree on the minimum price the distributor can charge for the manufacturer’s goods."
+  },
+  "legalOpinion": "Dr. Miles is overruled, and vertical price restraints are to be judged by the rule of reason."
+}

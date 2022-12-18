@@ -1,0 +1,123 @@
+
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+thor,"  § 106A(d)(1).  Recognizing in § 43(a) a cause of action
+for misrepresentation of authorship of noncopyrighted works
+(visual or otherwise) would  render these limitations  super-
+fluous.  A  statutory  interpretation  that  renders  another
+statute superfluous is of course to be avoided.  E. g., Mackey
+v. Lanier Collection Agency & Service, Inc., 486 U. S. 825,
+837, and n. 11 (1988).
+Reading  "origin"  in  §43(a) to  require  attribution of un-
+copyrighted materials would pose serious practical problems.
+Without a copyrighted work as the basepoint, the word "ori-
+gin" has  no  discernable  limits.  A  video  of the  MGM  film
+Carmen  Jones,  after its copyright  has expired, would pre-
+sumably require  attribution not just to MGM,  but to Oscar
+Hammerstein  II  (who wrote the musical on  which the film
+was based), to Georges Bizet (who wrote the opera on which
+the musical was based), and to Prosper M6rim6e (who wrote
+the novel  on which the opera was based).  In many cases,
+figuring out who is in the line of "origin" would be no simple
+task.  Indeed,  in the present case  it  is far from  clear that
+respondents have that status.  Neither SFM nor New Line
+had anything to do with the production of the Crusade televi-
+sion  series-they  merely  were  licensed  to  distribute  the
+video  version.  While Fox might have a claim  to being  in
+the line of origin,  its involvement with  the creation  of the
+television  series was  limited  at best.  Time,  Inc.,  was  the
+principal, if not the exclusive, creator, albeit under arrange-
+ment with Fox.  And of course it was neither Fox nor Time,
+Inc., that shot the film used in the Crusade television series.
+Rather, that footage  came  from  the  United  States  Army,
+Navy, and Coast Guard, the British Ministry of Information
+and War Office, the National Film Board of Canada, and un-
+identified  "Newsreel  Pool  Cameramen."  If anyone  has  a
+claim to being the original creator of the material used in
+both the Crusade television series and the Campaigns video-
+tapes, it would be those groups, rather than Fox.  We do not
+
+NEW PAGE
+
+36  DASTAR  CORP. v. TWENTIETH  CENTURY  FOX
+FILM  CORP.
+Opinion of the Court
+think the Lanham Act requires this search for the source of
+the Nile and all its tributaries.
+Another practical difficulty of adopting a special definition
+of "origin" for communicative  products is that it places  the
+manufacturers  of those products in a difficult position.  On
+the one hand, they would face Lanham Act liability for fail-
+ing to  credit the  creator  of a  work  on which  their  lawful
+copies are based; and on the other hand they could face Lan-
+ham Act liability for crediting the creator if that should be
+regarded as implying the creator's "sponsorship or approval"
+of the copy, 15 U. S. C. § 1125(a)(1)(A).  In this case, for ex-
+ample, if Dastar had simply "copied  [the television series] as
+Crusade in Europe and sold it as Crusade in Europe," with-
+out changing  the title or packaging  (including the original
+credits to Fox), it is hard to have confidence in respondents'
+assurance  that they "would not be here  on  a Lanham  Act
+cause of action," Tr. of Oral Arg. 35.
+Finally, reading  § 43(a)  of the  Lanham Act  as creating a
+cause  of action for, in effect,  plagiarism-the  use  of other-
+wise  unprotected  works  and  inventions  without  attribu-
+tion-would be hard to reconcile with our previous decisions.
+For example, in  Wal-Mart Stores, Inc. v. Samara Brothers,
+Inc., 529  U. S.  205  (2000),  we considered  whether product-
+design trade dress can ever be inherently distinctive.  Wal-
+Mart produced "knockoffs" of children's clothes designed and
+manufactured  by Samara  Brothers,  containing  only "minor
+modifications" of the original designs.  Id., at 208.  We con-
+cluded that the designs could not be protected under § 43(a)
+without a showing that they had acquired "secondary mean-
+ing,"  id., at 214,  so  that they "'identify  the  source of the
+product rather than the product itself,"' id., at 211 (quoting
+Inwood Laboratories, Inc. v.  Ives Laboratories, Inc., 456
+U. S. 844, 851,  n. 11  (1982)).  This carefully considered limi-
+tation would be entirely pointless if the "original" producer
+could  turn  around  and  pursue  a  reverse-passing-off  claim
+under exactly the same provision  of the Lanham Act.  Sa-
+
+NEW PAGE
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+mara would merely have had to argue that it was the "ori-
+gin" of the designs that Wal-Mart was selling as its own line.
+It was not, because "origin of goods" in the Lanham Act re-
+ferred to the producer of the clothes, and not the producer
+of the (potentially) copyrightable  or patentable designs that
+the clothes embodied.
+Similarly under respondents' theory, the "origin of goods"
+provision  of § 43(a) would  have  supported the suit that we
+rejected in Bonito Boats, 489 U. S.  141,  where the defend-
+ants had  used  molds to duplicate the plaintiff's unpatented
+boat hulls (apparently without crediting the plaintiff).  And
+it  would have  supported  the  suit  we rejected  in  TrafFix,
+532  U. S.  23:  The plaintiff, whose  patents  on  flexible  road
+signs had expired, and who could not prevail on a trade-dress
+claim under  §4 3(a)  because  the features  of the signs were
+functional,  would have  had  a reverse-passing-off  claim  for
+unattributed copying of his design.
+In sum, reading the phrase "origin of goods" in the Lan-
+ham  Act in  accordance  with the Act's common-law  founda-
+tions (which were not designed to protect originality or cre-
+ativity), and in light of the copyright and patent laws (which
+were), we conclude  that the phrase  refers to the producer
+of the tangible  goods  that are offered  for  sale, and not  to
+the author of any idea, concept, or communication embodied
+in those goods.  Cf. 17 U. S. C. § 202 (distinguishing between
+a  copyrighted  work and  "any material object in which  the
+work  is embodied").  To  hold  otherwise  would  be  akin  to
+finding that § 43(a) created a species of perpetual patent and
+copyright, which  Congress may not do.  See Eldred v. Ash-
+croft, 537 U. S. 186, 208 (2003).
+The  creative  talent of the sort that lay behind  the Cam-
+paigns  videos is  not left without protection.  The  original
+film footage used in the Crusade television series could have
+been  copyrighted,  see  17  U. S. C.  § 102(a)(6),  as  was  copy-
+righted (as a compilation) the Crusade television series, even
+though  it  included  material  from  the  public  domain,  see
+

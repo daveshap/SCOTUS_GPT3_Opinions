@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 209 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": [
+        "Liggett's",
+        "Brown & Williamson",
+        "R. J. Reynolds",
+        "Liggett Group, Inc."
+      ],
+      "reasoning": "Opinion of the Court"
+    },
+    {
+      "@id": "Liggett Group, Inc. v. Brown & Williamson Tobacco Corp., 1989-1 Trade Cas. (CCH) 68,583",
+      "@type": "cite",
+      "date": "1989",
+      "caseNumber": "Liggett Group, Inc. v. Brown & Williamson Tobacco Corp., 1989-1 Trade Cas. (CCH) 68,583",
+      "involvedParties": [
+        "Liggett Group, Inc.",
+        "Brown & Williamson Tobacco Corp."
+      ],
+      "reasoning": "Anti-trust claim under § 2(a) of the Clayton Act, as amended by the Robinson-Patman Act"
+    }
+  ]
+}

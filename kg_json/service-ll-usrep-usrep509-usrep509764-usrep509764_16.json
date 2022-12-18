@@ -1,0 +1,29 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": "S. E. U. A., Lloyd's Market, McCarran-Ferguson Act, Sherman Act, North American CGL risks, ISO forms, General Re",
+      "reasoning": "The complaints allege that some of the defendant reinsurers threatened to 'withdra[w] entirely from the business of reinsuring primary U. S. insurers who wrote on the occurrence form.' Construed most favorably to respondents, that allegation claims that primary insurers who wrote insurance on disfavored forms would be refused all reinsurance, even as to risks written on other forms."
+    },
+    {
+      "@id": "McCarran-Ferguson Act",
+      "@type": "cite",
+      "reasoning": "The McCarran-Ferguson Act makes that conspiracy lawful (assuming reinsurance is state regulated), unless the refusal to deal is a 'boycott.'"
+    },
+    {
+      "@id": "Sherman Act",
+      "@type": "cite",
+      "reasoning": "Under the normal application of the Sherman Act the reinsurers' concerted refusal to deal would be an unlawful conspiracy, and the insurers' 'prompting' could make them part of that conspiracy."
+    }
+  ]
+}

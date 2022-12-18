@@ -1,0 +1,35 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForInclusion",
+    "cite": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/VolvoTrucksNorthAmericaIncvReederSimcoGMCInc",
+      "caseNumber": "546 U. S. 164 (2006)",
+      "date": "08-22-0815:43:12",
+      "parties": ["Volvo Trucks North America, Inc.", "Reeder-Simco GMC, Inc."],
+      "reasoning": "This case concerns specially ordered products—heavy-duty trucks supplied by Volvo Trucks North America, Inc. (Volvo), and sold by franchised dealers through a competitive bidding process.",
+      "cite": "546 U. S. 164 (2006)"
+    },
+    {
+      "@id": "http://schema.org/RobinsonPatmanAct",
+      "caseNumber": "38 Stat. 730, as amended by the Robinson-Patman Price Discrimination Act, 49 Stat. 1526, 15 U. S. C. § 13",
+      "date": "1936",
+      "parties": ["Robinson-Patman Act"],
+      "reasoning": "Reeder sought redress for its alleged losses under § 2 of the Clayton Act, 38 Stat. 730, as amended by the Robinson-Patman Price Discrimination Act, 49 Stat. 1526, 15 U. S. C. § 13 (Robinson-Patman Act or Act), and the Arkansas Franchise Practices Act, Ark. Code Ann. § 4–72–201 et seq. (2001).",
+      "cite": "38 Stat. 730, as amended by the Robinson-Patman Price Discrimination Act, 49 Stat. 1526, 15 U. S. C. § 13"
+    },
+    {
+      "@id": "http://schema.org/ArkansasFranchisePracticesAct",
+      "caseNumber": "Ark. Code Ann. § 4–72–201 et seq. (2001)",
+      "date": "2001",
+      "parties": ["Arkansas Franchise Practices Act"],
+      "reasoning": "Reeder sought redress for its alleged losses under § 2 of the Clayton Act, 38 Stat. 730, as amended by the Robinson-Patman Price Discrimination Act, 49 Stat. 1526, 15 U. S. C. § 13 (Robinson-Patman Act or Act), and the Arkansas Franchise Practices Act, Ark. Code Ann. § 4–72–201 et seq. (2001).",
+      "cite": "Ark. Code Ann. § 4–72–201 et seq. (2001)"
+    }
+  ]
+}

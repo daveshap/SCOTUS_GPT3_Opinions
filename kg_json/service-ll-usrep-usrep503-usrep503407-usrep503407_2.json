@@ -1,0 +1,66 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/NationalRailroadPassengerCorporationvBostonMaineCorp",
+      "@type": "http://schema.org/LegalCase",
+      "date": "1992",
+      "caseNumber": "503 U. S. 407",
+      "involvedParties": ["National Railroad Passenger Corporation", "Boston & Maine Corporation"],
+      "reasoning": "The ICC's decision is authorized by the statute, and so reverse the judgment of the Court of Appeals for the District of Columbia Circuit, which set aside the Commission's action."
+    },
+    {
+      "@id": "http://example.org/RailPassengerServiceAct",
+      "@type": "http://schema.org/Legislation",
+      "date": "1970",
+      "caseNumber": "Pub. L. 91-518, 84 Stat. 1328, 45 U. S. C. § 501 et seq.",
+      "involvedParties": ["Congress"],
+      "reasoning": "The purpose of Amtrak is to provide modern and efficient intercity and commuter rail passenger service."
+    },
+    {
+      "@id": "http://example.org/MontrealerTrain",
+      "@type": "http://schema.org/Train",
+      "date": "1972",
+      "caseNumber": "Washington, D. C., and Montreal",
+      "involvedParties": ["Amtrak"],
+      "reasoning": "The Amtrak train the 'Montrealer' began offering passenger service between Washington, D. C., and Montreal in 1972."
+    },
+    {
+      "@id": "http://example.org/TrackageRightsAgreement",
+      "@type": "http://schema.org/Agreement",
+      "date": "1977",
+      "caseNumber": "45 U. S. C. § 562(d)",
+      "involvedParties": ["Amtrak", "Boston & Maine Corporation"],
+      "reasoning": "In 1977 Amtrak entered into a 'trackage rights' agreement with B&M under which B&M agreed to maintain its portions of the Conn River Line."
+    },
+    {
+      "@id": "http://example.org/CongressionalAppropriation",
+      "@type": "http://schema.org/Legislation",
+      "date": "1987",
+      "caseNumber": "Act of July 11, 1987, Pub. L. 100-71, 101 Stat. 447-448",
+      "involvedParties": ["Congress"],
+      "reasoning": "Congress responded to these events in July 1987 by appropriating $5 million to upgrade the Montrealer route."
+    },
+    {
+      "@id": "http://example.org/AmtrakCVAgreement",
+      "@type": "http://schema.org/Agreement",
+      "date": "1988",
+      "caseNumber": "45 U. S. C. § 562(d)",
+      "involvedParties": ["Amtrak", "Central Vermont Railroad"],
+      "reasoning": "In early 1988, Amtrak reached a preliminary agreement with CV."
+    },
+    {
+      "@id": "http://example.org/AmtrakB&MOffer",
+      "@type": "http://schema.org/Offer",
+      "date": "1988",
+      "caseNumber": "45 U. S. C. § 562(d)",
+      "involvedParties": ["Amtrak", "Boston & Maine Corporation"],
+      "reasoning": "As a prerequisite to invoking § 562(d), Amtrak made an offer to B&M to purchase the segment for $1 million, on a take-it-or-leave-it basis."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+
+
+Cite as: 509 U. S. 764 (1993)
+SOUTER, J., concurring in judgment
+The majority concludes that, so long as the reinsurers' role
+in this course of action  was limited  to "a  concerted agree-
+ment  to  seek particular  terms  in  particular  transactions,"
+post, at 801-802, the course of action could never constitute
+a § 3(b) boycott.  The majority's emphasis on this conclusion
+assumes  an  artificial  segmentation  of the course  of action,
+and a false perception of the unimportance  of the elements
+of that course of action other than the reinsurers' agreement.
+The majority  concedes  that the complaints  allege, not just
+implementation  of a horizontal  agreement,  but refusals  to
+deal that occurred "at the behest of,"  or were "solicited by,"
+the four primary insurers, who were "competitors of the tar-
+of the primary insurer defendants.  I express no opinion as to whether
+those acts, if they were indeed taken independently, could amount to § 3(b)
+boycotts; but I note that they lack the key element on which I rely in this
+litigation to find a sufficient allegation of boycott.
+The Seventh Claim for Relief in the California Complaint, and the virtu-
+ally identical Sixth Claim for Relief in the Connecticut Complaint, allege
+a conspiracy  among a group of domestic  primary insurers, foreign rein-
+surers, and the ISO to draft restrictive model forms and policy language
+for "umbrella" and "excess" insurance.  On these claims, the Court of Ap-
+peals reversed the District Court's order of dismissal as to the domestic
+defendants solely because those defendants "act[ed] in concert" with non-
+exempt foreign defendants, 938 F. 2d, at 931, relying on reasoning that the
+Court has found to be in error, see supra, at 781-784.  The Court of Ap-
+peals found that "[n]o  boycotts [were] alleged as the defendants'  modus
+operandi in respect to [excess and umbrella] insurance."  938 F. 2d, at 930.
+I agree; even under a liberal construction of the complaints in favor of
+plaintiffs, I can find no allegation of any refusal to deal in connection with
+the drafting  of the excess and umbrella insurance  language.  Therefore
+I conclude that neither the participation of unregulated  parties nor the
+application of § 3(b) furnished a basis to reverse the District Court's dis-
+missal of these claims as against the domestic insurers, and I would re-
+verse the judgment of the Court of Appeals in this respect.  The Fifth,
+Sixth, and Eighth Claims for Relief in the California Complaint and the
+Third, Fourth, and Fifth Claims for Relief in the Connecticut Complaint
+also allege concerted refusals to deal; but because they do not name any
+of the petitioners  in No. 91-1111, the Court has no occasion to consider
+whether they allege § 3(b) boycotts.
+
+NEW PAGE
+
+792  HARTFORD FIRE INS. CO. v. CALIFORNIA
+SOUTER, J., concurring in judgment
+get[s]."  Post, at 808 (citations and internal quotation marks
+omitted).  But  it  fails  to  acknowledge  several  crucial  fea-
+tures of these events that bind them into a  single course of
+action recognizable as a § 3(b) boycott.
+First, the allegation that the reinsurers acted at the behest
+of the four primary insurers excludes the possibility that the
+reinsurers  acted  entirely  in  their  own  independent  self-
+interest, and would  have taken  exactly the same course  of
+action without the intense efforts of the four primary insur-
+ers.  Although the majority never explicitly posits such au-
+tonomy on the part of the reinsurers, this would seem to be
+the only point of its repeated emphasis on the fact that "the
+scope and predictability of the  risks assumed  in a  reinsur-
+ance contract depend entirely upon the terms of the primary
+policies that are reinsured."  Ibid.  If the encouragement of
+the four primary insurers played no  role in the reinsurers'
+decision to act as they did, then it is difficult to see how one
+could describe the reinsurers as acting at the behest of the
+primary insurers, an element I find crucial to the § 3(b) boy-
+cott alleged  here.  From the vantage  point of a ruling on
+motions to dismiss, however, I discern sufficient allegations
+in the complaints that this is not the case.  In addition, ac-
+cording to  the complaints,  the four primary  insurers  were
+not acting out of concern for the reinsurers' financial health
+when they prompted the reinsurers to refuse reinsurance for
+certain risks; rather, they simply wanted  to ensure that no
+other primary insurer would be able to sell insurance policies
+that they did  not want to  sell.  Finally, as  the complaints
+portray the business of insurance, reinsurance  is a separate,
+specialized  product, "[t]he  availability  [of which]  affects  the
+ability and willingness of primary insurers to provide insur-
+ance  to  their  customers."  App.  18  (Cal.  Complaint  34).
+Thus, contrary to the majority's assertion, the boundary be-
+tween the primary insurance industry  and the reinsurance
+industry is not merely "technica[l]."  Post, at 808.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+SOUTER, J., concurring in judgment
+The majority insists that I "disregar[d] th[e] integral rela-
+tionship between the terms of the primary insurance  form
+and the contract of reinsurance," post, at 807, a fact which it
+seems to believe makes it impossible to draw any distinction
+whatsoever between primary insurers and reinsurers.  Yet
+it is the majority that fails to  see that, in spite  of such an
+"integral relationship," the interests of primary insurer and
+reinsurer will almost certainly differ in some cases.  For ex-
+ample, the complaints allege that reinsurance contracts often
+"layer"  risks, "in  the sense  that [a]  reinsurer may have to
+respond only to claims above a certain amount.  .... "  App.
+10 (Cal. Complaint  4.q); id., at 61 (Conn. Complaint  4(f)).
+Thus, a primary insurer might be much more concerned than
+its reinsurer about a risk that resulted in a high number of
+relatively small claims.  Or the primary insurer might sim-
+ply perceive a particular risk differently from the reinsurer.
+The reinsurer might be indifferent as to whether a particular
+risk was covered, so long as the reinsurance premiums were
+adjusted  to  its  satisfaction,  whereas  the  primary  insurer
+might decide  that the risk  was  "too  hot  to handle,"  on  a
+standardized  basis, at any cost.  The  majority's  suggestion
+that "to  insist  upon  certain  primary-insurance  terms  as  a
+condition  of writing  reinsurance  is  in no  way  'artificial,"'
+post, at 808; see post, at 806, simply ignores these possibil-
+ities; the conditions  could quite easily be "artificial,"  in the
+sense that they are not motivated by the interests of the rein-
+surers themselves.  Because the parties have had no chance
+to flesh out the facts of this case, because I have no a priori
+knowledge of those facts, and because  I do not believe I can
+locate them in the pages of insurance treatises, I would not
+rule out these possibilities on a motion to dismiss.
+Believing that there is no other principled way to narrow
+the § 3(b) exception, the majority decides that "boycott" en-
+compasses just those refusals to deal that are "unrelated" or
+"collateral" to the objective sought by those refusing to deal.
+Post, at 803.  This designation of a single "'unitary phenom-
+

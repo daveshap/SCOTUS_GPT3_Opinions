@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "551US1",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": "Gordon v. New York Stock Exchange, Inc., NASD",
+      "reasoning": "The Court found that the securities law precluded antitrust liability even in respect to a practice that both antitrust law and securities law might forbid.",
+      "citation": "Gordon v. New York Stock Exchange, Inc., O. T. 1974, No. 74–304"
+    },
+    {
+      "@id": "NASD",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "422 U. S. 690 (1975)",
+      "involvedParties": "Department of Justice antitrust complaint",
+      "reasoning": "The Court found that antitrust law (e.g., forbidding resale price maintenance) and securities law (e.g., permitting resale price maintenance) were in conflict.",
+      "citation": "NASD, 422 U. S., at 719"
+    },
+    {
+      "@id": "Herman & MacLean v. Huddleston",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "459 U. S. 375 (1983)",
+      "involvedParties": "SEC and the antitrust law",
+      "reasoning": "The Court found that the securities law, by implication, precluded all parts of the antitrust claim.",
+      "citation": "Herman & MacLean v. Huddleston, 459 U. S. 375, 383"
+    },
+    {
+      "@id": "Credit Suisse Securities (USA) LLC v. Billing",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": "Justice Thomas and §§ 77p(a) and 78bb(a)",
+      "reasoning": "The Court rejected the argument that the saving clauses were so broad as to preserve all antitrust actions.",
+      "citation": "Credit Suisse Securities (USA) LLC v. Billing, 551 U. S. 264 (2007)"
+    }
+  ]
+}

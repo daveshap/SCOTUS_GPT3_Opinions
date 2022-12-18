@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "NationalRailroadPassengerCorporationvBoston&MaineCorp",
+      "date": "1992",
+      "caseNumber": "503 U. S. 407",
+      "involvedParties": ["National Railroad Passenger Corporation", "Boston & Maine Corp"],
+      "reasoning": "The ICC did not exceed its authority in ordering conveyance of the 48.8-mile segment of the Conn River Line from B&M to Amtrak.",
+      "cite": "National Railroad Passenger Corporation v. Boston & Maine Corp., 503 U. S. 407 (1992)"
+    },
+    {
+      "@id": "ChevronU.S.A.Inc.v.NaturalResourcesDefenseCouncilInc.",
+      "date": "1984",
+      "caseNumber": "467 U. S. 837",
+      "involvedParties": ["Chevron U.S.A. Inc.", "Natural Resources Defense Council Inc."],
+      "reasoning": "The principle advanced by B&M does not prevail over Chevron's rule of deference.",
+      "cite": "Chevron U.S.A. Inc. v. Natural Resources Defense Council Inc., 467 U. S. 837 (1984)"
+    },
+    {
+      "@id": "HawaiiHousingAuthorityvMidkiff",
+      "date": "1984",
+      "caseNumber": "467 U. S. 229",
+      "involvedParties": ["Hawaii Housing Authority", "Midkiff"],
+      "reasoning": "The public use requirement of the Takings Clause is coterminous with the regulatory power, and that the Court will not strike down a condemnation on the basis that it lacks a public use so long as the taking is rationally related to a conceivable public purpose.",
+      "cite": "Hawaii Housing Authority v. Midkiff, 467 U. S. 229 (1984)"
+    },
+    {
+      "@id": "BermanvParker",
+      "date": "1954",
+      "caseNumber": "348 U. S. 26",
+      "involvedParties": ["Berman", "Parker"],
+      "reasoning": "We permitted land condemnations which contemplated reselling the land to redevelopers, as part of a plan to restore dilapidated sections of the District of Columbia.",
+      "cite": "Berman v. Parker, 348 U. S. 26 (1954)"
+    }
+  ]
+}

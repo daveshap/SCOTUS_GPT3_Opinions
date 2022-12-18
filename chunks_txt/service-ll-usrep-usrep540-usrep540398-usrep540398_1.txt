@@ -1,0 +1,133 @@
+OCTOBER  TERM, 2003
+Syllabus
+VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF  CURTIS  V. TRINKO,  LLP
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 02-682.  Argued October 14, 2003-Decided January 13, 2004
+The Telecommunications  Act of 1996 imposes upon an incumbent local ex-
+change carrier (LEC) the obligation to share its telephone network with
+competitors, 47 U. S. C. §251(c), including the duty to provide access to
+individual network elements  on an "unbundled"  basis, see  §251(c)(3).
+New entrants, so-called competitive LECs, combine and resell these un-
+bundled network  elements  (UNEs).  Petitioner  Verizon  Communica-
+tions Inc., the incumbent LEC in New York State, has signed intercon-
+nection agreements with rivals such as AT&T, as § 252 obliges it to do,
+detailing the terms on which it will make its network elements available.
+Part of Verizon's § 251(c)(3) UNE obligation is the provision of access to
+operations support systems (OSS), without which a rival cannot fill its
+customers' orders.  Verizon's  interconnection agreement, approved by
+the New York Public Service Commission (PSC), and its authorization to
+provide long-distance service, approved by the Federal Communications
+Commission (FCC), each specified the mechanics by which its OSS obli-
+gation would be met.  When competitive LECs complained that Veri-
+zon was violating that  obligation, the PSC and FCC opened parallel
+investigations, which led to the imposition .of financial penalties, remedi-
+ation measures, and additional reporting requirements on Verizon.  Re-
+spondent, a local telephone  service customer  of AT&T, then fied this
+class action alleging, inter alia,t hat Verizon had filled rivals' orders on
+a discriminatory basis as part of an anticompetitive  scheme to discour-
+age customers  from becoming or remaining customers  of competitive
+LECs in violation of § 2 of the Sherman Act, 15 U. S. C. § 2.  The Dis-
+trict Court dismissed the complaint, concluding that respondent's allega-
+tions of deficient assistance to rivals failed to satisfy § 2's requirements.
+The Second Circuit reinstated the antitrust claim.
+Held: Respondent's complaint alleging breach of an incumbent LEC's 1996
+Act duty to share its network with competitors does not state a claim
+under § 2 of the Sherman Act.  Pp. 405-416.
+(a) The 1996 Act has no effect upon the application of traditional anti-
+trust principles.  Its saving clause-which provides  that "nothing in
+this Act... shall be construed to modify, impair, or supersede the appli-
+cability of any of the antitrust laws," 47 U. S. C. § 152, note-preserves
+
+NEW PAGE
+
+Cite as: 540 U. S. 398 (2004)
+Syllabus
+claims that satisfy established antitrust standards, but does not create
+new claims that go beyond those standards.  Pp. 405-407.
+(b) The activity of which respondent complains does not Violate pre-
+existing antitrust standards.  The leading case imposing § 2 liability for
+refusal to deal with competitors is Aspen Skiing Co. v. Aspen Highlands
+Skiing Corp., 472 U. S. 585, in which the Court concluded that the de-
+fendant's termination of a voluntary agreement with the plaintiff sug-
+gested a willingness to forsake short-term profits to achieve an anticom-
+petitive end.  Aspen is at or near the outer boundary of § 2 liability, and
+the present case does not fit within the limited exception it recognized.
+Because the complaint does not allege that Verizon ever engaged in a
+voluntary course of dealing with its rivals, its prior conduct sheds no
+light upon whether its lapses from the legally compelled dealing were
+anticompetitive.  Moreover, the Aspen defendant turned down its com-
+petitor's proposal to sell at its own retail price, suggesting a calculation
+that its future monopoly retail price would be higher, whereas Verizon's
+reluctance to interconnect at the cost-based rate of compensation avail-
+able under § 251(c)(3) is uninformative.  More fundamentally, the Aspen
+defendant refused to provide its competitor with a product it already
+sold at retail, whereas here the unbundled elements offered pursuant to
+§251(c)(3)  are not available  to the public, but are  provided  to rivals
+under compulsion and at considerable expense.  The Court's conclusion
+would not change even if it considered to be established law the "essen-
+tial facilities" doctrine crafted by some lower courts.  The indispensable
+requirement for invoking that doctrine is the unavailability of access to
+the "essential facilities"; where access exists, as it does here by virtue
+of the 1996 Act, the doctrine serves no purpose.  Pp. 407-411.
+(c) Traditional antitrust principles do not justify adding the present
+case to the few existing exceptions from the proposition that there is no
+duty to aid competitors.  Antitrust analysis must always be attuned to
+the  particular  structure  and circumstances  of the industry  at issue.
+When there exists a regulatory structure designed to deter and remedy
+anticompetitive harm, the additional benefit to competition provided by
+antitrust enforcement will tend to be small, and it will be less plausible
+that the antitrust laws contemplate such additional scrutiny.  Here Ver-
+izon was subject to oversight by the FCC and the PSC, both of which
+agencies responded to the OSS failure raised in respondent's complaint\
+by imposing fines  and other burdens on Verizon.  Against the slight
+benefits of antitrust intervention here must be weighed  a realistic as-
+sessment of its costs.  Allegations of violations of § 251(c)(3) duties are
+both technical and extremely numerous, and hence difficult for antitrust
+courts  to  evaluate.  Applying  §2's requirements  to  this regime  can
+readily result in "false positive" mistaken inferences that chill the very
+
+NEW PAGE
+
+400  VERIZON  COMMUNICATIONS  INC. v. LAW OFFICES
+OF CURTIS  V. TRINKO,  LLP
+Syllabus
+conduct the antitrust laws are designed to protect.  Matsushita Elec.
+Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 594.  Pp. 411-416.
+305 F. 3d 89, reversed and remanded.
+SCALIA, J.,  delivered  the opinion of the Court, in which REHNQUIST,
+C. J.,  and  O'CONNOR,  KENNEDY,  GINSBURG,  and  BREYER,  JJ., joined.
+STEVENS, J., filed an opinion concurring in the judgment, in which SOUTER
+and THOMAS, JJ., joined, post, p. 416.
+Richard G. Taranto argued the cause for petitioner.  With
+him  on  the briefs  were  John Thorne, Michael K. Kellogg,
+Mark C. Hansen, Aaron M. Panner,a nd Henry B. Gutman.
+Solicitor General Olson argued the cause for the United
+States et al. as amici curiae urging reversal.  With him on
+the  brief  were  Acting  Assistant Attorney  General Pate,
+Deputy  Solicitor General  Clement,  Jeffrey  A.  Lamken,
+Catherine G.  O'Sullivan, Nancy  C. Garrison, and David
+Seidman.
+Donald B. Verrilli, Jr., argued the cause for respondent.
+With  him  on  the  brief  were  Alice  McInerney, Bruce V
+Spiva, Ian Heath Gershengorn, Marc A.  Goldman, Elaine
+J  Goldenberg, and Chester T Kamin.*
+*Briefs of amici curiae urging reversal  were filed  for the Common-
+wealth of Virginia et al. by Jerry W Kilgore, Attorney General of Virginia,
+William H. Hurd, State Solicitor, Maureen Riley Matsen and William
+E. Thro, Deputy State Solicitors, Judith Williams Jagdmann, Deputy At-
+torney General, C. Meade Browder, Jr., Senior Assistant Attorney Gen-
+eral, and Sarah Oxenham Allen and Raymond L. Doggett, Jr., Assistant
+Attorneys  General,  and by the Attorneys  General  for their  respective
+States as follows:  William H.  Pryor,J r., of Alabama, M. Jane Brady of
+Delaware,  Steve  Carter of Indiana,  Jon Bruning of Nebraska,  Peter
+W Heed of New Hampshire,  W A  Drew Edmondson of Oklahoma, and
+Mark L. Shurtleff of Utah; for BellSouth Corp. et al. by Stephen M. Sha-
+piro, John E. Muench, Jeffrey W Sarles, Marc Gary, Marc W. F Galonsky,
+and William M. Schur; for the Communications Workers of America by
+Patrick M. Scanlon, Andrew D. Roth, and Laurence Gold; for the Tele-
+communications Industry Association by Donald I. Baker; for United Par-
+cel  Service,  Inc.,  et al. by Drew S. Days III, W  Stephen Smith, Beth
+S. Brinkmann, Paul T Friedman,a nd Peter M. Kreindler;f or the United
+

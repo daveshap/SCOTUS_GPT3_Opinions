@@ -1,0 +1,121 @@
+
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+The District Court found that the allegations in the com-
+plaint did not state a per se violation of the Sherman  Act
+because they did not establish the sort of "manifestly anti-
+competitive implications or pernicious effect on competition"
+that would justify per se prohibition  of State Oil's conduct.
+App.  43-44.  Subsequently, in ruling  on  cross-motions  for
+summary judgment, the  District Court concluded  that re-
+spondents had failed to demonstrate antitrust injury or harm
+to  competition.  App.  to Pet. for  Cert. 37a.  The  District
+Court held that respondents had not shown that a difference
+in gasoline pricing would have increased the station's sales;
+nor had they shown that State Oil had market power or that
+its pricing provisions affected competition in a relevant mar-
+ket.  Id., at 37a, 40a.  Accordingly, the District  Court en-
+tered summary judgment for State Oil on respondents' Sher-
+man Act claim.  Id., at 40a.
+The  Court of Appeals  for the Seventh  Circuit reversed.
+93 F. 3d 1358 (1996).  The  court first noted that the agree-
+ment between respondents and State Oil did indeed fix maxi-
+mum gasoline prices by making it "worthless" for respond-
+ents  to  exceed  the  suggested  retail prices.  Id.,  at  1360.
+After reviewing legal and economic  aspects of price fixing,
+the court concluded that State Oil's pricing scheme was a per
+se antitrust violation under Albrecht v. Herald Co.,  supra.
+Although  the  Court  of Appeals  characterized  Albrecht as
+"unsound when  decided"  and "inconsistent  with later deci-
+sions" of this Court, it felt constrained to follow that decision.
+93 F. 3d, at 1363.  In light of Albrecht and Atlantic Richfield
+Co. v. USA Petroleum Co., 495 U. S. 328 (1990) (ARCO), the
+court found that respondents  could have suffered  antitrust
+injury from not being able to adjust gasoline prices.
+We granted certiorari to consider two questions, whether
+State Oil's conduct constitutes a per se violation of the Sher-
+man Act and  whether respondents  are  entitled to recover
+damages based on that conduct.  519 U. S. 1107 (1997).
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+II
+A
+Although the Sherman Act, by its terms, prohibits every
+agreement "in restraint of trade," this Court has long recog-
+nized  that Congress  intended  to outlaw  only unreasonable
+restraints.  See, e. g., Arizona v. Maricopa County Medical
+Soc.,  457  U. S.  332, 342-343  (1982)  (citing United States v.
+Joint Traffic Assn., 171 U. S. 505 (1898)).  As a consequence,
+most antitrust claims are analyzed under a "rule of reason,"
+according to which  the finder  of fact must decide  whether
+the questioned practice imposes an unreasonable restraint on
+competition, taking into account a variety of factors, includ-
+ing specific information about the relevant business, its con-
+dition before and  after the restraint was  imposed, and the
+restraint's history, nature, and effect.  457 U. S., at 343, and
+n. 13 (citing Board of Trade of Chicago v. United States, 246
+U. S. 231, 238 (1918)).
+Some types of restraints, however, have such predictable
+and pernicious  anticompetitive  effect,  and  such limited po-
+tential for procompetitive benefit, that they are deemed un-
+lawful per se.  Northern Pacific R. Co. v. United States, 356
+U. S. 1, 5 (1958).  Per se treatment is appropriate "[olnce ex-
+perience with a particular kind of restraint enables the Court
+to predict with confidence that the rule of reason will con-
+demn it."  Maricopa County, supra, at 344; see also Broad-
+cast Music, Inc. v. Columbia BroadcastingS ystem, Inc., 441
+U. S. 1, 19, n. 33 (1979).  Thus, we have expressed reluctance
+to adopt per se rules with regard to "restraints imposed in
+the context of business relationships where the economic im-
+pact of certain practices is not immediately obvious."  FTC
+v. Indiana Federation of Dentists, 476  U. S. 447,  458-459
+(1986).
+A review of this Court's decisions leading up to and beyond
+Albrecht is relevant to our assessment of the continuing va-
+lidity of the per se rule established in Albrecht.  Beginning
+
+NEW PAGE
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+with Dr. Miles Medical Co. v. John D. Park & Sons Co.,
+220 U. S. 373  (1911),  the Court recognized the illegality of
+agreements under which manufacturers or suppliers set the
+minimum resale prices to be charged by their distributors.
+By 1940,  the Court broadly declared  all business combina-
+tions "formed for the purpose and with the effect of raising,
+depressing, fixing, pegging, or stabilizing the price of a com-
+modity  in  interstate  or foreign  commerce"  illegal  per se.
+United States v. Socony-Vacuum Oil Co., 310 U. S. 150, 223
+(1940).  Accordingly,  the  Court  condemned  an  agreement
+between two affiliated liquor distillers to limit the maximum
+price  charged  by retailers in Kiefer-Stewart Co. v. Joseph
+E. Seagram & Sons, Inc., 340  U. S. 211  (1951),  noting that
+agreements to fix maximum prices, "no less than those to fix
+minimum prices, cripple the freedom of traders and thereby
+restrain  their ability to  sell in accordance  with  their  own
+judgment."  Id., at 213.
+In subsequent cases,  the Court's attention  turned to ar-
+rangements through which suppliers imposed restrictions on
+dealers with respect to matters other than resale price.  In
+White Motor Co. v. United States, 372 U. S. 253 (1963),  the
+Court considered the validity of a manufacturer's assignment
+of exclusive territories to its distributors and dealers.  The
+Court determined that too little was known about the com-
+petitive impact of such vertical limitations to warrant treat-
+ing them as per se unlawful.  Id., at 263.  Four years later,
+in  United States v. Arnold, Schwinn & Co.,  388 U. S.  365
+(1967), the Court reconsidered the status of exclusive dealer
+territories and held that, upon the transfer of title to goods
+to a distributor, a supplier's imposition of territorial restric-
+tions  on  the  distributor  was  "so  obviously  destructive  of
+competition"  as to constitute a per se violation of the Sher-
+man Act.  Id., at 379.  In Schwinn, the Court acknowledged
+that some vertical restrictions, such as the conferral of terri-
+torial rights or franchises, could have procompetitive bene-
+fits  by allowing  smaller  enterprises  to compete,  and  that
+

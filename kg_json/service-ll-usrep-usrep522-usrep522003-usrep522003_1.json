@@ -1,0 +1,119 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "STATE OIL CO. v. KHAN ET AL.",
+  "caseNumber": "No. 96-871",
+  "dateFiled": "October 7, 1997",
+  "dateDecided": "November 4, 1997",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "State Oil Company"
+    },
+    {
+      "@type": "Person",
+      "name": "Khan et al."
+    }
+  ],
+  "decision": "Albrecht is overruled.",
+  "reasoning": "A review of this Court's pertinent decisions is relevant in assessing the continuing validity of the Albrecht per se rule. Not only are they less serious than the Albrecht Court imagined, but other courts and antitrust scholars have not noted that the per se rule could in fact exacerbate problems related to the unrestrained exercise of market power by monopolist-dealers.",
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Albrecht v. Herald Co.",
+      "caseNumber": "390 U. S. 145",
+      "dateDecided": "1966",
+      "court": "Supreme Court of the United States",
+      "decision": "Vertical maximum price fixing is a per se antitrust violation."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Kiefer-Stewart Co. v. Joseph E. Seagram & Sons, Inc.",
+      "caseNumber": "340 U. S.2 11",
+      "dateDecided": "1951",
+      "court": "Supreme Court of the United States",
+      "decision": "Maximum resale price fixing illegal per se."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "United States v. Arnold, Schwinn & Co.",
+      "caseNumber": "388 U. S. 365",
+      "dateDecided": "1967",
+      "court": "Supreme Court of the United States",
+      "decision": "Vertical nonprice restrictions illegal per se."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Continental T V, Inc. v. GTE Sylvania Inc.",
+      "caseNumber": "433 U. S. 36",
+      "dateDecided": "1977",
+      "court": "Supreme Court of the United States",
+      "decision": "Overruling Schwinn."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Business Electronics Corp. v. Sharp Electronics Corp.",
+      "caseNumber": "485 U. S. 717",
+      "dateDecided": "1988",
+      "court": "Supreme Court of the United States",
+      "decision": "The antitrust laws' primary purpose is to protect interbrand competition."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Matsushita Elec. Industrial Co. v. Zenith Radio Corp.",
+      "caseNumber": "475 U. S. 574",
+      "dateDecided": "1986",
+      "court": "Supreme Court of the United States",
+      "decision": "Condemnation of practices resulting in lower consumer prices is disfavored."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Northern Pacific R. Co. v. United States",
+      "caseNumber": "356 U. S. 1",
+      "dateDecided": "1958",
+      "court": "Supreme Court of the United States",
+      "decision": "Some types of restraints on trade have such predictable and pernicious anticompetitive effect, and such limited potential for procompetitive benefit, that they are deemed unlawful per se."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Arizona v. Maricopa County Medical Soc.",
+      "caseNumber": "457 U. S. 332",
+      "dateDecided": "1982",
+      "court": "Supreme Court of the United States",
+      "decision": "Most antitrust claims are analyzed under a \"rule of reason\", under which the court reviews a number of relevant factors."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Copperweld Corp. v. Independence Tube Corp.",
+      "caseNumber": "467 U. S. 752",
+      "dateDecided": "1984",
+      "court": "Supreme Court of the United States",
+      "decision": "Albrecht is irrelevant to ongoing Sherman Act enforcement."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "National Soc. of Professional Engineers v. United States",
+      "caseNumber": "435 U.S. 679",
+      "dateDecided": "1978",
+      "court": "Supreme Court of the United States",
+      "decision": "Stare decisis is not an inexorable command, particularly in the area of antitrust law, where there is a competing interest in recognizing and adapting to changed circumstances and the lessons of accumulated experience."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "GTE Sylvania",
+      "caseNumber": "433 U. S. 36",
+      "dateDecided": "1977",
+      "court": "Supreme Court of the United States",
+      "decision": "This Court has reconsidered its decisions construing the Sherman Act where, as here, the theoretical underpinnings of those decisions are called into serious question."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Neal v. United States",
+      "caseNumber": "516 U. S. 284",
+      "dateDecided": "1996",
+      "court": "Supreme Court of the United States",
+      "decision": "Because Albrecht has been widely criticized since its inception, and the views underlying it have been eroded by this Court's precedent, there is not much of that decision to salvage."
+    },
+    {
+      "@type": "LegalCase",

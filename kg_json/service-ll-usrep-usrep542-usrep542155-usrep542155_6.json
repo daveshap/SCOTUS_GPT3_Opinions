@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoningForIncludingInOpinion"
+  },
+  "@graph": [
+    {
+      "@id": "170 F. H OFMAN-LA ROCHE LTD v. EMPAGRAN S. A.",
+      "@type": "cite",
+      "date": "204",
+      "caseNumber": "542 U. S. 15",
+      "involvedParties": ["Petitioners 13", "Den Norske", "Timken Roler Bearing Co.", "United States", "National Lead Co.", "American Tobaco Co.", "E. I. du Pont de Nemours & Co.", "California v. American Stores Co.", "Industria Siciliana Asfalti, Bitumi, S. p. A.", "Exon Research & Enginering Co.", "Domininicus Americanad Bohio", "Gulf & Western Industsrtireies, Inc.", "Hunt", "Mobil Oil Corp.", "seven majors"],
+      "reasoning": "The opinion discusses the applicability of the Sherman Act to cases involving foreign private plaintiffs and the relief available to them."
+    }
+  ]
+}

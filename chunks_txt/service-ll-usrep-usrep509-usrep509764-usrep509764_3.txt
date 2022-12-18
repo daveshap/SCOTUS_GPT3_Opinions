@@ -1,0 +1,122 @@
+
+
+770  HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+munized from antitrust liability by the McCarran-Ferguson
+Act, and that, even assuming it applies, the principle of inter-
+national comity does not preclude District Court jurisdiction
+over the foreign conduct alleged.
+The two petitions before us stem from consolidated litiga-
+tion comprising the complaints of 19 States and many private
+plaintiffs alleging that the defendants, members of the insur-
+ance  industry, conspired  in violation  of § 1 of the Sherman
+Act to restrict the terms of coverage of commercial general
+liability (CGL) insurance 1a vailable in the United States.  Be-
+cause  the cases come  to us on motions to dismiss,  we take
+the allegations of the complaints as true.2
+A
+According to the complaints, the object of the conspiracies
+was to force certain primary insurers (insurers who sell in-
+surance  directly to consumers) to change the terms of their
+'CGL  insurance  provides  "coverage  for third  party casualty  damage
+claims  against a  purchaser of insurance  (the 'insured')."  App.  8 (Cal.
+Complaint  4.a).
+2 Following  the lower courts and the parties, see In re Insurance Anti-
+trust Litigation, 938 F. 2d 919, 924, 925 (CA9  1991),  we will treat the
+complaint filed by California as representative  of the claims of Alabama,
+Arizona, California, Massachusetts, New York, West Virginia, and Wiscon-
+sin, and the complaint filed by Connecticut as representative of the claims
+of Alaska, Colorado, Connecticut, Louisiana, Maryland, Michigan, Minne-
+sota, Montana, New Jersey, Ohio, Pennsylvania, and 'Washington.  As will
+become  apparent,  the  California  and  Connecticut  Complaints  differ
+slightly in their presentations of background information and their claims
+for relief;  their statements of facts  are identical.  Because the private
+party plaintiffs have chosen in their brief in this Court to use the Califor-
+nia Complaint as a "representative model" of their claims, Brief for Re-
+spondents (Private Party Plaintiffs) 3, n. 6, we will assume that their com-
+plaints track that complaint.  On remand, the courts below will of course
+be free to take into account any relevant differences among the complaints
+that the parties may bring to their attention.
+
+NEW PAGE
+
+Cite as: 509 U. S. 764 (1993)
+Opinion of the Court
+standard CGL insurance policies to conform with the policies
+the  defendant  insurers  wanted  to  sell.  The  defendants
+wanted four changes.3
+First, CGL  insurance  has  traditionally  been  sold  in  the
+United States on an "occurrence" basis, through a policy obli-
+gating the insurer "to pay or defend claims, whenever made,
+resulting from an accident  or 'injurious exposure  to  condi-
+tions' that occurred during the [specific time] period the pol-
+icy was in effect."  App. 22 (Cal. Complaint  52).  In place
+of this traditional  "occurrence"  trigger of coverage, the de-
+fendants wanted a "claims-made"  trigger, obligating the in-
+surer to  pay or defend  only those  claims made during the
+policy period.  Such a policy has the distinct advantage for
+the insurer that when the policy period ends without a claim
+having been made, the insurer can be certain that the policy
+will not expose it to any  further liability.  Second,  the de-
+fendants wanted the "claims-made" policy to have a "retroac-
+tive date" provision, which would further restrict coverage
+to claims  based  on incidents  that occurred  after a  certain
+date.  Such a provision eliminates the risk that an insurer,
+by issuing a claims-made policy, would assume liability aris-
+ing from incidents that occurred before  the policy's effective
+date,  but  remained  undiscovered  or  caused  no  immediate
+harm.  Third,  CGL  insurance  has  traditionally  covered
+"sudden and accidental" pollution; the defendants  wanted to
+eliminate that coverage.  Finally, CGL insurance has tradi-
+tionally provided that the insurer would bear the legal costs
+of defending covered  claims against the insured without re-
+gard to the policy's stated limits of coverage; the defendants
+8The First Claim for Relief in the Connecticut Complaint, App. 88-90
+(  115-119), charges all the defendants with an overarching conspiracy to
+force  all  four  of these  changes  on  the  insurance  market.  The  eight
+federal-law Claims for Relief in the California Complaint, id., at 36-49
+(1  111-150), charge  various  subgroups  of the defendants  with separate
+conspiracies that had more limited objects; not all of the defendants  are
+alleged to have desired all four changes.
+
+NEW PAGE
+
+HARTFORD FIRE INS. CO. v. CALIFORNIA
+Opinion of the Court
+wanted legal defense  costs to be counted against the stated
+limits (providing a "legal defense cost cap").
+To  understand  how  the  defendants  are  alleged  to  have
+pressured  the  targeted  primary  insurers  to  make  these
+changes, one must be aware of two important features of the
+insurance  industry.  First, most  primary insurers  rely  on
+certain  outside  support  services  for the type  of insurance
+coverage  they wish to  sell.  Defendant  Insurance Services
+Office,  Inc. (ISO),  an association of approximately  1,400 do-
+mestic property and casualty insurers (including the primary
+insurer defendants,  Hartford Fire Insurance Company, All-
+state  Insurance  Company, CIGNA  Corporation,  and Aetna
+Casualty  and  Surety  Company),  is  the  almost  exclusive
+source of support services in this country for CGL insurance.
+See id., at 19 (Cal. Complaint 138).  ISO develops standard
+policy forms and files or lodges them with each State's insur-
+ance regulators; most CGL insurance written in the United
+States  is  written  on  these  forms.  Ibid. (Cal.  Complaint
+139); id., at 74  (Conn. Complaint  150).  All  of the "tradi-
+tional" features of CGL insurance relevant to this litigation
+were embodied in the ISO standard CGL insurance form that
+had been in use since 1973 (1973  ISO CGL form).  Id., at 22
+(Cal. Complaint  1 51-54); id., at 75 (Conn. Complaint 11 56-
+58).  For each of its standard policy forms, ISO also supplies
+actuarial and rating information:  it collects, aggregates, in-
+terprets,  and  distributes  data  on  the  premiums  charged,
+claims filed  and paid,  and defense  costs  expended  with re-
+spect to each form, id., at 19 (Cal. Complaint 1 39); id., at 74
+(Conn. Complaint  151-52), and on the basis of these data it
+predicts future loss trends and calculates advisory premium
+rates, id., at 19 (Cal. Complaint 139); id., at 74 (Conn. Com-
+plaint 153).  Most ISO  members  cannot afford  to  continue
+to use a form if ISO withdraws these support services.  See
+id., at 32-33 (Cal. Complaint IT 97, 99).
+Second, primary insurers themselves usually purchase in-
+surance to cover a portion of the risk they assume from the
+

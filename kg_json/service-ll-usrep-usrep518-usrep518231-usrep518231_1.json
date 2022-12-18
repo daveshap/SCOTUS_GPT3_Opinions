@@ -1,0 +1,31 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "Brown v. Pro Football, Inc.",
+      "caseNumber": "No. 95-388",
+      "date": "1996-06-20",
+      "parties": [
+        "National Football League (NFL)",
+        "NFL Players Association",
+        "Washington Redskins"
+      ],
+      "reasoning": "Federal labor laws shield from antitrust attack an agreement among several employers bargaining together to implement after impasse the terms of their last best good-faith wage offer."
+    },
+    {
+      "@id": "Connell Constr. Co. v. Plumbers",
+      "caseNumber": "21 U. S. 616",
+      "date": "Unknown",
+      "parties": [
+        "Connell Constr. Co.",
+        "Plumbers"
+      ],
+      "reasoning": "This Court has previously found in the labor laws an implicit, 'nonstatutory' antitrust exemption that applies where needed to make the collective-bargaining process work."
+    }
+  ]
+}

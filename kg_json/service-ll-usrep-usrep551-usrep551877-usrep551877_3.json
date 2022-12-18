@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "551US2",
+      "caseNumber": "551US2",
+      "date": "09-20-1121:22:06",
+      "involvedParties": "Kay’s Kloset, Leegin, PSKS, Inc.",
+      "reasoning": "The jury agreed with PSKS and awarded it $1.2 million. The District Court trebled the damages and reimbursed PSKS for its attorney’s fees and costs.",
+      "cite": "551 U. S. 877 (2007)"
+    },
+    {
+      "@id": "DrMiles",
+      "caseNumber": "DrMiles",
+      "date": "1911",
+      "involvedParties": "Dr. Miles",
+      "reasoning": "The District Court excluded the testimony, relying on the per se rule established by Dr. Miles.",
+      "cite": "Dr. Miles v. John D. Park & Sons Co., 220 U.S. 373 (1911)"
+    },
+    {
+      "@id": "Colgate",
+      "caseNumber": "Colgate",
+      "date": "1919",
+      "involvedParties": "United States v. Colgate & Co.",
+      "reasoning": "Leegin responded that it had established a unilateral pricing policy lawful under § 1, which applies only to concerted action.",
+      "cite": "United States v. Colgate & Co., 250 U. S. 300, 307 (1919)"
+    },
+    {
+      "@id": "Khan",
+      "caseNumber": "Khan",
+      "date": "1997",
+      "involvedParties": "State Oil Co. v. Khan",
+      "reasoning": "The Court has repeated time and again that § 1 “outlaw[s] only unreasonable restraints.”",
+      "cite": "State Oil Co. v. Khan, 522 U. S. 3, 10 (1997)"
+    },
+    {
+      "@id": "Texaco",
+      "caseNumber": "Texaco",
+      "date": "2006",
+      "involvedParties": "Texaco Inc. v. Dagher",
+      "reasoning": "The rule of reason is the accepted standard for testing whether a practice restrains trade in violation of § 1.",
+      "cite": "Texaco Inc. v. Dagher, 547 U. S. 1, 5 (2006)"
+    },
+    {
+      "@id": "ContinentalTV",
+      "caseNumber": "ContinentalTV",
+      "date": "1977",
+      "involvedParties": "Continental T. V., Inc. v. GTE Sylvania Inc.",
+      "reasoning": "Appropriate factors to take into account include “specific information about the relevant business” and “the restraint’s history, nature, and effect.”",
+      "cite": "Continental T. V., Inc. v. GTE Sylvania Inc., 433 U. S. 36, 49 (1977)"
+    }
+  ]
+}

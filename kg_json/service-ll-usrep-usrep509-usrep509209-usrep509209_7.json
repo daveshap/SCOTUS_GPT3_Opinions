@@ -1,0 +1,32 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "cite": "http://schema.org/name"
+  },
+  "@graph": [
+    {
+      "@id": "cite:509_U_S_209_1993",
+      "cite": "509 U. S. 209 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": [
+        "Liggett",
+        "Brown & Williamson",
+        "Areeda & Turner",
+        "Scherer & Ross",
+        "Matsushita",
+        "Brooke Group Ltd.",
+        "Robinson-Patman Act",
+        "Clayton Act",
+        "Sherman Act",
+        "Eastman Kodak Co.",
+        "Image Technical Services, Inc.",
+        "Reiter v. Sonotone Corp."
+      ],
+      "reasoning": "This opinion discusses the implausibility of predatory pricing by multiple firms, the difficulty of achieving effective tacit coordination, and the high likelihood that any attempt to discipline will produce an outbreak of competition. It also discusses the Robinson-Patman Act and the Clayton Act, and how they suggest no exclusion from coverage when primary-line injury occurs in an oligopoly setting."
+    }
+  ]
+}

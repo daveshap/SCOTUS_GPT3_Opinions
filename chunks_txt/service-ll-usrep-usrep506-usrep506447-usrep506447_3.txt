@@ -1,0 +1,122 @@
+
+
+Cite as: 506 U. S. 447 (1993)
+Opinion of the Court
+attempt to monopolize was likely to succeed it was not neces-
+sary  to present  evidence  of the relevant  market  or of the
+defendants'  market power.  In  so doing, the Ninth Circuit
+relied on Lessig v. Tidewater Oil Co., 327  F. 2d 459  (CA9),
+cert. denied, 377 U. S. 993 (1964),  and its progeny.  App. to
+Pet. for Cert. A18-A19.  The Court of Appeals noted that
+these cases,  in dealing with attempt to monopolize  claims,
+had ruled that "if evidence of unfair or predatory conduct is
+presented, it may satisfy both the specific intent and danger-
+ous probability elements of the offense, without any proof of
+relevant market or the defendant's marketpower [sic]."  Id.,
+at A19.  If, however, there is insufficient evidence of unfair
+or predatory conduct, there must be a showing of "relevant
+market or the defendant's marketpower [sic]."  Ibid.  The
+court went on to find:
+"There  is  sufficient  evidence  from  which  the jury
+could conclude that the S. I. Group and Spectrum Group
+engaged  in  unfair  or  predatory  conduct  and  thus  in-
+ferred that they had the specific intent and the danger-
+ous probability of success and, therefore, McQuillan  did
+not have to  prove  relevant  market  or the  defendant's
+marketing power."  Id., at A21.
+The  decision  below, and  the Lessig line  of decisions  on
+which it relies, conflicts with holdings of courts in other Cir-
+cuits.  Every  other  Court  of  Appeals  has  indicated  that
+proving an attempt to monopolize requires proof of a danger-
+ous probability of monopolization of a relevant market.5  We
+6 See, e. g., CVD, Inc. v. Raytheon Co., 769 F. 2d 842, 851 (CA1 1985), cert.
+denied, 475 U. S. 1016 (1986); Twin Laboratories,I nc. v. Weider Health &
+Fitness, 900 F. 2d 566, 570 (CA2 1990); Harold Friedman,I nc. v. Kroger
+Co., 581 F. 2d 1068, 1079 (CA3 1978); Abcor Corp. v. AM Int'l, Inc., 916
+F. 2d  924, 926,  931  (CA4  1990);  C. A.  T  Industrial Disposal, Inc. v.
+Browning-Ferris Industries, Inc., 884 F. 2d 209, 210 (CA5 1989); Arthur
+S. Langenderfer,I nc. v. S. E. Johnson Co., 917 F. 2d 1413, 1431-1432 (CA6
+1990),  cert. denied, 502 U. S. 899 (1991);  Indiana Grocery, Inc. v. Super
+Valu Stores, Inc., 864 F. 2d 1409, 1413-1416 (CA7 1989); General Indus-
+
+NEW PAGE
+
+SPECTRUM SPORTS, INC. v. McQUILLAN
+Opinion of the Court
+granted  certiorari, 503 U. S.  958 (1992),  to resolve  this con-
+flict among the Circuits.6  We reverse.
+II
+While § 1 of the Sherman Act forbids contracts or conspira-
+cies in restraint of trade or commerce, § 2 addresses the ac-
+tions of single firms that monopolize or attempt to monopo-
+lize, as well as conspiracies and combinations to monopolize.
+Section 2 does not define  the elements of the offense of at-
+tempted monopolization.  Nor is there much guidance  to be
+had  in the scant legislative  history of that provision, which
+was added late in the legislative process.  See 1 E. Kintner,
+Legislative History of the Federal Antitrust Laws and Re-
+lated Statutes 23-25 (1978);  3 P. Areeda & D. Turner, Anti-
+trust Law  617, pp. 39-41  (1978).  The  legislative history
+does indicate that much of the interpretation of the necessar-
+ily broad principles of the Act was  to be left for the courts
+in  particular  cases.  See,  e. g.,  21  Cong.  Rec.  2460  (1890)
+(statement of Sen. Sherman).  See also 1 Kintner, supra, at
+19; 3 Areeda & Turner, supra,  617, at 40.
+This Court first addressed the meaning of attempt to mo-
+nopolize under § 2 in Swift & Co. v. United States, 196 U. S.
+375 (1905).  The Court's opinion, written by Justice Holmes,
+contained the following passage:
+tries Corp. v. Hartz Mountain Corp., 810 F. 2d 795, 804 (CA8 1987); Colo-
+rado Interstate Gas Co. v. Natural Gas Pipeline Co. of America, 885 F. 2d
+683, 693 (CA10 1989), cert. denied, 498 U. S. 972 (1990); Key Enterprises
+of Delaware, Inc. v. Venice Hospital, 919 F. 2d 1550, 1565 (CAll 1990);
+Neumann v. Reinforced Earth Co., 252 U. S. App. D. C. 11, 15-16, 786 F. 2d
+424, 428-429, cert. denied, 479  U. S.  851  (1986);  Abbott Laboratories v.
+Brennan, 952  F. 2d  1346,  1354  (CA Fed.  1991),  cert. denied, 505  U. S.
+1205 (1992).
+" Our grant of certiorari was limited to the first question presented in
+the petition: "Whether a manufacturer's  distributor expressly absolved of
+violating Section 1 of the Sherman Act can, without any evidence of mar-
+ket power or specific intent, be found liable for attempting to monopolize
+solely by virtue of a unique Ninth Circuit rule?"  Pet. for Cert. i.
+
+NEW PAGE
+
+Cite as: 506 U. S. 447 (1993)
+Opinion of the Court
+"Where acts are not sufficient in themselves to produce
+a  result which  the law seeks  to prevent-for instance,
+the monopoly-but  require  further acts  in  addition  to
+the mere forces  of nature to bring that result to pass,
+an  intent  to  bring it to pass  is  necessary  in  order to
+produce  a  dangerous  probability  that  it  will  happen.
+Commonwealth v. Peaslee, 177  Massachusetts  267, 272
+[59 N. E. 55, 56 (1901)].  But when that intent and the
+consequent dangerous probability exist, this statute, like
+many  others  and  like the  common  law  in some  cases,
+directs itself against that dangerous  probability as well
+as against the completed result."  Id., at 396.
+The  Court went on to explain,  however, that not every act
+done with intent to produce an unlawful result constitutes an
+attempt.  "It is a question of proximity and degree."  Id., at
+402.  Swift thus indicated that intent is necessary, but alone
+is not sufficient, to establish the dangerous probability of suc-
+cess that is the object of § 2's prohibition of attempts.7
+The  Court's decisions  since Swift have reflected the view
+that  the plaintiff charging  attempted  monopolization  must
+prove  a  dangerous  probability  of  actual  monopolization,
+which  has  generally  required  a  definition  of the  relevant
+market and examination of market power.  In Walker Proc-
+ess Equipment, Inc. v. Food Machinery & Chemical Corp.,
+382  U. S.  172,  177  (1965),  we  found  that  enforcement  of a
+fraudulently  obtained  patent  claim  could  violate  the Sher-
+man Act.  We stated that, to establish monopolization or at-
+tempt to monopolize under § 2 of the Sherman Act, it would
+7Justice Holmes confirmed  that this was his interpretation of Swift in
+Hyde v. United States, 225 U. S. 347 (1912).  In dissenting in that case on
+other grounds, the Justice, citing Swift, stated that an attempt may be
+found where the danger of harm  is very great; however, "combination,
+intention and overt act may all be present without amounting to a criminal
+attempt ....  There must be dangerous proximity to success."  225 U. S.,
+at 387-388.
+

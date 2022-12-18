@@ -1,0 +1,125 @@
+
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  185 
+Stevens, J., dissenting 
+II 
+For decades, juries have routinely inferred the requisite 
+injury to competition under the Robinson-Patman Act from 
+the fact that a manufacturer sells goods to one retailer at a 
+higher price than to its competitors.  This rule dates back 
+to the following discussion of competitive injury in Justice 
+Black’s opinion for the Court in FTC v. Morton Salt Co., 334 
+U. S. 37 (1948): 
+“It is argued that the ﬁndings fail to show that respond­
+ent’s discriminatory discounts had in fact caused injury 
+to  competition.  There  are  speciﬁc ﬁndings  that  such 
+injuries  had  resulted  from  respondent’s  discounts,  al­
+though the statute does not require the Commission to 
+ﬁnd that injury has actually resulted.  The statute re­
+quires no more than that the effect of the prohibited 
+price  discriminations  ‘may  be  substantially  to  lessen 
+competition . . . or to injure, destroy, or prevent competi­
+tion.’  After a careful consideration of this provision of 
+the Robinson-Patman Act, we have said that ‘the statute 
+does not require that the discriminations must in fact 
+have harmed competition, but only that there is a rea­
+sonable possibility that they “may” have such an effect.’ 
+Corn Products Co. v. Federal Trade Comm’n, 324 U. S. 
+726, 742.  Here the Commission found what would ap­
+pear to be obvious, that the competitive opportunities of 
+certain merchants were injured when they had to pay 
+respondent substantially more for their goods than their 
+competitors  had  to  pay.  The  ﬁndings  are  adequate.” 
+Id., at 45–47 (footnote omitted). 
+We have treated as competitors those who sell “in a single, 
+interstate  retail  market.”  Falls  City  Industries,  Inc.  v. 
+Vanco Beverage, Inc., 460 U. S. 428, 436 (1983); cf. Tampa 
+Elec. Co. v.  Nashville Coal Co., 365 U. S. 320, 327 (1961). 
+Under this approach—uncontroversial until today—Reeder 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+186  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Stevens, J., dissenting 
+would readily prevail.  There is ample evidence that Volvo 
+charged Reeder higher prices than it charged to competing 
+dealers in the same market over a period of many months. 
+That those higher prices impaired Reeder’s ability to com­
+pete with those dealers is just as obvious as the injury to 
+competition described by the Court in Morton Salt. 
+Volvo nonetheless argues that no competitive injury could 
+have occurred because it never discriminated against Reeder 
+when Reeder and another Volvo dealer were seeking conces­
+sions with regard to the same ultimate customer.  In Volvo’s 
+view, each transaction was a separate market, one deﬁned 
+by the customer and those dealers whom it had asked for 
+bids.  For  each  speciﬁc  customer  who  has  solicited  bids, 
+Reeder’s only “competitors” were the other dealers making 
+bids.  Accordingly, if none of these other dealers were Volvo 
+dealers, then Reeder suffered no competitive harm (relative 
+to other Volvo dealers) when Volvo gave it a discriminatorily 
+high price. 
+Unlike the Court, I cannot accept Volvo’s vision.  Nothing 
+in the statute or in our precedent suggests that “competi­
+tion” is evaluated by a transaction-speciﬁc inquiry, and such 
+an approach makes little sense.  It requires us to ignore the 
+fact that competition among truck dealers is a continuing 
+war waged over time rather than a series of wholly discrete 
+events.  Each time Reeder managed to resell trucks it had 
+purchased  at  discriminatorily  high  prices,  it  was  forced 
+either to accept lower proﬁt margins than were available to 
+favored Volvo dealers or to pass on the higher costs to its 
+customers (who then might well go to a different dealer the 
+next time).  And we have long indicated that lost proﬁts rel­
+ative to a competitor are a proper basis for permitting the 
+Morton Salt inference.  See, e. g., Falls City Industries, 460 
+U. S., at 435 (noting that to overcome the Morton Salt infer­
+ence, a defendant needs “evidence breaking the causal con­
+nection between a price differential and lost sales or proﬁts” 
+(emphasis added)).  By ignoring these commonsense points, 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  187 
+Stevens, J., dissenting 
+the Court gives short shrift to the Robinson-Patman Act’s 
+prophylactic intent.  See  15 U. S. C. § 13(a)  (barring price 
+discrimination where “the effect of such discrimination may 
+be  substantially  to  lessen competition”  (emphasis  added)); 
+see also, e. g., Morton Salt, 334 U. S., at 46. 
+The Court appears to hold that, absent head-to-head bid­
+ding with a favored dealer, a dealer in a competitive bidding 
+market  can  suffer  no  competitive  injury.4  It  is  unclear 
+whether that holding is limited to franchised dealers who do 
+not maintain inventories, or excludes virtually all franchisees 
+from the effective protection of the Act.  In either event, it 
+is not faithful to the statutory text. 
+III 
+As the Court recognizes, the Robinson-Patman Act was 
+primarily intended to protect small retailers from the vig­
+orous competition afforded by chainstores and other large 
+volume purchasers.  Whether that statutory mission repre­
+sented sound economic policy is not merely the subject of 
+serious debate, but may well merit Judge Bork’s character­
+ization  as  “wholly  mistaken  economic  theory.” 5  I  do  not 
+suggest that disagreement with the policy of the Act has 
+played a conscious role in my colleagues’ unprecedented deci­
+sion today.  I cannot avoid, however, identifying the irony 
+in a decision refusing to adhere to the text of the Act in a 
+case in which the jury credited evidence that discriminatory 
+4Indeed, if Volvo’s argument about the meaning of “purchaser,” see 
+ante, at 179–180, ultimately meets with this Court’s approval, then the 
+Robinson-Patman Act will simply not apply in the special-order context. 
+Any time a special-order dealer fails to complete a transaction because the 
+high price drives away its ultimate customer, there will be no Robinson-
+Patman violation because the dealer will not meet the “purchaser” re­
+quirement, and any time the dealer completes the transaction but at a 
+discriminatorily high price, there will be no violation because the dealer 
+has no “competition” (as the majority sees it) for that speciﬁc transaction 
+at the moment of purchase. 
+5 R. Bork, The Antitrust Paradox 382 (1978). 
+

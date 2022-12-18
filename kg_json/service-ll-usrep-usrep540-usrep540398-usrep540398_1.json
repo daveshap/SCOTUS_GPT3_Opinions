@@ -1,0 +1,45 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoningForInclusion",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "VerizonCommunicationsInc.v.LawOfficesofCurtisV.Trinko,LLP",
+      "caseNumber": "02-682",
+      "date": "2004-01-13",
+      "parties": [
+        "Verizon Communications Inc.",
+        "Law Offices of Curtis V. Trinko, LLP"
+      ],
+      "reasoning": "The Telecommunications Act of 1996 imposes upon an incumbent local exchange carrier (LEC) the obligation to share its telephone network with competitors, 47 U. S. C. §251(c), including the duty to provide access to individual network elements on an \"unbundled\" basis, see §251(c)(3)."
+    },
+    {
+      "@id": "AspenSkiingCo.v.AspenHighlandsSkiingCorp.",
+      "caseNumber": "472 U. S. 585",
+      "date": "1985",
+      "parties": [
+        "Aspen Skiing Co.",
+        "Aspen Highlands Skiing Corp."
+      ],
+      "reasoning": "The leading case imposing § 2 liability for refusal to deal with competitors is Aspen Skiing Co. v. Aspen Highlands Skiing Corp., 472 U. S. 585, in which the Court concluded that the defendant's termination of a voluntary agreement with the plaintiff suggested a willingness to forsake short-term profits to achieve an anticompetitive end."
+    },
+    {
+      "@id": "MatsushitaElec.IndustrialCo.v.ZenithRadioCorp.",
+      "caseNumber": "475 U. S. 574",
+      "date": "1986",
+      "parties": [
+        "Matsushita Elec. Industrial Co.",
+        "Zenith Radio Corp."
+      ],
+      "reasoning": "Applying §2's requirements to this regime can readily result in \"false positive\" mistaken inferences that chill the very conduct the antitrust laws are designed to protect. Matsushita Elec. Industrial Co. v. Zenith Radio Corp., 475 U. S. 574, 594."
+    },
+    {
+      "@id": "Citeas:540U.S.398(2004)",
+      "citation": "540 U. S. 398 (2004)"
+    }
+  ]
+}

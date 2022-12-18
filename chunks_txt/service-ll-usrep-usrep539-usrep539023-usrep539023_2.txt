@@ -1,0 +1,125 @@
+
+
+26  DASTAR  CORP. v. TWENTIETH  CENTURY FOX
+FILM  CORP.
+Opinion of the Court
+called Crusade in Europe, based on  the book, and Time  as-
+signed its copyright in the series to Fox.  The television se-
+ries,  consisting of 26  episodes, was first broadcast  in  1949.
+It combined  a soundtrack based on a narration of the book
+with film footage from the United  States Army, Navy, and
+Coast Guard, the British Ministry  of Information and  War
+Office,  the National Film Board  of Canada, and unidentified
+"Newsreel Pool Cameramen."  In 1975, Doubleday renewed
+the copyright on the book as the "'proprietor  of copyright in
+a work  made for hire."'  App. to Pet. for  Cert. 9a.  Fox,
+however, did not renew  the copyright  on the Crusade tele-
+vision  series, which  expired  in 1977, leaving the television
+series in the public domain.
+In  1988,  Fox reacquired  the  television  rights in  General
+Eisenhower's  book, including the exclusive  right to distrib-
+ute the Crusade television series on video and to sublicense
+others to do so.  Respondents SFM Entertainment and New
+Line Home Video, Inc., in turn, acquired from Fox the exclu-
+sive  rights to distribute  Crusade on  video.  SFM obtained
+the negatives of the original television series, restored them,
+and  repackaged the series  on videotape;  New Line distrib-
+uted the videotapes.
+Enter petitioner Dastar.  In 1995,  Dastar decided to  ex-
+pand its  product  line  from  music  compact  discs  to  videos.
+Anticipating renewed interest in World War  II on the 50th
+anniversary  of the war's  end, Dastar  released  a  video  set
+entitled World War II Campaigns in Europe.  To make Cam-
+paigns, Dastar purchased eight beta cam tapes of the origi-
+nal version of the Crusade television series, which is in the
+public  domain,  copied  them,  and  then  edited  the  series.
+Dastar's Campaigns series is slightly more than half as long
+as  the  original  Crusade  television  series.  Dastar  substi-
+tuted a new opening sequence, credit page, and final closing
+for  those  of  the  Crusade  television  series;  inserted  new
+chapter-title  sequences  and  narrated  chapter introductions;
+moved the  "recap" in  the  Crusade television  series  to the
+
+NEW PAGE
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+beginning and retitled it as a "preview"; and removed refer-
+ences to and images of the book.  Dastar created new pack-
+aging for its Campaigns series and (as already noted) a new
+title.
+Dastar manufactured and sold the Campaigns video set as
+its  own  product.  The  advertising  states:  "Produced  and
+Distributed by: Entertainment Distributing"( which is
+owned  by  Dastar),  and  makes  no  reference  to  the  Cru-
+sade  television  series.  Similarly, the  screen  credits  state
+"DASTAR  CORP  presents"  and  "an  ENTERTAINMENT
+DISTRIBUTING  Production,"  and  list  as  executive  pro-
+ducer, producer, and  associate producer  employees  of
+Dastar.  Supp. App. 2-3, 30.  The Campaigns videos them-
+selves also make no reference to the Crusade television se-
+ries, New Line's Crusade  videotapes,  or the book.  Dastar
+sells its Campaigns videos to Sam's Club, Costco, Best Buy,
+and other retailers and mail-order companies for $25 per set,
+substantially less than New Line's video set.
+In  1998,  respondents  Fox, SFM,  and  New  Line  brought
+this action alleging that Dastar's sale of its Campaigns video
+set infringes Doubleday's copyright in General Eisenhower's
+book and, thus, their exclusive television rights in the book.
+Respondents  later  amended  their  complaint  to add  claims
+that Dastar's sale of Campaigns "without proper credit" to
+the  Crusade  television  series  constitutes  "reverse  passing
+off"'  in  violation  of  § 43(a)  of  the  Lanham  Act,  60  Stat.
+441,  15  U. S. C.  § 1125(a),  and  in  violation  of state  unfair-
+competition  law.  App.  to  Pet.  for  Cert.  31a.  On  cross-
+motions for summary judgment, the District Court found for
+respondents on all three counts, id., at 54a-55a, treating its
+1Passing off (or palming off, as it is sometimes  called)  occurs when
+a producer misrepresents  his  own goods  or services as someone  else's.
+See, e. g.,  0. & W. Thum Co. v. Dickinson, 245 F. 609, 621 (CA6  1917).
+"Reverse passing off," as its name implies, is the opposite: The producer
+misrepresents someone else's goods or services as his own.  See, e. g., Wil-
+liams v. Curtiss-Wright Corp., 691 F. 2d 168, 172 (CA3 1982).
+
+NEW PAGE
+
+28  DASTAR  CORP. v. TWENTIETH  CENTURY  FOX
+FILM CORP.
+Opinion of the Court
+resolution  of the  Lanham  Act  claim  as  controlling  on  the
+state-law unfair-competition claim because "the ultimate test
+under both is whether the public is likely to be deceived or
+confused,"  id., at 54a.  The court  awarded Dastar's  profits
+to  respondents  and  doubled  them  pursuant  to  § 35 of the
+Lanham  Act, 15 U. S. C. § 1117(a), to deter future infringing
+conduct by petitioner.
+The  Court of Appeals  for the Ninth Circuit affirmed  the
+judgment for respondents on the Lanham Act claim, but re-
+versed  as  to  the  copyright  claim  and  remanded.  34  Fed.
+Appx. 312, 316 (2002).  (It said nothing with regard to the
+state-law claim.)  With respect to the Lanham Act claim, the
+Court of Appeals reasoned that "Dastar copied substantially
+the entire  Crusade in Europe series created  by Twentieth
+Century  Fox, labeled the resulting product with  a different
+name  and  marketed  it  without  attribution  to  Fox[,  and]
+therefore committed a 'bodily appropriation' of Fox's series."
+Id.,  at  314.  It  concluded  that  "Dastar's  'bodily  appropri-
+ation'  of  Fox's  original  [television]  series  is  sufficient  to
+establish  the reverse  passing  off."  Ibid.2  The  court also
+affirmed  the District Court's award under  the Lanham Act
+of twice Dastar's profits.  We granted certiorari.  537 U. S.
+1099 (2003).
+II
+The  Lanham  Act  was  intended  to  make  "actionable  the
+deceptive and misleading use of marks," and "to protect per-
+sons engaged  in ...  commerce  against unfair competition."
+15 U. S. C. § 1127.  While much of the Lanham Act addresses
+2As for the copyright claim, the Ninth Circuit held that the tax treat-
+ment General Eisenhower sought for his manuscript of the book created
+a triable issue as to whether he intended the book to be a work for hire,
+and thus as to whether Doubleday properly renewed the copyright in 1976.
+See 34  Fed. Appx.,  at 314.  The copyright issue  is still the subject  of
+litigation, but is not before us.  We express no opinion as to whether peti-
+tioner's product would infringe a valid copyright in General Eisenhow-
+er's book.
+

@@ -1,0 +1,126 @@
+
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+the registration,  use,  and  infringement  of trademarks  and
+related marks, § 43(a),  15 U. S. C.  § 1125(a) is one of the few
+provisions that goes beyond trademark protection.  As orig-
+inally  enacted,  § 43(a)  created  a  federal  remedy  against  a
+person who used in commerce either "a false designation of
+origin, or any false description or representation" in connec-
+tion with  "any  goods  or services."  60  Stat. 441.  As  the
+Second Circuit accurately observed with regard to the origi-
+nal enactment, however-and as remains true after the 1988
+revision-§ 43(a)  "does  not have  boundless  application  as  a
+remedy  for unfair trade practices,"  Alfred Dunhill, Ltd. v.
+Interstate Cigar Co., 499  F. 2d 232, 237  (1974).  "[B]ecause
+of its inherently limited wording, § 43(a) can never be a fed-
+eral 'codification'  of the overall law of 'unfair competition,"'
+4  J. McCarthy, Trademarks  and  Unfair Competition  §27:7,
+p. 27-14 (4th ed.  2002)  (McCarthy),  but  can  apply  only  to
+certain unfair trade practices prohibited by its text.
+Although  a  case  can be  made  that a  proper  reading  of
+§43(a),  as originally enacted, would treat the word "origin"
+as referring  only  "to the geographic  location  in which  the
+goods  originated,"  Two  Pesos, Inc. v.  Taco  Cabana, Inc.,
+505  U. S.7 63, 777  (1992)  (STEVENS,  J.,  concurring in judg-
+ment),3 the Courts of Appeals considering  the issue, begin-
+3In the original provision, the cause of action for false designation of
+origin was arguably "available only to a person doing business in the local-
+ity falsely indicated as that of origin," 505 U. S., at 778, n. 3.  As adopted
+in 1946, §43(a) provided in full:
+"Any person who shall affix, apply, or annex, or use in connection with
+any goods  or services, or any container  or containers for goods, a false
+designation of origin, or any false description or representation, including
+words or other symbols tending falsely to describe or represent the same,
+and shall cause such goods or services to enter into commerce, and any
+person who shall with knowledge of the falsity of such designation of ori-
+gin or description or representation cause or procure the same to be trans-
+ported or used in commerce or deliver the same to any carrier to be trans-
+ported or used, shall be liable to a civil action by any person doing business
+in the locality falsely indicated as that of origin or the region in which
+said locality is situated, or by any person who believes that he is or is
+
+NEW PAGE
+
+30  DASTAR  CORP. v. TWENTIETH  CENTURY  FOX
+FILM CORP.
+Opinion of the Court
+ning  with  the  Sixth  Circuit,  unanimously  concluded  that
+it  "does not  merely  refer  to geographical  origin,  but also
+to origin of source  or manufacture,"  Federal-Mogul-Bower
+Bearings, Inc. v. Azoff, 313  F. 2d  405, 408  (1963),  thereby
+creating a federal  cause of action for  traditional trademark
+infringement of unregistered  marks.  See 4 McCarthy
+§ 27:14;  Two  Pesos, supra, at 768.  Moreover, every  Circuit
+to  consider the  issue found  § 43(a) broad  enough to encom-
+pass  reverse  passing off.  See,  e.g.,  Williams v.  Curtiss-
+Wright Corp., 691  F. 2d 168,  172 (CA3 1982); Arrow United
+Indus., Inc. v. Hugh Richards, Inc., 678 F. 2d 410, 415 (CA2
+1982); F. E. L. Publications,L td. v. Catholic Bishop of Chi-
+cago, 214 USPQ 409, 416 (CA7 1982); Smith v. Montoro, 648
+F. 2d 602, 603 (CA9 1981); Bangor Punta Operations,I nc. v.
+UniversalM  arine Co., 543 F. 2d 1107, 1109 (CA5 1976).  The
+Trademark Law Revision Act of 1988 made clear that § 43(a)
+covers  origin  of production  as  well  as  geographic  origin.4
+Its language is amply inclusive, moreover, of reverse passing
+off-if  indeed  it does  not  implicitly  adopt  the  unanimous
+court-of-appeals  jurisprudence  on  that subject.  See,  e. g.,
+likely to be damaged by the use of any such false description or represen-
+tation."  60 Stat. 441.
+4 Section 43(a) of the Lanham Act now provides:
+"Any person who, on or in connection with any goods or services, or any
+container for goods, uses in commerce any word, term, name, symbol, or
+device, or any combination thereof, or any false designation of origin, false
+or misleading description of fact, or false or misleading representation  of
+fact, which-
+."(A) is likely to cause confusion, or to cause mistake, or to deceive as to
+the affiliation, connection, or association of such person with another per-
+son, or as to the origin, sponsorship, or approval of his or her goods, serv-
+ices, or commercial activities by another person, or
+"(B) in commercial advertising or promotion, misrepresents the nature,
+characteristics,  qualities, or geographic  origin of his or her or another
+person's goods, services, or commercial activities,
+"shall be liable in a civil action by any person who believes that he or she
+is or is likely to be damaged by such act."  15 U. S. C. § 1125(a)(1).
+
+NEW PAGE
+
+Cite as: 539 U. S. 23 (2003)
+Opinion of the Court
+Alpo  Petfoods, Inc. v.  Ralston Purina Co.,  913  F. 2d  958,
+963-964, n. 6 (CADC 1990) (Thomas, J.).
+Thus, as it comes to us, the gravamen of respondents' claim
+is that, in marketing and selling Campaigns as its own prod-
+uct without  acknowledging its nearly wholesale  reliance  on
+the Crusade television series, Dastar has made a "false des-
+ignation of origin, false or misleading description of fact, or
+false or misleading representation  of fact, which ...i s likely
+to cause confusion...  as to the origin... of his or her goods."
+§ 43(a).  See, e. g.,  Brief for Respondents  8, 11.  That claim
+would undoubtedly be sustained if Dastar had bought some
+of New  Line's  Crusade videotapes  and  merely  repackaged
+them as its own.  Dastar's alleged wrongdoing, however, is
+vastly  different:  It  took a  creative  work  in the  public do-
+main-the Crusade television series-copied  it, made modi-
+fications (arguably minor), and produced its very own series
+of videotapes.  If "origin" refers  only to the manufacturer
+or producer of the physical "goods"  that are made available
+to the  public (in this case the videotapes), Dastar  was  the
+origin.  If, however, "origin'! includes the creator of the un-
+derlying work that Dastar copied,  then someone else  (per-
+haps  Fox) was the origin of Dastar's product.  At bottom,
+we must decide what § 43(a)(1)(A) of the Lanham Act means
+by the "origin" of "goods."
+III
+The dictionary definition of "origin" is "[tihe  fact or proc-
+ess of coming  into being  from a  source,"  and  "[t]hat  from
+which  anything  primarily  proceeds;  source."  Webster's
+New International Dictionary 1720-1721 (2d ed. 1949).  And
+the  dictionary  definition  of  "goods"  (as  relevant  here)  is
+"[w]ares;  merchandise."  Id., at  1079.  We  think the most
+natural understanding of the "origin" of "goods"-the source
+of wares-is the producer of the tangible product sold in the
+marketplace, in this case the physical Campaigns videotape
+sold by Dastar.  The concept might be stretched (as it was
+

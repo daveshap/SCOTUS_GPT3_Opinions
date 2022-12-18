@@ -1,0 +1,18 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-SIMCO GMC, INC.",
+    "datePublished": "08-22-0815",
+    "timePublished": "43:12",
+    "caseNumber": "546US1",
+    "involvedParties": ["VOLVO TRUCKS NORTH AMERICA, INC.", "REEDER-SIMCO GMC, INC."],
+    "reasoningForIncluding": "prices were employed as means of escaping contractual commitments and eliminating specifically targeted firms from a competitive market"
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Judge Bork's Evaluation",
+    "reasoningForIncluding": "The exceptional quality of this case provides strong reason to enforce the Act’s prohibition against discrimination even if Judge Bork’s evaluation (with which I happen to agree) is completely accurate"
+  }
+]

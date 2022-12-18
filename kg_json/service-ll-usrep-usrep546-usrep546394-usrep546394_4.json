@@ -1,0 +1,68 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "546US2",
+      "date": "08-27-0813:12:22",
+      "caseNumber": "546 U. S. 394 (2006)",
+      "involvedParties": ["Cone", "Globe Liquor", "Johnson"],
+      "reasoning": "Despite the straightforward language employed in Cone, Globe Liquor, and Johnson, respondent maintains that those cases dictate afﬁrmance here, because in each of those cases the litigants secured a new trial."
+    },
+    {
+      "@id": "Neely",
+      "date": "228 U. S. 364 (1913)",
+      "caseNumber": "Neely v. New York Life Ins. Co.",
+      "involvedParties": ["Slocum", "Redman"],
+      "reasoning": "Contrary to the dissent’s suggestion, Neely conﬁrms that the broad grant of authority to the courts of appeals in § 2106 must be exercised consistent with the requirements of the Federal Rules of Civil Procedure as interpreted by this Court."
+    },
+    {
+      "@id": "Cone",
+      "date": "330 U. S. 215 (1947)",
+      "caseNumber": "West Virginia Pulp & Paper Co. v. Cone",
+      "involvedParties": ["West Virginia Pulp & Paper Co.", "Cone"],
+      "reasoning": "This Court did not disturb the Court of Appeals’ holding that formed the basis of the movant’s entitlement to a new trial, namely, “the Circuit Court of Appeals’ holding that there was prejudicial error in the admission of evidence.”"
+    },
+    {
+      "@id": "Globe Liquor",
+      "date": "386 U. S. 572 (1967)",
+      "caseNumber": "Globe Liquor Co. v. San Roman",
+      "involvedParties": ["Globe Liquor Co.", "San Roman"],
+      "reasoning": "The 50(b),” 386 U. S., at 325. The respondents . . . moved for a new trial on the ground . . . that there were many contested issues of fact.”"
+    },
+    {
+      "@id": "Johnson",
+      "date": "344 U. S. 54 (1952)",
+      "caseNumber": "Johnson v. New York, N. H. & H. R. Co.",
+      "involvedParties": ["Johnson", "New York, N. H. & H. R. Co."],
+      "reasoning": "Johnson concluded that respondent was only entitled to a new trial by virtue of its motion for such “within the time required by Rule 50(b).”"
+    },
+    {
+      "@id": "Yakus",
+      "date": "321 U. S. 414 (1944)",
+      "caseNumber": "Yakus v. United States",
+      "involvedParties": ["Yakus", "United States"],
+      "reasoning": "No procedural principle is more familiar to this Court than that a . . . right may be forfeited . . . by the failure to make timely assertion of the right before a tribunal having jurisdiction to determine it.”"
+    },
+    {
+      "@id": "Rule 50(a)",
+      "caseNumber": "Rule 50(a)",
+      "reasoning": "The Rule provides that “the court may determine” that “there is no legally sufﬁcient evidentiary basis for a reasonable jury to ﬁnd for [a] party on [a given] issue,” and “may grant a motion for judgment as a matter of law against that party . . . .”"
+    },
+    {
+      "@id": "Rule 50(b)",
+      "caseNumber": "Rule 50(b)",
+      "reasoning": "That text provides that a district court may only order a new trial on the basis of issues raised in a preverdict Rule 50(a) motion when “ruling on a renewed motion” under Rule 50(b)."
+    },
+    {
+      "@id": "Wright and Miller",
+      "date": "9A C. Wright & A. Miller, Federal Practice and Procedure § 2522, pp. 244–246 (2d ed. 1995)",
+      "caseNumber": "Federal Practice",
+      "reasoning": "Even at the close of all the evidence it may be desirable to refrain from granting a motion for judgment as a matter of law despite the fact that it would be possible for the district court to do so."
+    }
+  ]
+}

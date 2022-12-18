@@ -1,0 +1,31 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+  "caseNumber": "509 U. S. 209 (1993)",
+  "datePublished": "1993",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Brooke Group Ltd."
+    },
+    {
+      "@type": "Organization",
+      "name": "Brown & Williamson Tobacco Corp."
+    }
+  ],
+  "reasoningForIncludingInOpinion": [
+    {
+      "@type": "SupracompetitivePricing",
+      "description": "Brown & Williamson had a reasonable prospect of producing supracompetitive pricing in the generic segment adequate to recoup its predatory losses."
+    },
+    {
+      "@type": "OligopolisticPriceCoordination",
+      "description": "Evidence about the market and Brown & Williamson's conduct indicate that the alleged scheme was likely to have brought about tacit coordination and oligopoly pricing in the generic segment, even if it did not actually do so."
+    },
+    {
+      "@type": "PriceBehavior",
+      "description": "Liggett argues that this would permit a reasonable jury to find that Brown & Williamson succeeded in bringing about oligopolistic price coordination and supracompetitive prices in the generic category sufficient to slow its growth, thereby preserving supracompetitive branded profits and recouping its predatory losses."
+    }
+  ]
+}

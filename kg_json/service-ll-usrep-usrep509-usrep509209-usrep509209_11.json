@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:509_U_S_209_1993",
+      "cite": "509 U. S. 209 (1993)",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brown & Williamson Tobacco Corp.", "Liggett", "R. J. Reynolds", "Philip Morris"],
+      "reasoning": "The larger number of product types and pricing variables also decreased the probability of effective parallel pricing. When Brown & Williamson entered the economy segment in 1984, the segment included Value-25s, black and whites, and brandbd generics. With respect to each product, the net price in the market was determined not only by list prices, but also by a wide variety of discounts and promotions to consumers and by rebates to wholesalers. In order to coordinate in an effective manner and eliminate price competition, the cigarette companies would have been required, without communicating, to establish parallel practices with respect to each of these variables, many of which, like consumer stickers or coupons, were difficult to monitor."
+    },
+    {
+      "@id": "cite:BROOKE_GROUP_LTD_v_BROWN_WILLIAMSON_TOBACCO_CORP",
+      "cite": "BROOKE GROUP LTD. v. BROWN & WILLIAMSON TOBACCO CORP.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brown & Williamson Tobacco Corp.", "Liggett", "R. J. Reynolds", "Philip Morris"],
+      "reasoning": "Even if all the cigarette companies were willing to participate in a scheme to restrain the growth of the generic segment, they would not have been able to coordinate their actions and raise prices above a competitive level unless they understood that Brown & Williamson's entry into the segment was not a genuine effort to compete with Liggett. If even one other firm misinterpreted Brown & Williamson's entry as an effort to expand share, a chain reaction of competitive responses would almost certainly have resulted, and oligopoly discipline would have broken down, perhaps irre-trievably."
+    }
+  ]
+}

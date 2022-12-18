@@ -1,0 +1,136 @@
+OCTOBER TERM, 1992
+Syllabus
+BROOKE  GROUP  LTD. v. BROWN  &
+WILLIAMSON  TOBACCO  CORP.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE FOURTH CIRCUIT
+No. 92-466.  Argued March 29, 1993-Decided June 21, 1993
+Cigarette manufacturing is a concentrated industry dominated by only six
+firms, including the two parties here.  In 1980, petitioner (hereinafter
+Liggett) pioneered the economy segment of the market by developing a
+line of generic cigarettes offered at a list price roughly 30% lower than
+that of branded cigarettes.  By  1984, generics had captured 4% of the
+market, at the expense of branded cigarettes, and respondent Brown &
+Williamson entered the economy segment, beating Liggett's net price.
+Liggett responded in kind, precipitating a price war, which ended, ac-
+cording to Liggett, with Brown & Williamson selling its generics at a
+loss.  Liggett filed this suit, alleging, inter alia,t hat volume rebates by
+Brown & Williamson to wholesalers amounted  to price discrimination
+that had a reasonable possibility of injuring competition in violation of
+§ 2(a) of the Clayton Act, as amended by the Robinson-Patman Act.  Lig-
+gett  claimed  that the  rebates  were  integral  to  a  predatory  pricing
+scheme, in which Brown & Williamson set below-cost prices to pressure
+Liggett to raise list prices on its generics, thus restraining the economy
+segment's growth and preserving Brown & Williamson's supracompeti-
+tive profits on branded cigarettes.  After a jury returned a verdict in
+favor of Liggett, the District Court held that Brown & Williamson was
+entitled to judgment as a matter of law.  Among other things, it found
+a lack of injury to competition because there had been no slowing of the
+generics' growth rate and no tacit coordination of prices in the economy
+segment by the various manufacturers.  In affirming, the Court of Ap-
+peals held that the dynamic of conscious parallelism among oligopolists
+could not produce competitive injury in a predatory pricing setting.
+Held: Brown  & Williamson is entitled to judgment as a matter of law.
+Pp. 219-243.
+(a) The Robinson-Patman  Act, by its terms, condemns price discrimi-
+nation only to  the extent that it threatens to injure competition.  A
+claim of primary-line competitive injury under the Act, the type alleged
+here, is of the same general character as a predatory pricing claim under
+§ 2 of the Sherman Act: A business rival has priced its products in an
+unfair  manner with an object to  eliminate or retard competition and
+thereby gain and exercise control over prices in the relevant market.
+
+NEW PAGE
+
+210  BROOKE GROUP LTD. v. BROWN & WILLIAMSON
+TOBACCO CORP.
+Syllabus
+Utah Pie Co. v. Continental Baking Co., 386 U. S. 685, distinguished.
+Accordingly, two prerequisites to recovery are also the same.  A plain-
+tiff must prove (1) that the prices complained of are below an appro-
+priate measure  of its rival's  costs and (2)  that the competitor  had a
+reasonable  prospect of recouping  its investment in below-cost  prices.
+Without recoupment, even if predatory pricing causes the target painful
+losses, it produces lower aggregate prices in the market, and consumer
+welfare is enhanced.  For recoupment to occur, the pricing must be ca-
+pable, as a threshold matter, of producing the intended effects on the
+firm's rivals.  This requires an understanding of the extent and dura-
+tion of the alleged predation, the relative financial strength of the preda-
+tor and its intended victim, and their respective  incentives  and  will.
+The inquiry is whether, given the aggregate losses caused by the below-
+cost  pricing, the intended  target would  likely  succumb.  If so, then
+there  is  the further  question  whether  the  below-cost  pricing  would
+likely injure competition in the relevant  market.  The  plaintiff must
+demonstrate that there  is a likelihood that the scheme alleged would
+cause a rise in prices above a competitive level sufficient to compensate
+for the amounts expended on the predation, including the time value of
+the money invested in it.  Evidence of below-cost pricing is not alone
+sufficient to permit an inference  of probable recoupment and injury to
+competition.  The determination requires an estimate  of the alleged
+predation's  cost and  a close analysis  of both the  scheme alleged  and
+the relevant market's structure and conditions.  Although not easy to
+establish, these prerequisites  are essential components of real market
+injury.  Pp. 219-227.
+(b) An oligopoly's interdependent  pricing  may provide a means  for
+achieving  recoupment and  thus may form the basis of a primary-line
+injury claim.  Predatory pricing schemes,  in general, are implausible,
+see Matsushita Electric Industrial Co. v. Zenith Radio Corp., 475 U. S.
+574, 588-590, and are even more improbable when they require coordi-
+nated action among several firms, id., at 590.  They are least likely to
+occur where, as alleged here, the cooperation among firms is tacit, since
+effective  tacit coordination  is difficult to achieve; since there is a high
+likelihood  that any attempt by one oligopolist to discipline a rival by
+cutting prices will produce an outbreak of competition; and since a pred-
+ator's present losses fall on it alone, while the later supracompetitive
+profits  must be  shared with every other  oligopolist in  proportion to
+its  market  share,  including  the  intended  victim.  Nonetheless,  the
+Robinson-Patman  Act  suggests  no  exclusion  from  coverage  when
+primary-line  injury occurs in an oligopoly setting, and this Court de-
+clines to create a per se rule of nonliability.  In order for all of the Act's
+words  to carry  adequate  meaning,  competitive  injury under the  Act
+must extend beyond the monopoly setting.  Pp. 227-230.
+
+NEW PAGE
+
+Cite as: 509 U. S. 209 (1993)
+Syllabus
+(c) The record in this case demonstrates that the scheme Liggett al-
+leged, when judged against the market's realities, does not provide an
+adequate basis for a finding of liability.  While a reasonable jury could
+conclude that Brown & Williamson envisioned or intended an anticom-
+petitive course of events and that the price of its generics was below its
+costs for 18 months, the evidence is inadequate to show that in pursuing
+this scheme, it had a reasonable  prospect of recovering its losses from
+below-cost pricing through slowing the growth of generics.  No infer-
+ence of recoupment is sustainable on this record,  because no evidence
+suggests that Brown & Williamson was  likely to obtain the power to
+raise the prices for generic cigarettes above a competitive level, which
+is  an  indispensable  aspect  of Liggett's  own  proffered  theory.  The
+output and price information does  not indicate  that oligopolistic  price
+coordination  in  fact produced  supracompetitive  prices  in  the generic
+segment.  Nor  does  the  evidence  about  the  market  and  Brown  &
+Williamson's conduct indicate that the alleged scheme was likely to have
+brought about tacit coordination and oligopoly pricing in that segment.
+Pp. 230-243.
+964 F. 2d 335, affirmed.
+KENNEDY, J., delivered the opinion of the Court, in which REHNQUIST,
+C. J.,  and O'CONNOR,  SCALIA,  SOUTER, and THOMAS,  JJ., joined.  STE-
+VENS, J., filed a dissenting opinion, in which WHITE and BLACKMUN,  JJ.,
+joined, post, p. 243.
+Phillip Areeda argued the cause for petitioner.  With him
+on  the briefs were  Charles Fried, Jean E.  Sharpe, Josiah
+S.  Murray III, James W  Dobbins, Garret G. Rasmussen,
+and C. Allen Foster.
+Robert H.  Bork argued  the cause for respondent.  With
+him on the brief were Griffin B.  Bell, Frederick M.  Rowe,
+Michael L. Robinson, Abbott B. Lipsky, Jr., and  Veronica
+G. Kayne.*
+*Briefs of amici curiae urging affirmance were fied for Atlantic Rich-
+field  Co. by Ronald C. Redcay, Matthew T Heartney, Otis Pratt Pear-
+sail, Philip H. Curtis, Francis X. McCormack, Donald A  Bright, and
+Edward E. Clark; and for ITT Corp. by John H. Schafer and Edwin A
+Kilburn.
+Briefs  of amici curiae were  fied  for  the  Business  Roundtable  by
+Thomas B. Leary; and for the Grocery Manufacturers of America, Inc., by
+Terry Calvani, W. Todd Miller, and C. Douglas Floyd.
+

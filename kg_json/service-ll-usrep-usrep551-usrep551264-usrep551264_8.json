@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Credit Suisse Securities (USA) LLC v. Billing",
+  "caseNumber": "551 U. S. 264 (2007)",
+  "datePublished": "2007",
+  "court": "Supreme Court of the United States",
+  "decision": "Reversed",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "Stevens, J."
+    },
+    {
+      "@type": "Person",
+      "name": "Kennedy"
+    },
+    {
+      "@type": "Person",
+      "name": "Thomas, J."
+    }
+  ],
+  "reasoning": [
+    {
+      "@type": "LegalReasoning",
+      "text": "The Solicitor General’s proposed disposition, however, does not convincingly address the concerns we have set forth here—the difficulty of drawing a complex, sinuous line separating securities-permitted from securities-forbidden conduct, the need for securities-related expertise to draw that line, the likelihood that litigating parties will depend upon the same evidence yet expect courts to draw different inferences from it, and the serious risk that antitrust courts will produce inconsistent results that, in turn, will overly deter syndicate practices important in the marketing of new issues."
+    },
+    {
+      "@type": "LegalReasoning",
+      "text": "When investment bankers cooperate in underwriting an initial public offering (IPO), they increase the amount of capital available to firms producing goods and services and make additional securities available for purchase. By agglomerating networks of investors and spreading the risk of overvaluation, syndicates make positive contributions to the economy that could not be achieved through independent action."
+    },
+    {
+      "@type": "LegalReasoning",
+      "text": "To suggest that an underwriting syndicate can restrain trade in that market by manipulating the terms of IPOs is frivolous."
+    },
+    {
+      "@type": "LegalReasoning",
+      "text": "Given the magnitude of the market these practices are alleged to have influenced, I think it obvious as a matter of law that there has been no injury to any relevant competition."
+    },
+    {
+      "@type": "LegalReasoning",
+      "text": "The securities statutes are not silent. Both the Securities Act and the Securities Exchange Act contain broad saving clauses that preserve rights and remedies existing outside of the securities laws."
+    }
+  ]
+}

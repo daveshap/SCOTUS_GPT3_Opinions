@@ -1,0 +1,93 @@
+{
+  "@context": {
+    "name": "http://schema.org/name",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/case/1",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "Price discrimination is made unlawful by § 2(a) of the Clayton Act, 38 Stat. 730, as amended by the Robinson-Patman Act.",
+      "citation": "509 U. S. 209 (1993)"
+    },
+    {
+      "@id": "http://example.org/case/2",
+      "name": "Liggett Group, Inc. v. Brown & Williamson Tobacco Corp.",
+      "date": "1990",
+      "caseNumber": "748 F. Supp. 344",
+      "involvedParties": ["Liggett Group, Inc.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "The District Court held that Brown & Williamson was entitled to judgment as a matter of law on three separate grounds: lack of injury to competition, lack of antitrust injury to Liggett, and lack of a causal link between the discriminatory rebates and Liggett's alleged injury.",
+      "citation": "748 F. Supp. 344 (MDNC 1990)"
+    },
+    {
+      "@id": "http://example.org/case/3",
+      "name": "Liggett Group, Inc. v. Brown & Williamson Tobacco Corp.",
+      "date": "1992",
+      "caseNumber": "964 F. 2d 335",
+      "involvedParties": ["Liggett Group, Inc.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "The Court of Appeals held that the dynamic of conscious parallelism among oligopolists could not produce competitive injury in a predatory pricing setting, which necessarily involves a price cut by one of the oligopolists.",
+      "citation": "964 F. 2d 335 (1992)"
+    },
+    {
+      "@id": "http://example.org/case/4",
+      "name": "Texaco Inc. v. Hasbrouck",
+      "date": "1990",
+      "caseNumber": "496 U. S. 543",
+      "involvedParties": ["Texaco Inc.", "Hasbrouck"],
+      "reasoning": "We have reiterated that 'a price discrimination within the meaning of [this] provision is merely a price difference.'",
+      "citation": "496 U. S. 543 (1990)"
+    },
+    {
+      "@id": "http://example.org/case/5",
+      "name": "FTC v. Anheuser-Busch, Inc.",
+      "date": "1960",
+      "caseNumber": "363 U. S. 536",
+      "involvedParties": ["FTC", "Anheuser-Busch, Inc."],
+      "reasoning": "The statute as a practical matter could not, and does not, ban all price differences charged to 'different purchasers of commodities of like grade and quality.'",
+      "citation": "363 U. S. 536 (1960)"
+    },
+    {
+      "@id": "http://example.org/case/6",
+      "name": "Standard Oil Co. v. FTC",
+      "date": "1951",
+      "caseNumber": "340 U. S. 231",
+      "involvedParties": ["Standard Oil Co.", "FTC"],
+      "reasoning": "The statute contains a number of important limitations, one of which is central to evaluating Liggett's claim: By its terms, the Robinson-Patman Act condemns price discrimination only to the extent that it threatens to injure competition.",
+      "citation": "340 U. S. 231 (1951)"
+    },
+    {
+      "@id": "http://example.org/case/7",
+      "name": "Great Atlantic & Pacific Tea Co. v. FTC",
+      "date": "1979",
+      "caseNumber": "440 U. S. 69",
+      "involvedParties": ["Great Atlantic & Pacific Tea Co.", "FTC"],
+      "reasoning": "The Robinson-Patman Act should be construed consistently with broader policies of the antitrust laws.",
+      "citation": "440 U. S. 69 (1979)"
+    },
+    {
+      "@id": "http://example.org/case/8",
+      "name": "Automatic Canteen Co. of America v. FTC",
+      "date": "1953",
+      "caseNumber": "346 U. S. 61",
+      "involvedParties": ["Automatic Canteen Co. of America", "FTC"],
+      "reasoning": "Confirms that Congress did not intend to outlaw price differences that result from or further the forces of competition.",
+      "citation": "346 U. S. 61 (1953)"
+    },
+    {
+      "@id": "http://example.org/case/9",
+      "name": "Utah Pie Co. v. Continental Baking Co.",
+      "date": "1967",
+      "caseNumber": "386 U. S. 685",
+      "involvedParties": ["Utah Pie Co.", "Continental Baking Co."],
+      "reasoning": "We last addressed primary-line injury over 25 years ago.",
+      "citation": "386 U. S. 685 (1967)"
+    }
+  ]
+}

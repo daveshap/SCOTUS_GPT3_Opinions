@@ -1,0 +1,129 @@
+
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+886  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+nesses involved have market power is a further, signiﬁcant 
+consideration.  See, e. g., Copperweld Corp. v. Independence 
+Tube Corp., 467 U. S. 752, 768 (1984) (equating the rule of 
+reason with “an inquiry into market power and market struc­
+ture designed to assess [a restraint’s] actual effect”); see also 
+Illinois Tool Works Inc. v. Independent Ink, Inc., 547 U. S. 
+28, 45–46 (2006).  In its design and function the rule distin­
+guishes between restraints with anticompetitive effect that 
+are harmful to the consumer and restraints stimulating com­
+petition that are in the consumer’s best interest. 
+The rule of reason does not govern all restraints.  Some 
+types “are deemed unlawful per se.”  Khan, supra, at 10. 
+The per se rule, treating categories of restraints as necessar­
+ily illegal, eliminates the need to study the reasonableness 
+of an individual restraint in light of the real market forces 
+at work, Business Electronics Corp. v.  Sharp Electronics 
+Corp.,  485 U. S. 717, 723 (1988); and, it must be acknowl­
+edged, the per se rule can give clear guidance for certain 
+conduct.  Restraints that are per se unlawful include hori­
+zontal agreements among competitors to ﬁx prices, see Tex­
+aco, supra, at 5, or to divide markets, see Palmer v. BRG of 
+Ga., Inc., 498 U. S. 46, 49–50 (1990) (per curiam). 
+Resort to per se rules is conﬁned to restraints, like those 
+mentioned, “that would always or almost always tend to re­
+strict  competition  and  decrease  output.”  Business  Elec­
+tronics, supra, at 723 (internal quotation marks omitted). 
+To justify a per se prohibition a restraint must have “mani­
+festly anticompetitive” effects, GTE Sylvania, supra, at 50, 
+and “ lack . . . any  redeeming virtue,” Northwest Wholesale 
+Stationers, Inc. v.  Paciﬁc Stationery & Printing Co., 472 
+U. S. 284, 289 (1985) (internal quotation marks omitted). 
+As a consequence, the per se rule is appropriate only after 
+courts have had considerable experience with the type of 
+restraint at issue, see Broadcast Music, Inc. v.  Columbia 
+Broadcasting System, Inc., 441 U. S. 1, 9 (1979), and only if 
+courts can predict with conﬁdence that it would be invali­
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+Cite as: 551 U. S. 877 (2007)  887 
+Opinion of the Court 
+dated in all or almost all instances under the rule of reason, 
+see Arizona v. Maricopa County Medical Soc., 457 U. S. 332, 
+344 (1982).  It should come as no surprise, then, that “we 
+have expressed reluctance to adopt per se rules with regard 
+to restraints imposed in the context of business relationships 
+where the economic impact of certain practices is not imme­
+diately  obvious.”  Khan,  supra,  at  10  (internal  quotation 
+marks omitted); see also White Motor Co. v. United States, 
+372 U. S. 253, 263 (1963) (refusing to adopt a per se rule for 
+a vertical nonprice restraint because of the uncertainty con­
+cerning whether this type of restraint satisﬁed the demand­
+ing standards necessary to apply a per se rule).  And, as we 
+have stated, a “departure from the rule-of-reason standard 
+must  be  based  upon  demonstrable  economic  effect  rather 
+than . . . u  pon formalistic line drawing.”  GTE Sylvania, 
+supra, at 58–59. 
+III 
+The Court has interpreted Dr. Miles Medical Co. v. John 
+D. Park & Sons Co., 220 U. S. 373, as establishing a per se 
+rule against a vertical agreement between a manufacturer 
+and its distributor to set minimum resale prices.  See, e. g., 
+Monsanto Co. v. Spray-Rite Service Corp., 465 U. S. 752, 761 
+(1984).  In Dr. Miles the plaintiff, a manufacturer of medi­
+cines, sold its products only to distributors who agreed to 
+resell them at set prices.  The Court found the manufactur­
+er’s control of resale prices to be unlawful.  It relied on the 
+common-law rule that “a general restraint upon alienation is 
+ordinarily invalid.”  220 U. S., at 404–405.  The Court then 
+explained that the agreements would advantage the distribu­
+tors, not the manufacturer, and were analogous to a combina­
+tion among competing distributors, which the law treated as 
+void.  Id., at 407–408. 
+The reasoning of the Court’s more recent jurisprudence 
+has rejected the rationales on which Dr. Miles was based. 
+By  relying on  the  common-law rule  against restraints  on 
+alienation, id., at 404–405, the Court justiﬁed its decision 
+
+NEW PAGE
+
+551US2 Unit:$U74 [09-20-1121:22:06] PAGES PGT:OPIN
+888  LEEGIN CREATIVE LEATHER PRODUCTS, INC. v. 
+PSKS, INC. 
+Opinion of the Court 
+based on “formalistic” legal doctrine rather than “demon­
+strable economic effect,” GTE Sylvania, 433 U. S., at 58–59. 
+The Court in Dr. Miles relied on a treatise published in 1628, 
+but failed to discuss in detail the business reasons that would 
+motivate a manufacturer situated in 1911 to make use of ver­
+tical price  restraints.  Yet the  Sherman Act’s use  of “re­
+straint of trade” “invokes the common law itself, . . . not  
+merely the static content that the common law had assigned 
+to the term in 1890.”  Business Electronics, supra, at 732. 
+The  general  restraint  on  alienation,  especially  in  the  age 
+when then-Justice Hughes used the term, tended to evoke 
+policy  concerns  extraneous  to  the  question  that  controls 
+here.  Usually associated with land, not chattels, the rule 
+arose  from  restrictions  removing  real  property  from  the 
+stream of commerce for generations.  The Court should be 
+cautious about putting dispositive weight on doctrines from 
+antiquity  but  of  slight  relevance.  We  reafﬁrm  that  “the 
+state of the common law 400 or even 100 years ago is irrele­
+vant to the issue before us: the effect of the antitrust laws 
+upon vertical distributional restraints in the American econ­
+omy today.”  GTE Sylvania, supra, at 53, n. 21 (internal 
+quotation marks omitted). 
+Dr.  Miles,  furthermore,  treated  vertical  agreements  a 
+manufacturer makes with its distributors as analogous to a 
+horizontal combination among competing distributors.  See 
+220 U. S., at 407–408.  In later cases, however, the Court 
+rejected the approach of reliance on rules governing horizon­
+tal restraints when deﬁning rules applicable to vertical ones. 
+See, e. g., Business Electronics, supra, at 734 (disclaiming 
+the “notion of equivalence between the scope of horizontal 
+per se illegality and that of vertical per se illegality”); Mari­
+copa County, supra, at 348, n. 18 (noting that “horizontal 
+restraints  are  generally  less  defensible  than  vertical  re­
+straints”).  Our recent cases formulate antitrust principles 
+in accordance with the appreciated differences in economic 
+effect between vertical and horizontal agreements, differ­
+ences the Dr. Miles Court failed to consider. 
+

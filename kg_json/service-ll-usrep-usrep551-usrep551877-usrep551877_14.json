@@ -1,0 +1,77 @@
+[
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+    "datePublished": "09-20-1121:22:06",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "551US2",
+    "involvedParties": ["Leegin Creative Leather Products, Inc.", "PSKS, Inc."],
+    "dissentingOpinion": "Breyer, J."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "United States v. Bausch & Lomb Optical Co.",
+    "datePublished": "1944",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "321 U. S. 707",
+    "involvedParties": ["United States", "Bausch & Lomb Optical Co."]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Sylvania v. United States",
+    "datePublished": "1977",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "433 U. S. 50",
+    "involvedParties": ["Sylvania", "United States"]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Illinois Brick Co. v. Illinois",
+    "datePublished": "1977",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "431 U. S. 720",
+    "involvedParties": ["Illinois Brick Co.", "Illinois"]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Planned Parenthood of Southeastern Pa. v. Casey",
+    "datePublished": "1992",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "505 U. S. 833",
+    "involvedParties": ["Planned Parenthood of Southeastern Pa.", "Casey"]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalCase",
+    "name": "Federal Election Comm'n v. Wisconsin Right to Life, Inc.",
+    "datePublished": "2007",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "551 U. S. 877",
+    "involvedParties": ["Federal Election Comm'n", "Wisconsin Right to Life, Inc."]
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalOpinion",
+    "name": "Dr. Miles",
+    "datePublished": "1911",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "220 U. S. 373",
+    "involvedParties": ["Dr. Miles"],
+    "reasoning": "The per se illegality of [vertical] price restrictions has been established firmly for many years."
+  },
+  {
+    "@context": "http://schema.org/",
+    "@type": "LegalOpinion",
+    "name": "Pitofsky",
+    "datePublished": "1984",
+    "court": "Supreme Court of the United States",
+    "caseNumber": "8 Regulation, No. 1",
+    "involvedParties": ["Pitofsky"],
+    "reasoning": "The ultimate question is not whether, but how much, “free riding” of this sort takes place."
+  }
+]

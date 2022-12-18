@@ -1,0 +1,19 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/SpectrumSportsIncvMcQuillan",
+      "date": "1993",
+      "caseNumber": "506 U. S. 447",
+      "involvedParties": ["Spectrum Sports, Inc.", "McQuillan"],
+      "reasoning": "Inquiring only whether the defendant has engaged in 'unfair' or 'predatory' tactics is not sufficient to prove the necessary intent to monopolize.",
+      "cite": "Spectrum Sports, Inc. v. McQuillan, 506 U. S. 447 (1993)"
+    }
+  ]
+}

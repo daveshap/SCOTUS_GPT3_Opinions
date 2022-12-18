@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/name",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "OCTOBER_TERM_1959",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "Act and National Transportation Policy",
+      "reasoning": "Required to weigh whether each application is consistent with the public interest, with or without inclusion of other railroads, considering not only other intervening petitioners seeking such inclusion but also the other applicant and nonparticipating railroads as well."
+    },
+    {
+      "@id": "SANTA_FE_PENNSYLVANIA_PLAN",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "Santa Fe and Pennsylvania",
+      "reasoning": "Contemplates that Western will continue to be operated as a separate and independent carrier with responsible management located along its lines; will continue to maintain its own solicitation forces and will be entirely free to solicit traffic in such manner as best to serve the interests of the Western."
+    },
+    {
+      "@id": "MINNEAPOLIS_ST_LOUIS_R_CO_V_U_S_183_173",
+      "date": "1959-10-01",
+      "caseNumber": "183 173",
+      "involvedParties": "Minneapolis and St. Louis R. Co. v. U. S.",
+      "reasoning": "Unequivocally contemplates the disappearance of the Western as an independent and neutral connection for the other 15 carriers with which it presently works; for all practical purposes the Western would be integrated, consolidated, and merged into the Minneapolis for ownership, management, and operation; features of the Minneapolis plan would be extremely harmful to other carriers; Western's headquarters office at Peoria would be eliminated, leaving only a trainmaster and a roadmaster at that point, and the employment of most of Western's 24 executives and 225 other employees would be severed."
+    },
+    {
+      "@id": "INTERSTATE_COMMERCE_ACT_AS_AMENDED",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "Interstate Commerce Act as amended",
+      "reasoning": "Public interest demands that the present policies of the Western in all respects be continued; acquisition and plan of operation by the Santa Fe and Pennsylvania, subject to stated conditions, was within the scope of section 5 (2) of the Interstate Commerce Act, as amended; terms and conditions proposed [by them] are just and reasonable, and that the transaction will be consistent with the public interest."
+    },
+    {
+      "@id": "MINNEAPOLIS_PETITION_FOR_RECONSIDERATION",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "Minneapolis",
+      "reasoning": "Petitioned the whole Commission for a reconsideration, and alternatively requested that, if the approval of the Santa Fe-Pennsylvania application be permitted to stand, it be authorized to participate equally with those railroads in the purchase of Western's stock on the same terms."
+    },
+    {
+      "@id": "COMPLAINT_IN_DISTRICT_COURT_FOR_MINNESOTA",
+      "date": "1959-10-01",
+      "caseNumber": "361 U. S.",
+      "involvedParties": "Minneapolis, United States, and Interstate Commerce Commission",
+      "reasoning": "Filed a complaint in the District Court for Minnesota against the United States and the Interstate Commerce Commission to vacate the Commission's order; States of Minnesota and South Dakota and their respective regulatory commissions intervened in support of the complaint; defendants answered, asserting the full legality of the Commission's order; Santa Fe, Pennsylvania, Pennsylvania Company, State of Illinois, 18 cities and seven chambers of commerce and numerous shippers who were intervenors before the Commission, intervened in opposition to the complaint; Nickel Plate intervened, complaining that the Commission had improperly denied its request to participate in the purchase of the Western stock."
+    }
+  ]
+}

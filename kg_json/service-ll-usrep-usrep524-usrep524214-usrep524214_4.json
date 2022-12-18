@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "524 U. S. 214 (1998)",
+      "@type": "cite",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": "Maislin Industries, U.S., Inc. v. Primary Steel, Inc.",
+      "reasoning": "Strict application of the filed rate doctrine is necessary to prevent carriers from intentionally misquoting rates to shippers as a means of offering them rebates or discounts."
+    },
+    {
+      "@id": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "@type": "cite",
+      "date": "1998",
+      "caseNumber": "524 U. S. 214",
+      "involvedParties": "American Telephone & Telegraph Co. v. Central Office Telephone, Inc.",
+      "reasoning": "Discriminatory privileges come in many guises, and are not limited to discounted rates."
+    },
+    {
+      "@id": "United States v. Wabash R. Co.",
+      "@type": "cite",
+      "date": "1944",
+      "caseNumber": "321 U. S. 403",
+      "involvedParties": "United States v. Wabash R. Co.",
+      "reasoning": "A preference or rebate is the necessary result of every violation of the Communications Act where the carrier renders or pays for a service not covered by the prescribed tariffs."
+    },
+    {
+      "@id": "Chicago & Alton R. Co. v. Kirby",
+      "@type": "cite",
+      "date": "1912",
+      "caseNumber": "225 U. S. 155",
+      "involvedParties": "Chicago & Alton R. Co. v. Kirby",
+      "reasoning": "A special advantage is illegal when not provided for in the tariff."
+    },
+    {
+      "@id": "Davis v. Cornwell",
+      "@type": "cite",
+      "date": "1924",
+      "caseNumber": "264 U. S. 560",
+      "involvedParties": "Davis v. Cornwell",
+      "reasoning": "Carrier's agreement to provide the shipper with a number of railroad cars on a specified day is invalid as a matter of law."
+    },
+    {
+      "@id": "Kansas City Southern R. Co. v. Carl",
+      "@type": "cite",
+      "date": "1912",
+      "caseNumber": "225 U. S. 155",
+      "involvedParties": "Kansas City Southern R. Co. v. Carl",
+      "reasoning": "Discriminatory privileges come in many guises, and are not limited to discounted rates."
+    },
+    {
+      "@id": "Wight v. United States",
+      "@type": "cite",
+      "date": "1897",
+      "caseNumber": "167 U. S. 512",
+      "involvedParties": "Wight v. United States",
+      "reasoning": "Discriminatory privileges come in many guises, and are not limited to discounted rates."
+    },
+    {
+      "@id": "Competitive Telecommunications Assn. v. FCC",
+      "@type": "cite",
+      "date": "1993",
+      "caseNumber": "98 F. 2d 1058",
+      "involvedParties": "Competitive Telecommunications Assn. v. FCC",
+      "reasoning": "An unreasonable 'discrimination in charges' can come in the form of a lower price for an equivalent service or in the form of an enhanced service for an equivalent price."
+    }
+  ]
+}

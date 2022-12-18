@@ -1,0 +1,129 @@
+OCTOBER TERM, 1997
+Syllabus
+AMERICAN  TELEPHONE  & TELEGRAPH  CO. v.
+CENTRAL  OFFICE  TELEPHONE, INC.
+CERTIORARI TO THE UNITED STATES  COURT OF APPEALS FOR
+THE NINTH CIRCUIT
+No. 97-679.  Argued March 23, 1998-Decided June 15, 1998
+Respondent purchases "bulk" communications services from long-distance
+providers, such as petitioner AT&T, and resells them to its customers.
+Petitioner, as a common carrier under the Communications Act of 1934,
+must file with the Federal Communications Commission (FCC) "tariffs"
+containing  all its  "charges"  for interstate  services and  all  "classifi-
+cations, practices, and regulations affecting such charges," 47 U. S. C.
+§ 203(a).  A carrier may not "extend to any person any privileges or
+facilities in such communication, or employ or enforce any classifications,
+regulations,  or practices  affecting  such  charges,  except as  specified
+in such  [tariff]."  §203(c).  The FCC requires  carriers  to sell long-
+distance services to resellers under the same rates, terms, and condi-
+tions as apply to other customers.  In 1989, petitioner agreed to sell
+respondent a long-distance  service, which, under the parties' written
+subscription agreements, would be governed by the rates, terms, and
+conditions in the appropriate AT&T tariffs.  Respondent soon experi-
+enced problems with the service it received,  and withdrew from the
+contract before the expiration date.  Meanwhile, it had sued petitioner
+in Federal  District Court, asserting, inter alia, state-law claims  for
+breach of contract and for tortious interference with contractual rela-
+tions (viz., respondent's  contracts with its customers), the latter claim
+derivative of the former.  Respondent alleged that petitioner had prom-
+ised and failed to deliver various service, provisioning, and billing op-
+tions in addition to those set forth in the tariff, and that petitioner's
+conduct was willful, so that consequential damages were available under
+the tariff.  The Magistrate Judge rejected petitioner's  argument that
+the  claims  were  pre-empted  by  § 203's  filed-tariff  requirements;  he
+declined, however, to instruct on punitive damages  for the tortious-
+interference claim.  The jury found for respondent and awarded dam-
+ages.  The Ninth Circuit affirmed the judgment, but reversed the Mag-
+istrate Judge's failure to instruct on punitive damages and remanded for
+a trial on that aspect of the case.
+Held. The Communications Act's filed-tariff requirements  pre-empt re-
+spondent's state-law claims.  Pp. 221-228.
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Syllabus
+(a) Sections 203(a) and (c)ar e modeled after similar provisions of the
+Interstate Commerce Act (ICA), and the "filed rate doctrine" associated
+with the ICA tariff provisions applies to the Communications Act as
+well.  MCI Telecommunications Corp. v. American Telephone & Tele-
+graph Co., 512 U.S. 218, 229-231.  Under that doctrine, the rate a car-
+rier duly files is the only lawful charge.  Louisville & Nashville R. Co.
+v. Maxwell, 237 U. S. 94, 97.  Even if a carrier intentionally misrepre-
+sents its rate and a customer relies on the misrepresentation, the carrier
+cannot be held to the promised rate if it conflicts with the published
+tariff.  Kansas City Southern R. Co. v. Carl, 227 U. S. 639, 653.  That
+this case involves services and billing rather than rates or ratesetting
+does not make the filed rate doctrine inapplicable.  Since rates have
+meaning only when one knows the services to which they are attached,
+any claim for excessive rates can be couched as a claim for inadequate
+services and vice versa.  The Communications Act recognizes this in
+the §§203(a) and (c)re quirements, and the cases decided under the ICA
+make it clear that discriminatory privileges are not limited to discounted
+rates, see, e. g., United States v. Wabash R. Co., 321 U. S. 403, 412-413.
+Pp. 221-224.
+(b) This Court's filed-rate cases involving special services claims can-
+not be distinguished  on the ground that the services they involved
+should have been included in the tarift  That is precisely the case here.
+Even provisioning  and billing are  "covered" by the applicable  tariff.
+Nor does it make any difference that petitioner provided the same serv-
+ices, without charge, to other customers;  that only tends to show that
+petitioner acted unlawfully with regard to the other customers as well.
+Pp. 224-226.
+(c) The analysis used in evaluating respondents contract claim applies
+with equal force to its wholly  derivative tortious-interference  claim.
+The Communications Act's saving clause does not dictate a different
+result.  It copies the ICA's saving clause, which has long been held to
+preserve only those rights that are not inconsistent with the statutory
+filed-rate requirements.  Keogh v. Chicago & Northwestern R. Co., 260
+U. S. 156, 163.  Finally, respondents argument that petitioner's willful
+misconduct makes the relief awarded here consistent with the tariff is
+rejected.  Pp. 226-228.
+108 F. 3d 981, reversed.
+ScALIA,  J., delivered the opinion of the Court, in which REHNQUIST,
+C. J.,  and  KENNEDY,  SoUTER,  THoMAs,  GINSBURG, and  BREYER,  JJ.,
+joined.  REHNQUIsT, C. J., filed a concurring opinion, post, p. 228.  STE-
+VENS,  J., filed a dissenting opinion, post, p. 231.  O'CoNNo?, J.,to ok no
+part in the consideration or decision of the case.
+
+NEW PAGE
+
+216  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE, INC.
+Opinion of the Court
+David W.  Carpenter argued  the  cause  for  petitioner.
+With him on the briefs were Carter G. Phillips, Thomas W.
+Merrill, Peter D. Keisler, and Marc E. Manly.
+Bruce M. Hall argued  the  cause  and  ified  a brief for
+respondent.*
+JUSTICE SCALIA delivered the opinion of the Court.
+Respondent  Central  Office  Telephone,  Inc.  (COT),  a re-
+seller  of long-distance  communications  services,  sued peti-
+tioner  AT&T,  a  provider  of long-distance  communications
+services, under state law for breach of contract and tortious
+interference  with  contract.  Petitioner  is  regulated  as  a
+common  carrier under the Communications  Act of 1934, 48
+Stat. 1064, as amended, 47 U. S. C. § 151 et seq.  The issue
+before  us  is  whether the  federal  filed-tariff  requirements
+of the Communications Act pre-empt respondent's state-law
+claims.
+I
+Respondent  purchases  "bulk"  long-distance  services-
+volume-discounted  services designed for large customers-
+from long-distance  providers,  and  resells  them to  smaller
+customers.  Like many other resellers in the telecommuni-
+cations industry, respondent does not own or operate facili-
+ties of its own; it is known as a "switchless reseller," which
+is the industry nomenclature for arbitrageur.  Of course re-
+spondent passes  along only a  portion of the bulk-purchase
+discount  to its  aggregated  customers,  and  retains  the  re-
+maining discount as profit.
+Petitioner provides long-distance  services and, as a com-
+mon carrier under the Communications  Act, § 153(h),  must
+*Gary M. Epstein, Maureen E.  Mahoney, Teresa D. Baer, Walter H.
+Alford,  William B.  Barfield, M. Robert Sutherland, and  Michael J
+Zpevak filed a brief for the United States Telephone Association et al. as
+amici curiae urging reversal.
+Henry D. Levine, Ellen G. Block, and James S. Blaszak filed a brief for
+the Ad Hoc Telecommunications Users Committee et al. as amici curiae.
+

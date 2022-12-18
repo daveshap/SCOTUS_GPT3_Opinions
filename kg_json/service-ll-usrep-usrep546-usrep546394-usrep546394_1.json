@@ -1,0 +1,45 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Unitherm Food Systems, Inc. v. Swift-Eckrich, Inc., dba Conagra Refrigerated Foods",
+  "caseNumber": "No. 04–597",
+  "dateFiled": "November 2, 2005",
+  "dateDecided": "January 23, 2006",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Unitherm Food Systems, Inc."
+    },
+    {
+      "@type": "Organization",
+      "name": "Swift-Eckrich, Inc., dba Conagra Refrigerated Foods"
+    }
+  ],
+  "reasoningForIncludingInOpinion": [
+    {
+      "@type": "LegalCase",
+      "name": "Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp.",
+      "caseNumber": "382 U. S. 172",
+      "dateDecided": "174"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Cone v. West Virginia Pulp & Paper Co.",
+      "caseNumber": "330 U. S. 212",
+      "dateDecided": "218"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Globe Liquor Co. v. San Roman",
+      "caseNumber": "332 U. S. 571",
+      "dateDecided": ""
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Johnson v. New York, N. H. & H. R. Co.",
+      "caseNumber": "344 U. S. 48",
+      "dateDecided": "53"
+    }
+  ]
+}

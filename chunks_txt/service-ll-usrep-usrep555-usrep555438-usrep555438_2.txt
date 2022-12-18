@@ -1,0 +1,130 @@
+
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  441 
+Syllabus 
+given leave to amend their complaint to bring a Brooke Group claim; 
+and such other matters properly before it.  Pp. 455–457. 
+503 F. 3d 876, reversed and remanded. 
+Roberts, C. J., delivered the opinion of the Court, in which Scalia, 
+Kennedy, Thomas, and Alito, JJ., joined.  Breyer, J., ﬁled an opinion 
+concurring in the judgment, in which Stevens, Souter, and Ginsburg, 
+JJ., joined, post, p. 457. 
+Aaron M. Panner argued the cause for petitioners.  With 
+him on the briefs was Michael K. Kellogg. 
+Deanne  E.  Maynard  argued  the  cause  for  the  United 
+States as amicus curiae urging vacatur.  With her on the 
+brief were former Solicitor General Garre, Assistant Attor­
+ney General Barnett, Deputy Solicitor General Kneedler, 
+Deputy Assistant Attorney General O’Connell, Catherine G. 
+O’Sullivan, and David Seidman. 
+Maxwell M. Blecher argued the cause and ﬁled a brief 
+for respondents. 
+Richard M. Brunell argued the cause and ﬁled a brief as 
+amicus curiae for the American Antitrust Institute.  With 
+him on the brief was Albert A. Foer.* 
+*Briefs of amici curiae urging reversal were ﬁled for the Common­
+wealth of Virginia et al. by Robert F. McDonnell, Attorney General of 
+Virginia, Stephen R. McCullough, State Solicitor General, William C. 
+Mims, Chief Deputy Attorney General, Sarah Oxenham Allen, Assistant 
+Attorney General, and William E. Thro, and by the Attorneys General for 
+their respective States as follows: Troy King of Alabama, John W. Suthers 
+of  Colorado,  Bill  McCollum  of  Florida,  Steve  Six  of  Kansas,  Jon  C. 
+Bruning of Nebraska, W. A. Drew Edmondson of Oklahoma, Mark L. 
+Shurtleff of Utah, and Robert M. McKenna of Washington; for Abbott 
+Laboratories by Gene C. Schaerr, Steffen N. Johnson, Charles B. Klein, 
+James F. Hurst, and Linda T. Coberly; for Verizon Communications Inc. 
+et al. by John Thorne, Richard G. Taranto, Jan S. Amundson, and Quen­
+tin Riegel; and for the Washington Legal Foundation by Mark J. Botti, 
+Daniel J. Popeo, and Richard A. Samp. 
+Briefs of amici curiae were ﬁled for COMPTEL by Samuel L. Feder, 
+Elaine J. Goldenberg, and Mary C. Albert; and for Professors and Scholars 
+in Law and Economics by J. Gregory Sidak and Robert H. Bork, both 
+pro se. 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+442  PACIFIC BELL TELEPHONE CO. v. LINKLINE
+ 
+COMMUNICATIONS, INC.
+ 
+Opinion of the Court
+ 
+Chief  Justice  Roberts  delivered  the  opinion  of  the 
+Court. 
+The plaintiffs in this case, respondents here, allege that a 
+competitor subjected them to a “price squeeze” in violation 
+of § 2 of the Sherman Act.  They assert that such a claim 
+can arise when a vertically integrated ﬁrm sells inputs at 
+wholesale and also sells ﬁnished goods or services at retail. 
+If that ﬁrm has power in the wholesale market, it can simul­
+taneously raise the wholesale price of inputs and cut the re­
+tail price of the ﬁnished good.  This will have the effect of 
+“squeezing” the proﬁt margins of any competitors in the re­
+tail market.  Those ﬁrms will have to pay more for the in­
+puts they need; at the same time, they will have to cut their 
+retail prices to match the other ﬁrm’s prices.  The question 
+before  us  is  whether  such  a  price-squeeze  claim  may  be 
+brought under § 2 of the Sherman Act when the defendant is 
+under no antitrust obligation to sell the inputs to the plaintiff 
+in  the  ﬁrst  place.  We  hold  that  no  such  claim  may  be 
+brought. 
+I 
+This case involves the market for digital subscriber line 
+(DSL) service, which is a method of connecting to the In­
+ternet at high speeds over telephone lines.  AT&T 1  owns 
+much of the infrastructure and facilities needed to provide 
+DSL  service  in  California.  In  particular,  AT&T  controls 
+most of what is known as the “last mile”—the lines that con­
+nect homes and businesses to the telephone network.  Com­
+peting  DSL  providers  must  generally  obtain  access  to 
+AT&T’s facilities in order to serve their customers. 
+Until recently, the Federal Communications Commission 
+(FCC) required incumbent phone companies such as AT&T 
+1 Petitioners consist of several corporate entities and subsidiaries, and 
+their names and corporate structures have changed frequently over the 
+course of this litigation.  For simplicity, we will refer to all the petitioners 
+as “AT&T.” 
+
+NEW PAGE
+
+555US2 Unit:$U25 [01-28-1417:16:35] PAGES PGT:OPIN
+Cite as: 555 U. S. 438 (2009)  443 
+Opinion of the Court 
+to sell transmission service to independent DSL providers, 
+under  the  theory  that  this  would  spur  competition.  See 
+In re Appropriate Framework for Broadband Access to In­
+ternet Over Wireline Facilities, 20 FCC Rcd. 14853, 14868 
+(2005).  In  2005,  the  FCC  largely  abandoned  this  forced­
+sharing requirement in light of the emergence of a competi­
+tive market beyond DSL for high-speed Internet service; 
+DSL now faces robust competition from cable companies and 
+wireless and satellite services.  Id., at 14879–14887.  As a 
+condition  for  a  recent  merger,  however,  AT&T  remains 
+bound by the mandatory interconnection requirements, and 
+is obligated to provide wholesale “DSL transport” service to 
+independent ﬁrms at a price no greater than the retail price 
+of AT&T’s DSL service.  In re AT&T Inc., 22 FCC Rcd. 
+5662, 5814 (2007). 
+The plaintiffs are four independent Internet service pro­
+viders (ISPs) that compete with AT&T in the retail DSL 
+market.  Plaintiffs do not own all the facilities needed to 
+supply  their  customers  with  this  service.  They  instead 
+lease  DSL  transport  service  from  AT&T  pursuant  to  the 
+merger conditions described above.  AT&T thus participates 
+in the DSL market at both the wholesale and retail levels; it 
+provides plaintiffs and other independent ISPs with whole­
+sale DSL transport service, and it also sells DSL service 
+directly to consumers at retail. 
+In July 2003, the plaintiffs brought suit in District Court, 
+alleging  that  AT&T  violated  § 2  of  the  Sherman  Act,  15 
+U. S. C. § 2, by monopolizing the DSL market in California. 
+The complaint alleges that AT&T refused to deal with the 
+plaintiffs, denied the plaintiffs access to essential facilities, 
+and engaged in a “price squeeze.”  App. 18–19.  Speciﬁcally, 
+plaintiffs contend that AT&T squeezed their proﬁt margins 
+by setting a high wholesale price for DSL transport and a 
+low retail price for DSL Internet service.  This maneuver 
+allegedly “exclude[d] and unreasonably impede[d] competi­
+

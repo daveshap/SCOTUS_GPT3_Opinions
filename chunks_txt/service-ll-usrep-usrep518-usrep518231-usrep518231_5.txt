@@ -1,0 +1,121 @@
+
+
+Cite as: 518 U. S. 231 (1996)
+Opinion of the Court
+III
+Both petitioners and their supporters advance several sug-
+gestions for drawing the exemption boundary  line short of
+this case.  We shall explain why we find them unsatisfactory.
+A
+Petitioners claim that the implicit exemption applies  only
+to labor-management agreements-a limitation that they de-
+duce from case law language, see, e. g., Connell, 421 U. S., at
+622 (exemption for "some union-employer agreements") (em-
+phasis added),  and from a proposed principle-that the ex-
+emption  must  rest upon  labor-management  consent.  The
+language,  however,  reflects  only  the  fact  that  the  cases
+previously before  the Court involved  collective-bargaining
+agreements,  see  id., at 619-620;  Pennington, 381  U. S., at
+660;  Jewel Tea, supra, at 679-680;  the language  does  not
+reflect the exemption's rationale, see 50 F. 3d, at 1050.
+Nor do we see how an exemption limited by petitioners'
+principle  of  labor-management  consent  could  work.  One
+cannot  mean  the  principle  literally-that  the  exemption
+applies  only  to  understandings  embodied  in  a  collective-
+bargaining agreement-for the collective-bargaining process
+may take place before the making of any agreement or after
+an agreement has expired.  Yet a multiemployer bargaining
+process itself necessarily involves many procedural and sub-
+stantive understandings  among participating employers  as
+well as with the union.  Petitioners cannot rescue their prin-
+ciple by claiming that the exemption applies only insofar as
+both labor and management consent to'those understandings.
+Often labor will not (and should not) consent to certain com-
+mon bargaining positions that employers intend to maintain.
+Cf. Areeda  & Hovenkamp,  Antitrust  Law  229'd,  at 277
+("[J]oint employer preparation and bargaining in the context
+of a  formal  multi-employer  bargaining  unit  is  clearly  ex-
+empt").  Similarly, labor need not consent to certain tactics
+that this Court has approved  as part of the multiemployer
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+bargaining process, such as unit-wide lockouts and the use of
+temporary  replacements.  See  NLRB  v.  Brown, 380  U. S.
+278, 284 (1965); Buffalo Linen, 353 U. S., at 97.
+Petitioners  cannot save their consent  principle by weak-
+ening it, as by requiring union consent  only to the multi-
+employer bargaining process itself.  This general consent is
+automatically  present  whenever  multiemployer  bargaining
+takes place.  See Hi-Way Billboards, Inc., 206  N. L. R. B.
+22 (1973) (multiemployer unit "based on consent" and "estab-
+lished by an unequivocal agreement by the parties"), enf. de-
+nied on  other grounds,  500  F. 2d  181  (CA5  1974);  Weyer-
+haeuser Co.,  166  N. L.  R. B.  299,  299-300  (1967).  As  so
+weakened,  the principle  cannot  help  decide  which related
+practices are, or are not, subject to antitrust immunity.
+B
+The Government argues that the exemption should termi-
+nate at the point of impasse.  After impasse, it says, "em-
+ployers no longer have a duty under the labor laws to main-
+tain the status quo,"  and "are free as a matter of labor law
+to negotiate  individual  arrangements  on  an  interim  basis
+with the union."  Brief for  United  States  et al. as Amici
+Curiae 17.
+Employers, however, are not completely free at impasse. to
+act independently.  The multiemployer bargaining unit ordi-
+narily remains intact; individual employers cannot withdraw.
+Bonanno Linen, 454 U. S., at 410-413.  The duty to bargain
+survives;  employers must stand ready to resume  collective
+bargaining.  See,  e. g.,  Worldwide  Detective  Bureau, 296
+N. L. R. B. 148,  155 (1989);  Hi-Way Billboards, Inc., supra,
+at 23.  And individual employers can negotiate individual in-
+terim agreements with the union only insofar as those agree-
+ments are consistent with "the duty to abide by the results
+of group bargaining."  Bonanno Linen, supra, at 416.  Re-
+gardless, the absence  of a legal "duty"  to act jointly is not
+determinative.  This Court has implied antitrust immunities
+
+NEW PAGE
+
+Cite as: 518 U. S. 231 (1996)
+Opinion of the Court
+that extend beyond statutorily required joint action to joint
+action  that a  statute "expressly  or impliedly allows  or  as-
+sumes  must  also be immune."  1 P. Areeda  & D. Turner,
+Antitrust Law  224, p. 145 (1978); see, e. g., Gordon v. New
+York Stock Exchange, Inc., 422 U. S. 659, 682-691 (1975) (im-
+munizing application of joint rule that securities law permit-
+ted, but did not require);  United States v. National Assn. of
+Securities Dealers,I nc., 422 U. S. 694, 720-730 (1975) (same).
+More  importantly, the  simple  "impasse"  line  would  not
+solve  the basic problem  we have  described above.  Supra,
+at 241-242.  Labor law permits employers, after impasse, to
+engage in considerable joint behavior,  including joint lock-
+outs  and  replacement  hiring.  See, e. g.,  Brown, supra, at
+289 (hiring of temporary replacement workers after lockout
+was "reasonably adapted to the achievement of a legitimate
+end-preserving the integrity of the multiemployer bargain-
+ing unit").  Indeed, as a general matter, labor law often lim-
+its employers  to four  options  at impasse:  (1) maintain the
+status quo, (2) implement their last offer, (3) lock out their
+workers  (and either shut down  or hire temporary  replace-
+ments),  or (4) negotiate  separate  interim  agreements with
+the union.  See generally 1 Hardin, The Developing Labor
+Law, at 516-520, 696-699.  'What  is to happen if the parties
+cannot reach an interim agreement?  The other alternatives
+are limited.  Uniform employer conduct is likely.  Uniform-
+ity-at least when accompanied by discussion of the matter-
+invites antitrust  attack.  And  such attack  would  ask anti-
+trust courts to decide the lawfulness of activities intimately
+related to the bargaining process.
+The problem is aggravated by the fact that "impasse" is
+often temporary, see Bonanno Linen, supra, at 412 (approv-
+ing Board's view of impasse as "a recurring feature in the
+bargaining process,  . . .'a temporary  deadlock or hiatus in
+negotiations which in almost all cases  is eventually broken,
+through either a change  of mind  or the application  of eco-
+nomic force")  (internal  quotation  marks  omitted); W. Sim-
+

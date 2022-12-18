@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "datePublished": "http://schema.org/datePublished",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "Verizon Communications Inc. v. Law Offices of Curtis V. Trinko, LLP",
+      "caseNumber": "540 U. S. 398 (2004)",
+      "datePublished": "2004",
+      "involvedParties": "Verizon Communications Inc., Law Offices of Curtis V. Trinko, LLP",
+      "reasoning": "Respondent, the plaintiff in this case, is a local telephone service customer of AT&T. Its complaint alleges that it has received unsatisfactory service because Verizon has engaged in conduct that adversely affects AT&T's ability to serve its customers, in violation of § 2 of the Sherman Act. 15 U. S. C. § 2."
+    },
+    {
+      "@id": "Associated Gen. Contractors of Cal., Inc. v. Carpenters",
+      "caseNumber": "459 U. S. 519 (1983)",
+      "datePublished": "1983",
+      "involvedParties": "Associated Gen. Contractors of Cal., Inc., Carpenters",
+      "reasoning": "In such cases, 'the importance of avoiding either the risk of duplicate recoveries on the one hand, or the danger of complex apportionment of damages on the other,' weighs heavily against a literal reading of § 4."
+    },
+    {
+      "@id": "Southern Pacific Co. v. Darnell-Taenzer Lumber Co.",
+      "caseNumber": "245 U. S. 531 (1918)",
+      "datePublished": "1918",
+      "involvedParties": "Southern Pacific Co., Darnell-Taenzer Lumber Co.",
+      "reasoning": "Our interpretation of § 4 has thus adhered to Justice Holmes' observation that the 'general tendency of the law, in regard to damages at least, is not to go beyond the first step.'"
+    },
+    {
+      "@id": "Blue Shield of Va. v. McCready",
+      "caseNumber": "457 U. S. 465 (1982)",
+      "datePublished": "1982",
+      "involvedParties": "Blue Shield of Va., McCready",
+      "reasoning": "Respondent contends that its injuries were, like the plaintiff's injuries in Blue Shield of Va. v. McCready, 'the very means by which... [Verizon] sought to achieve its illegal ends.'"
+    },
+    {
+      "@id": "Steel Co. v. Citizens for Better Environment",
+      "caseNumber": "523 U. S. 83 (1998)",
+      "datePublished": "1998",
+      "involvedParties": "Steel Co., Citizens for Better Environment",
+      "reasoning": "Our disposition makes it unnecessary to consider petitioner's alternative contention that respondent lacks antitrust standing."
+    },
+    {
+      "@id": "National Railroad Passenger Corporation v. National Assn. of Railroad Passengers",
+      "caseNumber": "414 U. S. 53 (1974)",
+      "datePublished": "1974",
+      "involvedParties": "National Railroad Passenger Corporation, National Assn. of Railroad Passengers",
+      "reasoning": "Our disposition makes it unnecessary to consider petitioner's alternative contention that respondent lacks antitrust standing."
+    }
+  ]
+}

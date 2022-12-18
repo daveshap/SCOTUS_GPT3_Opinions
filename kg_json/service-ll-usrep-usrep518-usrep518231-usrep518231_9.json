@@ -1,0 +1,27 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "cite:518_U_S_231_1996",
+      "cite": "518 U. S. 231 (1996)",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": "STEVENS, J., dissenting",
+      "reasoning": "In light of the accommodation that has been struck between antitrust and labor law policy, it would be most ironic to extend an exemption crafted to protect collective action by employees to protect employers acting jointly to deny employees the opportunity to negotiate their salaries individually in a competitive market."
+    },
+    {
+      "@id": "cite:BROWN_v_PRO_FOOTBALL_INC",
+      "cite": "BROWN v. PRO FOOTBALL, INC.",
+      "date": "1996",
+      "caseNumber": "518 U. S. 231",
+      "involvedParties": "STEVENS, J., dissenting",
+      "reasoning": "Given these features of the case, I do not see why the employers should be entitled to a judicially crafted exemption from antitrust liability. We have explained that \"[t]he nonstatutory exemption has its source in the strong labor policy favoring the association of employees to eliminate competition over wages and working conditions.\" Connell Constr. Co., 421 U. S., at 622. I know of no similarly strong labor policy that favors the association of employers to eliminate a competitive method of negotiating wages that predates collective bargaining and that labor would prefer to preserve."
+    }
+  ]
+}

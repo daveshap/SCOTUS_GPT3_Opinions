@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "name": "http://schema.org/name",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/brooke-group-ltd-v-brown-williamson-tobacco-corp",
+      "@type": "http://schema.org/LegalCase",
+      "name": "Brooke Group Ltd. v. Brown & Williamson Tobacco Corp.",
+      "date": "1993",
+      "caseNumber": "509 U. S. 209",
+      "involvedParties": ["Brooke Group Ltd.", "Brown & Williamson Tobacco Corp."],
+      "reasoning": "The antitrust laws do not create a federal law of unfair competition or purport to afford remedies for all torts committed by or against persons engaged in interstate commerce.",
+      "citation": "http://example.org/brooke-group-ltd-v-brown-williamson-tobacco-corp"
+    },
+    {
+      "@id": "http://example.org/spectrum-sports-v-mcquillan",
+      "@type": "http://schema.org/LegalCase",
+      "name": "Spectrum Sports v. McQuillan",
+      "date": "1993",
+      "caseNumber": "506 U. S. 447",
+      "involvedParties": ["Spectrum Sports", "McQuillan"],
+      "reasoning": "The plaintiff must prove a dangerous probability that the defendant would monopolize a particular market.",
+      "citation": "http://example.org/spectrum-sports-v-mcquillan"
+    },
+    {
+      "@id": "http://example.org/matsushita-electric-industrial-co-v-zenith-radio-corp",
+      "@type": "http://schema.org/LegalCase",
+      "name": "Matsushita Electric Industrial Co. v. Zenith Radio Corp.",
+      "date": "1986",
+      "caseNumber": "475 U. S. 574",
+      "involvedParties": ["Matsushita Electric Industrial Co.", "Zenith Radio Corp."],
+      "reasoning": "In order to recoup their losses, predators must obtain enough market power to set higher than competitive prices, and then must sustain those prices long enough to earn in excess profits what they earlier gave up in below-cost prices.",
+      "citation": "http://example.org/matsushita-electric-industrial-co-v-zenith-radio-corp"
+    },
+    {
+      "@id": "http://example.org/brown-shoe-co-v-united-states",
+      "@type": "http://schema.org/LegalCase",
+      "name": "Brown Shoe Co. v. United States",
+      "date": "1962",
+      "caseNumber": "370 U. S. 294",
+      "involvedParties": ["Brown Shoe Co.", "United States"],
+      "reasoning": "The antitrust laws were passed for the protection of competition, not competitors.",
+      "citation": "http://example.org/brown-shoe-co-v-united-states"
+    },
+    {
+      "@id": "http://example.org/hunt-v-crumboch",
+      "@type": "http://schema.org/LegalCase",
+      "name": "Hunt v. Crumboch",
+      "date": "1945",
+      "caseNumber": "325 U. S. 821",
+      "involvedParties": ["Hunt", "Crumboch"],
+      "reasoning": "The antitrust laws do not purport to afford remedies for all torts committed by or against persons engaged in interstate commerce.",
+      "citation": "http://example.org/hunt-v-crumboch"
+    }
+  ]
+}

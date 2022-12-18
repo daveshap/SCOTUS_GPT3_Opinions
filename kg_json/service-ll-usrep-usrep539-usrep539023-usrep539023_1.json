@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "title": "http://schema.org/name",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description"
+  },
+  "@graph": [
+    {
+      "@id": "DastarCorpVTwentiethCenturyFoxFilmCorp",
+      "@type": "CaseCitation",
+      "title": "Dastar Corp. v. Twentieth Century Fox Film Corp. et al.",
+      "date": "October Term, 2002",
+      "caseNumber": "02-428",
+      "involvedParties": [
+        "Dastar Corp.",
+        "Twentieth Century Fox Film Corp.",
+        "SFM Entertainment",
+        "New Line Home Video, Inc.",
+        "Doubleday",
+        "Time, Inc.",
+        "General Dwight D. Eisenhower"
+      ],
+      "reasoning": "Fox, SFM, and New Line brought this action alleging, inter alia, that Dastar's sale of Campaigns without proper credit to the Crusade television series constitutes 'reverse passing off' in violation of § 43(a) of the Lanham Act."
+    },
+    {
+      "@id": "SearsRoebuckCoVStiffelCo",
+      "@type": "CaseCitation",
+      "title": "Sears, Roebuck & Co. v. Stiffel Co.",
+      "date": "376 U.S. 225",
+      "caseNumber": "",
+      "involvedParties": [
+        "Sears, Roebuck & Co.",
+        "Stiffel Co."
+      ],
+      "reasoning": "Recognizing a § 43(a) cause of action here would render superfluous the provisions of the Visual Artists Rights Act that grant an artistic work's author 'the right ... to claim authorship,' 17 U. S. C. § 106A(a)(1)(A), but carefully limit and focus that right, §§ 101, 106A(b), (d)(1), and (e)."
+    },
+    {
+      "@id": "WalMartStoresIncVSamaraBrothersInc",
+      "@type": "CaseCitation",
+      "title": "Wal-Mart Stores, Inc. v. Samara Brothers, Inc.",
+      "date": "529 U.S. 205",
+      "caseNumber": "",
+      "involvedParties": [
+        "Wal-Mart Stores, Inc.",
+        "Samara Brothers, Inc."
+      ],
+      "reasoning": "Reading §43(a) as creating a cause of action for, in effect, plagiarism would be hard to reconcile with, e. g., Wal-Mart Stores, Inc. v. Samara Brothers, Inc., 529 U. S. 205, 211."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Pacific Bell Telephone Co. v. Linkline Communications, Inc.",
+  "datePublished": "2009",
+  "court": "Supreme Court of the United States",
+  "caseNumber": "555 U.S. 438",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "Pacific Bell Telephone Co."
+    },
+    {
+      "@type": "Organization",
+      "name": "Linkline Communications, Inc."
+    }
+  ],
+  "opinion": {
+    "@type": "LegalOpinion",
+    "reasoning": "The price-squeeze claims set forth in the original complaint are not cognizable under the Sherman Act. Plaintiffs have also filed an amended complaint, and the District Court concluded that this complaint, generously construed, could be read as alleging conduct that met the Brooke Group requirements for predatory pricing. The District Court is to consider whether the amended complaint states a claim upon which relief may be granted in light of the new pleading standard articulated in Twombly, whether plaintiffs should be given leave to amend their complaint to bring a claim under Brooke Group, and such other matters properly before it. The Court of Appeals holds that a defendant with no antitrust duty to deal with its rivals has no duty to deal under the terms and conditions preferred by those rivals. Brooke Group holds that low prices are only actionable under the Sherman Act when the prices are below cost and there is a dangerous probability that the predator will be able to recoup the profits it loses from the low prices. Justice Breyer concurs in the judgment, accepting respondents’ concession that the Ninth Circuit majority’s “price squeeze” holding is wrong and vacating the Circuit’s decision, and remanding the case in order to allow the District Court to determine whether respondents may proceed with their “predatory pricing” claim as set forth in Judge Gould’s dissenting Ninth Circuit opinion."
+  }
+}

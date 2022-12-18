@@ -1,0 +1,41 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "F. Hoffmann-La Roche Ltd. v. Empagran S.A.",
+  "caseNumber": "542 U.S. 15 (2004)",
+  "datePublished": "2004",
+  "court": "Supreme Court of the United States",
+  "involvedParties": [
+    {
+      "@type": "Organization",
+      "name": "F. Hoffmann-La Roche Ltd."
+    },
+    {
+      "@type": "Organization",
+      "name": "Empagran S.A."
+    }
+  ],
+  "reasoningForIncluding": "The Sherman Act covers many different kinds of anticompetitive agreements. Courts would have to examine how foreign law, compared with American law, treats not only price fixing but also, say, information-sharing agreements, patent-licensing price conditions, territorial product resale limitations, and various forms of joint venture, in respect to both primary conduct and remedy.",
+  "precedent": [
+    {
+      "@type": "LegalCase",
+      "name": "Hartford Fire Insurance Co. v. California",
+      "caseNumber": "509 U.S. 764 (1993)"
+    },
+    {
+      "@type": "Book",
+      "name": "Anitrust Law",
+      "author": "P. Areda & H. Hovenkamp"
+    },
+    {
+      "@type": "Book",
+      "name": "Foreign Commerce and the Antitrust Laws",
+      "author": "W. Fugate"
+    },
+    {
+      "@type": "Book",
+      "name": "Antitrust Law Developments",
+      "author": "ABA Section of Antitrust Law"
+    }
+  ]
+}

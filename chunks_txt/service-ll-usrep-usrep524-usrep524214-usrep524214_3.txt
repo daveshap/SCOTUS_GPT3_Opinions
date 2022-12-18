@@ -1,0 +1,121 @@
+
+
+220  AMERICAN TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+Opinion of the Court
+ing.  Although  respondent continued to resell SDN, it was
+ultimately unable to meet its usage commitment for the first
+period in which it was applicable.  In September  1992, re-
+spondent notified petitioner that it was terminating its SDN
+service effective September 30, 1992, with 18 months remain-
+ing on its contract.
+Meanwhile,  on  November  27,  1991,  respondent had filed
+suit against petitioner in the United  States District  Court
+for the District of Oregon.  The complaint contained a vari-
+ety of claims, none of which arose under the Communications
+Act, and ultimately  two state-law  claims went  to trial:  (1)
+breach of contract (including breach of an implied covenant
+of good faith and fair dealing); and (2) tortious interference
+with contractual relations  (viz., respondents  contracts with
+its customers).  Respondent's state-law claims rested on the
+allegation that its contracts with petitioner were not limited
+by petitioner's  tariff but also included certain understand-
+ings respondent's president derived from reading petitioner's
+brochures  and talking with its representatives.  According
+to  respondent,  petitioner  promised  various  service,  provi-
+sioning, and billing options in addition to those set forth in
+the tariff.  Respondent also claimed that petitioner violated
+its state-law implied duty of good faith and fair dealing by
+taking actions that undermined the purpose  of the contract
+for  respondent,  which  was  to  purchase  SDN  services  for
+resale at a profit.  The tortious-interference  claim was de-
+rivative  of the contract  claim.  Respondent  asserted that,
+because respondent promised certain benefits of SDN to its
+customers, and because petitioner provided competing serv-
+ices, any intentional violation of petitioner's contractual du-
+ties constituted tortious-interference with respondent's rela-
+tionship with its customers.  Respondent also asserted that,
+since petitioner's conduct was willful, consequential damages
+were available under the terms of the tariff.  Petitioner fied
+a counterclaim to recover $200,000 in unpaid tariffed charges
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+from April to October 1990, and  to obtain  the termination
+charges that respondent did not pay in 1992.
+Throughout the proceedings  in District Court, petitioner
+argued that respondent's state-law contract  and tort claims
+were pre-empted by the filed-tariff requirements  of § 203 of
+the Act.  The Magistrate Judge rejected this argument and
+instructed the jury to consider not only the written subscrip-
+tion agreements, but also any statements made or documents
+furnished before the parties signed the agreements "'if you
+find that the parties intended that those statements or writ-
+ten materials  form  part of their agreements."'  Brief for
+Petitioner  18.  The  Magistrate  Judge  also  instructed  the
+jury that it could  not find  for respondent  on  its contract
+claims unless it found that petitioner engaged in willful mis-
+conduct.  He  declined to instruct on punitive  damages  for
+the tortious-interference claim.  The jury found for respond-
+ent  on  its  state-law  claims,  rejected  petitioner's  counter-
+claim,  and  awarded  respondent  $13  million  in lost profits.
+The Magistrate Judge reduced the judgment to $1.154  mil-
+lion, which represented. the lost profits  respondent claimed
+during the period before it canceled SDN on September 30,
+1992; he found that there was no competent evidence for lost
+profits after that date.  The Court of Appeals, over a dissent
+by Judge Brunetti, affirmed the judgment but reversed the
+Magistrate Judge's  failure to instruct on punitive  damages
+and  remanded  for a trial on  that aspect  of the  case.  108
+F. 3d 981 (CA9 1997).  We granted certiorari to determine
+whether the federal filed-rate requirements of § 203 pre-empt
+respondent's claims.  522 U. S. 1024 (1997).
+II
+Section 203(a) of the Communications  Act requires every
+common carrier to file with the FCC "schedules," i. e., tariffs,
+"showing all charges" and "showing the classifications, prac-
+tices,  and regulations  affecting  such  charges."  47  U. S. C.
+§ 203(a).  Section 203(c) makes it unlawful for  a carrier  to
+
+NEW PAGE
+
+222  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE TELEPHONE,  INC.
+Opinion of the Court
+"extend to  any  person any  privileges  or  facilities  in such
+communication, or employ or enforce any classifications, reg-
+ulations, or practices affecting such charges, except as speci-
+fied in such schedule."  These provisions are modeled after
+similar provisions of the Interstate Commerce Act (ICA) and
+share its goal of preventing unreasonable and discriminatory
+charges.  MCI  Telecommunications  Corp.  v.  American
+Telephone & Telegraph Co.,  512  U. S. 218,  229-230  (1994).
+Accordingly, the century-old "filed rate doctrine" associated
+with the ICA tariff provisions applies to the Communications
+Act as well.  See id., at 229-231; Arkansas Louisiana Gas
+Co. v. Hall, 453 U. S. 571, 577 (1981);  cf. United States Nay.
+Co. v. Cunard S. S. Co., 284 U. S. 474, 481 (1932).  In Louis-
+ville & Nashville R. Co. v. Maxwell, 237 U. S. 94, 97 (1915),
+we described  the basic  contours  of the filed  rate doctrine
+under the ICA:
+"Under the Interstate Commerce Act, the rate of the
+carrier  duly filed is the only lawful charge.  Deviation
+from  it is  not permitted upon  any pretext.  Shippers
+and travelers are charged with notice of it, and they as
+well as the carrier must abide by it, unless it is found
+by the Commission to be unreasonable.  Ignorance  or
+misquotation  of rates  is  not  an  excuse  for  paying or
+charging either less or more than the rate filed.  This
+rule  is  undeniably  strict  and  it  obviously  may  work
+hardship  in  some  cases,  but  it  embodies  the  policy
+which has been adopted by Congress in the regulation
+of  interstate  commerce  in  order  to  prevent  unjust
+discrimination."
+Thus, even if a carrier intentionally misrepresents  its rate
+and a customer relies  on the misrepresentation,  the carrier
+cannot be held to the promised rate if it conflicts with the
+published tariff.  Kansas City Southern R. Co. v. Carl, 227
+U. S. 639, 653 (1913).
+

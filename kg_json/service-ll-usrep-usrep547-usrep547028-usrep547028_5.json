@@ -1,0 +1,95 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "http://example.org/citation/547US1",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "547US1",
+      "involvedParties": "ILLINOIS TOOL WORKS INC. v. INDEPENDENT INK, INC.",
+      "reasoning": "Opinion of the Court",
+      "citation": "547 U. S. 28 (2006)"
+    },
+    {
+      "@id": "http://example.org/citation/InternationalSalt",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "InternationalSalt",
+      "involvedParties": "United States v. International Salt Co.",
+      "reasoning": "The rule adopted in International Salt necessarily accepted the Government’s submission that the earlier patent misuse cases supported the broader proposition “that this type of restraint is unlawful on its face under the Sherman Act”",
+      "citation": "332 U. S. 392 (1947)"
+    },
+    {
+      "@id": "http://example.org/citation/ColumbiaSteel",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "ColumbiaSteel",
+      "involvedParties": "United States v. Columbia Steel Co.",
+      "reasoning": "Cited for the proposition that the license of “a patented device on condition that unpatented materials be employed in conjunction with the patented device” is an example of a restraint that is “illegal per se”",
+      "citation": "334 U. S. 495 (1948)"
+    },
+    {
+      "@id": "http://example.org/citation/Loews",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "Loews",
+      "involvedParties": "Loew’s Inc. v. Columbia Broadcasting System, Inc.",
+      "reasoning": "Cited for the assumption that “tying arrangements generally serve no legitimate business purpose”",
+      "citation": "371 U. S. 38 (1962)"
+    },
+    {
+      "@id": "http://example.org/citation/TimesPicayune",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "TimesPicayune",
+      "involvedParties": "Times-Picayune Publishing Co. v. United States",
+      "reasoning": "Cited for the assumption that “tying arrangements generally serve no legitimate business purpose”",
+      "citation": "345 U. S. 594 (1953)"
+    },
+    {
+      "@id": "http://example.org/citation/StandardOil",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "StandardOil",
+      "involvedParties": "Standard Oil Co. of California v. United States",
+      "reasoning": "Cited for the assumption that “tying arrangements generally serve no legitimate business purpose”",
+      "citation": "337 U. S. 293 (1949)"
+    },
+    {
+      "@id": "http://example.org/citation/Mercoid",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "Mercoid",
+      "involvedParties": "Mercoid Corp. v. Mid-Continent Investment Co.",
+      "reasoning": "Expanded the scope of the patent misuse doctrine to include not only supplies or materials used by a patented device, but also tying arrangements involving a combination patent and “unpatented material or [a] device [that] is itself an integral part of the structure embodying the patent”",
+      "citation": "320 U. S. 661 (1944)"
+    },
+    {
+      "@id": "http://example.org/citation/DawsonChemical",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "DawsonChemical",
+      "involvedParties": "Dawson Chemical Co. v. Rohm & Haas Co.",
+      "reasoning": "Described in detail Mercoid and the cases leading up to it",
+      "citation": "448 U. S. 176 (1980)"
+    },
+    {
+      "@id": "http://example.org/citation/JeffersonParish",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "JeffersonParish",
+      "involvedParties": "Jefferson Parish Hospital District No. 2 v. Hyde",
+      "reasoning": "Repeated the patent-equals-market-power presumption",
+      "citation": "466 U. S. 2 (1984)"
+    },
+    {
+      "@id": "http://example.org/citation/FortnerI",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "FortnerI",
+      "involvedParties": "Fortner Enterprises, Inc. v. United States Steel Corp.",
+      "reasoning": "Cited for the assumption that “tying arrangements generally serve no legitimate business purpose”",
+      "citation": "394 U. S. 495 (1969)"
+    },
+    {
+      "@id": "http://example.org/citation/FortnerII",
+      "date": "03-16-0914:11:53",
+      "caseNumber": "FortnerII",
+      "involvedParties": "Fortner Enterprises, Inc. v. United States Steel Corp.",
+      "reasoning": "Evaluated under the standards applied in cases like Fortner II and Jefferson Parish rather than under the

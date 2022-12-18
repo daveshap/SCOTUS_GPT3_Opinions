@@ -1,0 +1,128 @@
+OCTOBER TERM, 2000
+Syllabus
+CEDRIC  KUSHNER  PROMOTIONS,  LTD. v. KING
+ET AL.
+CERTIORARI TO THE UNITED STATES COURT OF APPEALS FOR
+THE SECOND CIRCUIT
+No. 00-549.  Argued April 18, 2001-Decided June 11, 2001
+Petitioner, a corporate promoter of boxing matches, sued Don King, the
+president and sole shareholder of a rival corporation, alleging that King
+had conducted his corporation's affairs in violation of the Racketeer In-
+fluenced and Corrupt Organizations Act (RICO), which makes it "unlaw-
+ful for any person employed by or associated with any enterprise ...  to
+conduct  or participate  . . . in the  conduct of such enterprise's affairs
+through a pattern of racketeering activity,"  18 U. S. C. § 1962(c).  The
+District Court, citing Circuit precedent, dismissed the complaint.  In
+affirming, the Second Circuit expressed its view that § 1962(c) applies
+only where a plaintiff shows the existence  of two separate entities, a
+"person" and a distinct "enterprise," the affairs of which that "person"
+improperly conducts.  In this instance, the court noted, it was undis-
+puted that King was an employee  of his corporation and also acting
+within the scope of his authority.  Under the court's analysis, King, in
+a legal sense, was part of the corporation, not a "person," distinct from
+the "enterprise," who allegedly improperly conducted the "enterprise's
+affairs."
+Held: In the circumstances  of this case, § 1962(c) requires no more than
+the formal legal distinction between "person" and "enterprise" (namely,
+incorporation); hence, the provision applies when a corporate employee
+unlawfully conducts the affairs of the corporation of which he is the sole
+owner-whether he conducts those affairs within the scope, or beyond
+the scope, of corporate authority.  This Court does not quarrel with the
+basic principle that to establish liability under § 1962(c) one must allege
+and prove the existence of two distinct entities: (1) a "person"; and (2)
+an "enterprise" that is not simply the same "person" referred to by a
+different name.  Nonetheless, the  Court disagrees  with the appellate
+court's application of that "distinctness" principle to the present circum-
+stances,  in which a  corporate  employee,  acting within  the scope  of
+his authority, allegedly conducts the corporation's  affairs in a RICO-
+forbidden way.  The corporate owner/employee, a natural person, is dis-
+tinct from the corporation itself, a legally different entity with different
+rights and responsibilities due to its different legal status.  The Court
+can find nothing in RICO that requires more "separateness" than that.
+
+NEW PAGE
+
+Cite as: 533 U. S. 158 (2001)
+Syllabus
+Linguistically speaking, an employee who conducts his corporation's af-
+fairs through illegal acts comes within § 1962(c)'s terms forbidding any
+"person" unlawfully to conduct an "enterprise," particularly when RICO
+explicitly defines "person" to include "any individual...  capable of hold-
+ing a legal or beneficial interest in property," and defines "enterprise"
+to include a "corporation,"  §§ 1961(3), (4).  And, linguistically speaking,
+the employee and the corporation are different "persons,"  even where
+the employee is the corporation's sole owner.  Incorporation's basic pur-
+pose is to create a legal entity distinct from those natural individuals
+who created the corporation, who own  it, or whom it employs.  See,
+e. g.,  United States v. Bestfoods, 524 U. S.5 1, 61-62.  The precedent on
+which the Second Circuit relied involved significantly different circum-
+stances from those here at issue.  Further, to apply RICO in these cir-
+cumstances is consistent with the statute's basic purposes of protecting
+both a legitimate "enterprise" from those who would use unlawful acts
+to victimize  it, United States v. Turkette, 452 U. S. 576, 591,  and the
+public from those who would unlawfully use an "enterprise" (whether
+legitimate or illegitimate) as a "vehicle" through which unlawful activity
+is committed, National Organizationf or Women, Inc. v. Scheidler, 510
+U. S.2 49, 259.  Conversely, the appellate court's  critical legal distinc-
+tion-between employees acting within and without the scope of corpo-
+rate authority-would immunize from RICO liability many of those at
+whom this Court has said RICO directly aims, e. g.,  high-ranking indi-
+viduals in an illegitimate criminal enterprise, who, seeking to further
+the  enterprise's  purposes,  act  within  the  scope  of their  authority,
+cf. Turkette, supra,a t 581.  Finally, nothing in the statute's history sig-
+nificantly favors an alternative interpretation.  This Court's rule is no
+less consistent than is the lower court's rule with the following princi-
+ples cited by King: (1) the principle that a corporation acts only through
+its directors, officers, and agents;  (2) the principle that a corporation
+should not be liable  for its employees'  criminal acts where Congress
+so intends; and (3)  antitrust law's  intracorporate  conspiracy doctrine.
+Pp. 161-166.
+219 F. 3d 115, reversed and remanded.
+BREYER, J., delivered the opinion for a unanimous Court.
+Richard A. Edlin argued  the cause for petitioner.  With
+him on the briefs was Ronald D. Lefton.
+Austin C. Schlick argued the cause for the United States
+as amicus curiae urging reversal.  With him on the brief
+were Acting Solicitor General Underwood, Acting Assist-
+
+NEW PAGE
+
+160  CEDRIC  KUSHNER  PROMOTIONS,  LTD. v. KING
+Opinion of the Court
+ant Attorney  General Keeney,  Deputy  Solicitor General
+Dreeben, Deborah Watson, and Frank J Marine.
+Peter E. Fleming, Jr., argued the cause for respondents.
+With him on the brief was Michael C. Quinn.*
+JUSTICE BREYER delivered the opinion of the Court.
+The Racketeer  Influenced and Corrupt Organizations  Act
+(RICO  or, Act),  18  U. S. C. § 1961 et seq., makes  it  "unlaw-
+ful  for  any  person  employed  by  or  associated  with  any
+enterprise..,  to conduct or participate...  in the conduct of
+such enterprise's affairs" through the commission of two or
+more  statutorily defined crimes-which  RICO  calls "a pat-
+tern  of  racketeering  activity."  § 1962(c).  The  language
+suggests,  and  lower  courts  have  held,  that this  provision
+foresees  two  separate  entities,  a  "person"  and  a  distinct
+"enterprise."
+This case focuses upon a person who is the president  and
+sole shareholder of a closely held corporation.  The plaintiff
+claims  that  the  president  has  conducted  the corporation's
+affairs through the forbidden "pattern," though for present
+purposes it is conceded that, in doing so, he acted within the
+scope  of his  authority  as  the  corporation's  employee.  In
+these circumstances,  are there two entities, a "person" and
+a separate "enterprise"?  Assuming, as we must given the
+posture of this case, that the allegations in the complaint are
+true, we conclude  that the  "person" and  "enterprise" here
+are distinct and that the RICO provision applies.
+Petitioner, Cedric Kushner Promotions, Ltd., is a corpora-
+tion  that  promotes  boxing matches.  Petitioner  sued  Don
+King, the president  and sole shareholder  of Don  King Pro-
+ductions,  a  corporation,  claiming  that King  had  conducted
+the boxing-related  affairs of Don  King Productions  in part
+through a RICO "pattern," i. e., through the alleged commis-
+sion of at least two instances of fraud and other RICO predi-
+*Kevin P  Roddy and G. Robert Blakey filed a brief for the National
+Association  of Securities  and  Commercial  Law  Attorneys  as  amicus
+curiae urging reversal.
+

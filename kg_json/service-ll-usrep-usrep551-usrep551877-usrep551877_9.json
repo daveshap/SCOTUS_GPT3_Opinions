@@ -1,0 +1,42 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "LegalCase",
+  "name": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+  "datePublished": "2007-09-20",
+  "caseNumber": "551 U. S. 877",
+  "involvedParties": [
+    {
+      "@type": "Person",
+      "name": "Sherman Act"
+    },
+    {
+      "@type": "Person",
+      "name": "Dr. Miles"
+    },
+    {
+      "@type": "Person",
+      "name": "GTE Sylvania"
+    },
+    {
+      "@type": "Person",
+      "name": "Colgate"
+    },
+    {
+      "@type": "Person",
+      "name": "Business Electronics"
+    },
+    {
+      "@type": "Person",
+      "name": "Monsanto"
+    },
+    {
+      "@type": "Person",
+      "name": "Khan"
+    },
+    {
+      "@type": "Person",
+      "name": "Albrecht v. Herald Co."
+    }
+  ],
+  "reasoningForIncluding": "The Court reined in the decision by holding that a manufacturer can announce suggested resale prices and refuse to deal with distributors who do not follow them. The Court deﬁned legal rules to limit the reach of Dr. Miles and to accommodate the doctrines enunciated in GTE Sylvania and Colgate. The Court required that antitrust plaintiffs alleging a § 1 price­ﬁxing conspiracy must present evidence tending to exclude the possibility a manufacturer and its distributors acted in an independent manner. The Court held that the per se rule applied only to speciﬁc agreements over price levels and not to an agreement between a manufacturer and a distributor to terminate a price-cutting distributor. The Court overruled a 29-year-old precedent treating those agreements as per se illegal. The Dr. Miles rule is also inconsistent with a principled framework, for it makes little economic sense when analyzed with our other cases on vertical restraints."
+}

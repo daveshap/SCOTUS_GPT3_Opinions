@@ -1,0 +1,122 @@
+
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+such restrictions might avert vertical integration in the dis-
+tribution  process.  Id.,  at 379-380.  The  Court  drew  the
+line, however, at permitting manufacturers to control prod-
+uct marketing once  dominion over the goods had passed to
+dealers.  Id., at 380.
+Albrecht, decided the following Term, involved a newspa-
+per publisher who had granted exclusive territories to inde-
+pendent carriers  subject to their adherence  to a maximum
+price on resale of the newspapers to the public.  Influenced
+by  its  decisions  in  Socony-Vacuum,  Kiefer-Stewart, and
+Schwinn, the Court concluded that it was per se unlawful for
+the publisher to fix the maximum resale price  of its news-
+papers.  390  U. S.,  at  152-154.  The  Court  acknowledged
+that "[m]aximum  and minimum  price  fixing may  have dif-
+ferent  consequences  in  many  situations,"  but nonetheless
+condemned  maximum price fixing for "substituting the per-
+haps  erroneous judgment  of a seller  for the forces  of the
+competitive market."  Id., at 152.
+Albrecht was  animated  in part by the fear  that vertical
+maximum  price fixing could allow suppliers  to discriminate
+against  certain  dealers,  restrict  the services  that  dealers
+could  afford to offer customers,  or disguise minimum price
+fixing schemes.  Id., at  152-153.  The  Court  rejected  the
+notion (both on the record of that case and in the abstract)
+that, because  the newspaper  publisher  "granted  exclusive
+territories, a price ceiling was necessary to protect the public
+from price gouging by dealers  who had monopoly power in
+their own territories."  Id., at 153.
+In a vigorous dissent, Justice Harlan asserted that the ma-
+jority had erred in equating the effects of maximum and min-
+imum price fixing.  Id., at 156-168.  Justice Harlan pointed
+out that, because the majority was establishing a per se rule,
+the proper inquiry was "not whether dictation of maximum
+prices is ever illegal, but whether it is always illegal."  Id.,
+at 165-166.  He  also faulted  the majority for  conclusively
+listing  "certain  unfortunate  consequences  that  maximum
+
+NEW PAGE
+
+Cite as: 522 U. S. 3 (1997)
+Opinion of the Court
+price dictation might have in other cases," even as it rejected
+evidence  that  the publisher's  practice  of fixing  maximum
+prices counteracted potentially anticompetitive actions by its
+distributors.  Id., at  165.  Justice  Stewart  also  dissented,
+asserting that the publisher's maximum price fixing scheme
+should be  properly  viewed  as  promoting competition,  be-
+cause it protected consumers from dealers such as Albrecht,
+who, as "the  only person who could sell for home delivery
+the city's only daily morning newspaper," was "a monopolist
+within his own territory."  Id., at 168.
+Nine years later, in Continental T V, Inc. v.  GTE Syl-
+vania Inc., 433 U. S. 36 (1977), the Court overruled Schwinn,
+thereby rejecting application of a per se rule in the context
+of vertical nonprice restrictions.  The Court acknowledged
+the principle of stare decisis, but explained that the need for
+clarification in the law justified reconsideration  of Schwinn:
+"Since its announcement, Schwinn has been the subject
+of continuing  controversy  and  confusion,  both  in  the
+scholarly journals and in the federal courts.  The great
+weight of scholarly opinion has been critical of the deci-
+sion, and a number of the federal courts confronted with
+analogous vertical  restrictions  have sought to limit its
+reach.  In our view, the experience of the past 10 years
+should be brought to bear on this subject of considerable
+commercial importance."  433 U. S., at 47-49 (footnotes
+omitted).
+The Court considered  the historical context  of Schwinn,
+noting that Schwinn's per se rule against vertical nonprice
+restrictions came only four years after the Court had refused
+to endorse  a similar rule in White Motor Co.,  and that the
+decision neither explained the "sudden change in position,"
+nor referred  to the accepted  requirements for per se viola-
+tions set forth in Northern Pacific R. Co.  433 U. S., at 51-
+52.  The  Court then  reviewed  scholarly  works  supporting
+the economic utility of vertical nonprice restraints.  See id.,
+
+NEW PAGE
+
+STATE OIL CO. v. KHAN
+Opinion of the Court
+at 54-57 (citing, e. g.,  Posner, Antitrust Policy and the Su-
+preme  Court: An  Analysis  of the  Restricted  Distribution,
+Horizontal Merger and Potential Competition  Decisions, 75
+Colum. L. Rev. 282 (1975); Preston, Restrictive Distribution
+Arrangements:  Economic Analysis and Public Policy Stand-
+ards,  30  Law  & Contemp.  Prob.  506  (1965)).  The  Court
+concluded that, because  "departure  from the rule-of-reason
+standard must be based upon demonstrable economic effect
+rather than-as in Schwinn-upon formalistic line drawing,"
+the appropriate  course would be  "to  return to the rule of
+reason that governed vertical restrictions prior to Schwinn."
+GTE Sylvania, supra, at 58-59.
+In GTE Sylvania, the Court declined  to comment on Al-
+brecht's per se treatment of vertical maximum price restric-
+tions, noting that the issue "involve[d]  significantly different
+questions  of analysis  and  policy."  433  U. S.,  at  51,  n.  18.
+Subsequent  decisions  of the  Court, however,  have  hinted
+that the  analytical  underpinnings  of  Albrecht were  sub-
+stantially weakened by GTE Sylvania.  We noted in Mari-
+copa County that  vertical  restraints  are  generally  more
+defensible than horizontal restraints.  See 457 U. S., at 348,
+n. 18.  And we explained in 324 Liquor Corp. v. Duffy, 479
+U. S. 335, 341-342  (1987),  that decisions  such  as GTE Syl-
+vania "recognize  the  possibility  that  a vertical  restraint
+imposed by a single manufacturer or wholesaler may stimu-
+late  interbrand  competition  even  as  it reduces  intrabrand
+competition."
+Most recently, in ARCO, 495 U. S.3 28 (1990), although Al-
+brecht's continuing  validity  was  not  squarely  before  the
+Court, some disfavor with that decision was signaled by our
+statement that we would "assume, arguendo, that Albrecht
+correctly held that vertical, maximum price fixing is subject
+to the per se rule."  495  U. S.,  at 335, n. 5.  More  signifi-
+cantly, we specifically  acknowledged that vertical maximum
+price  fixing "may have procompetitive  interbrand effects,"
+and pointed out that, in the wake  of GTE Sylvania, "[tihe
+

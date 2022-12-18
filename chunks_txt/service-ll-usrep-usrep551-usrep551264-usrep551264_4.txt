@@ -1,0 +1,124 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  273 
+Opinion of the Court 
+tinuing activity” in respect to the regulation of commission 
+rates.  Ibid.  Finally, without antitrust immunity, “the ex­
+changes and their members” would be subject to “conﬂicting 
+standards.”  Id., at 689. 
+This last consideration—the conﬂict—was complicated due 
+to Congress’, and the agency’s, changing views about the va­
+lidity of ﬁxed commissions.  As far as the past ﬁxing of rates 
+was concerned, the conﬂict was clear: The antitrust law had 
+forbidden the very thing that the securities law had then 
+permitted,  namely, an  anticompetitive ratesetting  process. 
+In respect to the future, however, the conﬂict was less appar­
+ent.  That was because the SEC’s new (congressionally au­
+thorized) prohibition of (certain) ﬁxed rates would take effect 
+in the near-term future.  And after that time the SEC and 
+the  antitrust  law  would  both  likely  prohibit  some  of  the 
+rateﬁxing  to  which  the  plaintiff’s  injunction  would  likely 
+apply.  See id., at 690–691. 
+Despite the likely compatibility of the laws in the future, 
+the Court nonetheless expressly found conﬂict.  The conﬂict 
+arose from the fact that the law permitted the SEC to super­
+vise the competitive setting of rates and to “reintroduc[e] 
+. . . ﬁxed rates,” id., at 691 (emphasis added), under certain 
+conditions.  The Court consequently wrote that “failure to 
+imply repeal would render nugatory the legislative provision 
+for regulatory agency supervision of exchange commission 
+rates.”  Ibid.  The upshot is that, in light of potential future 
+conﬂict, the Court found that the securities law precluded 
+antitrust liability even in respect to a practice that both anti­
+trust law and securities law might forbid. 
+In NASD the Court considered a Department of Justice 
+antitrust complaint claiming that mutual fund companies had 
+agreed  with  securities  broker-dealers  (1)  to  ﬁx  “resale” 
+prices, i. e., the prices at which a broker-dealer would sell a 
+mutual  fund’s  shares  to  an  investor  or  buy  mutual  fund 
+shares  from  a  fund  investor  (who  wished  to  redeem  the 
+shares); (2) to ﬁx other terms of sale including those related 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+274  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+to when, how, to whom, and from whom the broker-dealers 
+might sell and buy mutual fund shares; and (3) to prohibit 
+broker-dealers  from  freely  selling  to,  and  buying  shares 
+from, one another.  See 422 U. S., at 700–703. 
+The Court again found “clear repugnancy,” and it held that 
+the securities law, by implication, precluded all parts of the 
+antitrust  claim.  Id.,  at  719.  In reaching  this  conclusion, 
+the Court found that antitrust law (e. g., forbidding resale 
+price maintenance) and securities law (e. g., permitting resale 
+price maintenance) were in conﬂict.  In deciding that the 
+latter trumped the former, the Court relied upon the same 
+kinds of considerations it found determinative in Gordon. 
+In respect to the last set of allegations (restricting a free 
+market in mutual fund shares among brokers), the Court said 
+that (1) the relevant securities law “enables [the SEC] to 
+monitor the activities questioned”; (2) “the history of Com­
+mission regulations suggests no laxity in the exercise of this 
+authority”; and hence (3) allowing an antitrust suit to pro­
+ceed that is “so directly related to the SEC’s responsibilities” 
+would present “a substantial danger that [broker-dealers and 
+other defendants] would be subjected to duplicative and in­
+consistent standards.”  NASD, 422 U. S., at 734–735. 
+As to the other practices alleged in the complaint (concern­
+ing, e. g., resale price maintenance), the Court emphasized 
+that (1) the securities law “vested in the SEC ﬁnal authority 
+to determine whether and to what extent” the relevant prac­
+tices “should be tolerated,” id., at 729; (2) although the SEC 
+has not actively supervised the relevant practices, that is 
+only because the statute “reﬂects a clear congressional de­
+termination that, subject to Commission oversight, mutual 
+funds should be allowed to retain the initiative in dealing 
+with  the  potentially  adverse  effects  of  disruptive  trading 
+practices,” id., at 727; and (3) the SEC has supervised the 
+funds insofar as its “acceptance of fund-initiated restrictions 
+for more than three decades . . . manifests an informed ad­
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  275 
+Opinion of the Court 
+ministrative judgment that the contractual restrictions . . . 
+were appropriate means for combating the problems of the 
+industry,” id., at 728.  The Court added that, in these re­
+spects, the SEC had engaged in “precisely the kind of admin­
+istrative oversight of private practices that Congress con­
+templated.”  Ibid. 
+As an initial matter these cases make clear that Justice 
+Thomas is wrong to regard §§ 77p(a) and 78bb(a) as saving 
+clauses so broad as to preserve all antitrust actions.  See 
+post,  p.  287  (dissenting  opinion).  The  United  States  ad­
+vanced the same argument in Gordon.  See Brief for United 
+States as Amicus Curiae in Gordon v. New York Stock Ex­
+change,  Inc.,  O.  T.  1974,  No.  74–304,  pp.  8,  42.  And  the 
+Court, in ﬁnding immunity, necessarily rejected it.  See also 
+NASD, supra, at 694 (same holding); Herman & MacLean v. 
+Huddleston, 459 U. S. 375, 383 (1983) (ﬁnding saving clause 
+applicable  to  overlap  between  securities  laws  where  that 
+“overlap  [was]  neither  unusual  nor  unfortunate”  (internal 
+quotation marks omitted)).  Although one party has made 
+the  argument  in  this  Court,  it  was  not  presented  in  the 
+courts below.  And we shall not reexamine it. 
+This Court’s prior decisions also make clear that, when a 
+court decides whether securities law precludes antitrust law, 
+it is deciding whether, given context and likely consequences, 
+there is a “clear repugnancy” between the securities law and 
+the  antitrust  complaint—or  as  we  shall  subsequently  de­
+scribe the matter, whether the two are “clearly incompati­
+ble.”  Moreover, Gordon and NASD, in ﬁnding sufﬁcient in­
+compatibility to warrant an implication of preclusion, have 
+treated the following factors as critical: (1) the existence of 
+regulatory authority under the securities law to supervise 
+the activities in question; (2) evidence that the responsible 
+regulatory entities exercise that authority; and (3) a result­
+ing risk that the securities and antitrust laws, if both ap­
+plicable, would produce conﬂicting guidance, requirements, 
+

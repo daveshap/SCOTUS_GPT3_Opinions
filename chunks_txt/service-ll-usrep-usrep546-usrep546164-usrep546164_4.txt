@@ -1,0 +1,125 @@
+
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  173 
+Opinion of the Court 
+tistical analysis whether Reeder was disfavored on average 
+as  compared  to  another  dealer  or  set  of  dealers.  Id.,  at 
+1462–1464. 
+The jury found that there was a reasonable possibility that 
+discriminatory  pricing  may  have  harmed  competition  be­
+tween Reeder and other Volvo truck dealers, and that Vol­
+vo’s discriminatory pricing injured Reeder.  App. 480–486. 
+It further found that Reeder’s damages from Volvo’s 
+Robinson-Patman Act violation exceeded $1.3 million.  Id., 
+at 486.2  The District Court summarily denied Volvo’s mo­
+tion for judgment as a matter of law and the company’s alter­
+native  motion for  new  trial or  remittitur, awarded  treble 
+damages  on  the  Robinson-Patman Act  claim,  and  entered 
+judgment. 
+A  divided  Court  of  Appeals  for  the  Eighth  Circuit  af­
+ﬁrmed.  The appeals court noted that, “as a threshold mat­
+ter[,] Reeder had to show [that] it was a ‘purchaser’ within 
+the meaning of the [Act],” 374 F. 3d, at 708, i. e., that “there 
+were actual sales at two different prices[,] . . . a sale to 
+[Reeder] and a sale to another Volvo dealer,” id., at 707–708. 
+Rejecting Volvo’s contention that competitive bidding situa­
+tions do not give rise to claims under the Robinson-Patman 
+Act,  id.,  at  708–709,  the  Court  of  Appeals  observed  that 
+Reeder was “more than an unsuccessful bidder,” id., at 709. 
+The  four  instances  in  which  Reeder  “actually  purchased 
+Volvo  trucks  following  successful  bids  on  contracts,”  the 
+court  concluded,  sufﬁced  to  render  Reeder  a  purchaser 
+within the meaning of the Act.  Ibid. 
+The Court of Appeals next determined that a jury could 
+reasonably decide that Reeder was “in actual competition” 
+with  favored  dealers.  Ibid.  “[A]s  of  the  time  the  price 
+differential was imposed,” the court reasoned, “the favored 
+2The jury also awarded Reeder damages of $513,750 on Reeder’s state­
+law claim under the Arkansas Franchise Practices Act.  No question is 
+before us respecting that claim, which trained on Volvo’s alleged design to 
+eliminate Reeder as a Volvo dealer.  See supra, at 171. 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+174  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Opinion of the Court 
+and disfavored purchasers competed at the same functional 
+level . . . and w  ithin  the  same geographic market.”  Ibid. 
+(quoting  Best  Brands  Beverage,  Inc.  v.  Falstaff  Brewing 
+Corp.,  842 F. 2d 578, 585 (CA2 1987)).  The court further 
+held that the jury could properly ﬁnd from the evidence that 
+Reeder had proved competitive injury from price discrimina­
+tion.  Speciﬁcally,  the  court  pointed  to  evidence  showing 
+that (1) Volvo intended to reduce the number of its dealers; 
+(2) Reeder lost the Hiland Dairy contract, for which it com­
+peted head to head with another Volvo dealer; (3) Reeder 
+would have earned more proﬁts, had it received the conces­
+sions other dealers received; and (4) Reeder’s sales had de­
+clined over a period of time.  374 F. 3d, at 711–712.  The 
+court also afﬁrmed the award of treble damages to Reeder. 
+Id., at 712–714. 
+Judge Hansen dissented as to the Robinson-Patman Act 
+claim.  “Traditional [Robinson-Patman Act] cases,” he ob­
+served, “involve sellers and purchasers that carry inventory 
+or deal in fungible goods.”  Id., at 718.  The majority, Judge 
+Hansen commented, “attempt[ed] to ﬁt a square peg into a 
+round hole,” ibid., when it extended the Act’s reach to the 
+marketplace  for  heavy-duty  trucks,  where  “special-order 
+products are sold to individual, pre-identiﬁed customers only 
+after competitive bidding,” ibid.  There may be competition 
+among dealers for the opportunity to bid on potential sales, 
+he noted, but “[o]nce bidding begins, . . . the relevant market 
+becomes limited to the needs and demands of a particular 
+end user, with only a handful of dealers competing for the 
+ultimate sale.”  Id., at 719.  Violation of the Act, in Judge 
+Hansen’s  view,  could  not  be  predicated  on  the  instances 
+Reeder identiﬁed in which it was a purchaser, for “there was 
+no actual competition between” Reeder and another Volvo 
+dealer at the time of Reeder’s purchases.  Ibid.  “Without 
+proof of actual competition” for the same customer when the 
+requisite purchases were made, he concluded, “Reeder can­
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  175 
+Opinion of the Court 
+not demonstrate a reasonable possibility of competitive in­
+jury.”  Ibid. 
+We granted certiorari, 544 U. S. 903 (2005), to resolve this 
+question: May a manufacturer be held liable for secondary­
+line price discrimination under the Robinson-Patman Act in 
+the absence of a showing that the manufacturer discrimi­
+nated between dealers competing to resell its product to the 
+same retail customer?  Satisﬁed that the Court of Appeals 
+erred in answering that question in the afﬁrmative, we re­
+verse the Eighth Circuit’s judgment. 
+II 
+Section 2, “when originally enacted as part of the Clayton 
+Act in 1914, was born of a desire by Congress to curb the use 
+by ﬁnancially powerful corporations of localized price-cutting 
+tactics which had gravely impaired the competitive position 
+of other sellers.”  FTC v.  Anheuser-Busch, Inc., 363 U. S. 
+536, 543, and n. 6 (1960) (citing H. R. Rep. No. 627, 63d Cong., 
+2d  Sess.,  8  (1914);  S.  Rep.  No.  698,  63d  Cong.,  2d  Sess., 
+2–4 (1914)).  Augmenting that provision in 1936 with the 
+Robinson-Patman Act, Congress sought to target the per­
+ceived harm to competition occasioned by powerful buyers, 
+rather than sellers; speciﬁcally, Congress responded to the 
+advent of large chainstores, enterprises with the clout to ob­
+tain lower prices for goods than smaller buyers could de­
+mand.  See 14 H. Hovenkamp, Antitrust Law ¶ 2302, p. 11 
+(2d  ed.  2006)  (hereinafter  Hovenkamp);  P.  Areeda  &  L. 
+Kaplow, Antitrust Analysis ¶ 602, pp. 908–909 (5th ed. 1997) 
+(hereinafter Areeda).  The Act provides, in relevant part: 
+“It shall be unlawful for any person engaged in com­
+merce . . . to discriminate in price between different pur­
+chasers of commodities of like grade and quality, . . . 
+where the effect of such discrimination may be substan­
+tially to lessen competition or tend to create a monopoly 
+in any line of commerce, or to injure, destroy, or prevent 
+competition with any person who either grants or know­
+

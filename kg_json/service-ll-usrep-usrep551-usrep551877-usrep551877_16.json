@@ -1,0 +1,107 @@
+{
+  "@context": {
+    "caseNumber": "http://schema.org/caseNumber",
+    "date": "http://schema.org/datePublished",
+    "parties": "http://schema.org/involvedParty",
+    "reasoning": "http://schema.org/reasoning",
+    "citation": "http://schema.org/citation"
+  },
+  "@graph": [
+    {
+      "@id": "551US2",
+      "caseNumber": "551US2",
+      "date": "09-20-1121:22:06",
+      "parties": "Leegin Creative Leather Products, Inc. v. PSKS, Inc.",
+      "reasoning": "Breyer, J., dissenting",
+      "citation": "551 U. S. 877 (2007)"
+    },
+    {
+      "@id": "1972Census",
+      "caseNumber": "1972Census",
+      "date": "1975",
+      "parties": "Dept. of Commerce, Bureau of Census",
+      "reasoning": "Concentration Ratios in Manufacturing",
+      "citation": "No. MC72(SR)–2, p. SR2–38"
+    },
+    {
+      "@id": "2002Census",
+      "caseNumber": "2002Census",
+      "date": "2006",
+      "parties": "Dept. of Commerce, Bureau of Census",
+      "reasoning": "Concentration Ratios: 2002",
+      "citation": "No. EC02–31SR–1, p. 55"
+    },
+    {
+      "@id": "Hollander",
+      "caseNumber": "Hollander",
+      "date": "1966",
+      "parties": "United States of America",
+      "reasoning": "Resale Price Maintenance",
+      "citation": "B. Yamey ed., pp. 67, 80–81"
+    },
+    {
+      "@id": "WisconsinRightToLife",
+      "caseNumber": "WisconsinRightToLife",
+      "date": "2007",
+      "parties": "Justice Scalia",
+      "reasoning": "Opinion concurring in part and concurring in judgment",
+      "citation": "ante, at 500–503"
+    },
+    {
+      "@id": "GliddenCo",
+      "caseNumber": "GliddenCo",
+      "date": "1962",
+      "parties": "Stare Decisis",
+      "reasoning": "Statutory Case",
+      "citation": "370 U. S. 530, 543"
+    },
+    {
+      "@id": "IllinoisBrickCo",
+      "caseNumber": "IllinoisBrickCo",
+      "date": "1977",
+      "parties": "Stare Decisis",
+      "reasoning": "Constitutional Case",
+      "citation": "431 U. S., at 736"
+    },
+    {
+      "@id": "Payne",
+      "caseNumber": "Payne",
+      "date": "1991",
+      "parties": "Stare Decisis",
+      "reasoning": "Unworkable Legal Regime",
+      "citation": "501 U. S. 808, 827–828"
+    },
+    {
+      "@id": "SwiftCo",
+      "caseNumber": "SwiftCo",
+      "date": "1965",
+      "parties": "Stare Decisis",
+      "reasoning": "Unsettles the Law",
+      "citation": "382 U. S. 111, 116"
+    },
+    {
+      "@id": "Sylvania",
+      "caseNumber": "Sylvania",
+      "date": "1977",
+      "parties": "Stare Decisis",
+      "reasoning": "Unsettles the Law",
+      "citation": "433 U. S., at 47"
+    },
+    {
+      "@id": "WisconsinRightToLife2",
+      "caseNumber": "WisconsinRightToLife2",
+      "date": "2007",
+      "parties": "Justice Scalia",
+      "reasoning": "Unsettles the Law",
+      "citation": "ante, at 502 (opinion of Scalia, J.)"
+    },
+    {
+      "@id": "Colgate",
+      "caseNumber": "Colgate",
+      "date": "1919",
+      "parties": "United States v. Colgate & Co.",
+      "reasoning": "Unreasonable Price Maintenance",
+      "citation": "250 U. S. 300"
+    }
+  ]
+}

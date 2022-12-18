@@ -1,0 +1,125 @@
+
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+182  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Stevens, J., dissenting 
+* * * 
+For the reasons stated, the judgment of the Court of Ap­
+peals for the Eighth Circuit is reversed, and the case is re­
+manded for further proceedings consistent with this opinion. 
+It is so ordered. 
+Justice  Stevens,  with  whom  Justice  Thomas  joins, 
+dissenting. 
+Franchised dealers who sell Volvo trucks, like those who 
+sell automobiles, farm equipment, washing machines, and a 
+variety of other expensive items, routinely engage in negoti­
+ations with prospective purchasers.  Sometimes the pros­
+pect is simultaneously negotiating with two Volvo dealers, 
+sometimes with a Volvo dealer and a dealer representing an­
+other manufacturer, and still other times a satisﬁed customer 
+who is generally familiar with the options available in a com­
+petitive market may negotiate with only one dealer at a time. 
+Until today, the Robinson-Patman Act’s prohibition of price 
+discrimination1 would have protected the dealer’s ability to 
+negotiate in all those situations.  Today, however, by adopt­
+ing a novel, transaction-speciﬁc concept of competition, the 
+Court eliminates that statutory protection in all but those 
+rare situations in which a prospective purchaser is negotiat­
+ing with two Volvo dealers at the same time. 
+I 
+Setting aside for the moment the fact that the case in­
+volves goods specially ordered for particular customers 
+1 Section 2 of the Clayton Act, as amended by § 1 of the Robinson-
+Patman Act, provides in relevant part: 
+“It shall be unlawful for any person...to discriminate in price between 
+different purchasers of commodities of like grade and quality . . . where the 
+effect of such discrimination may be substantially to lessen competition or 
+tend to create a monopoly in any line of commerce, or to injure, destroy, 
+or prevent competition with any person who either grants or knowingly 
+receives the beneﬁt of such discrimination, or with customers of either of 
+them.”  38 Stat. 730, as amended, 49 Stat. 1526, 15 U. S. C. § 13(a). 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+Cite as: 546 U. S. 164 (2006)  183 
+Stevens, J., dissenting 
+rather than goods stocked in inventory, the case is a rather 
+ordinary  Robinson-Patman  suit.  Respondent  Reeder  al­
+leged a violation of the Act; the parties submitted a good deal 
+of conﬂicting evidence to the jury; the trial judge properly 
+instructed the jurors on the elements of price discrimination, 
+competitive injury, and damages; and the jury returned a 
+verdict resolving all issues in Reeder’s favor.  The Court 
+of Appeals found no error in either the instructions or the 
+sufﬁciency of the evidence.  374 F. 3d 701 (CA8 2004). 
+Two issues of fact bear particular mention. 
+First, Volvo does not challenge the jury’s ﬁnding of price 
+discrimination.  Reeder’s theory of the case was that Volvo 
+sought to cut back its number of dealers and deemed Reeder 
+expendable.  To avoid possible violations of franchise agree­
+ments and state laws, Volvo chose to accomplish this goal by 
+offering Reeder worse prices than other regional dealers. 
+Reeder introduced substantial evidence of this theory.  It 
+showed that Volvo had an explicit business strategy, known 
+as the “Volvo Vision,” of “fewer dealers, larger markets.” 
+App. 34.  It showed that Volvo could afford to lose sales as 
+it squeezed dealers out, since the boom years of the late 
+1990’s left Volvo with about as many orders as it could ﬁll. 
+Id., at 256–257.  And it showed that Volvo frequently gave 
+worse prices to it than to other regional dealers.  On at least 
+four occasions, Volvo sold trucks to Reeder at signiﬁcantly 
+higher prices than to other dealers buying similar trucks 
+around the same time.2  To give one example, in the spring 
+of 1998 Volvo sold 20 trucks to Reeder at a 9% concession, 
+but sold similar trucks to a Texas dealer at a 12.3% conces­
+sion.  Id., at 132–134.  This left Reeder paying $2,606 more 
+per truck.  Id., at 134.  Although the Court chides Reeder 
+2 Additionally, on more than 12 other occasions, Volvo offered worse 
+deals to Reeder than it gave to dealers who made comparable purchases. 
+Arguably due to Volvo’s stingy concessions, Reeder failed to close with its 
+customers in these instances and thus never ended up buying the trucks 
+at issue from Volvo. 
+
+NEW PAGE
+
+546US1 Unit:$U15 [08-22-0815:43:12] PAGES PGT:OPIN
+184  VOLVO TRUCKS NORTH AMERICA, INC. v. REEDER-
+SIMCO GMC, INC. 
+Stevens, J., dissenting 
+for failing to perform statistical analyses, see ante, at 172– 
+173, 178, the jury clearly had a sufﬁcient basis for ﬁnding 
+price discrimination.  It could infer that Volvo’s pricing poli­
+cies were comparable to a secret catalog listing one set of 
+low prices for its “A” dealers and a higher set for its “B” 
+dealers  like  Reeder,  with  an  exception  providing  for  the 
+same prices where an “A” dealer and a “B” dealer were en­
+gaged in negotiations with the same customer at the same 
+time. 
+Second, the jury found that the favored dealers at issue 
+in these comparisons were competitive players in the same 
+geographic market as Reeder.  This conclusion is implicit in 
+the jury’s ﬁnding of competitive injury, since the jury in­
+struction on that element required Reeder to prove 
+“a substantial difference in price in sales by defendant 
+to plaintiff and other competing Volvo dealers over a 
+signiﬁcant  period  of  time.  This  requires  plaintiff  to 
+show that it and the other Volvo dealer(s) were retail 
+dealers within the same geographic market and that the 
+effect of the price differential was to allow the other 
+Volvo dealer(s) to draw sales or proﬁts away from plain­
+tiff.”  App. 480, Instruction No. 18. 
+Volvo does not dispute that the evidence was sufﬁcient to 
+support the jury ﬁnding that Reeder and the favored dealers 
+operated in the same geographic market.3  Volvo’s restraint 
+is wise, as Reeder offered evidence that truck buyers are 
+unsurprisingly mobile, that it delivered trucks to purchasers 
+throughout the region, and that customers would sometimes 
+solicit bids from more than one regional Volvo dealer. 
+3 Similarly, and despite its selective discussion of the extensive eviden­
+tiary record, ante, at 170–173, the Court does not question the sufﬁciency 
+of the evidence supporting the jury’s ﬁnding that Volvo engaged in price 
+discrimination against Reeder relative to other regional Volvo dealers for 
+a signiﬁcant period of time. 
+

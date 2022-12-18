@@ -1,0 +1,122 @@
+
+
+422  NATIONAL RAILROAD  PASSENGER CORPORATION  v.
+BOSTON & MAINE CORP.
+Opinion of the Court
+agency's  statutory interpretation,  even when the statute is
+one authorizing condemnation of private property.  In short,
+the principle advanced  by B&M does not prevail over Chev-
+ron's rule of deference.
+We  also  reject  B&M's  constitutional  objections.  B&M
+claims  that § 562(d) as interpreted  by  the Commission vio-
+lates the "public use" requirement of the Fifth Amendment's
+Takings  Clause,  because  the transaction  leaves  unchanged
+the use  made by Amtrak of the condemned  track.  B&M's
+position cannot be reconciled with our precedents.  We have
+held that the public use requirement of the Takings  Clause
+is  coterminous  with  the  regulatory  power,  and  that  the
+Court will not strike down a condemnation on the basis that
+it lacks a public use so long as the taking "is  rationally re-
+lated  to  a  conceivable  public  purpose."  Hawaii Housing
+Authority v. Midkiff, 467 U. S. 229, 240-241 (1984);  see also
+Berman v. Parker, 348  U. S. 26,  32-34 (1954).  In Midkiff
+we upheld land reform legislation which authorized condem-
+nations for the specific purpose of transferring ownership to
+another private party, in order to eliminate a land oligopoly.
+In Berman we permitted land condemnations which contem-
+plated reselling the land to redevelopers, as part of a plan to
+restore dilapidated sections of the District of Columbia.  In
+both Midkiff and Berman, as in the present case, condemna-
+tion resulted in the transfer of ownership from one  private
+party to another, with the basic use of the property by the
+government  remaining  unchanged.  The  Court  held  these
+exercises of the condemnation power to be constitutional, as
+long as the condemning authorities were rational in their po-
+sitions that some public  purpose was  served.  Those  hold-
+ings control here, for there can be no serious argument that
+the ICC was irrational in determining that the condemnation
+will serve a public purpose by facilitating Amtrak's rail serv-
+ice.  That suffices  to satisfy the Constitution, and  we need
+not make a specific factual determination  whether the con-
+
+NEW PAGE
+
+Cite as: 503 U. S. 407 (1992)
+Opinion of the Court
+demnation  will  accomplish  its  objectives.  Midkiff, supra,
+at 242-243.
+As  a last  effort,  B&M  argues  that  this  matter must  be
+remanded  to the ICC because the Commission did not make
+adequate  and accurate  findings regarding  several  different
+matters.  B&M claims that Amtrak failed to prove the par-
+ties  were "'unable'  to  agree" on  terms of sale.  In  B&M's
+view, § 562(d) demands that Amtrak engage in "good faith...
+negotiations" before it may invoke its condemnation powers.
+Brief for Respondent B&M 42.  The ICC construed the lan-
+guage of § 562(d) in a more narrow fashion, to mandate noth-
+ing more than  a factual determination  that the parties will
+not be able to reach agreement through further negotiations.
+App. to Pet. for Cert. in No. 90-1419, pp. 130a-131a ("Noth-
+ing in this record provides  any indication that Amtrak and
+B&M will ever reach agreement on terms of sale").  This is
+a  reasonable  interpretation of the phrase  "unable  to  agree
+upon terms for the sale," and we do not substitute a different
+view.  Thus the Commission did not err in concluding  that
+this statutory prerequisite was satisfied.
+B&M argues further that the ICC made inadequate factual
+findings in concluding:  (1) that this conveyance  will not sig-
+nificantly  impair B&M's ability  to carry out its obligations
+as  a  common  carrier,  §5 62(d)(1)(A);  and  (2)  that  Amtrak's
+obligations  cannot be met by the acquisition  of alternative
+property, § 562(d)(1)(B).  As to significant impairment, B&M's
+argument, like the decision  of the Court of Appeals on this
+point, 286 U. S. App. D. C., at 8-9, 911 F. 2d, at 750-751, relies
+on the notion that in assessing impairment the ICC may con-
+sider only the conveyance itself, not any mitigating measures
+adopted in response to the conveyance,  such as the grant of
+trackage  rights  to  B&M.  We  find no  basis in  the text or
+structure of § 562(d) for this position and cannot say that the
+statute must be  interpreted  to mandate  such  a  restrictive
+inquiry.  The ICC was not unreasonable  in considering the
+effect of the "trackage  rights" agreements and the just com-
+
+NEW PAGE
+
+424  NATIONAL RAILROAD PASSENGER CORPORATION v.
+BOSTON & MAINE  CORP.
+WHITE, J., dissenting
+pensation award in assessing significant impairment; and the
+ICC's conclusion, that B&M's ability to carry out its common
+carrier obligations will not be impaired by the transaction in
+any  significant  way, is supported  by  substantial  evidence.
+As to the availability of alternative property, the ICC inter-
+preted that provision as referring only to whether Amtrak
+could provide service using an alternative route, not whether
+a lesser interest in property would suffice to meet Amtrak's
+needs.  Again, this  was  a reasonable  reading  to which  we
+defer.  Since  B&M would  have to prevail on both  the sig-
+nificant impairment and alternative property issues to rebut
+Amtrak's presumption of need, there can be  no doubt that
+the ICC's finding that Amtrak established  its need for the
+property must be affirmed.
+III
+For the reasons we have stated, we hold that the ICC did
+not exceed its authority in ordering conveyance of the 48.8-
+mile segment of the Conn River Line from B&M to Amtrak.
+Because  of its  contrary holding on this point, the Court of
+Appeals did not address the parties' challenges to the ICC's
+just  compensation  finding as  well  as  certain  other issues.
+Id., at 11,  911  F. 2d, at 753.  These questions should be re-
+solved  on remand.  The judgment of the Court of Appeals
+is reversed, and the cases are remanded for further proceed-
+ings consistent with this opinion.
+It is so ordered.
+JUSTICE  WHITE,  with  whom  JUSTICE  BLACKMUN  and
+JUSTICE THOMAS join, dissenting.
+The  majority opinion proceeds  from  the well-established
+principle  that courts should defer to permissible agency in-
+terpretations  of ambiguous  legislation.1  Chevron  U. S. A.
+II agree with the majority that the Court of Appeals erred in concluding
+that § 402(d) of the Rail Passenger Service Act (RPSA), 45 U. S. C. § 562(d),
+unambiguously  prohibits transactions such as the sale and leaseback ar-
+

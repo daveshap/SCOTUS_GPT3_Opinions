@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "opinion": "http://schema.org/opinion"
+  },
+  "@graph": [
+    {
+      "@id": "551US1",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": ["SEC", "respondents"],
+      "reasoning": "The SEC has full regulatory authority over these practices, that it has actively exercised that authority, but that the SEC has disapproved (and, for argument’s sake, we assume that it will continue to disapprove) the conduct that the antitrust complaints attack.",
+      "opinion": "The SEC has full regulatory authority over these practices, that it has actively exercised that authority, but that the SEC has disapproved (and, for argument’s sake, we assume that it will continue to disapprove) the conduct that the antitrust complaints attack."
+    },
+    {
+      "@id": "279",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": ["SEC", "respondents"],
+      "reasoning": "To permit antitrust actions such as the present one still threatens serious securities-related harm.",
+      "opinion": "To permit antitrust actions such as the present one still threatens serious securities-related harm."
+    },
+    {
+      "@id": "280",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": ["SEC", "respondents"],
+      "reasoning": "It will often be difficult for someone who is not familiar with accepted syndicate practices to determine with confidence whether an underwriter has insisted that an investor buy more shares in the immediate aftermarket (forbidden), or has simply allocated more shares to an investor willing to purchase additional shares of that issue in the long run (permitted).",
+      "opinion": "It will often be difficult for someone who is not familiar with accepted syndicate practices to determine with confidence whether an underwriter has insisted that an investor buy more shares in the immediate aftermarket (forbidden), or has simply allocated more shares to an investor willing to purchase additional shares of that issue in the long run (permitted)."
+    },
+    {
+      "@id": "281",
+      "date": "09-20-1119:07:40",
+      "caseNumber": "551 U. S. 264 (2007)",
+      "involvedParties": ["SEC", "respondents"],
+      "reasoning": "Under these standards, to distinguish what is forbidden from what is allowed requires an understanding of just when, in relation to services provided, a commission is “excessive,” indeed, so “excessive” that it will remain permanently forbidden.",
+      "opinion": "Under these standards, to distinguish what is forbidden from what is allowed requires an understanding of just when, in relation to services provided, a commission is “excessive,” indeed, so “excessive” that it will remain permanently forbidden."
+    }
+  ]
+}

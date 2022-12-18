@@ -1,0 +1,43 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "relevantMarket": "http://schema.org/relevantMarket",
+    "marketPower": "http://schema.org/marketPower"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/citation/506_U_S_447_1993",
+      "cite": "506 U. S. 447 (1993)",
+      "date": "1993",
+      "caseNumber": "506 U. S. 447",
+      "involvedParties": "Spectrum Sports, Inc. v. McQuillan",
+      "reasoning": "The decision below, and the Lessig line of decisions on which it relies, conflicts with holdings of courts in other Circuits.",
+      "relevantMarket": "dangerous probability of monopolization of a relevant market",
+      "marketPower": "proof of a dangerous probability of monopolization of a relevant market"
+    },
+    {
+      "@id": "http://schema.org/citation/Swift_&_Co_v_United_States_196_U_S_375_1905",
+      "cite": "Swift & Co. v. United States, 196 U. S. 375 (1905)",
+      "date": "1905",
+      "caseNumber": "196 U. S. 375",
+      "involvedParties": "Swift & Co. v. United States",
+      "reasoning": "The Court's opinion, written by Justice Holmes, contained the following passage: 'Where acts are not sufficient in themselves to produce a result which the law seeks to prevent-for instance, the monopoly-but require further acts in addition to the mere forces of nature to bring that result to pass, an intent to bring it to pass is necessary in order to produce a dangerous probability that it will happen.'",
+      "relevantMarket": "dangerous probability of actual monopolization",
+      "marketPower": "definition of the relevant market and examination of market power"
+    },
+    {
+      "@id": "http://schema.org/citation/Walker_Process_Equipment_Inc_v_Food_Machinery_&_Chemical_Corp_382_U_S_172_1965",
+      "cite": "Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp., 382 U. S. 172 (1965)",
+      "date": "1965",
+      "caseNumber": "382 U. S. 172",
+      "involvedParties": "Walker Process Equipment, Inc. v. Food Machinery & Chemical Corp.",
+      "reasoning": "The Court's decisions since Swift have reflected the view that the plaintiff charging attempted monopolization must prove a dangerous probability of actual monopolization, which has generally required a definition of the relevant market and examination of market power.",
+      "relevantMarket": "dangerous probability of actual monopolization",
+      "marketPower": "definition of the relevant market and examination of market power"
+    }
+  ]
+}

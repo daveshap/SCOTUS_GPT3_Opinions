@@ -1,0 +1,103 @@
+
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+324  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+essential to competition and innovation on the buy side of 
+the market.4 
+Brooke Group also noted that a failed predatory-pricing 
+scheme may beneﬁt consumers.  509 U. S., at 224.  The po­
+tential beneﬁt results from the difﬁculty an aspiring predator 
+faces in recouping losses suffered from below-cost pricing. 
+Without successful recoupment, “predatory pricing produces 
+lower aggregate prices in the market, and consumer welfare 
+is enhanced.”  Ibid.  Failed predatory-bidding schemes can 
+also, but will not necessarily, beneﬁt consumers.  See Salop 
+677–678.  In the ﬁrst stage of a predatory-bidding scheme, 
+the predator’s high bidding will likely lead to its acquisition 
+of  more  inputs.  Usually,  the  acquisition  of  more  inputs 
+leads to the manufacture of more outputs.  And increases in 
+output generally result in lower prices to consumers.5  Id., 
+at 677; Blair & Harrison, supra, at 66–67.  Thus, a failed 
+predatory-bidding scheme can be a “boon to consumers” in 
+the same way that we considered a predatory-pricing scheme 
+to be.  See Brooke Group, supra, at 224. 
+In addition, predatory bidding presents less of a direct 
+threat of consumer harm than predatory pricing.  A 
+predatory-pricing  scheme  ultimately  achieves  success  by 
+charging higher prices to consumers.  By contrast, a 
+predatory-bidding scheme could succeed with little or no ef­
+fect on consumer prices because a predatory bidder does not 
+necessarily rely on raising prices in the output market to 
+recoup its losses.  Salop 676.  Even if output prices remain 
+constant, a predatory bidder can use its power as the pre­
+4 Higher prices for inputs obviously beneﬁt existing sellers of inputs and 
+encourage new ﬁrms to enter the market for input sales as well. 
+5 Consumer beneﬁt does not necessarily result at the ﬁrst stage because 
+the predator might not use its excess inputs to manufacture additional 
+outputs.  It might instead destroy the excess inputs.  See Salop 677, 
+n. 22.  Also, if the same ﬁrms compete in the input and output markets, 
+any increase in outputs by the predator could be offset by decreases in 
+outputs from the predator’s struggling competitors. 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+Cite as: 549 U. S. 312 (2007)  325 
+Opinion of the Court 
+dominant buyer of inputs to force down input prices and cap­
+ture monopsony proﬁts.  Ibid. 
+C 
+The general theoretical similarities of monopoly and mo­
+nopsony combined with the theoretical and practical similari­
+ties of predatory pricing and predatory bidding convince us 
+that  our  two-pronged  Brooke  Group test  should  apply  to 
+predatory-bidding claims. 
+The ﬁrst prong of Brooke Group’s test requires little adap­
+tation for the predatory-bidding context.  A plaintiff must 
+prove that the alleged predatory bidding led to below-cost 
+pricing of the predator’s outputs.  That is, the predator’s 
+bidding on the buy side must have caused the cost of the 
+relevant output to rise above the revenues generated in the 
+sale of those outputs.  As with predatory pricing, the exclu­
+sionary  effect  of  higher  bidding  that  does  not  result  in 
+below-cost output pricing “is beyond the practical ability of 
+a  judicial  tribunal  to  control  without  courting  intolerable 
+risks  of  chilling  legitimate”  procompetitive  conduct.  509 
+U. S., at 223.  Given the multitude of procompetitive ends 
+served by higher bidding for inputs, the risk of chilling pro­
+competitive behavior with too lax a liability standard is as 
+serious here as it was in Brooke Group.  Consequently, only 
+higher bidding that leads to below-cost pricing in the rele­
+vant output market will sufﬁce as a basis for liability for 
+predatory bidding. 
+A predatory-bidding plaintiff also must prove that the de­
+fendant has a dangerous probability of recouping the losses 
+incurred in bidding up input prices through the exercise of 
+monopsony  power.  Absent  proof  of  likely  recoupment,  a 
+strategy of predatory bidding makes no economic sense be­
+cause it would involve short-term losses with no likelihood 
+of offsetting long-term gains.  Cf. id., at 224 (citing Matsu­
+shita,  supra,  at  588–589).  As  with  predatory  pricing, 
+making  a  showing  on  the  recoupment  prong  will  require 
+
+NEW PAGE
+
+549US2 Unit:$U15 [03-28-1012:12:49] PAGES PGT:OPIN
+326  WEYERHAEUSER CO. v. ROSS-SIMMONS HARDWOOD 
+LUMBER CO. 
+Opinion of the Court 
+“a close analysis of both the scheme alleged by the plaintiff 
+and the structure and conditions of the relevant market.” 
+Brooke Group, supra, at 226. 
+Ross-Simmons has conceded that it has not satisﬁed the 
+Brooke  Group standard.  Brief  for  Respondent  49; Tr.  of 
+Oral Arg. 49.  Therefore, its predatory-bidding theory of lia­
+bility cannot support the jury’s verdict. 
+V 
+For these reasons, we vacate the judgment of the Court of 
+Appeals and remand the case for further proceedings con­
+sistent with this opinion. 
+It is so ordered. 
+

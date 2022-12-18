@@ -1,0 +1,53 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning",
+    "cite": "http://schema.org/cite"
+  },
+  "@graph": [
+    {
+      "@id": "509 U. S. 764 (1993)",
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "SOUTER, J.",
+        "Four Primary Insurers",
+        "Foreign Reinsurers",
+        "ISO"
+      ],
+      "reasoning": "The majority concludes that, so long as the reinsurers' role in this course of action was limited to 'a concerted agreement to seek particular terms in particular transactions,' the course of action could never constitute a § 3(b) boycott.",
+      "cite": "509 U. S. 764 (1993)"
+    },
+    {
+      "@id": "The Seventh Claim for Relief in the California Complaint",
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "SOUTER, J.",
+        "Four Primary Insurers",
+        "Foreign Reinsurers",
+        "ISO"
+      ],
+      "reasoning": "The Seventh Claim for Relief in the California Complaint, and the virtually identical Sixth Claim for Relief in the Connecticut Complaint, allege a conspiracy among a group of domestic primary insurers, foreign reinsurers, and the ISO to draft restrictive model forms and policy language for 'umbrella' and 'excess' insurance.",
+      "cite": "509 U. S. 764 (1993)"
+    },
+    {
+      "@id": "The Fifth, Sixth, and Eighth Claims for Relief in the California Complaint and the Third, Fourth, and Fifth Claims for Relief in the Connecticut Complaint",
+      "@type": "CaseCitation",
+      "date": "1993",
+      "caseNumber": "509 U. S. 764",
+      "involvedParties": [
+        "SOUTER, J.",
+        "Four Primary Insurers",
+        "Foreign Reinsurers",
+        "ISO"
+      ],
+      "reasoning": "The Fifth, Sixth, and Eighth Claims for Relief in the California Complaint and the Third, Fourth, and Fifth Claims for Relief in the Connecticut Complaint also allege concerted refusals to deal.",
+      "cite": "509 U. S. 764 (1993)"
+    }
+  ]
+}

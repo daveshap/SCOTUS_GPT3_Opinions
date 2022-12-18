@@ -1,0 +1,119 @@
+
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+kin & N. Fidandis, Mediation and the Dynamics of Collective
+Bargaining 139-140 (2d ed. 1986); it may differ from bargain-
+ing  only in degree,  see  1 Hardin,  supra, at 691-696;  Taft
+Broadcasting Co., 163 N. L. R. B., at 478; it may be manipu-
+lated by the parties for bargaining purposes, see Bonanno
+Linen, supra, at 413, n. 8  (parties might, for strategic pur-
+poses,  "precipitate  an  impasse");  and  it may  occur  several
+times during the course of a single labor dispute, since the
+bargaining  process  is  not  over  when  the  first  impasse  is
+reached,  cf. J. Bartlett, Familiar Quotations  754:8 (16th  ed.
+1992).  How  are  employers  to  discuss  future  bargaining
+positions  during a temporary impasse?  Consider, too, the
+adverse consequences that flow from failing to guess how an
+antitrustc ourt would later draw the impasse line.  Employ-
+ers who  erroneously  concluded  that impasse had not been
+reached would risk antitrust liability were they collectively
+to maintain the status quo, while employers who erroneously
+concluded that impasse had occurred would risk unfair labor
+practice charges for prematurely suspending multiemployer
+negotiations.
+The United States  responds with suggestions for soften-
+ing an "impasse" rule by extending the exemption after im-
+passe "for such time as would be reasonable  in the circum-
+stances" for employers to consult with counsel, confirm that
+impasse has occurred, and adjust their business operations,
+Brief for United States et al. as Amici Curiae2 4; by reestab-
+lishing the exemption  once there is a "resumption of good-
+faith bargaining," id., at 18, n. 5; and by looking to antitrust
+law's "rule of reason" to shield-"in some circumstances"--
+such joint actions  as the unit-wide lockout or the concerted
+maintenance of previously established joint benefit or retire-
+ment  plans,  ibid.  But  even  as  so  modified,  the  impasse-
+related rule creates an exemption that can evaporate in the
+middle  of the  bargaining  process,  leaving  later  antitrust
+courts free to second-guess the parties' bargaining decisions
+
+NEW PAGE
+
+Cite as: 518 U. S. 231 (1996)
+Opinion of the Court
+and  consequently  forcing  them to  choose  their  collective-
+bargaining responses  in light of what they predict or fear
+that antitrust courts, not labor law administrators, will even-
+tually decide.  Cf. Dallas General Drivers, Warehousemen
+and Helpers, Local Union No. 745 v. NLRB, 355 F. 2d 842,
+844-845 (CADC 1966) ("The problem of deciding when fur-
+ther bargaining...  is futile is often difficult for the bargain-
+ers and is necessarily so for the Board.  But in the whole
+complex of industrial relations few issues are less suited to
+appellate judicial appraisal..,  or better suited to the expert
+experience  of  a  board  which  deals  constantly  with  such
+problems").
+C
+Petitioners  and their supporters argue in the alternative
+for a rule that would exempt postimpasse agreement about
+bargaining  "tactics,"  but not postimpasse  agreement about
+substantive "terms," from the reach of antitrust.  See 50 F.
+3d,  at  1066-1069  (Wald,  J.,  dissenting).  They  recognize,
+however, that both the Board and the courts have said that
+employers  can,  and  often  do,  employ  the  imposition  of
+"terms" as a bargaining "tactic."  See, e. g., American Ship
+Building Co. v. NLRB, 380 U. S. 300, 316 (1965);  Colorado-
+Ute Elec. Assn., Inc. v. NLRB, 939 F. 2d 1392, 1404 (CA10
+1991),  cert. denied, 504 U. S. 955 (1992);  Circuit-Wise, Inc.,
+309  N. L.  R. B.  905,  921  (1992);  Hi-Way Billboards, 206
+N. L. R. B., at 23; Bonanno Linen, 243 N. L. R. B., at 1094.
+This concession as to joint "tactical" implementation would
+turn the presence of an antitrust exemption upon a determi-
+nation of the employers'  primary purpose  or motive.  See,
+e. g., 50 F. 3d, at 1069 (Wald, J., dissenting).  But to ask anti-
+trust  courts, insulated  from the bargaining process,  to in-
+vestigate  an  employer  group's subjective  motive  is to  ask
+them to conduct an inquiry often more amorphous than those
+we have  previously  discussed.  And, in our view, a  labor/
+antitrust line  drawn  on such a basis would  too often raise
+
+NEW PAGE
+
+BROWN v. PRO FOOTBALL, INC.
+Opinion of the Court
+the  same  related  (previously  discussed)  problems.  See
+supra, at 237, 241-242; Jewel Tea, 381 U. S., at 716 (opinion
+of Goldberg, J.)  (expressing concern  about antitrust judges
+"roaming at large" through the bargaining process).
+D
+Petitioners  make several  other arguments.  They point,
+for  example,  to  cases  holding  applicable,  in  collective-
+bargaining  contexts,  general  "backdrop"  statutes,  such  as
+a state statute requiring a plant-closing employer to make
+employee  severance  payments,  Fort Halifax Packing Co.
+v. Coyne, 482 U. S. 1 (1987),  and  a state statute mandating
+certain  minimum  health  benefits,  Metropolitan Life  Ins.
+Co. v. Massachusetts, 471 U. S. 724 (1985).  Those statutes,
+however,  "'neither  encourage[d]  nor  discourage[d]  the
+collective-bargaining  processes  that are  the subject  of the
+[federal  labor laws]."'  Fort Halifax, supra, at 21  (quoting
+Metropolitan Life, supra, at 755).  Neither  did those stat-
+utes come accompanied with antitrust's labor-related history.
+Cf. Oliver, 358 U. S., at 295-297 (state antitrust law inter-
+feres  with  collective  bargaining  and  is  not  applicable  to
+labor-management agreement).
+Petitioners also say that irrespective of how the labor ex-
+emption  applies  elsewhere to multiemployer  collective  bar-
+gaining, professional sports is "special."  We can understand
+how professional sports may be special in terms of, say, in-
+terest, excitement, or concern.  But we do not understand
+how  they  are  special  in  respect  to  labor  law's  antitrust
+exemption.  We concede that the clubs that make up a pro-
+fessional sports league are not completely independent eco-
+nomic competitors, as they depend upon a degree of coopera-
+tion  for  economic  survival.  National Collegiate Athletic
+Assn. v. Board of Regents of Univ. of Okla., 468  U. S. 85,
+101-102  (1984);  App. 110-115  (declaration of NFL Commis-
+sioner).  In the present context, however, that circumstance
+

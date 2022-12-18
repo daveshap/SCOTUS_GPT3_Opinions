@@ -1,0 +1,65 @@
+{
+  "@context": {
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/identifier",
+    "involvedParties": "http://schema.org/author",
+    "reasoning": "http://schema.org/description",
+    "citation": "http://schema.org/name"
+  },
+  "@graph": [
+    {
+      "@id": "http://schema.org/JeffersonParishHospitalDistNo2vHyde",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "Jefferson Parish Hospital Dist. No. 2 v. Hyde, 466 U. S. 2 (1984)",
+      "date": "1984",
+      "caseNumber": "466 U. S. 2",
+      "involvedParties": "Justice Stevens",
+      "reasoning": "The Government has granted the seller a patent or similar monopoly over a product, it is fair to presume that the inability to buy the product elsewhere gives the seller market power."
+    },
+    {
+      "@id": "http://schema.org/UnitedStatesvLoewsInc",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "United States v. Loew’s Inc., 371 U. S. 38 (1962)",
+      "date": "1962",
+      "caseNumber": "371 U. S. 38",
+      "involvedParties": "",
+      "reasoning": "Judicially created patent misuse doctrine."
+    },
+    {
+      "@id": "http://schema.org/35USC271d",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "35 U. S. C. § 271(d)",
+      "date": "1988",
+      "caseNumber": "",
+      "involvedParties": "Congress",
+      "reasoning": "Amended the Patent Act to eliminate the market power presumption in patent misuse cases."
+    },
+    {
+      "@id": "http://schema.org/TridentIncvIndependentInkInc",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "Trident, Inc. v. Independent Ink, Inc., 547 U. S. 28 (2006)",
+      "date": "2006",
+      "caseNumber": "547 U. S. 28",
+      "involvedParties": "Petitioners: Trident, Inc., and its parent, Illinois Tool Works Inc.; Respondent: Independent Ink, Inc.",
+      "reasoning": "Whether the presumption of market power in a patented product should survive as a matter of antitrust law despite its demise in patent law."
+    },
+    {
+      "@id": "http://schema.org/InternationalSaltCovUnitedStates",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "International Salt Co. v. United States, 332 U. S. 392 (1947)",
+      "date": "1947",
+      "caseNumber": "332 U. S. 392",
+      "involvedParties": "",
+      "reasoning": ""
+    },
+    {
+      "@id": "http://schema.org/HenryvABDickCo",
+      "@type": "http://schema.org/ScholarlyArticle",
+      "citation": "Henry v. A. B. Dick Co., 224 U. S. 1 (1912)",
+      "date": "1912",
+      "caseNumber": "224 U. S. 1",
+      "involvedParties": "",
+      "reasoning": "Unpatented ink was the product that was “tied” to the use of a patented product through the use of a licensing agreement."
+    }
+  ]
+}

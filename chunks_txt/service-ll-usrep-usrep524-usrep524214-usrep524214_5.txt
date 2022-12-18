@@ -1,0 +1,125 @@
+
+
+226  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL  OFFICE TELEPHONE, INC.
+Opinion of the Court
+The Ninth Circuit distinguished respondents claims from
+those in our fied-rate cases involving special services in one
+other respect: according to respondent, the "special services"
+that it sought were provided by petitioner, without charge,
+to other customers, 108 F. 3d, at 989, n. 9.  Even if that were
+so, the claim  for these services  would  still be pre-empted
+under the filed rate doctrine.  To the extent respondent is
+asserting discriminatory  treatment, its remedy is to bring
+suit under § 202 of the Communications Act.'  To the extent
+petitioner is claiming that its own claims for special services
+are not really special because other companies get the same
+preferences, "that would only tend to show that the practice
+was unlawful [with regard to] the others as well."  United
+States v. Wabash R. Co., supra, at 413.  Because respondent
+asks for privileges  not included  in the tariff, its state-law
+claims are barred in either case.
+IV
+Our  analysis  applies  with  equal  force  to  respondent's
+tortious-interference  claim  because  that is wholly  deriva-
+tive of the contract claim for additional and better services.
+Respondent  contended  that the  tort  claim  Was  based  on
+"AT&T's refusal to provide [respondent]  with certain types
+of service"  and  the  Magistrate Judge  agreed, noting that
+"'the claims in this case, even the tort claim,..,  stem from
+the alleged failure of AT&T to comply with its contractual
+relationship.'  2  Brief for Appellant in Nos. 94-36116,  94-
+1Eight months after the close of discovery (and well after the 2-year
+statute  of limitations  in the  Communications  Act,  §415),  respondent
+sought leave to file a second amended complaint to add a § 202 claim.  The
+Magistrate Judge denied the request.  Respondent  did not appeal that
+ruling.
+2 The dissent argues that "the jury's verdict on respondent's tort claim
+is supported by evidence that went well beyond, and differed in nature
+from, the contract claim," post, at 231, which the dissent asserts requires
+us to remand this case rather than reverse the judgment.  This issue of
+noncontract evidence neither was included within the question presented
+
+NEW PAGE
+
+Cite as: 524 U. S. 214 (1998)
+Opinion of the Court
+36156 (CA9), p. 33.  Respondent can no more obtain unlaw-
+ful preferences under the cloak of a tort claim than it can by
+contract.  "The rights as defined by the tariff cannot be var-
+ied or enlarged by either  contract  or tort of the  carrier."
+Keogh v. Chicago & Northwestern R. Co., 260 U. S. 156, 163
+(1922); see also Maislin, 497 U. S., at 126.
+The saving clause of the Communications  Act, § 414, con-
+trary to respondent's reading of it, does not dictate a differ-
+ent result.  Section 414 copies the saving clause of the ICA,
+and we have long held that the latter preserves  only those
+rights that are not inconsistent with the statutory fied-tariff
+requirements.  Adams Express Co. v. Croninger,2 26 U. S.
+491, 507 (1913).  A claim for services that constitute unlaw-
+ful preferences  or that directly conflict with the tariff-the
+basis for both the tort and contract claims here-cannot be
+"saved" under § 414.  "Th[e saving] clause...  cannot in rea-
+son be construed as continuing in [customers] a common law
+for our review ('Whether...  the Ninth Circuit improperly allowed state-
+law contract and tort claims based on a common carrier's failure to honor
+an alleged side agreement to give its customer better service than called
+for by the carrier's tariff") nor was raised by respondent as an alternative
+ground in support of the judgment.  Nor has respondent ever suggested
+the need for a remand, even though the petition for certiorari sought not
+merely reversal, but summary reversal.  In its brief on the merits, re-
+spondent argued that the intentional tort claim was not pre-empted be-
+cause AT&T's willful breach of its contractual commitments was not pro-
+tected by the filed rate doctrine.  There was no hint of an argument that,
+even if that willful breach could not form the basis for an action, other
+alleged intentional acts sufficed to support the judgment below.  At no
+point has respondent disputed the Magistrate Judge's finding that the tort
+claim is derivative of the contract claim, or the Ninth Circuit's description
+of its tort claim as based on the fact that "because  COT had promised
+certain benefits  of SDN to its customers, and because AT&T provided
+competing services, any violation of AT&T's contractual duties constituted
+tortious interference with COT's relationship with its customers."  108
+F. 3d 981, 988 (1997).  Contrary to the dissents assertion, we have no
+obligation to search the record  for the existence  of a nonjurisdictional
+point not presented, and to consider a disposition (remand instead of rever-
+sal) not suggested by either side.
+
+NEW PAGE
+
+228  AMERICAN  TELEPHONE  & TELEGRAPH  CO.
+v. CENTRAL OFFICE  TELEPHONE, INC.
+REHNQUIST, C. J., concurring
+right, the continued existence of which would be absolutely
+inconsistent with the provisions of the act.  In other words,
+the act cannot be held to destroy itself."  Texas & Pacific R.
+Co. v. Abilene Cotton Oil Co., 204 U. S. 426, 446 (1907).
+Finally, we reject respondent's argument that, even if the
+tariff exclusively governs the parties' relationship, the relief
+awarded  is  consistent  with  the  tariff, since  AT&T  Tariff
+FCC No. 1, § 2.3.1 provides that petitioner's "liability, if any,
+for its willful misconduct is not limited by this tariff."  Re-
+spondent  reasons  that, because  the jury found  that peti-
+tioner engaged in willful misconduct,  the verdict does not
+conflict  with  the tariff.  Section 2.3.1,  however, cannot be
+construed to do what the parties have no power to do.  It
+removes only those limitations upon liability imposed by the
+tariff,n ot those imposed by law.  It is the Communications
+Act  that  renders  the  promise  of  preferences  unenforce-
+able.  The tariff can  no more  exempt the broken promise
+of preference  that is willful than it can the broken  prom-
+ise of preference that is unintentional.  (In fact, perversely
+enough,  the  willful breach  displays  a  greater,  if belated,
+attempt to comply with the law.)
+Because  respondent's  state-law claims are barred by the
+fied rate doctrine,  we reverse  the judgment  of the Ninth
+Circuit.
+It is so ordered.
+JUSTICE  O'CONNOR  took no part in the consideration  or
+decision of this case.
+CHIEF JUSTICE REHNQUIST, concurring.
+The Court concludes that respondent's  tortious interfer-
+ence claim is "wholly derivative  of the contract claim"  and
+therefore barred by the filed rate doctrine.  The Court ac-
+cepts the Magistrate Judge's finding to that effect, ante, at
+226, and I agree: The  acts of tortious interference  asserted
+

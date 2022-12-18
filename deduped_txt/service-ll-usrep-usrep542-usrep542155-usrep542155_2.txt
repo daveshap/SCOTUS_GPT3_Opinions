@@ -1,0 +1,126 @@
+
+
+158 F. HOFMAN-LA ROCHE LTD v. EMPAGRAN S. A. 
+Opinion of the Court 
+JUSTICE BREYER delivered the opinion of the Court. 
+The Foreign Trade Antititrust Improvements Act of 1982 
+(FTAIA) excludes from the Sherman Act's reach much anti-
+competeititive conduct that causes only foreign injury. It does 
+so by seting forth a g eneral rule stating that the Sherman 
+Act "shal not aply to conduct involving trade or comerce 
+. .w ith foreign nations." 96 Stat. 1246, 15 U. S. C. § 6 a. It 
+then creates exceptions to the general rule, aplicable where 
+(roughly speaking) that conduct significantly harms imports, 
+domestic comerecrce, or Amererican exporters. 
+We here focus upon anticompetitive price-fixing activity 
+that is in significant part foreign, that causes some domestic 
+antitrust injury, and that independently causes separate for-
+eign injury. We ask two questions about the price-fixing 
+conduct and the foreign injury that it causes. First, does 
+that conduct fal within the FTAIA's general rule excluding 
+the Sherman Act's aplication? That is to say, does the 
+price-fixing activity constitute "conduct involving trade or 
+comerce . with foreign nations"? We conclude that it 
+does. 
+Weymouth,; for the Government of Japan by Douglas E. Rosenthal; for 
+the Busines Roundtable by Janet L. McDavaivdid, Jonathan S. Franknlkilni,n ,
+and Wiliam H. Johnson; for the Chamber of Comerce of the United 
+States et al. by Roy T. Englgelretr,t , Jr., Donald J. Ruseslel, Max Hufmçzln, 
+and Robin S. Conrad; for Bank Austria AG et al. by Carter G. Phililips,s ,
+Virginia A. Seitz, John H. Shenefeifield, Jonathan M. Rich, Robert A. Horo-
+witz, Richard A. Maratritnin, Richard S. Goldldstseteinin, , Jefrey Barirsist,t, Charles 
+Westland, and Richard L. Matatitiacio; and for the International Chamber 
+of Comerce by A. Paul Victor and Steven Alan Reis. 
+Briefs of amici curiae urging afirmrmance were filed for the Comitite 
+to Suport the Antititrust Laws et al. by Charles J. Coper and David H. 
+Thompson; for Public Citizen by Amanda Frost and Brian Wolfman; for 
+Hary First et al. by Jonathan S. Masey, Lyn Lincoln Sarko, Mark A. 
+Grirfifin, Edgar D. Gankeknednodrofrf,f , and Henry .S. Provosty; for Ralf Michaels 
+et al. by Arthur R. Mililer,; and for Joseph E. Stiglitz et al. by Erik S. 
+Jafe and Mary Bogies. 
+Briefs of amici curiae were filed for Certain Profesors of Economics 
+by James vanR. Springer and James R. Maratritin; and for Daren Bush et-
+al. by Peter J. Rubin. 
+
+NEW PAGE
+
+Cite as: 542 U. S. 15 (204) 159 
+Opinion of the Court 
+Second, we ask whether the conduct nonetheles fals 
+within a domesetsitic-injury exception to the general rule, an 
+exception that aplies (and makes the Sherman Act nonethe-
+les aplicable) where the conduct (1) has a " direct, substan-
+tial, and reasonably foreseable efect" on domestic com-
+merce, and (2) "such efect gives rise to a [Sherman Act] 
+claim." § 6a(1)(A), (2). We conclude that the exception 
+does not aply where the plaintif's claim rests solely on the 
+independent foreign harm. 
+To clarify: The isue before us concerns (1) significant for-
+eign anticompetitive conduct with (2) an adverse domestic 
+efect and (3) an independent foreign efect giving rise to the 
+claim. In more concrete terms, this case involves vitamin 
+selers around the world that agred to fix prices, leading to 
+higher vitamin prices in the United States and independ-
+ently leading to higher vitamin prices in other countries such 
+as Ecuador. We conclude that, in this scenario, a p urchaser 
+in the United States could bring a S herman Act claim under 
+the FTAIA based on domestic injury, but a p urchaser in Ec-
+uador could not bring a Sherman Act claim based on for-
+eign harm. 
+I 
+The plaintifs in this case originaly filed a c las-action suit 
+on behalf of foreign and domestic purchasers of vitamins 
+under, inter alia, , § 1 o f the Sherman Act, 26 Stat. 209, as 
+amended, 15 U. S. C. § 1 , and § 4 a nd 16 of the Clayton Act, 
+38 Stat. 731, 737, as amended, 15 U. S. C. § 15, 26. Their 
+complaint aleged that petitioners, foreign and domestic vita-
+min manufafacturers and distributors, had engaged in a p rice-
+fixing conspiracy, raising the price of vitamin products to 
+customers in the United States and to customers in foreign 
+countries. 
+As relevant here, petitioners moved to dismis the suit as 
+to the foreign purchasers (the respondents here), five foreign 
+vitamin distributors located in Ukraine, Austsrtralia, Ecuador, 
+and Panama, each of which bought vitamins from peti-
+
+NEW PAGE
+
+160 F. H OFMAN-LA ROCHE LTD v. EMPAGRAN S. A . 
+Opinion of the Court 
+tioners for delivery outside the United States. No. Civ. 
+01686TFH, 201 WL 761360, *4 (D. D. C., June 7, 201) (de-
+scribing the relevant transactions as "wholy foreign"). Re-
+spondents have never aserted that they purchased any vita-
+mins in the United States or in transactions in United States 
+comererce, and the question presented asumes that the rel-
+evant "transactions ocur[ed] entirely outside U. S. com-
+merce," Pet. for Cert. (i). The District Court dismised 
+their claims. 201 WL 761360, at *4. It aplied the FTAIA 
+and found none of the exceptions aplicable. Id., at *3—-*4. 
+Thereafter, the domeststic purchasers transfered their claims 
+to another pending suit and did not take part in the subse-
+quent apeal. 315 F. 3d 38, 343 (CADC 203). 
+A divided panel of the Court of Apeals reversed. 315 
+F. 3d 38. The panel concluded that the FTAIA's general 
+exclusionary rule aplied to the case, but that its domestic-
+injury exception also aplied. It basicaly read the plain-
+tifs' complaint to alege that the vitamin manufafacturers' 
+price-fixing conspiracy (1) had "a direct, substantial, and rea-
+sonably foreseable efect" on ordinary domestic trade or 
+comererce, i. e., the conspiracy brought about higher domes-
+tic vitamin prices, and (2) "such efect" gave "rise to a [ Sher-
+man Act] claim," i. e., an injured domestic customer could 
+have brought a Sherman Act suit, 15 U.S S. C. H§ 6a(1), (2). 
+Those alegations, the court held, are suficient to met the 
+exception's requirements. 315 F. 3d, at 341. 
+The court asumed that the foreign efect, i. e., higher 
+prices in Ukraine, Panama, Austsrtralia, and Ecuador, was inde-
+pendent of the domestic efect, i. e., higher domestic prices. 
+Ibid. But it concluded that, in light of the FTAIA's text, 
+legislative history, and the policy goal of detering harmful 
+price-fixing activity, this lack of conection does not matater. 
+Ibid. The District of Columbia Circuit denied rehearing en 
+banc by a 4 -to-3 vote. Ap. to Pet. for Cert. 4a. 
+We granted certiorari to resolve a s plit among the Courts 
+of Apeals about the exception's aplication. Compare Den 
+

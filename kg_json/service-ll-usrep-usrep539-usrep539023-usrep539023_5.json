@@ -1,0 +1,40 @@
+{
+  "@context": {
+    "cite": "http://schema.org/citation",
+    "date": "http://schema.org/datePublished",
+    "caseNumber": "http://schema.org/caseNumber",
+    "involvedParties": "http://schema.org/involvedParties",
+    "reasoning": "http://schema.org/reasoning"
+  },
+  "@graph": [
+    {
+      "@id": "539 U. S. 23 (2003)",
+      "@type": "cite",
+      "date": "2003",
+      "caseNumber": "539 U. S. 23",
+      "involvedParties": [
+        "SFM",
+        "New Line",
+        "Fox",
+        "Time, Inc.",
+        "United States Army",
+        "United States Navy",
+        "United States Coast Guard",
+        "British Ministry of Information and War Office",
+        "National Film Board of Canada",
+        "Newsreel Pool Cameramen"
+      ],
+      "reasoning": [
+        "Recognizing in § 43(a) a cause of action for misrepresentation of authorship of noncopyrighted works (visual or otherwise) would render these limitations superfluous.",
+        "A statutory interpretation that renders another statute superfluous is of course to be avoided.",
+        "Reading \"origin\" in §43(a) to require attribution of uncopyrighted materials would pose serious practical problems.",
+        "Without a copyrighted work as the basepoint, the word \"origin\" has no discernable limits.",
+        "Manufacturers of communicative products would face Lanham Act liability for failing to credit the creator of a work on which their lawful copies are based.",
+        "Reading § 43(a) of the Lanham Act as creating a cause of action for, in effect, plagiarism-the use of otherwise unprotected works and inventions without attribution-would be hard to reconcile with previous decisions.",
+        "The \"origin of goods\" provision of § 43(a) would have supported the suit that was rejected in Bonito Boats.",
+        "The \"origin of goods\" provision of § 43(a) would have supported the suit that was rejected in TrafFix.",
+        "The creative talent of the sort that lay behind the Campaigns videos is not left without protection."
+      ]
+    }
+  ]
+}

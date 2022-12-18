@@ -1,0 +1,123 @@
+
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+276  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+duties, privileges, or standards of conduct.  We also note 
+(4) that in Gordon and NASD the possible conﬂict affected 
+practices that lie squarely within an area of ﬁnancial market 
+activity that the securities law seeks to regulate. 
+B 
+These principles, applied to the complaints before us, con­
+siderably  narrow  our  legal  task.  For  the  parties  cannot 
+reasonably dispute the existence here of several of the con­
+ditions  that  this  Court  previously  regarded  as  crucial  to 
+ﬁnding that the securities law impliedly precludes the appli­
+cation of the antitrust laws. 
+First, the activities in question here—the underwriters’ 
+efforts jointly to promote and to sell newly issued securi­
+ties—is central to the proper functioning of well-regulated 
+capital markets.  The IPO process supports new ﬁrms that 
+seek to raise capital; it helps to spread ownership of those 
+ﬁrms  broadly  among  investors;  it  directs  capital  ﬂows  in 
+ways that better correspond to the public’s demand for goods 
+and  services.  Moreover,  ﬁnancial  experts,  including  the 
+securities regulators, consider the general kind of joint un­
+derwriting activity at issue in this case, including road shows 
+and bookbuilding efforts essential to the successful market­
+ing of an IPO.  See Memorandum Amicus Curiae of SEC in 
+IPO  Antitrust,  Case  No.  01  CIV  2014  (WHP)  (SDNY), 
+pp. 15, 39–40, App. D to Pet. for Cert. 124a, 138a, 155a–157a 
+(hereinafter Brief for SEC).  Thus, the antitrust complaints 
+before us concern practices that lie at the very heart of the 
+securities marketing enterprise. 
+Second, the law grants the SEC authority to supervise all 
+of  the  activities  here  in  question.  Indeed,  the  SEC  pos­
+sesses considerable power to forbid, permit, encourage, dis­
+courage,  tolerate,  limit,  and  otherwise  regulate  virtually 
+every aspect of the practices in which underwriters engage. 
+See, e. g., 15 U. S. C. §§ 77b(a)(3), 77j, 77z–2 (granting SEC 
+power to regulate the process of bookbuilding, solicitations 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+Cite as: 551 U. S. 264 (2007)  277 
+Opinion of the Court 
+of “indications of interest,” and communications between un­
+derwriting participants and their customers, including those 
+that occur during road shows); § 78o(c)(2)(D) (granting SEC 
+power to deﬁne and prevent through rules and regulations 
+acts and practices that are fraudulent, deceptive, or manipu­
+lative); § 78i(a)(6) (similar); § 78j(b) (similar).  Private indi­
+viduals who suffer harm as a result of a violation of pertinent 
+statutes  and  regulations  may  also  recover  damages.  See 
+§§ 78bb, 78u–4, 77k. 
+Third, the SEC has continuously exercised its legal author­
+ity to regulate conduct of the general kind now at issue.  It 
+has deﬁned in detail, for example, what underwriters may 
+and may not do and say during their road shows.  Compare, 
+e. g., Guidance Regarding Prohibited Conduct in Connection 
+with IPO Allocations, 70 Fed. Reg. 19672 (2005), with Regu­
+lation M, 17 CFR §§ 242.100–242.105 (2006).  It has brought 
+actions against underwriters who have violated these SEC 
+regulations.  See Brief for SEC 13–14, App. D to Pet. for 
+Cert. 136a–138a.  And private litigants, too, have brought 
+securities actions complaining of conduct virtually identical 
+to the conduct at issue here; and they have obtained dam­
+ages.  See, e. g., In re Initial Pub. Offering Securities Liti­
+gation, 241 F. Supp. 2d 281 (SDNY 2003). 
+The preceding considerations show that the ﬁrst condition 
+(legal regulatory authority), the second condition (exercise 
+of that authority), and the fourth condition (heartland securi­
+ties activity) that were present in Gordon and NASD are 
+satisﬁed in this case as well.  Unlike Silver, there is here no 
+question of the existence of appropriate regulatory authority, 
+nor is there doubt as to whether the regulators have exer­
+cised that authority.  Rather, the question before us con­
+cerns the third condition: Is there a conﬂict that rises to the 
+level of incompatibility?  Is an antitrust suit such as this 
+likely to prove practically incompatible with the SEC’s ad­
+ministration of the Nation’s securities laws? 
+
+NEW PAGE
+
+551US1 Unit:$U64 [09-20-1119:07:40] PAGES PGT:OPIN
+278  CREDIT SUISSE SECURITIES (USA) LLC v. BILLING 
+Opinion of the Court 
+III 
+A 
+Given the SEC’s comprehensive authority to regulate IPO 
+underwriting syndicates, its active and ongoing exercise of 
+that authority, and the undisputed need for joint IPO under­
+writer activity, we do not read the complaints as attacking 
+the bare existence of IPO underwriting syndicates or any of 
+the joint activity that the SEC considers a necessary compo­
+nent of IPO-related syndicate activity.  See Brief for SEC 
+15, 39–40, App. D to Pet. for Cert. 138a, 155a–157a.  See also 
+IPO Antitrust, 287 F. Supp. 2d, at 507 (discussing the history 
+of syndicate marketing of IPOs); App. 12 (complaint attacks 
+underwriters “abus[e]” of “the preexisting practice of com­
+bining  into  underwriting  syndicates”  (emphasis  added)); 
+H. R. Rep. No. 1383, 73d Cong., 2d Sess., 6–7 (1934); S. Rep. 
+No. 792, 73d Cong., 2d Sess., 5 (1934) (law must give to secu­
+rities agencies freedom to regulate agreements among syndi­
+cate members).  Nor do we understand the complaints as 
+questioning underwriter agreements to ﬁx the levels of their 
+commissions, whether or not the resulting price is “exces­
+sive.”  See Gordon, 422 U. S., at 688–689 (securities law con­
+ﬂicts with, and therefore precludes, antitrust attack on the 
+ﬁxing of commissions where the SEC has not approved, but 
+later might approve, the practice). 
+We nonetheless can read the complaints as attacking the 
+manner in which the underwriters jointly seek to collect “ex­
+cessive” commissions.  The complaints attack underwriter 
+efforts to collect commissions through certain practices (i. e., 
+laddering,  tying,  collecting  excessive  commissions  in  the 
+form of later sales of the issued shares), which according to 
+respondents the SEC itself has already disapproved and, in 
+all likelihood, will not approve in the foreseeable future.  In 
+respect to this set of claims, they contend that there is no 
+possible “conﬂict” since both securities law and antitrust law 
+aim to prohibit the same undesirable activity.  Without a 
+
